@@ -30,3 +30,15 @@ Kişisel verilerinizin güvenliğine önem veriyoruz. Ancak internet üzerinden 
 
 Gizlilik politikamızla ilgili sorularınız için bizimle iletişime geçebilirsiniz:
 E-posta: [yaziimvehayatN@gmail.com]
+
+## 5. Hesap ve Veri Silme Talebi
+
+**KPSS Tarih Soru Bankası** kullanıcıları, hesaplarının tamamen silinmesini talep etme hakkına sahiptir.
+
+**Silme Talebi Adımları:**
+
+1.  Kullanıcının, uygulamada kayıtlı olan **e-posta adresi** ile ([SENİN_GMAIL_ADRESİN@gmail.com]) adresine bir e-posta göndermesi gerekir.
+2.  E-postanın konusu **"Hesap Silme Talebi"** olmalıdır.
+3.  Talebiniz alındıktan sonra 7-14 iş günü içinde hesabınız ve tüm ilişkili verileriniz (Kullanıcı ID'si, e-posta adresi, çözülen test istatistikleri, Premium üyelik geçmişi) sunucularımızdan kalıcı olarak silinir.
+
+**Silinen/Saklanan Veriler:** Silme talebi üzerine tüm kullanıcı kimlikleri, Premium üyelik verileri ve test istatistikleri kalıcı olarak silinir. Yasal gereklilikler veya muhasebe amaçları (örneğin, vergi denetimleri) için gerekli olan anonimleştirilmiş finansal kayıtlar (Ödeme kimliği değil, sadece işlem tutarı ve tarihi gibi) ek bir saklama süresi boyunca tutulabilir.
