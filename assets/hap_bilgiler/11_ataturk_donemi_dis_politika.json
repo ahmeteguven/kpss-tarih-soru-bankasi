@@ -1,0 +1,505 @@
+{
+  "categoryName": "ATATÜRK DÖNEMİ DIŞ POLİTİKA",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Atatürk dönemi dış politikasının temel ilkesi nedir?",
+      "answer": "\"Yurtta sulh, cihanda sulh.\""
+    },
+    {
+      "id": 2,
+      "question": "Türk dış politikasının 1923-1930 yılları arasındaki temel amacı nedir?",
+      "answer": "Lozan’dan kalan sorunları barışçıl yollarla çözmek ve antlaşmayı uygulamak"
+    },
+    {
+      "id": 3,
+      "question": "Türk dış politikasının 1930-1939 yılları arasındaki temel amacı nedir?",
+      "answer": "Yaklaşan II. Dünya Savaşı tehlikesine karşı sınır güvenliğini sağlamak ve barışı korumak"
+    },
+    {
+      "id": 4,
+      "question": "Lozan’da çözülemeyen ve ikili görüşmelere bırakılan tek sınır sorunu hangisidir?",
+      "answer": "Irak Sınırı (Musul Sorunu)"
+    },
+    {
+      "id": 5,
+      "question": "Musul sorunu için Türkiye ve İngiltere arasında 1924’te toplanan konferans hangisidir?",
+      "answer": "Haliç Konferansı"
+    },
+    {
+      "id": 6,
+      "question": "Haliç Konferansı’nda Türkiye’yi temsil eden devlet adamı kimdir?",
+      "answer": "Ali Fethi Okyar"
+    },
+    {
+      "id": 7,
+      "question": "Musul sorununun aleyhimize sonuçlanmasına neden olan iç gelişme hangisidir?",
+      "answer": "Şeyh Said İsyanı"
+    },
+    {
+      "id": 8,
+      "question": "Musul sorunu hangi antlaşma ile çözülmüştür?",
+      "answer": "1926 Ankara Antlaşması"
+    },
+    {
+      "id": 9,
+      "question": "1926 Ankara Antlaşması kimler arasında imzalanmıştır?",
+      "answer": "Türkiye - İngiltere (ve Irak)"
+    },
+    {
+      "id": 10,
+      "question": "Ankara Antlaşması’na göre Musul ve Kerkük kime bırakılmıştır?",
+      "answer": "İngiliz mandasındaki Irak’a"
+    },
+    {
+      "id": 11,
+      "question": "Ankara Antlaşması’na göre Türkiye Musul petrollerinden ne kadar pay alacaktır?",
+      "answer": "25 yıl süreyle %10 pay (Daha sonra 500 bin sterlin karşılığında vazgeçilmiştir)"
+    },
+    {
+      "id": 12,
+      "question": "Misak-ı Milli’den verilen üçüncü büyük taviz neresidir?",
+      "answer": "Musul"
+    },
+    {
+      "id": 13,
+      "question": "Türkiye ile Yunanistan arasında yaşanan ve savaş riski doğuran sorun hangisidir?",
+      "answer": "Nüfus Mübadelesi (Etabli) Sorunu"
+    },
+    {
+      "id": 14,
+      "question": "Yunanistan’ın İstanbul’da daha fazla Rum bırakmak için \"Yerleşik\" sayılmasını istediği kelimenin Fransızca karşılığı nedir?",
+      "answer": "Etabli"
+    },
+    {
+      "id": 15,
+      "question": "Nüfus Mübadelesi sorunu hangi antlaşma ile çözülmüştür?",
+      "answer": "1930 Ahali (Ankara) Antlaşması"
+    },
+    {
+      "id": 16,
+      "question": "Nüfus Mübadelesi sonucunda kimler yerleşik sayılıp göç dışında tutulmuştur?",
+      "answer": "Batı Trakya Türkleri ve İstanbul (Gökçeada, Bozcaada) Rumları"
+    },
+    {
+      "id": 17,
+      "question": "Nüfus Mübadelesi sorununun çözülmesi neyi sağlamıştır?",
+      "answer": "Türkiye-Yunanistan dostluğunu ve Balkan Antantı’nın kurulmasını"
+    },
+    {
+      "id": 18,
+      "question": "1930’da Türkiye’yi ziyaret eden ve Atatürk’ü Nobel Barış Ödülü’ne aday gösteren Yunan Başbakanı kimdir?",
+      "answer": "Elefterios Venizelos"
+    },
+    {
+      "id": 19,
+      "question": "Türkiye ile Fransa arasında yaşanan ve Türkiye’nin \"Bu benim iç meselemdir\" diyerek uluslararası platforma taşımadığı sorun hangisidir?",
+      "answer": "Yabancı Okullar Sorunu"
+    },
+    {
+      "id": 20,
+      "question": "Yabancı okullarda Türkçe, Tarih ve Coğrafya derslerinin Türk öğretmenler tarafından okutulması zorunluluğu hangi kanunla getirilmiştir?",
+      "answer": "Maarif Teşkilatı Hakkında Kanun (1926)"
+    },
+    {
+      "id": 21,
+      "question": "Türkiye ile Fransa arasında yaşanan, Türk gemisinin batmasıyla sonuçlanan hukuki sorun hangisidir?",
+      "answer": "Bozkurt-Lotus Olayı (1926)"
+    },
+    {
+      "id": 22,
+      "question": "Bozkurt-Lotus davası nerede görülmüştür?",
+      "answer": "Lahey Adalet Divanı (Hollanda)"
+    },
+    {
+      "id": 23,
+      "question": "Lahey Adalet Divanı’nda Türkiye’yi savunarak davayı kazanan ve soyadını Atatürk’ten alan hukukçumuz kimdir?",
+      "answer": "Mahmut Esat (Bozkurt)"
+    },
+    {
+      "id": 24,
+      "question": "Adana-Mersin demiryollarının millileştirilmesi sırasında hangi ülke ile sorun yaşanmıştır?",
+      "answer": "Fransa"
+    },
+    {
+      "id": 25,
+      "question": "Türkiye’nin en çok dış borcunun olduğu ülke hangisidir?",
+      "answer": "Fransa"
+    },
+    {
+      "id": 26,
+      "question": "Dış borçların ödenmesini zorlaştıran ve borçların yeniden yapılandırılmasına neden olan 1929 tarihli küresel olay nedir?",
+      "answer": "Dünya Ekonomik Buhranı"
+    },
+    {
+      "id": 27,
+      "question": "ABD Başkanı Hoover’ın borçların ertelenmesi teklifine ne ad verilir?",
+      "answer": "Hoover Moratoriumu"
+    },
+    {
+      "id": 28,
+      "question": "Türkiye, dış borçlarını hangi para birimi üzerinden ödemiştir?",
+      "answer": "Türk Lirası ve Fransız Frangı"
+    },
+    {
+      "id": 29,
+      "question": "Türkiye’nin dış borçları ne zaman tamamen bitmiştir?",
+      "answer": "1954 (Adnan Menderes dönemi)"
+    },
+    {
+      "id": 30,
+      "question": "Türkiye’nin Milletler Cemiyeti’ne (Cemiyet-i Akvam) üye olduğu tarih nedir?",
+      "answer": "1932"
+    },
+    {
+      "id": 31,
+      "question": "Türkiye’yi Milletler Cemiyeti’ne davet eden ülke hangisidir?",
+      "answer": "İspanya"
+    },
+    {
+      "id": 32,
+      "question": "İspanya’nın davetine en büyük desteği veren ülke hangisidir?",
+      "answer": "Yunanistan"
+    },
+    {
+      "id": 33,
+      "question": "Türkiye’nin Milletler Cemiyeti’ndeki ilk temsilcisi kimdir?",
+      "answer": "Cemal Hüsnü Taray"
+    },
+    {
+      "id": 34,
+      "question": "Dünya barışını korumak için 1928’de ABD ve Fransa öncülüğünde kurulan ve Türkiye’nin 1929’da katıldığı pakt hangisidir?",
+      "answer": "Briand-Kellogg Paktı"
+    },
+    {
+      "id": 35,
+      "question": "Türkiye’nin SSCB ile ilişkilerini geliştirmek ve sınır güvenliğini sağlamak için 1929’da imzaladığı protokol hangisidir?",
+      "answer": "Litvinov Protokolü"
+    },
+    {
+      "id": 36,
+      "question": "II. Dünya Savaşı tehlikesine karşı Türkiye’nin batı sınırını güvence altına almak için 1934’te kurduğu pakt hangisidir?",
+      "answer": "Balkan Antantı"
+    },
+    {
+      "id": 37,
+      "question": "Balkan Antantı’na üye olan devletler hangileridir? (Kod: TAYYAR)",
+      "answer": "Türkiye, Yunanistan, Yugoslavya, Romanya"
+    },
+    {
+      "id": 38,
+      "question": "Balkan Antantı’na katılmayan Balkan devletleri hangileridir?",
+      "answer": "Bulgaristan (Yayılmacı politika/Revizyonist) ve Arnavutluk (İtalya etkisinde)"
+    },
+    {
+      "id": 39,
+      "question": "Balkan Antantı nerede imzalanmıştır?",
+      "answer": "Atina"
+    },
+    {
+      "id": 40,
+      "question": "İtalya’nın Akdeniz’deki yayılmacı politikasına karşı İngiltere ile yapılan işbirliği antlaşması hangisidir?",
+      "answer": "Akdeniz Paktı (1936)"
+    },
+    {
+      "id": 41,
+      "question": "Türkiye’nin doğu sınırını güvence altına almak için 1937’de kurduğu pakt hangisidir?",
+      "answer": "Sadabat Paktı"
+    },
+    {
+      "id": 42,
+      "question": "Sadabat Paktı’na üye olan devletler hangileridir? (Kod: ATİİ)",
+      "answer": "Afganistan, Türkiye, İran, Irak"
+    },
+    {
+      "id": 43,
+      "question": "Sadabat Paktı nerede imzalanmıştır?",
+      "answer": "Tahran (Sadabat Sarayı)"
+    },
+    {
+      "id": 44,
+      "question": "Sadabat Paktı’na katılmayan komşumuz hangisidir ve nedeni nedir?",
+      "answer": "Suriye (Hatay sorunu ve sınır anlaşmazlıkları nedeniyle)"
+    },
+    {
+      "id": 45,
+      "question": "Montrö Boğazlar Sözleşmesi’nin imzalanmasının (1936) temel nedeni nedir?",
+      "answer": "Almanya ve İtalya’nın yayılmacı politikaları ve silahlanması (Güvenlik tehdidi)"
+    },
+    {
+      "id": 46,
+      "question": "Türkiye’nin Boğazlar üzerindeki egemenliğini tam olarak sağlayan belge hangisidir?",
+      "answer": "Montrö Boğazlar Sözleşmesi"
+    },
+    {
+      "id": 47,
+      "question": "Montrö Boğazlar Sözleşmesi ile kaldırılan kurum hangisidir?",
+      "answer": "Uluslararası Boğazlar Komisyonu"
+    },
+    {
+      "id": 48,
+      "question": "Montrö ile Boğazların her iki yakasında asker bulundurma hakkı kime geçmiştir?",
+      "answer": "Türkiye’ye"
+    },
+    {
+      "id": 49,
+      "question": "Montrö Boğazlar Sözleşmesi’ni imzalayan Dışişleri Bakanı kimdir?",
+      "answer": "Tevfik Rüştü Aras"
+    },
+    {
+      "id": 50,
+      "question": "Atatürk’ün \"Kırk asırlık Türk yurdu düşman eline bırakılamaz\" dediği yer neresidir?",
+      "answer": "Hatay (İskenderun Sancağı)"
+    },
+    {
+      "id": 51,
+      "question": "Hatay sorunu, hangi devletin Suriye üzerindeki manda yönetimini kaldırmasıyla başlamıştır?",
+      "answer": "Fransa (1936)"
+    },
+    {
+      "id": 52,
+      "question": "Hatay sorunu için Milletler Cemiyeti tarafından hazırlanan ve Hatay’ın Türk olduğunu tescilleyen rapor hangisidir?",
+      "answer": "Sandler Raporu"
+    },
+    {
+      "id": 53,
+      "question": "Atatürk, Hatay konusundaki eleştirilerini \"Asım Us\" takma adıyla hangi gazetede yazmıştır?",
+      "answer": "Kurun (Vakit) Gazetesi"
+    },
+    {
+      "id": 54,
+      "question": "Atatürk’ün Hatay konusunda eleştirdiği hükümet (başbakan) kimdir?",
+      "answer": "İsmet İnönü"
+    },
+    {
+      "id": 55,
+      "question": "Hatay Cumhuriyeti ne zaman kurulmuştur?",
+      "answer": "2 Eylül 1938"
+    },
+    {
+      "id": 56,
+      "question": "Hatay Cumhuriyeti’nin ilk ve tek Cumhurbaşkanı kimdir?",
+      "answer": "Tayfur Sökmen"
+    },
+    {
+      "id": 57,
+      "question": "Hatay Cumhuriyeti’nin ilk ve tek Başbakanı kimdir?",
+      "answer": "Abdurrahman Melek"
+    },
+    {
+      "id": 58,
+      "question": "Hatay Meclisi’nin Türkiye’ye katılma kararı aldığı tarih nedir?",
+      "answer": "29 Haziran 1939"
+    },
+    {
+      "id": 59,
+      "question": "Hatay’ın anavatana katılması hangi dönemde gerçekleşmiştir?",
+      "answer": "İsmet İnönü’nün Cumhurbaşkanlığı döneminde (Atatürk vefat ettikten sonra)"
+    },
+    {
+      "id": 60,
+      "question": "Hatay’ın anavatana katılmasıyla Türkiye-Suriye sınırı kesinleşmiş midir?",
+      "answer": "Evet"
+    },
+    {
+      "id": 61,
+      "question": "Atatürk dönemi Dışişleri Bakanları sırasıyla kimlerdir?",
+      "answer": "Bekir Sami Bey, Yusuf Kemal Tengirşenk, İsmet İnönü, Şükrü Kaya, Tevfik Rüştü Aras"
+    },
+    {
+      "id": 62,
+      "question": "Atatürk döneminin en uzun süre görev yapan Dışişleri Bakanı kimdir?",
+      "answer": "Tevfik Rüştü Aras (1925-1938)"
+    },
+    {
+      "id": 63,
+      "question": "1933’te İstanbul’da \"Vagon-Li\" (Yataklı Vagonlar) şirketinde Türkçe konuşan memurun işten atılmasıyla başlayan olay nedir?",
+      "answer": "Vagon-Li Olayı (\"Vatandaş Türkçe Konuş\" kampanyası)"
+    },
+    {
+      "id": 64,
+      "question": "Bulgaristan’da Türk mezarlığının tahrip edilmesi üzerine İstanbul Üniversitesi öğrencilerinin başlattığı protesto olayı nedir?",
+      "answer": "Razgrad Olayı (1933)"
+    },
+    {
+      "id": 65,
+      "question": "Mustafa Kemal’in hasta yatağında olmasına rağmen gövde gösterisi yapmak için gittiği şehirler hangileridir?",
+      "answer": "Mersin ve Adana (Hatay meselesi için)"
+    },
+    {
+      "id": 66,
+      "question": "1937’de İtalya’nın korsanlık faaliyetlerine karşı Akdeniz güvenliğini sağlamak için imzalanan antlaşma hangisidir?",
+      "answer": "Nyon Antlaşması"
+    },
+    {
+      "id": 67,
+      "question": "Atatürk döneminde Türkiye’yi ziyaret eden ilk yabancı devlet başkanı kimdir?",
+      "answer": "Afgan Kralı Emanullah Han (1928)"
+    },
+    {
+      "id": 68,
+      "question": "1934’te Türkiye’yi ziyaret eden İran Şahı kimdir?",
+      "answer": "Rıza Şah Pehlevi"
+    },
+    {
+      "id": 69,
+      "question": "Atatürk ve İran Şahı onuruna sahnelenen ilk Türk operası hangisidir?",
+      "answer": "Özsoy Operası"
+    },
+    {
+      "id": 70,
+      "question": "1936’da Türkiye’yi ziyaret eden İngiltere Kralı kimdir?",
+      "answer": "VIII. Edward"
+    },
+    {
+      "id": 71,
+      "question": "Atatürk döneminde \"Dışarıda saygınlık, içeride güven\" ilkesi neyi amaçlar?",
+      "answer": "Barışı ve istikrarı"
+    },
+    {
+      "id": 72,
+      "question": "Lozan’dan sonra Türkiye-İtalya ilişkilerinin gergin olmasının nedeni nedir?",
+      "answer": "Mussolini’nin Akdeniz’deki yayılmacı politikası (\"Bizim Deniz\" söylemi)"
+    },
+    {
+      "id": 73,
+      "question": "Türkiye’nin II. Dünya Savaşı öncesinde Almanya ile imzaladığı ticaret antlaşması türü nedir?",
+      "answer": "Kliring (Mal takası) Sistemi"
+    },
+    {
+      "id": 74,
+      "question": "Montrö’de Türkiye’nin tezi olan \"Rebus Sic Stantibus\" ilkesi ne anlama gelir?",
+      "answer": "Şartların değişmesi (Lozan şartlarının geçerliliğini yitirmesi)"
+    },
+    {
+      "id": 75,
+      "question": "Türkiye’nin Milletler Cemiyeti’ne girişi hangi sorunun çözümünde etkili olmuştur?",
+      "answer": "Boğazlar (Montrö) ve Hatay"
+    },
+    {
+      "id": 76,
+      "question": "Yabancı okullar konusunda Türkiye’nin taviz vermemesi neyin göstergesidir?",
+      "answer": "Tam bağımsızlık ve iç işlerine karıştırtmama kararlılığının"
+    },
+    {
+      "id": 77,
+      "question": "Patrikhane’nin \"Ekümenik\" (Evrensel) olma iddiası hangi antlaşma ile reddedilmiştir?",
+      "answer": "Lozan Antlaşması"
+    },
+    {
+      "id": 78,
+      "question": "Patrikhane’nin yetkilerinin sadece dini konularla sınırlandırılması hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 79,
+      "question": "Türkiye’nin boğazlarda asker bulunduramaması (Lozan maddesi) neye aykırıdır?",
+      "answer": "Egemenlik haklarına ve güvenliğe"
+    },
+    {
+      "id": 80,
+      "question": "Hatay’ın anavatana katılması Misak-ı Milli’ye uygun mudur?",
+      "answer": "Evet, Misak-ı Milli sınırları tamamlanmaya çalışılmıştır."
+    },
+    {
+      "id": 81,
+      "question": "Türkiye’nin Balkan Antantı’na katılmasıyla hangi sınır güvenceye alınmıştır?",
+      "answer": "Batı Sınırı"
+    },
+    {
+      "id": 82,
+      "question": "Türkiye’nin Sadabat Paktı’na katılmasıyla hangi sınır güvenceye alınmıştır?",
+      "answer": "Doğu Sınırı"
+    },
+    {
+      "id": 83,
+      "question": "Sadabat Paktı’nın günümüzde geçerliliğini yitirmesinin temel nedeni nedir?",
+      "answer": "İran-Irak Savaşı ve bölgedeki rejim değişiklikleri"
+    },
+    {
+      "id": 84,
+      "question": "Atatürk’ün \"Yurtta sulh cihanda sulh\" sözü hangi uluslararası kuruluşa üyelikte etkili olmuştur?",
+      "answer": "Milletler Cemiyeti"
+    },
+    {
+      "id": 85,
+      "question": "Atatürk’ün dış politikada \"Gerçekçilik\" ilkesi neyi ifade eder?",
+      "answer": "Hayalperest akımlardan (Turancılık, Ümmetçilik vb. maceracı yönlerinden) uzak durmayı, mevcut güce göre hareket etmeyi"
+    },
+    {
+      "id": 86,
+      "question": "Atatürk’ün dış politikada \"Mütekabiliyet\" ilkesi neyi ifade eder?",
+      "answer": "Karşılıklılık esasını (Eşit devlet muamelesi)"
+    },
+    {
+      "id": 87,
+      "question": "Fransa’nın Hatay’ı bırakmak zorunda kalmasının temel dış nedeni nedir?",
+      "answer": "II. Dünya Savaşı tehlikesinin artması ve Almanya’nın tehdidi"
+    },
+    {
+      "id": 88,
+      "question": "Türkiye’nin NATO’ya üye olması Atatürk döneminde mi gerçekleşmiştir?",
+      "answer": "Hayır, 1952’de (Demokrat Parti dönemi) gerçekleşmiştir."
+    },
+    {
+      "id": 89,
+      "question": "Türkiye’nin Kore’ye asker göndermesi Atatürk döneminde midir?",
+      "answer": "Hayır, 1950’dedir."
+    },
+    {
+      "id": 90,
+      "question": "Hatay Millet Meclisi binası günümüzde ne olarak kullanılmaktadır?",
+      "answer": "Künefe salonu/Ticari alan olarak kullanıldığına dair haberler çıksa da, tarihi bina olarak korunmaktadır. (Kültürel detay)."
+    },
+    {
+      "id": 91,
+      "question": "Türkiye’nin Boğazlar üzerindeki tam hakimiyeti ne zaman başlamıştır?",
+      "answer": "1936 Montrö Sözleşmesi ile"
+    },
+    {
+      "id": 92,
+      "question": "Hatay’da Türklerin çoğunlukta olduğunu kanıtlayan nüfus sayımı hangi kurum tarafından yapılmıştır?",
+      "answer": "Milletler Cemiyeti"
+    },
+    {
+      "id": 93,
+      "question": "1923-1938 yılları arasında Türkiye’nin savaşa girme riski yaşadığı tek olay nedir?",
+      "answer": "Hatay Sorunu (Sınıra asker yığılmıştır)"
+    },
+    {
+      "id": 94,
+      "question": "Türkiye’nin dış borçlar konusunda en son taksiti ödediği tarih nedir?",
+      "answer": "1954"
+    },
+    {
+      "id": 95,
+      "question": "Atatürk dönemi Türk dış politikasının üç temel ayağı nedir?",
+      "answer": "Barışçılık, Tam Bağımsızlık, Akılcılık (Gerçekçilik)"
+    },
+    {
+      "id": 96,
+      "question": "Lozan’dan sonra Türkiye ile İngiltere arasındaki ilişkilerin düzelmeye başladığı olay nedir?",
+      "answer": "Musul Sorunu’nun çözülmesi (1926)"
+    },
+    {
+      "id": 97,
+      "question": "1932-1939 yılları arasında Türkiye’nin dış politikasını belirleyen en önemli faktör nedir?",
+      "answer": "İtalya ve Almanya’nın saldırgan tutumu"
+    },
+    {
+      "id": 98,
+      "question": "Sadabat Paktı’nın diğer adı nedir?",
+      "answer": "Dörtlü Pakt (Bazen bu isimle anılır ama asıl adı Sadabat’tır)"
+    },
+    {
+      "id": 99,
+      "question": "Balkan Antantı’nın dağılmasına neden olan olay nedir?",
+      "answer": "II. Dünya Savaşı’nın başlaması"
+    },
+    {
+      "id": 100,
+      "question": "Türkiye’nin dış politikada \"Statükocu\" (Mevcut durumu koruyan) olması ne demektir?",
+      "answer": "Sınırlarını genişletme amacı gütmemesi, barışı koruması"
+    }
+  ]
+}

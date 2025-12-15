@@ -1,0 +1,67 @@
+{
+  "konu_adi": "52- CUMHURİYET DÖNEMİ KÜLTÜR VE MEDENİYETİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "CUMHURİYET DÖNEMİ KÜLTÜR VE MEDENİYETİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🏛️ Hukuk ve Eğitim Alanındaki Yenilikler"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Hukuk Alanındaki İnkılaplar (Laiklik)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Şeriye ve Evkaf Vekâleti'nin Kaldırılması (1924): Din ve devlet işlerinin ayrılması.",
+        "Türk Medeni Kanunu'nun Kabulü (1926): İsviçre Medeni Kanunu örnek alınmıştır. Kadın-erkek eşitliği sosyal ve hukuki alanda sağlanmıştır.",
+        "Hukuk Sistemi: Osmanlı'dan kalan ikili hukuk sistemi (Şeriye/Nizamiye) yerine, tek ve çağdaş bir hukuk sistemi kurulmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Eğitim ve Kültür Alanındaki İnkılaplar (Milliyetçilik ve Laiklik)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tevhid-i Tedrisat Kanunu (1924): Ülkedeki tüm okullar Milli Eğitim Bakanlığı'na bağlanmıştır. (Laik ve milli eğitimin temeli atılmış, medreseler kapatılmıştır.)",
+        "Harf İnkılabı (1928): Arap harfleri yerine Latin alfabesi esas alınmıştır. Millet Mektepleri açılmıştır.",
+        "Türk Tarih Kurumu (1931) ve Türk Dil Kurumu (1932): Milli benliği güçlendirmek amacıyla kurulmuştur.",
+        "Üniversite Reformu (1933): Darülfünun kapatılmış, yerine modern İstanbul Üniversitesi kurulmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💰 Ekonomi ve Sosyal Alandaki İnkılaplar"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Ekonomik Atılımlar (Halkçılık ve Devletçilik)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İzmir İktisat Kongresi (1923): Ekonomik kalkınmanın özel teşebbüs ile sağlanması kararlaştırılmıştır.",
+        "Aşar Vergisi'nin Kaldırılması (1925): Köylü üzerindeki ağır vergi yükü hafifletilmiştir.",
+        "Teşvik-i Sanayi Kanunu (1927): Özel sektörü teşvik etmiştir.",
+        "Devletçiliğe Geçiş: 1929 Dünya Ekonomik Bunalımı sonrası Devletçilik politikasına geçilmiştir.",
+        "Sanayi Planları: Sümerbank, Etibank gibi önemli yatırım bankaları kurulmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Sosyal Alandaki İnkılaplar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Soyadı Kanunu (1934): Ayrıcalık belirten unvanlar (ağa, paşa, efendi) kaldırılmıştır (Halkçılık).",
+        "Tekke, Zaviye ve Türbelerin Kapatılması (1925): Dini sömürüyü engellemek amaçlanmıştır (Laiklik)."
+      ]
+    }
+  ]
+}

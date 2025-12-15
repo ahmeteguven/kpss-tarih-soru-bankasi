@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 10",
+  "examCode": "deneme_10",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 10)\n\n**İlk Çağdan Günümüze:** Türklerde Töre'nin (Yazısız Hukuk) değişmez ilkeleri Adalet (Könilik), İyilik (Uzluk), Eşitlik (Tüzlük) ve İnsanlık (Kişilik)'tir. Hunlar ve Avarlar, hem Asya'da hem de Avrupa'da devlet kuran Türk topluluklarıdır. Anadolu'da Kösedağ Savaşı'ndan (1243) sonra kurulan II. Beylikler Dönemi, Anadolu'nun Türkleşmesini hızlandırmıştır. Karamanoğulları, kendilerini Selçuklu'nun mirasçısı görmüş ve Türkçeyi resmi dil ilan etmiştir.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde Pençik Sistemi uygulanmış, bu sistem daha sonra Devşirme'ye dönüşmüştür. Yavuz Sultan Selim'in Mısır Seferi ile Halifelik Osmanlı'ya geçmiş ve devletin teokratik gücü artmıştır. II. Mahmut döneminde Yeniçeri Ocağı kaldırılmış (Vaka-i Hayriye), yerine Asakir-i Mansure-i Muhammediye ordusu kurulmuştur. Lale Devri'nde (1718-1730) Batı tarzı askeri ıslahat yapılmamıştır.\n\n**Milli Mücadele ve Cumhuriyet:** Amasya Genelgesi, Kurtuluş Savaşı'nın Gerekçe, Amaç ve Yöntemini belirleyen bir ihtilal bildirgesidir. Sakarya Zaferi'nden sonra imzalanan 1921 Ankara Antlaşması ile Güney Cephesi kapanmıştır. Cumhuriyetin ilanı (1923) ile Meclis Hükümeti'nden Kabine Sistemi'ne geçilmiştir. Türkiye, dış politikada Montrö (1936), Balkan Antantı (1934) ve Sadabat Paktı (1937) ile barışçı statükocu bir siyaset izlemiştir.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk devletlerinde hükümdarın erkek çocuklarına \"Tigin\" denirdi. Tiginlerin eğitiminden sorumlu olan hocalara ne ad verilir?",
+      "options": [
+        "Atabey",
+        "Lala",
+        "Ataman (İnal/İnanç)",
+        "Melik",
+        "Hacip"
+      ],
+      "correctOption": "C",
+      "solution": "Atabey: Selçuklu, Lala: Osmanlı, Ataman: İslam Öncesi"
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde \"Yabgu\" unvanını taşıyan kişi, devlet yönetiminde hangi görevi üstlenirdi?",
+      "options": [
+        "Orduların başkomutanı",
+        "Dini törenlerin yöneticisi",
+        "Ülkenin batı kanadının yöneticisi",
+        "Veliaht prens",
+        "Hükümet başkanı (Başbakan)"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Büyük Selçuklu Devleti’nin Gaznelileri mağlup ederek resmen kurulduğunu ilan ettiği savaş aşağıdakilerden hangisidir?",
+      "options": [
+        "Nesa Savaşı",
+        "Serahs Savaşı",
+        "Pasinler Savaşı",
+        "Katvan Savaşı",
+        "Dandanakan Savaşı"
+      ],
+      "correctOption": "E",
+      "solution": "1040 yılındaki bu savaşla Selçuklu kuruldu, Gazneli yıkılış sürecine girdi."
+    },
+    {
+      "id": 4,
+      "text": "Malazgirt Savaşı’ndan sonra Sultan Alparslan’ın komutanlarına \"Toprak fethedenin malıdır\" (Kılıç Hakkı) diyerek emir vermesi aşağıdakilerden hangisine ortam hazırlamıştır?",
+      "options": [
+        "Merkezi otoritenin güçlenmesine",
+        "Bizans ile dostluk kurulmasına",
+        "Haçlı Seferleri’nin sona ermesine",
+        "Taht kavgalarının bitmesine",
+        "Anadolu’da I. Dönem Türk Beyliklerinin kurulmasına"
+      ],
+      "correctOption": "E",
+      "solution": "Anadolu'nun fethini hızlandırmak istemiştir ancak bu durum ileride merkezi otoriteyi zayıflatabilir."
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nde \"Müsadere\" (Devletin mala el koyması) usulünün kaldırılmasıyla aşağıdakilerden hangisi güvence altına alınmıştır?",
+      "options": [
+        "Can güvenliği",
+        "Askerlik hakkı",
+        "Eğitim hakkı",
+        "Seçme ve seçilme hakkı",
+        "Özel mülkiyet hakkı"
+      ],
+      "correctOption": "E",
+      "solution": "Mülkiyet hakkının güvenceye alınması, sermaye birikiminin önünü açmıştır."
+    },
+    {
+      "id": 6,
+      "text": "Yavuz Sultan Selim'in Mısır Seferi sırasında Sina Çölü'nü geçerken ordunun önünde yürüdüğüne inanılan manevi lider kimdir?",
+      "options": [
+        "Akşemseddin",
+        "Hacı Bayram Veli",
+        "Hz. Muhammed (S.A.V.)",
+        "Veysel Karani",
+        "Ebu Eyyub El Ensari"
+      ],
+      "correctOption": "D",
+      "solution": "Bu bir rivayet sorusudur."
+    },
+    {
+      "id": 7,
+      "text": "Kanuni Sultan Süleyman’ın Hint Okyanusu’ndaki faaliyetlerini engellemek ve Müslüman tüccarlara yardım etmek amacıyla Hint Deniz Seferlerini düzenlemiştir. Bu seferlerin başarısız olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Portekiz donanmasının çok zayıf olması",
+        "Hint Müslümanlarının Osmanlı’ya ihanet etmesi",
+        "Seferlerin çok kısa sürmesi",
+        "Osmanlı donanmasının okyanus şartlarına uygun olmaması (Kadırgaların dayanıksızlığı)",
+        "Komutanların yetersizliği"
+      ],
+      "correctOption": "D",
+      "solution": "İç deniz -Akdeniz- gemileri okyanus dalgalarına dayanamamıştır."
+    },
+    {
+      "id": 8,
+      "text": "III. Selim’in tahttan indirilmesine ve Nizam-ı Cedid ıslahatlarının son bulmasına neden olan isyan hangisidir?",
+      "options": [
+        "Patrona Halil İsyanı",
+        "Edirne Vakası",
+        "Kabakçı Mustafa İsyanı",
+        "Kuleli Olayı",
+        "31 Mart Vakası"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan ilk belge (Sened-i İttifak) ile halkın yönetime katıldığı ilk belge (Kanun-i Esasi) sırasıyla hangi padişahlar döneminde gerçekleşmiştir?",
+      "options": [
+        "III. Selim - II. Abdülhamit",
+        "II. Mahmut - Abdülmecit",
+        "II. Mahmut - II. Abdülhamit",
+        "Abdülmecit - V. Mehmet Reşat",
+        "Abdülaziz - II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": "Sened-i İttifak 1808 (II. Mahmut), Kanun-i Esasi 1876 (II. Abdülhamit)."
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan belgelerin kronolojik sıralaması nasıldır?",
+      "options": [
+        "Tanzimat - Islahat - Sened-i İttifak - Kanun-i Esasi",
+        "Sened-i İttifak - Tanzimat - Islahat - Kanun-i Esasi",
+        "Kanun-i Esasi - Sened-i İttifak - Tanzimat - Islahat",
+        "Tanzimat - Sened-i İttifak - Islahat - Kanun-i Esasi",
+        "Sened-i İttifak - Kanun-i Esasi - Tanzimat - Islahat"
+      ],
+      "correctOption": "B",
+      "solution": "1808 - 1839 - 1856 - 1876"
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti’nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+      "options": [
+        "Dil birliği",
+        "Irk birliği",
+        "Din ve mezhep birliği",
+        "Toprak bütünlüğü",
+        "Ekonomik işbirliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Mondros Ateşkes Antlaşması’ndan sonra işgal edilen ilk Osmanlı toprağı neresidir?",
+      "options": [
+        "İzmir",
+        "İstanbul",
+        "Musul",
+        "İskenderun",
+        "Antalya"
+      ],
+      "correctOption": "C",
+      "solution": "İngiltere tarafından işgal edilmiştir."
+    },
+    {
+      "id": 13,
+      "text": "Irak Cephesi’nde Halil (Kut) Paşa komutasındaki Osmanlı ordusunun İngilizleri yendiği ve General Townshend’i esir aldığı zafer hangisidir?",
+      "options": [
+        "Kut’ül Amare Zaferi",
+        "Selman-ı Pak Zaferi",
+        "Bağdat Zaferi",
+        "Gazze Zaferi",
+        "Kanal Zaferi"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Toplanış şekli, amacı ve aldığı kararlar bakımından \"Her yönüyle ulusal\" olan tek kongre hangisidir?",
+      "options": [
+        "Sivas Kongresi",
+        "Alaşehir Kongresi",
+        "Pozantı Kongresi",
+        "Balıkesir Kongresi",
+        "Erzurum Kongresi"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Erzurum Kongresi’nde oluşturulan ve başkanlığını Mustafa Kemal’in yaptığı, TBMM açılana kadar geçici hükümet gibi çalışan kurulun adı nedir?",
+      "options": [
+        "Heyet-i Nasiha",
+        "Saltanat Şurası",
+        "İcra Vekilleri Heyeti",
+        "Temsil Heyeti (Heyet-i Temsiliye)",
+        "Felah-ı Vatan Grubu"
+      ],
+      "correctOption": "D",
+      "solution": "Erzurum'da kuruldu, Sivas'ta yetkisi tüm yurdu kapsadı, TBMM açılınca görevi bitti."
+    },
+    {
+      "id": 16,
+      "text": "Mustafa Kemal’in tarihi \"Ordular! İlk hedefiniz Akdeniz’dir. İleri!\" emrini verdiği savaş hangisidir?",
+      "options": [
+        "Çanakkale Savaşı",
+        "I. İnönü Savaşı",
+        "Trablusgarp Savaşı",
+        "Sakarya Savaşı",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "E",
+      "solution": "30 Ağustos Zaferi'nden sonra kaçan Yunan ordusunu takip emridir."
+    },
+    {
+      "id": 17,
+      "text": "Büyük Taarruz’daki başarılarından dolayı TBMM tarafından \"Mareşal\" rütbesi verilen ikinci komutanımız kimdir?",
+      "options": [
+        "İsmet İnönü",
+        "Fevzi Çakmak",
+        "Kazım Karabekir",
+        "Refet Bele",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctOption": "B",
+      "solution": "Mustafa Kemal'den sonraki ikinci ve son Mareşalimizdir."
+    },
+    {
+      "id": 18,
+      "text": "Kurtuluş Savaşı’nın silahlı mücadelesini bitiren ve diplomatik safhasını başlatan ateşkes antlaşması hangisidir?",
+      "options": [
+        "Mondros",
+        "Mudanya",
+        "Sevr",
+        "Gümrü",
+        "Moskova"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Türkiye Cumhuriyeti’nin ilk açılan yükseköğretim kurumu (fakültesi) hangisidir?",
+      "options": [
+        "Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi",
+        "İstanbul Üniversitesi",
+        "Ankara Hukuk Mektebi",
+        "Gazi Eğitim Enstitüsü",
+        "Yüksek Ziraat Enstitüsü"
+      ],
+      "correctOption": "C",
+      "solution": "1925 yılında, hukuk devrimini yapacak savcı ve hakim yetiştirmek için açılmıştır."
+    },
+    {
+      "id": 20,
+      "text": "Harf İnkılabı’ndan sonra halka yeni harfleri öğretmek amacıyla açılan ve 16-45 yaş arası vatandaşların katılımının zorunlu olduğu kurslara ne ad verilir?",
+      "options": [
+        "Sanat Enstitüleri",
+        "Köy Enstitüleri",
+        "Türk Ocakları",
+        "Millet Mektepleri",
+        "Halkevleri"
+      ],
+      "correctOption": "D",
+      "solution": "Bu mekteplerin açılış tarihi olan 24 Kasım, Öğretmenler Günü olarak kutlanır."
+    },
+    {
+      "id": 21,
+      "text": "1933 yılında \"Vagon-Li\" (Yataklı Vagonlar) şirketinde Türkçe konuşan memurun işten atılması üzerine İstanbul'da başlayan ve \"Vatandaş Türkçe Konuş\" kampanyasına dönüşen olay hangi ilke ile ilgilidir?",
+      "options": [
+        "Laiklik",
+        "Devletçilik",
+        "Cumhuriyetçilik",
+        "Halkçılık",
+        "Milliyetçilik"
+      ],
+      "correctOption": "E",
+      "solution": "Dil ve milli hassasiyet."
+    },
+    {
+      "id": 22,
+      "text": "Türkiye'nin dış borçlar konusunda en çok sorun yaşadığı ülke Fransa'dır. Borçların ödenmesi sırasında çıkan krizde Türkiye'nin \"Borçları ödeyeceğiz ancak bu bizim paramızla (TL) veya sizin paranızla (Frank) olur\" diyerek reddettiği para birimi hangisidir?",
+      "options": [
+        "Sterlin",
+        "Riyal",
+        "Dolar",
+        "Mark",
+        "Altın"
+      ],
+      "correctOption": "E",
+      "solution": "Veya Altın/Sterlin gibi değerli maden/döviz talepleri reddedilmiş, kağıt para üzerinden ödeme kabul ettirilmiştir."
+    },
+    {
+      "id": 23,
+      "text": "1930 yılında Serbest Cumhuriyet Fırkası’nın kurulmasında etkili olan en temel dış gelişme nedir?",
+      "options": [
+        "Boğazlar Sorunu",
+        "Musul Sorunu",
+        "II. Dünya Savaşı tehlikesi",
+        "Hatay Meselesi",
+        "1929 Dünya Ekonomik Buhranı"
+      ],
+      "correctOption": "E",
+      "solution": "Krizin etkilerini liberal politikalarla aşmak ve hükümeti denetlemek istenmiştir."
+    },
+    {
+      "id": 24,
+      "text": "Montrö Boğazlar Sözleşmesi'nde, Karadeniz'e kıyısı olmayan devletlerin savaş gemilerine getirilen kısıtlama (Tonaj ve Süre) en çok hangi devletin güvenliğini sağlamaya yöneliktir? (Türkiye dışında).",
+      "options": [
+        "Fransa",
+        "Sovyet Rusya",
+        "Almanya",
+        "İngiltere",
+        "İtalya"
+      ],
+      "correctOption": "B",
+      "solution": "Rusya, Karadeniz'e büyük donanmaların girmesini istememiştir."
+    },
+    {
+      "id": 25,
+      "text": "ABD'nin II. Dünya Savaşı'na girmesine neden olan ve Japonya tarafından düzenlenen ani baskın hangisidir?",
+      "options": [
+        "Guadalcanal",
+        "Iwo Jima",
+        "Midway Savaşı",
+        "Pearl Harbor Baskını",
+        "Mercan Denizi Savaşı"
+      ],
+      "correctOption": "D",
+      "solution": "7 Aralık 1941 - \"Alçaklık günü\" olarak anılır."
+    },
+    {
+      "id": 26,
+      "text": "Japonya'nın dış dünyaya kapılarını açarak modernleşmesini sağlayan ve feodal yapıyı yıkarak sanayileşmeyi başlatan reform hareketine ne ad verilir?",
+      "options": [
+        "Meiji Restorasyonu",
+        "Kültür Devrimi",
+        "Sanayi İnkılabı",
+        "Beyaz Devrim",
+        "Aydınlanma Çağı"
+      ],
+      "correctOption": "A",
+      "solution": "İmparator Mutsuhito dönemi."
+    },
+    {
+      "id": 27,
+      "text": "1948 yılında SSCB'nin Batı Berlin'i abluka altına alması üzerine, Batılı devletlerin şehri havadan beslemek için kurdukları lojistik operasyona ne ad verilir?",
+      "options": [
+        "Normandiya Çıkarması",
+        "Berlin Hava Köprüsü",
+        "Özgürlük Yolu",
+        "Barbarossa Harekatı",
+        "Demir Perde Operasyonu"
+      ],
+      "correctOption": "B",
+      "solution": "(Berlin Buhranı.)"
+    }
+  ]
+}

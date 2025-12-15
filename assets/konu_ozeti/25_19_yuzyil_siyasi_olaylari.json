@@ -1,0 +1,104 @@
+{
+  "konu_adi": "25- 19’UNCU YÜZYIL SİYASİ OLAYLARI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "19’UNCU YÜZYIL SİYASİ OLAYLARI (Dağılma Dönemi)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🚨 Dönemin Başlangıcı ve Genel Özellikleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Milliyetçilik: Fransız İhtilali'nin etkisiyle Balkanlar'daki uluslar bağımsızlıklarını kazanmıştır (Sırplar isyan eden ilk, Yunanlar bağımsız olan ilk millettir).",
+        "Şark Meselesi: Avrupalı devletlerin Osmanlı'yı paylaşma planıdır.",
+        "Islahatlar: Azınlık isyanlarını durdurmak için Batı tarzı anayasal reformlar (Tanzimat, Islahat, Meşrutiyet) yapılmıştır.",
+        "Denge Politikası: Osmanlı, kendisini tehdit eden bir devlete karşı diğer bir Avrupa devletinden destek alarak varlığını sürdürmeye çalışmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇫🇷 Napolyon ve Mısır Sorunu"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Mısır'ın İşgali (1798-1801): Napolyon, İngiltere'nin sömürge yollarını kesmek amacıyla Mısır'ı işgal etmiştir.",
+        "Sonuç: Osmanlı, Mısır'ı geri almak için kendisine en büyük tehdidi oluşturan Rusya ve İngiltere'den yardım almak zorunda kalmıştır. (Denge politikası)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇬🇷 Bağımsızlık ve Mehmet Ali Paşa Sorunları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Sırp İsyanı (1804): Osmanlı'da isyan eden ilk azınlıktır. Bükreş Antlaşması (1812) ile ilk kez ayrıcalık kazanmışlardır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Navarin Olayı (1827): İngiltere, Fransa ve Rusya donanmaları tarafından Osmanlı-Mısır donanması yakılmıştır. Bu olay, Yunanistan'ın bağımsızlığına giden yolu açmıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Edirne Antlaşması (1829): Yunanistan'ın bağımsızlığı kabul edilmiştir. Yunanistan, Osmanlı'dan ayrılan ilk millettir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Mehmet Ali Paşa Sorunu (Kavalalı Sorunu)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Neden: Mısır Valisi Mehmet Ali Paşa, vaat edilen valilikleri alamayınca Osmanlı'ya karşı ayaklanmıştır (1831).",
+        "Hünkâr İskelesi Antlaşması (1833): Rusya'dan yardım alma karşılığında imzalanmıştır. Bu, Boğazlar üzerinde Osmanlı'nın tek başına hükmettiği son antlaşmadır. (Boğazlar uluslararası sorun oldu.)",
+        "Londra Konferansı (1840): İngiltere'nin arabuluculuğuyla Mısır valiliği, babadan oğula geçmek şartıyla Mehmet Ali Paşa'ya bırakılmıştır (Mısır, fiilen özerk oldu)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇷🇺 Kırım Savaşı ve Boğazlar Sorunu"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kırım Savaşı (1853-1856): Rusya'ya karşı İngiltere ve Fransa'nın desteğiyle kazanılmıştır.",
+        "Paris Antlaşması (1856): Osmanlı'nın toprak bütünlüğü, Avrupalı devletlerin garantisi altına alınmıştır (Osmanlı, Avrupa devleti sayıldı).",
+        "Karadeniz'in Tarafsızlığı: Osmanlı ve Rusya'nın Karadeniz'de donanma bulundurması yasaklanmıştır (Osmanlı'nın egemenlik hakları kısıtlandı).",
+        "Islahat Fermanı: Antlaşmadan önce ilan edilmiştir. (Batı'nın Osmanlı'nın iç işlerine karışma hakkını gösterdi.)"
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👑 İdari ve Siyasi Değişimler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Sened-i İttifak (1808): Padişah yetkilerinin Âyanlar karşısında ilk kez kısıtlandığı belgedir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Tanzimat Fermanı (1839): Hukuk Üstünlüğü ilkesini getirmiştir. Amaç, Avrupalıların iç işlerine karışmasını önlemektir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "I. Meşrutiyet (1876): Jön Türklerin çabalarıyla ilan edilmiş, ilk kez anayasal yönetim (Kanun-i Esasi) başlamıştır. Halk sınırlı da olsa yönetime katılmıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "İstibdat Dönemi: II. Abdülhamit, 1877-1878 Osmanlı-Rus Savaşı'nı bahane ederek Meclis'i kapatmış ve baskı dönemi başlamıştır."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "categoryName": "İslamiyet Öncesi Türk Tarihi",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Tarihte bilinen ilk Türk topluluğu hangisidir?",
+      "answer": "İskitler (Sakalar)"
+    },
+    {
+      "id": 2,
+      "question": "İskitlerin (Sakalar) en bilinen kadın hükümdarı kimdir?",
+      "answer": "Tomris Hatun"
+    },
+    {
+      "id": 3,
+      "question": "Tarihte bilinen ilk teşkilatlı Türk devleti hangisidir?",
+      "answer": "Asya Hun Devleti (Büyük Hun Devleti)"
+    },
+    {
+      "id": 4,
+      "question": "Asya Hun Devleti’nin bilinen ilk hükümdarı (kurucusu) kimdir?",
+      "answer": "Teoman"
+    },
+    {
+      "id": 5,
+      "question": "Türk tarihinde orduda ilk kez onlu sistemi uygulayan hükümdar kimdir?",
+      "answer": "Mete Han"
+    },
+    {
+      "id": 6,
+      "question": "Türk tarihinde ilk kez \"vatan\" sevgisinden bahseden hükümdar kimdir?",
+      "answer": "Mete Han"
+    },
+    {
+      "id": 7,
+      "question": "Kavimler Göçü’ne sebep olan Hun hükümdarı kimdir?",
+      "answer": "Balamir"
+    },
+    {
+      "id": 8,
+      "question": "Avrupa’da kurulan ilk Türk devleti hangisidir?",
+      "answer": "Avrupa Hun Devleti"
+    },
+    {
+      "id": 9,
+      "question": "Avrupalıların \"Tanrı’nın Kırbacı\" (Cesur Kavimlerin Efendisi) olarak adlandırdığı hükümdar kimdir?",
+      "answer": "Attila"
+    },
+    {
+      "id": 10,
+      "question": "\"Türk\" adını siyasi bir isim olarak kullanan ilk devlet hangisidir?",
+      "answer": "I. Göktürk Devleti"
+    },
+    {
+      "id": 11,
+      "question": "I. Göktürk Devleti'nin kurucusu kimdir?",
+      "answer": "Bumin Kağan"
+    },
+    {
+      "id": 12,
+      "question": "I. Göktürk Devleti’nin en parlak dönemini yaşatan hükümdar kimdir?",
+      "answer": "Mukan Kağan"
+    },
+    {
+      "id": 13,
+      "question": "Türklerin, Çin esaretine karşı başlattığı ilk bağımsızlık isyanının lideri kimdir?",
+      "answer": "Kürşat"
+    },
+    {
+      "id": 14,
+      "question": "II. Göktürk (Kutluk) Devleti’ni kurarak Türkleri yeniden bağımsızlığına kavuşturan, bu yüzden \"İlteriş\" (devleti derleyen) unvanı alan hükümdar kimdir?",
+      "answer": "Kutluk Kağan"
+    },
+    {
+      "id": 15,
+      "question": "Türk tarihinin ilk yazılı belgeleri kabul edilen Orhun Abideleri hangi devlet döneminde dikilmiştir?",
+      "answer": "II. Göktürk (Kutluk) Devleti"
+    },
+    {
+      "id": 16,
+      "question": "Orhun Abideleri kimler adına dikilmiştir?",
+      "answer": "Tonyukuk, Kültigin ve Bilge Kağan"
+    },
+    {
+      "id": 17,
+      "question": "Yerleşik hayata geçen ilk Türk devleti hangisidir?",
+      "answer": "Uygurlar"
+    },
+    {
+      "id": 18,
+      "question": "Uygurların benimsediği, et yemeyi ve savaşmayı yasaklayan din hangisidir?",
+      "answer": "Maniheizm (Mani Dini)"
+    },
+    {
+      "id": 19,
+      "question": "Uygurlar döneminde yapılan tapınaklara ne ad verilir?",
+      "answer": "Stupa"
+    },
+    {
+      "id": 20,
+      "question": "Türk tarihinde kâğıt ve matbaayı ilk kullanan devlet hangisidir?",
+      "answer": "Uygurlar"
+    },
+    {
+      "id": 21,
+      "question": "Museviliği (Yahudilik) kabul eden ilk ve tek Türk devleti hangisidir?",
+      "answer": "Hazarlar"
+    },
+    {
+      "id": 22,
+      "question": "İslamiyet'i kabul eden ilk Türk boyu hangisidir?",
+      "answer": "Karluklar"
+    },
+    {
+      "id": 23,
+      "question": "Kendi adına para bastıran ilk Türk hükümdarı kimdir?",
+      "answer": "Baga Tarkan (Türgişler)"
+    },
+    {
+      "id": 24,
+      "question": "Dünyanın en uzun destanı olan Manas Destanı hangi Türk boyuna aittir?",
+      "answer": "Kırgızlar"
+    },
+    {
+      "id": 25,
+      "question": "İlk Türk devletlerinde devlet işlerinin görüşüldüğü meclise ne ad verilir?",
+      "answer": "Kurultay (Toy / Kengeş)"
+    },
+    {
+      "id": 26,
+      "question": "Türklerde devlet teşkilatının başında bulunan hükümdara yönetme yetkisinin Gök Tanrı tarafından verildiğine inanılan anlayış nedir?",
+      "answer": "Kut Anlayışı"
+    },
+    {
+      "id": 27,
+      "question": "İslamiyet öncesi Türk devletlerinde devletin iki kanattan (Doğu-Batı) yönetilmesi sistemine ne ad verilir?",
+      "answer": "İkili Teşkilat"
+    },
+    {
+      "id": 28,
+      "question": "İlk Türk devletlerinde hükümdarın erkek çocuklarına ne ad verilir?",
+      "answer": "Tigin"
+    },
+    {
+      "id": 29,
+      "question": "Tiginlerin eğitimiyle ilgilenen hocalara ne ad verilir?",
+      "answer": "Ataman (İnal / İnanç)"
+    },
+    {
+      "id": 30,
+      "question": "Türklerde ölen kişinin mezarına, hayattayken öldürdüğü düşman sayısı kadar dikilen küçük heykellere ne ad verilir?",
+      "answer": "Balbal"
+    },
+    {
+      "id": 31,
+      "question": "İslamiyet öncesi Türklerde ölülerin gömüldüğü mezarlara ne ad verilir?",
+      "answer": "Kurgan"
+    },
+    {
+      "id": 32,
+      "question": "Türklerde cenaze törenlerine verilen isim nedir?",
+      "answer": "Yuğ"
+    },
+    {
+      "id": 33,
+      "question": "Eski Türk inancında \"Cennet\" anlamına gelen kavram nedir?",
+      "answer": "Uçmağ"
+    },
+    {
+      "id": 34,
+      "question": "Eski Türk inancında \"Cehennem\" anlamına gelen kavram nedir?",
+      "answer": "Tamu"
+    },
+    {
+      "id": 35,
+      "question": "Türklerde \"Din Adamı\"na verilen isimler nelerdir?",
+      "answer": "Kam (Baksı)"
+    },
+    {
+      "id": 36,
+      "question": "İstanbul’u kuşatan ilk Türk devleti hangisidir?",
+      "answer": "Avarlar"
+    },
+    {
+      "id": 37,
+      "question": "Hem Asya’da hem de Avrupa’da devlet kuran Türk toplulukları hangileridir?",
+      "answer": "Hunlar ve Avarlar"
+    },
+    {
+      "id": 38,
+      "question": "Hristiyanlığı kabul eden ilk Türk devleti hangisidir?",
+      "answer": "Avarlar"
+    },
+    {
+      "id": 39,
+      "question": "İslamiyet öncesi Türk devletlerinin \"Kutsal Merkez\" veya \"Toprak Ana\" olarak kabul ettiği şehir neresidir?",
+      "answer": "Ötüken"
+    },
+    {
+      "id": 40,
+      "question": "Malazgirt Savaşı sırasında taraf değiştirerek Selçukluların savaşı kazanmasında etkili olan Türk toplulukları hangileridir?",
+      "answer": "Peçenekler ve Uzlar"
+    },
+    {
+      "id": 41,
+      "question": "Rusların \"İgor Destanı\"na konu olan Türk topluluğu hangisidir?",
+      "answer": "Kıpçaklar (Kumanlar)"
+    },
+    {
+      "id": 42,
+      "question": "Dede Korkut Hikayeleri'nde Oğuzlarla yaptıkları mücadeleler anlatılan Türk topluluğu hangisidir?",
+      "answer": "Kıpçaklar (Kumanlar)"
+    },
+    {
+      "id": 43,
+      "question": "Kıpçak Türklerine ait olan ve Türkçe-Farsça-Latince sözlük niteliği taşıyan eser hangisidir?",
+      "answer": "Codex Cumanicus"
+    },
+    {
+      "id": 44,
+      "question": "Mısır’da kurulan Eyyubiler ve Memlükler devletlerinin askeri temelini oluşturan Türk boyu hangisidir?",
+      "answer": "Kıpçaklar"
+    },
+    {
+      "id": 45,
+      "question": "İslamiyet’i kabul eden \"İlk Türk Devleti\" (Orta Asya’da değil, genel olarak) hangisidir?",
+      "answer": "İtil (Volga) Bulgarları"
+    },
+    {
+      "id": 46,
+      "question": "Tuna Bulgarları hangi hükümdar döneminde Hristiyanlığı kabul etmiştir?",
+      "answer": "Boris Han"
+    },
+    {
+      "id": 47,
+      "question": "İtil (Volga) Bulgarları hangi hükümdar döneminde İslamiyet'i kabul etmiştir?",
+      "answer": "Almış Han"
+    },
+    {
+      "id": 48,
+      "question": "Türk tarihinde kendi adına para bastıran (Baga Tarkan) ve yerleşik hayata geçişin ilk izlerinin görüldüğü ikinci devlet hangisidir?",
+      "answer": "Türgişler"
+    },
+    {
+      "id": 49,
+      "question": "Emevilerle savaşarak İslamiyet’in Orta Asya’da yayılmasını bir süre geciktiren Türk devleti hangisidir?",
+      "answer": "Türgişler"
+    },
+    {
+      "id": 50,
+      "question": "Cengiz Han’a (Moğollara) itaat eden ilk Müslüman Türk topluluğu hangisidir?",
+      "answer": "Karluklar"
+    },
+    {
+      "id": 51,
+      "question": "Dünyanın en kalabalık ve en etkili Türk boyu olan, Osmanlı ve Selçuklu devletlerini kuran boy hangisidir?",
+      "answer": "Oğuzlar (Uzlar)"
+    },
+    {
+      "id": 52,
+      "question": "Orta Asya’da kurulan son Türk devleti hangisidir?",
+      "answer": "Kırgızlar"
+    },
+    {
+      "id": 53,
+      "question": "Ötüken’i Uygurlardan alarak onları yıkan Türk devleti hangisidir?",
+      "answer": "Kırgızlar"
+    },
+    {
+      "id": 54,
+      "question": "Sasani Devleti’ndeki \"Mazdek İsyanı\"nı bastırmada etkili olan Türk devleti hangisidir?",
+      "answer": "Akhunlar (Eftalitler)"
+    },
+    {
+      "id": 55,
+      "question": "Afganistan ve Kuzey Hindistan bölgesinde kurulan Türk devleti hangisidir?",
+      "answer": "Akhunlar"
+    },
+    {
+      "id": 56,
+      "question": "\"Yol değiştiren / Sapan\" anlamına gelen ve Sibirya’ya ismini veren Türk topluluğu hangisidir?",
+      "answer": "Sibirler (Sabarlar)"
+    },
+    {
+      "id": 57,
+      "question": "İlk Türk devletlerinde hükümet (bakanlar kurulu) ne adla anılır?",
+      "answer": "Ayukı"
+    },
+    {
+      "id": 58,
+      "question": "İlk Türk devletlerinde \"Başbakan\" veya \"Vezir\" görevindeki kişiye ne denir?",
+      "answer": "Ayguci (Üge)"
+    },
+    {
+      "id": 59,
+      "question": "Türklerde yazısız hukuk kurallarına ne ad verilir?",
+      "answer": "Töre"
+    },
+    {
+      "id": 60,
+      "question": "Türk ordusunun en etkili savaş taktiği olan, sahte geri çekilme ve kuşatma esasına dayanan taktiğin adı nedir?",
+      "answer": "Turan Taktiği (Hilal / Kurt Kapanı)"
+    },
+    {
+      "id": 61,
+      "question": "Çin Seddi’nin yapılma sebebi olan Türk devleti hangisidir?",
+      "answer": "Asya Hun Devleti"
+    },
+    {
+      "id": 62,
+      "question": "Avrupa Hun Devleti’nin en parlak dönemini yaşatan Attila’nın, Almanların \"Nibelungen Destanı\"ndaki adı nedir?",
+      "answer": "Etzel"
+    },
+    {
+      "id": 63,
+      "question": "Attila’nın Batı Roma (İtalya) seferi sırasında kendisinden aman dileyen Papa kimdir?",
+      "answer": "I. Leo"
+    },
+    {
+      "id": 64,
+      "question": "Kavimler Göçü sonucunda Avrupa’da kurulan siyasi yapıya (derebeylik) ne ad verilir?",
+      "answer": "Feodalite"
+    },
+    {
+      "id": 65,
+      "question": "Göktürklerin, İpek Yolu hakimiyeti için Sasanilerle iş birliği yapıp yıktıkları devlet hangisidir?",
+      "answer": "Akhunlar"
+    },
+    {
+      "id": 66,
+      "question": "Göktürklerin, İpek Yolu hakimiyeti için Bizans ile iş birliği yapıp zayıflattıkları devlet hangisidir?",
+      "answer": "Sasaniler"
+    },
+    {
+      "id": 67,
+      "question": "Orta Asya’dan Bizans’a giden ilk Türk elçisi kimdir?",
+      "answer": "Manyak"
+    },
+    {
+      "id": 68,
+      "question": "Türk adının anlamı Çin kaynaklarında ne olarak geçer?",
+      "answer": "Miğfer"
+    },
+    {
+      "id": 69,
+      "question": "Türk adının anlamı Kaşgarlı Mahmut’un Divan-ı Lügati’t Türk eserinde ne olarak geçer?",
+      "answer": "Olgunluk Çağı"
+    },
+    {
+      "id": 70,
+      "question": "Türk adının anlamı Ziya Gökalp’e göre nedir?",
+      "answer": "Töreli (Kanun, Nizam Sahibi)"
+    },
+    {
+      "id": 71,
+      "question": "İlk Türk devletlerinde toplumsal yapının en küçük birimi olan aileye ne ad verilir?",
+      "answer": "Oguş"
+    },
+    {
+      "id": 72,
+      "question": "Ailelerin birleşmesiyle oluşan \"Sülale\" birliğine ne ad verilir?",
+      "answer": "Urug"
+    },
+    {
+      "id": 73,
+      "question": "Sülalelerin (Urug) birleşmesiyle oluşan \"Boy\"a ne ad verilir?",
+      "answer": "Boy (Bod)"
+    },
+    {
+      "id": 74,
+      "question": "Boyların birleşmesiyle oluşan \"Millet\"e ne ad verilir?",
+      "answer": "Budun"
+    },
+    {
+      "id": 75,
+      "question": "Milletin bir teşkilat altında toplanmasıyla oluşan \"Devlet\"e ne ad verilir?",
+      "answer": "İl (El)"
+    },
+    {
+      "id": 76,
+      "question": "İslamiyet öncesi Türklerde ressamlara ne ad verilir?",
+      "answer": "Bedizci"
+    },
+    {
+      "id": 77,
+      "question": "Uygurların kâğıt ve matbaayı kullanmaları neyin göstergesidir?",
+      "answer": "Kültürel etkileşime açık olduklarının ve yerleşik hayatın"
+    },
+    {
+      "id": 78,
+      "question": "Türklerin kullandığı ilk milli alfabe hangisidir?",
+      "answer": "Göktürk (Orhun) Alfabesi"
+    },
+    {
+      "id": 79,
+      "question": "Türklerin kullandığı ikinci milli alfabe hangisidir?",
+      "answer": "Uygur Alfabesi"
+    },
+    {
+      "id": 80,
+      "question": "Türklerin tarih boyunca kullandığı alfabeler sırasıyla hangileridir?",
+      "answer": "Göktürk, Uygur, Soğd, Kiril, Arap, Latin"
+    },
+    {
+      "id": 81,
+      "question": "Orhun Abideleri'ni çözen (okuyan) Danimarkalı dilbilimci kimdir?",
+      "answer": "William Thomsen"
+    },
+    {
+      "id": 82,
+      "question": "Orhun Abideleri günümüzde hangi ülke sınırları içerisindedir?",
+      "answer": "Moğolistan"
+    },
+    {
+      "id": 83,
+      "question": "İlk Türk devletlerinde halkın eğlencelerine (şölen) ne ad verilir?",
+      "answer": "Toy"
+    },
+    {
+      "id": 84,
+      "question": "Türklerde parayı değişim aracı olarak kullanan ilk devlet hangisidir?",
+      "answer": "Göktürkler"
+    },
+    {
+      "id": 85,
+      "question": "Uygurlarda \"Öğretmen\" anlamına gelen terim nedir?",
+      "answer": "Baksı (Bazen din adamı, bazen öğretmen anlamında kullanılır) / Bahşı"
+    },
+    {
+      "id": 86,
+      "question": "Türk tarihinde \"Çar\" unvanını kullanan ilk Türk hükümdarı kimdir?",
+      "answer": "Simon (Tuna Bulgarları)"
+    },
+    {
+      "id": 87,
+      "question": "Museviliği kabul eden Hazarların ordusundaki en belirgin özellik nedir?",
+      "answer": "Ücretli asker bulundurmaları (Türk devletlerinde nadirdir)"
+    },
+    {
+      "id": 88,
+      "question": "\"Hazar Barış Çağı\" (Pax Hazaria) hangi özelliği ifade eder?",
+      "answer": "Farklı dinlerin ve tüccarların huzur içinde yaşamasını"
+    },
+    {
+      "id": 89,
+      "question": "İlk Türk devletlerinde \"Kurultay\" üyelerine ne ad verilir?",
+      "answer": "Toygun"
+    },
+    {
+      "id": 90,
+      "question": "İlk Türk devletlerinde Hakan’ın eşine ne denir ve yetkisi nedir?",
+      "answer": "Hatun (Katun) - Kurultaya katılabilir, elçi kabul edebilir (Siyasi yetkisi vardır)."
+    },
+    {
+      "id": 91,
+      "question": "Türklerde bağımsızlığa verilen isim nedir?",
+      "answer": "Oksızlık"
+    },
+    {
+      "id": 92,
+      "question": "İlk Türk devletlerinde \"Halk\" anlamına gelen kelime nedir?",
+      "answer": "Kün"
+    },
+    {
+      "id": 93,
+      "question": "Eski Türklerde kullanılan telli çalgının adı nedir?",
+      "answer": "Kopuz"
+    },
+    {
+      "id": 94,
+      "question": "Türklerin demiri işlediği ve Ergenekon Destanı'nda geçen dağ hangisidir?",
+      "answer": "Demirkapı (Ergenekon)"
+    },
+    {
+      "id": 95,
+      "question": "Yenisey Yazıtları hangi Türk topluluğuna aittir?",
+      "answer": "Kırgızlar"
+    },
+    {
+      "id": 96,
+      "question": "\"Altın Elbiseli Adam\" zırhı hangi Türk topluluğuna ait kurgan'da bulunmuştur?",
+      "answer": "İskitler (Sakalar) - Esik Kurganı"
+    },
+    {
+      "id": 97,
+      "question": "Dünyanın en eski halısı olarak bilinen \"Pazırık Halısı\" hangi devlete aittir?",
+      "answer": "Asya Hun Devleti"
+    },
+    {
+      "id": 98,
+      "question": "Maniheizm dininin etkisiyle Uygurlarda gelişen sanat dalları hangileridir?",
+      "answer": "Mimari, Resim (Fresk), Minyatür"
+    },
+    {
+      "id": 99,
+      "question": "Türk tarihinde ilk kütüphaneyi kuran devlet hangisidir?",
+      "answer": "Uygurlar"
+    },
+    {
+      "id": 100,
+      "question": "Orta Asya Türk kültür merkezlerinin en eskisi ve \"Orta Asya'nın en eski kültürü\" kabul edilen merkez hangisidir?",
+      "answer": "Anav Kültürü"
+    }
+  ]
+}

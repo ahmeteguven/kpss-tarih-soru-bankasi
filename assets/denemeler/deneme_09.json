@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 09",
+  "examCode": "deneme_09",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 09)\n\n**İlk Türkler ve İslamiyet:** Türklerde hapis cezalarının kısa süreli olmasının ve taşınabilir sanat eserlerinin gelişmesinin nedeni konar-göçer yaşam tarzıdır. Uygurlar döneminde yerleşik hayatın kanıtı olarak sulama kanalları ve ambarlar görülür. Türk tarihinde 'Doğu'nun ve Batı'nın Sultanı' unvanı Abbasi Halifesi tarafından Tuğrul Bey'e verilmiştir. Anadolu Selçuklu Devleti'nde çıkan ilk dini ve sosyal nitelikli isyan Baba İshak (Babailer) İsyanı'dır (1240).\n\n**Osmanlı Kuruluş ve Dağılma:** Osmanlı Devleti'nde Lonca teşkilatında malların fiyatlarını (Narh) denetleyen görevli Muhtesip'tir. Lale Devri, Pasarofça Antlaşması (1718) ile başlamış, Patrona Halil İsyanı (1730) ile sona ermiştir. Sened-i İttifak'ın yerli (iç) dinamiklerle oluşmasında Alemdar Mustafa Paşa etkili olmuştur. II. Abdülhamit döneminin resmi politikası İslamcılık'tır.\n\n**Milli Mücadele ve Cumhuriyet:** Amasya Genelgesi'nde yer alan 'Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir' maddesi, Kurtuluş Savaşı'nın gerekçesidir. Misak-ı Milli kararlarının kabulü, İstanbul'un resmen işgaline neden olmuştur. I. İnönü Savaşı'ndan sonra Moskova Antlaşması ile Batum Misak-ı Milli'den verilen ilk taviz olmuştur. Cumhuriyetin ilanı (1923) ile Meclis Hükümeti Sistemi'nden Kabine Sistemi'ne geçilmiştir. Hatay'ın Türkiye'ye katılması sürecinde Atatürk, Asım Us takma adıyla Kurun gazetesinde makaleler yazmıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Asya Hun Hükümdarı Mete Han, Çin'i askeri olarak mağlup etmesine rağmen Çin topraklarına yerleşmemiş, sadece vergiye bağlamakla yetinmiştir. Mete Han'ın bu politikasının temel amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Çin'in askeri gücünden çekinmesi",
+        "Türk nüfusunun asimile olmasını engellemek",
+        "Çin topraklarının tarıma elverişsiz olması",
+        "Çin ile dostluk ilişkileri kurmak",
+        "Farklı seferlere hazırlık yapmak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Türklerde devleti yönetme yetkisinin (Kut) kan yoluyla babadan oğula geçtiğine inanılırdı. Kut anlayışının sonuçlarından biri değildir?",
+      "options": [
+        "Hanedan üyelerinin tahta geçme hakkının olması",
+        "Taht kavgalarının yaşanması",
+        "Devletlerin kısa ömürlü olması",
+        "Hükümdarın yetkilerinin sınırsız olması",
+        "Kanın kutsal sayılıp hanedan üyelerinin kanının akıtılmaması"
+      ],
+      "correctOption": "D",
+      "solution": "Türklerde hükümdarın yetkileri Töre ile sınırlıdır, mutlak monarşi tam anlamıyla yoktur."
+    },
+    {
+      "id": 3,
+      "text": "Karahanlılar döneminde inşa edilen ve sınır güvenliği ile ticaretin gelişmesine katkı sağlayan, Türk İslam mimarisindeki ilk kervansaray örneklerine ne ad verilir?",
+      "options": [
+        "Külliye",
+        "Bedesten",
+        "Arasta",
+        "İmaret",
+        "Ribat"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu’da kurulan ilk Türk beyliği aşağıdakilerden hangisidir?",
+      "options": [
+        "Danişmentliler",
+        "Mengücekliler",
+        "Artuklular",
+        "Saltuklular",
+        "Çaka Beyliği"
+      ],
+      "correctOption": "D",
+      "solution": "Erzurum civarında Ebul Kasım Saltuk Bey tarafından kurulmuştur."
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nin, fethettiği Balkan topraklarında kalıcılığı sağlamak amacıyla Anadolu’daki göçebe Türkmenleri o bölgelere yerleştirmesi politikasına ne ad verilir?",
+      "options": [
+        "Devşirme",
+        "İstimalet",
+        "İltizam",
+        "İskan",
+        "Müsadere"
+      ],
+      "correctOption": "D",
+      "solution": "Yerleştirme politikası."
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti’nde Tımar sisteminin uygulandığı, vergilerin doğrudan asker beslemek için kullanıldığı ve merkeze yakın olan eyaletlere ne ad verilir?",
+      "options": [
+        "Salyaneli (Yıllıklı) Eyaletler",
+        "Salyanesiz (Yıllıksız) Eyaletler",
+        "İmtiyazlı Eyaletler",
+        "Yurtluk",
+        "Ocaklık"
+      ],
+      "correctOption": "B",
+      "solution": "Salyane \"Yıllık Maaş\" demektir. Salyanesiz demek, memura maaş yok, toprak geliri var demektir."
+    },
+    {
+      "id": 7,
+      "text": "Kanuni Sultan Süleyman’ın son seferi olan ve kale kuşatması devam ederken vefat ettiği sefer hangisidir?",
+      "options": [
+        "Viyana",
+        "Belgrad",
+        "Rodos",
+        "Bağdat",
+        "Zigetvar"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "III. Selim döneminde yapılan tüm ıslahatlara ve bu dönemde kurulan Batı tarzı orduya ne ad verilir?",
+      "options": [
+        "Sekban-ı Cedid",
+        "Nizam-ı Cedid",
+        "Eşkinci Ocağı",
+        "Asakir-i Mansure-i Muhammediye",
+        "Hamidiye Alayları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "1774 yılında Rusya ile imzalanan ve Osmanlı tarihinin en ağır antlaşmalarından biri olan Küçük Kaynarca Antlaşması’nın en önemli sonucu nedir?",
+      "options": [
+        "Karadeniz’in Türk gölü olması",
+        "Kırım’ın bağımsız olması",
+        "Sırbistan’a özerklik verilmesi",
+        "Yunanistan’ın bağımsız olması",
+        "Mısır’ın kaybedilmesi"
+      ],
+      "correctOption": "B",
+      "solution": "İlk defa halkı Müslüman olan bir toprak kaybedildi."
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti’nde ilk resmi gazete olan ve II. Mahmut döneminde yayımlanmaya başlayan gazete hangisidir?",
+      "options": [
+        "Ceride-i Havadis",
+        "Tercüman-ı Ahval",
+        "Tasvir-i Efkar",
+        "İrade-i Milliye",
+        "Takvim-i Vekayi"
+      ],
+      "correctOption": "E",
+      "solution": "1831"
+    },
+    {
+      "id": 11,
+      "text": "II. Abdülhamit’in, 93 Harbi’ndeki yenilgiyi ve meclis içindeki azınlık milletvekillerinin zararlı faaliyetlerini gerekçe göstererek kapattığı ve 33 yıl süren döneme ne ad verilir?",
+      "options": [
+        "Lale Devri",
+        "İstibdat Dönemi",
+        "Fetret Devri",
+        "Meşrutiyet Dönemi",
+        "Tanzimat Dönemi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Mondros Ateşkes Antlaşması’ndan sonra işgal edilen ilk Osmanlı toprağı neresidir?",
+      "options": [
+        "İzmir",
+        "İstanbul",
+        "Musul",
+        "İskenderun",
+        "Antalya"
+      ],
+      "correctOption": "C",
+      "solution": "İngiltere tarafından işgal edilmiştir."
+    },
+    {
+      "id": 13,
+      "text": "İtilaf Devletleri’nin; Rusya’ya yardım göndermek, İstanbul’u alarak Osmanlı’yı savaş dışı bırakmak ve savaşı kısa sürede bitirmek amacıyla açtığı cephe hangisidir?",
+      "options": [
+        "Kafkas Cephesi",
+        "Çanakkale Cephesi",
+        "Kanal Cephesi",
+        "Galiçya Cephesi",
+        "Irak Cephesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Mustafa Kemal’in Amasya Genelgesi’ni \"tek başına\" değil de Rauf Orbay, Ali Fuat Cebesoy ve Refet Bele gibi komutanlara da imzalatarak yayımlamasının temel amacı nedir?",
+      "options": [
+        "İstanbul Hükümeti ile anlaşmak",
+        "Padişahın onayını almak",
+        "Milli Mücadele’yi kişisellikten çıkarıp halka mal etmek ve ordu desteğini göstermek",
+        "Sorumluluktan kaçmak",
+        "İtilaf Devletleri’ni korkutmak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Misak-ı Milli kararlarında \"Ulusal Bağımsızlık\" ile ilgili kararlar alınırken, hangi konuyla ilgili bir karar alınmamıştır?",
+      "options": [
+        "Kapitülasyonlar",
+        "Sınırlar",
+        "Boğazlar",
+        "Azınlıklar",
+        "Ulusal Egemenlik (Rejim değişikliği)"
+      ],
+      "correctOption": "E",
+      "solution": "Misak-ı Milli bir bağımsızlık bildirisidir, padişahın da onayıyla meclisten geçmiştir. Bu yüzden saltanatı kaldıracak veya cumhuriyeti getirecek bir karar içermez."
+    },
+    {
+      "id": 16,
+      "text": "TBMM’nin uluslararası alanda imzaladığı ilk antlaşma hangisidir?",
+      "options": [
+        "Gümrü Antlaşması",
+        "Moskova Antlaşması",
+        "Ankara Antlaşması",
+        "Kars Antlaşması",
+        "Lozan Antlaşması"
+      ],
+      "correctOption": "A",
+      "solution": "3 Aralık 1920"
+    },
+    {
+      "id": 17,
+      "text": "Sakarya Zaferi’nden sonra Fransa ile imzalanan ve Güney Cephesi’ni resmen kapatan antlaşma hangisidir?",
+      "options": [
+        "1921 Ankara Antlaşması",
+        "1926 Ankara Antlaşması",
+        "Gümrü Antlaşması",
+        "Lozan Antlaşması",
+        "İstanbul Antlaşması"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması’nı Türkiye adına imzalayan heyetin başkanı kimdir?",
+      "options": [
+        "Rauf Orbay",
+        "İsmet İnönü",
+        "Kazım Karabekir",
+        "Fevzi Çakmak",
+        "Refet Bele"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Türkiye Cumhuriyeti’nin ilk açılan yükseköğretim kurumu (fakültesi) hangisidir?",
+      "options": [
+        "Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi",
+        "İstanbul Üniversitesi",
+        "Ankara Hukuk Mektebi",
+        "Gazi Eğitim Enstitüsü",
+        "Yüksek Ziraat Enstitüsü"
+      ],
+      "correctOption": "C",
+      "solution": "1925 yılında, hukuk devrimini yapacak savcı ve hakim yetiştirmek için açılmıştır."
+    },
+    {
+      "id": 20,
+      "text": "Halkevleri (1932) hangi amaçla kurulmuştur?",
+      "options": [
+        "Türk Dil Kurumu'na destek olmak",
+        "İnkılapları halka anlatmak, halkın kültür seviyesini yükseltmek ve köylü-aydın kaynaşmasını sağlamak",
+        "Sadece dil ve tarih alanında araştırma yapmak",
+        "Ekonomik krizle mücadele etmek",
+        "Tek partili sistemi bitirmek"
+      ],
+      "correctOption": "B",
+      "solution": "Türk Ocakları kapatılıp yerine Halkevleri kurulmuştur. Yayın organı \"Ülkü\" dergisidir."
+    },
+    {
+      "id": 21,
+      "text": "Şeyh Said İsyanı’nı bastırmak için çıkarılan kanun ve kurulan mahkeme hangisidir?",
+      "options": [
+        "Tekalif-i Milliye - Askeri Mahkeme",
+        "Firariler Kanunu - Nizamiye Mahkemesi",
+        "Hıyanet-i Vataniye - Divan-ı Harp",
+        "Teşkilat-ı Esasiye - Yüce Divan",
+        "Takrir-i Sükun - İstiklal Mahkemeleri"
+      ],
+      "correctOption": "E",
+      "solution": "Takrir-i Sükun: Huzuru Sağlama Yasası."
+    },
+    {
+      "id": 22,
+      "text": "Atatürk'ün sağlığında gerçekleşen ancak sonucunu (Türkiye'ye katıldığını) göremediği dış politika olayı hangisidir?",
+      "options": [
+        "Montrö",
+        "Sadabat Paktı",
+        "Hatay'ın Anavatana Katılması",
+        "Balkan Antantı",
+        "Milletler Cemiyeti üyeliği"
+      ],
+      "correctOption": "C",
+      "solution": "Bağımsız Hatay Cumhuriyeti'ni görmüş, ancak ilhakı görememiştir."
+    },
+    {
+      "id": 23,
+      "text": "1930 yılında imzalanan Dostluk Antlaşması sonrasında Türkiye'yi ziyaret eden ve Taksim Meydanı'ndaki Cumhuriyet Anıtı'na çelenk koyan Yunan Başbakanı kimdir?",
+      "options": [
+        "Karamanlis",
+        "Çaldaris",
+        "Venizelos",
+        "Metaksas",
+        "Papandreu"
+      ],
+      "correctOption": "C",
+      "solution": "Atatürk ile dostluk kurmuş ve onu Nobel'e aday göstermiştir."
+    },
+    {
+      "id": 24,
+      "text": "Türkiye'nin dış borçlarını ödemek için kurduğu ve gümrük gelirlerini denetleyen kurum olan \"Duyun-u Umumiye\"nin Türkiye üzerindeki mali denetimi ne zaman tamamen kalkmıştır?",
+      "options": [
+        "Hatay'ın katılması (1939)",
+        "Montrö (1936)",
+        "Dış Borçlar Antlaşması (1928)",
+        "Borçların bitmesi (1954)",
+        "Lozan Antlaşması (1923)"
+      ],
+      "correctOption": "E",
+      "solution": "Lozan ile Duyun-u Umumiye'nin mali denetimi ve vergi toplama yetkisi kaldırılmış, kurum sadece borçların paylaştırılması için bir süre daha sembolik kalmıştır."
+    },
+    {
+      "id": 25,
+      "text": "ABD Başkanı Harry Truman'ın, Sovyet tehdidi altındaki ülkelere (özellikle Türkiye ve Yunanistan'a) askeri ve ekonomik yardım yapılmasını öngören ve Soğuk Savaş'ın fiilen başlangıcı sayılan doktrini hangisidir?",
+      "options": [
+        "Eisenhower Doktrini",
+        "Monroe Doktrini",
+        "Truman Doktrini",
+        "Carter Doktrini",
+        "Nixon Doktrini"
+      ],
+      "correctOption": "C",
+      "solution": "(1947 - Komünizmin yayılmasını engellemek için.)"
+    },
+    {
+      "id": 26,
+      "text": "Çin'de 1949 yılında milliyetçileri (Tayvan'a süren) yenerek Çin Halk Cumhuriyeti'ni kuran komünist lider kimdir?",
+      "options": [
+        "Mao Zedong",
+        "Sun Yat Sen",
+        "Deng Şiaoping",
+        "Çan Kay Şek",
+        "Ho Şi Minh"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Bosna Savaşı'nı sona erdiren ve Bosna-Hersek'in bugünkü karmaşık siyasi yapısını (Kantonlar) kuran antlaşma hangisidir?",
+      "options": [
+        "Ankara Antlaşması",
+        "Rambouillet Antlaşması",
+        "Dayton Antlaşması",
+        "Kumanova Antlaşması",
+        "Paris Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": "(ABD'nin Ohio eyaletinde imzalanmıştır.)"
+    }
+  ]
+}

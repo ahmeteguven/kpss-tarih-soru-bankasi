@@ -1,0 +1,106 @@
+{
+  "konu_adi": "29- TANZİMAT DÖNEMİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "TANZİMAT DÖNEMİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu) (1839)"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Ferman, 1839'da Mustafa Reşit Paşa tarafından Gülhane Parkı'nda okundu. Osmanlı'nın Batı tarzı modernleşme ve hukuk devleti olma yolundaki ilk adımıdır."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Fermanın İlan Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İç Neden: Merkezi otoriteyi güçlendirmek ve azınlıkların isyan etmesini engelleyerek devlete bağlılıklarını artırmak.",
+        "Dış Neden: Avrupa devletlerinin iç işlerine karışmasını önlemek ve Londra Konferansı'nda (1840) Avrupalıların desteğini almaktır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Fermanın Önemli Maddeleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hukuk Üstünlüğü: Padişahın kendisinin de kanunlara uyacağı taahhüt edilmiştir. Bu, Osmanlı tarihinde ilk kez kanun gücünün padişahın üstünde olduğunu gösterir.",
+        "Eşitlik: Tüm vatandaşların can, mal ve namus güvenliği devlet garantisine alınmıştır.",
+        "Vergi Düzenlemesi: Herkesin geliri oranında vergi vermesi (Adaletli vergilendirme) ve iltizam (vergi kiralama) sisteminin kaldırılması sözü verilmiştir.",
+        "Müsadere: Müsadere (mal varlığına el koyma) sistemi tamamen kaldırılmıştır (Özel mülkiyetin güçlenmesi)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Fermanın Önemi ve Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hukuk Devleti Yolu: Osmanlı'da anayasal düzene geçişin ilk adımıdır.",
+        "Osmanlıcılık İdeolojisi: Osmanlıcılık fikir akımının resmen uygulanmaya başladığını gösterir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👑 Islahat Fermanı (1856)"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "1856'da Kırım Savaşı'nın ardından toplanan Paris Barış Konferansı'ndan hemen önce, Batılı devletlerin yoğun baskısı ile ilan edilmiştir."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Fermanın İlan Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Dış Baskı: Paris Konferansı'nda Avrupa devletlerinin Osmanlı'nın iç işlerine karışmasını önlemek ve Osmanlı toprak bütünlüğüne uluslararası güvence sağlamaktır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Fermanın Önemli Maddeleri (Gayrimüslim Hakları)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Eşitlik: Gayrimüslimler, devlet memuru olabilecek ve askeri okullara girebileceklerdir.",
+        "Vergi: Cizye ve Haraç gibi vergiler kaldırılmış, askerlikten muaf olmak için Bedel-i Askeri ödeyebilme hakkı tanınmıştır.",
+        "Ekonomi: Gayrimüslimlere banka, şirket ve okul açma hakkı tanınmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Fermanın Önemi ve Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Uluslararası Statü: Ferman, Paris Antlaşması'nın bir parçası haline gelmiştir. Bu durum, Avrupalı devletlere Osmanlı'nın iç işlerine karışma hakkı vermiştir.",
+        "Tepkiler: Müslüman ve Gayrimüslim halk arasında tepkilere neden olmuştur.",
+        "Dağılma Etkisi: Ferman, azınlıkların ulusçu taleplerini daha da artırmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🏛️ Tanzimat Dönemi İdari ve Hukuki Gelişmeler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Eğitim: Batı tarzı okullar (İdadi, Rüştiye) açılmıştır.",
+        "Hukuk: Nizamiye Mahkemeleri kurulmuştur (Hukuki ikilik yaratmıştır).",
+        "Maliye: İlk kez dış borçlanmaya gidilmiştir (Kırım Savaşı sırasında)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2165 @@
+{
+  "topicName": "İnkılap Tarihi ve Atatürkçülük",
+  "testSets": [
+    {
+      "testName": "Mini Test - 1 ",
+      "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (İnkılaplar - Siyasi Alandaki Gelişmeler)\nAnkara'nın Başkent Olması (13 Ekim 1923): İsmet İnönü'nün teklifiyle kabul edildi. (Lozan'ın onaylanmasından hemen sonra).\n\nCumhuriyetin İlanı (29 Ekim 1923):\nNeden: Devlet başkanlığı sorunu ve \"Sonbahar (Hükümet) Bunalımı\" (Meclis Hükümeti sisteminin tıkanması).\nSonuç: Devletin adı ve rejimi belli oldu. Kabine Sistemine geçildi.\nİlkler: Cumhurbaşkanı (Atatürk), Başbakan (İsmet İnönü), Meclis Başkanı (Fethi Okyar).\n\n3 Mart 1924 Devrimleri (Çok Önemli - Aynı Gün Oldu):\nHalifelik Kaldırıldı: Laiklik yolunda en büyük adım. (Ümmetten Ulusa geçiş).\nTevhid-i Tedrisat Kanunu: Eğitim birleşti, medreseler kapatıldı.\nŞeriye ve Evkaf Vekaleti Kaldırıldı: Yerine Diyanet İşleri ve Vakıflar Genel Müdürlüğü kuruldu. (Din işleri siyasetten ayrıldı).\nErkan-ı Harbiye Vekaleti Kaldırıldı: Yerine Genelkurmay Başkanlığı kuruldu. (Ordu siyasetten ayrıldı).\nOsmanlı Hanedanı Yurt Dışına Çıkarıldı.\n\nÇok Partili Hayat Denemeleri:\nHalk Fırkası (CHP): İlk parti. Ekonomide \"Devletçilik\".\nTerakkiperver Cumhuriyet Fırkası (TCF): İlk muhalefet partisi. Kazım Karabekir ve arkadaşları kurdu. Ekonomide \"Liberalizm\". \"Dini inançlara saygılıyız\" sloganı yüzünden Şeyh Said İsyanı çıkınca kapatıldı.\nSerbest Cumhuriyet Fırkası (SCF): Ali Fethi Okyar (Atatürk'ün isteğiyle) kurdu. Ekonomide \"Liberalizm\". Rejim karşıtlarının odağı olunca Fethi Bey partiyi kendi feshetti.\n\nRejime Karşı İsyanlar:\nŞeyh Said İsyanı: Rejime karşı ilk isyan. Takrir-i Sükun kanunu ile bastırıldı. Musul'un kaybına neden oldu.\nMenemen Olayı (Kubilay Olayı): Rejime karşı ikinci büyük isyan.",
+      "questions": [
+        {
+          "text": "Yeni Türk Devleti’nin başkentinin Ankara olması için TBMM’ye yasa teklifini sunan devlet adamı kimdir?",
+          "options": [
+            "Fevzi Çakmak",
+            "Mustafa Kemal",
+            "İsmet İnönü",
+            "Kazım Karabekir",
+            "Rauf Orbay"
+          ],
+          "correctOption": "C",
+          "solution": "Lozan dönüşü ilk işi bu olmuştur."
+        },
+        {
+          "text": "29 Ekim 1923’te Cumhuriyetin ilan edilmesini hızlandıran (doğrudan neden olan) olay hangisidir?",
+          "options": [
+            "Menemen Olayı",
+            "Şeyh Said İsyanı",
+            "Halifeliğin kaldırılması",
+            "Lozan Antlaşması",
+            "Hükümet (Sonbahar) Bunalımı"
+          ],
+          "correctOption": "E",
+          "solution": "Ali Fethi Okyar hükümetinin istifası ve yeni hükümetin kurulamaması."
+        },
+        {
+          "text": "Cumhuriyetin ilanıyla birlikte \"Meclis Hükümeti\" sistemi terk edilerek hangi hükümet modeline geçilmiştir?",
+          "options": [
+            "Kabine Sistemi",
+            "Başkanlık Sistemi",
+            "Federatif Sistem",
+            "Mutlakiyet",
+            "Karma Sistem"
+          ],
+          "correctOption": "A",
+          "solution": "Hükümet kurmak kolaylaşmıştır."
+        },
+        {
+          "text": "Türkiye Cumhuriyeti’nin ilk Cumhurbaşkanı Mustafa Kemal, ilk Başbakanı İsmet İnönü’dür. Peki, Cumhuriyetin ilanından sonraki ilk TBMM Başkanı kimdir?",
+          "options": [
+            "Kazım Özalp",
+            "Ali Fethi Okyar",
+            "Celal Bayar",
+            "Rauf Orbay",
+            "Refet Bele"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "3 Mart 1924 tarihinde yapılan inkılaplar arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Tevhid-i Tedrisat Kanunu'nun kabulü",
+            "Erkan-ı Harbiye Vekaleti'nin kaldırılması",
+            "Halifeliğin kaldırılması",
+            "Tekke, Zaviye ve Türbelerin kapatılması",
+            "Şeriye ve Evkaf Vekaleti'nin kaldırılması"
+          ],
+          "correctOption": "D",
+          "solution": "Tekke ve Zaviyelerin kapatılması 1925 yılındadır."
+        },
+        {
+          "text": "Halifeliğin kaldırılması; I. Laiklik II. Cumhuriyetçilik III. Milliyetçilik ilkelerinden hangileriyle doğrudan ilgilidir?",
+          "options": [
+            "I ve III",
+            "I ve II",
+            "II ve III",
+            "Yalnız I",
+            "I, II ve III"
+          ],
+          "correctOption": "E",
+          "solution": "Laiklik: Din-devlet ayrımı. Cumhuriyetçilik: Egemenliğin millete geçmesi. Milliyetçilik: Ümmet toplumundan ulus topluma geçiş."
+        },
+        {
+          "text": "Şeriye ve Evkaf Vekaleti’nin kaldırılmasıyla, din işlerini yürütmek üzere kurulan kurum hangisidir?",
+          "options": [
+            "Maarif Vekaleti",
+            "Diyanet İşleri Başkanlığı",
+            "Türk Tarih Kurumu",
+            "Adliye Vekaleti",
+            "Vakıflar Genel Müdürlüğü"
+          ],
+          "correctOption": "B",
+          "solution": "Vakıf malları için ise Vakıflar Genel Müdürlüğü kurulmuştur."
+        },
+        {
+          "text": "Erkan-ı Harbiye Vekaleti’nin kaldırılarak yerine Genelkurmay Başkanlığı’nın kurulmasının temel amacı nedir?",
+          "options": [
+            "Orduyu siyasetten ayırmak",
+            "Askerlik süresini kısaltmak",
+            "Ordunun silah ihtiyacını karşılamak",
+            "Yeniçeri Ocağı’nı kaldırmak",
+            "Milli Savunma Bakanlığı’nı kapatmak"
+          ],
+          "correctOption": "A",
+          "solution": "Ordu komutanları ya milletvekilliğini ya askerliği seçecektir. Fevzi Çakmak askerliği seçmiştir."
+        },
+        {
+          "text": "Türkiye Cumhuriyeti’nin ilk muhalefet partisi hangisidir?",
+          "options": [
+            "Ahali Fırkası",
+            "Millet Partisi",
+            "Demokrat Parti",
+            "Terakkiperver Cumhuriyet Fırkası",
+            "Serbest Cumhuriyet Fırkası"
+          ],
+          "correctOption": "D",
+          "solution": "Kazım Karabekir başkanlığında kurulmuştur."
+        },
+        {
+          "text": "Terakkiperver Cumhuriyet Fırkası’nın (TCF) savunduğu ekonomik model aşağıdakilerden hangisidir?",
+          "options": [
+            "Komünizm",
+            "Devletçilik",
+            "Liberalizm (Serbest Piyasa)",
+            "Sosyalizm",
+            "Merkantilizm"
+          ],
+          "correctOption": "C",
+          "solution": "CHF Devletçiliği savunurken, TCF Liberalizmi savunmuştur."
+        },
+        {
+          "text": "Terakkiperver Cumhuriyet Fırkası’nın parti tüzüğünde yer alan hangi madde, partinin kapatılmasına ve rejim karşıtlarının partide toplanmasına neden olmuştur?",
+          "options": [
+            "\"Cumhurbaşkanı olan kişi milletvekilliğinden istifa etmelidir.\"",
+            "\"Partimiz, dini inançlara ve düşüncelere saygılıdır.\"",
+            "\"Tek dereceli seçim sistemini savunuyoruz.\"",
+            "\"Cumhuriyet ilkesine bağlıyız.\"",
+            "\"Yerinden yönetimi (Adem-i Merkeziyet) savunuyoruz.\""
+          ],
+          "correctOption": "B",
+          "solution": "Bu madde irticai faaliyetlerin cesaret bulmasına neden olmuştur."
+        },
+        {
+          "text": "Cumhuriyet rejimine karşı çıkan ilk isyan hangisidir?",
+          "options": [
+            "Menemen Olayı",
+            "Anzavur İsyanı",
+            "Çerkez Ethem İsyanı",
+            "Şeyh Said İsyanı",
+            "İzmir Suikastı"
+          ],
+          "correctOption": "D",
+          "solution": "1925 - Diyarbakır/Piran'da başlamıştır."
+        },
+        {
+          "text": "Şeyh Said İsyanı’nı bastırmak için çıkarılan kanun ve kurulan mahkeme hangisidir?",
+          "options": [
+            "Tekalif-i Milliye - Askeri Mahkeme",
+            "Firariler Kanunu - Nizamiye Mahkemesi",
+            "Hıyanet-i Vataniye - Divan-ı Harp",
+            "Teşkilat-ı Esasiye - Yüce Divan",
+            "Takrir-i Sükun - İstiklal Mahkemeleri"
+          ],
+          "correctOption": "E",
+          "solution": "Takrir-i Sükun: Huzuru Sağlama Yasası."
+        },
+        {
+          "text": "Şeyh Said İsyanı nedeniyle Türkiye, Musul sorunu konusunda İngiltere karşısında zayıf düşmüş ve Musul'u kaybetmiştir. Bu durum neyin göstergesidir?",
+          "options": [
+            "Dış politikanın iç politikadaki gelişmelerden etkilendiğinin",
+            "Hatay sorununun çözüldüğünün",
+            "Ordunun yetersiz olduğunun",
+            "İngiltere'nin askeri olarak çok güçlü olduğunun",
+            "Ekonomik krizin yaşandığının"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "1926 yılında Mustafa Kemal’e yönelik planlanan \"İzmir Suikastı\" girişiminin ortaya çıkması üzerine Mustafa Kemal o meşhur sözünü söylemiştir: \"Benim naçiz vücudum elbet bir gün toprak olacaktır, fakat...\" cümlesi nasıl devam eder?",
+          "options": [
+            "\"...fikirlerim sonsuza kadar yaşayacaktır.\"",
+            "\"...bu vatan bölünmez bir bütündür.\"",
+            "\"...Türkiye Cumhuriyeti ilelebet payidar kalacaktır.\"",
+            "\"...Türk milleti beni asla unutmayacaktır.\"",
+            "\"...kurduğum parti devleti yönetecektir.\""
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "1930 yılında Ali Fethi Okyar tarafından (Mustafa Kemal’in isteğiyle) kurulan ikinci muhalefet partisi hangisidir?",
+          "options": [
+            "Hürriyet Partisi",
+            "Milli Kalkınma Partisi",
+            "Demokrat Parti",
+            "Serbest Cumhuriyet Fırkası",
+            "Terakkiperver Cumhuriyet Fırkası"
+          ],
+          "correctOption": "D",
+          "solution": "Ekonomik kriz -1929 Buhranı- ve denetimsizlik nedeniyle kurulması istenmiştir."
+        },
+        {
+          "text": "Serbest Cumhuriyet Fırkası’nın ömrü ne kadar sürmüştür ve nasıl kapanmıştır?",
+          "options": [
+            "3 ay sürmüş, Fethi Bey partiyi kendi isteğiyle (feshederek) kapatmıştır.",
+            "Şeyh Said isyanı nedeniyle kapatılmıştır.",
+            "1 yıl sürmüş, mahkeme kararıyla kapatılmıştır.",
+            "Atatürk tarafından kapatılmıştır.",
+            "5 yıl sürmüş, seçimle iktidara gelmiştir."
+          ],
+          "correctOption": "A",
+          "solution": "Rejim karşıtlarının partiye doluştuğunu gören Fethi Okyar, \"Ben arkadaşımla (Atatürk) karşı karşıya gelmem\" diyerek partiyi kapatmıştır."
+        },
+        {
+          "text": "Serbest Cumhuriyet Fırkası’nın kapatılmasından kısa bir süre sonra İzmir’in Menemen ilçesinde çıkan ve Teğmen Kubilay’ın şehit edildiği irticai olay hangisidir?",
+          "options": [
+            "31 Mart Vakası",
+            "Vaka-i Vakvakiye",
+            "Menemen Olayı",
+            "Dersim Olayları",
+            "Şeyh Said İsyanı"
+          ],
+          "correctOption": "C",
+          "solution": "Cumhuriyet rejimine karşı çıkan ikinci büyük isyandır."
+        },
+        {
+          "text": "Menemen Olayı (Kubilay Olayı) suçluları hangi mahkemede yargılanmıştır?",
+          "options": [
+            "Yargıtay",
+            "Anayasa Mahkemesi",
+            "Ağır Ceza Mahkemesi",
+            "İstiklal Mahkemeleri",
+            "Divan-ı Harp (Sıkıyönetim Mahkemesi)"
+          ],
+          "correctOption": "E",
+          "solution": "Dikkat: İstiklal Mahkemeleri en son İzmir Suikastı davasında görev yapmıştır. Menemen'de Divan-ı Harp vardır."
+        },
+        {
+          "text": "Türk kadınına siyasi hakların verilmesi (Seçme ve Seçilme) hangi sırayla gerçekleşmiştir? (Kod: BMW)",
+          "options": [
+            "Vekil - Belediye - Muhtar",
+            "Belediye - Muhtar - Vekil (Milletvekili)",
+            "Muhtar - Belediye - Vekil",
+            "Vekil - Muhtar - Belediye",
+            "Belediye - Vekil - Muhtar"
+          ],
+          "correctOption": "B",
+          "solution": "1930 Belediye, 1933 Muhtar, 1934 Vekil."
+        },
+        {
+          "text": "1924 Anayasası'nda 1928 yılında yapılan değişiklikle anayasadan çıkarılan madde hangisidir?",
+          "options": [
+            "\"Devletin dini İslam'dır.\"",
+            "\"Türkçe resmi dildir.\"",
+            "\"Türkiye Devleti bir Cumhuriyettir.\"",
+            "\"Başkent Ankara'dır.\"",
+            "\"Egemenlik kayıtsız şartsız milletindir.\""
+          ],
+          "correctOption": "A",
+          "solution": "Laikleşme yolunda atılan önemli bir adımdır."
+        },
+        {
+          "text": "Atatürk İlkeleri anayasaya (1924 Anayasası'na) hangi yıl girmiştir?",
+          "options": [
+            "1924",
+            "1945",
+            "1937",
+            "1928",
+            "1923"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "\"Milli egemenlik, seçim, meclis, parti, çok partili hayat, kadınlara seçme hakkı\" gibi kavramlar doğrudan hangi Atatürk ilkesi ile ilgilidir?",
+          "options": [
+            "Laiklik",
+            "Halkçılık",
+            "Devletçilik",
+            "Milliyetçilik",
+            "Cumhuriyetçilik"
+          ],
+          "correctOption": "E",
+          "solution": "Yönetim ve siyasetle ilgili her şey Cumhuriyetçiliktir."
+        },
+        {
+          "text": "Osmanlı hanedanının yurt dışına çıkarılması kararı hangi kanunla alınmıştır?",
+          "options": [
+            "Soyadı Kanunu",
+            "Halifeliğin Kaldırılması Kanunu",
+            "Teşkilat-ı Esasiye",
+            "Medeni Kanun",
+            "Tekke ve Zaviyelerin Kapatılması"
+          ],
+          "correctOption": "B",
+          "solution": "3 Mart 1924"
+        },
+        {
+          "text": "Terakkiperver Cumhuriyet Fırkası'nın kurucuları arasında (KARAR kodlaması) aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Ali Fuat Cebesoy",
+            "Refet Bele",
+            "Kazım Karabekir",
+            "İsmet İnönü",
+            "Rauf Orbay"
+          ],
+          "correctOption": "D",
+          "solution": "İsmet İnönü CHP'dedir (Başbakan). TCF'yi kuranlar Milli Mücadele'nin diğer paşalarıdır. Adnan Adıvar da kurucular arasındadır."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 2",
+      "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 26 Özeti - Hukuk ve Eğitim)\nHukuk İnkılabı:\nMedeni Kanun (17 Şubat 1926): İsviçre'den alındı. (Çünkü: Pratik, akılcı, laik ve kadın-erkek eşitliğine dayalı).\nGetirdikleri: Resmi nikah, tek eşlilik, mirasta ve şahitlikte eşitlik, boşanma hakkı, meslek seçme özgürlüğü.\nOlmayan: Kadınlara Siyasi Haklar YOKTUR. (Seçme-Seçilme hakkı 1930-34 arası verildi).\nPatrikhane: Mahkeme kurma yetkisi elinden alındı (Hukuk birliği sağlandı).\nDiğer Kanunlar: Ceza Kanunu (İtalya), Ticaret Kanunu (Almanya), İdare Hukuku (Fransa).\nAnkara Hukuk Mektebi (1925): Cumhuriyetin açtığı ilk yükseköğretim kurumudur.\n\nEğitim ve Kültür İnkılabı:\nTevhid-i Tedrisat (3 Mart 1924): Tüm okullar MEB'e bağlandı. Eğitimde birlik sağlandı. Medreseler kapatıldı.\nMaarif Teşkilatı Hakkında Kanun (1926): Müfredat belirlendi. (Laik ve milli eğitim).\nHarf İnkılabı (1 Kasım 1928): Latin alfabesi kabul edildi. Okuma-yazma oranını artırmak için.\nMillet Mektepleri: Yeni harfleri halka öğretmek için açıldı. Atatürk'e \"Başöğretmen\" unvanı verildi.\nTürk Tarih Kurumu (TTK - 1931): Türk tarihinin köklerini araştırmak, ümmet tarihinden ulus tarihine geçmek için. (İlk Başkanı: Tevfik Bıyıklıoğlu).\nTürk Dil Kurumu (TDK - 1932): Türkçeyi yabancı kelimelerden arındırmak, Güneş Dil Teorisi. (İlk Başkanı: Samih Rıfat).\nÜniversite Reformu (1933): Prof. Albert Malche raporuyla Darülfünun kapatıldı, İstanbul Üniversitesi kuruldu.\nHalkevleri (1932): İnkılapları halka anlatmak için kuruldu. Yayın organı: Ülkü Dergisi.",
+      "questions": [
+        {
+          "text": "Türkiye Cumhuriyeti, 1926 yılında kabul ettiği Türk Medeni Kanunu’nu hangi ülkeden uyarlayarak almıştır?",
+          "options": [
+            "Almanya",
+            "İsviçre",
+            "Fransa",
+            "İsveç",
+            "İtalya"
+          ],
+          "correctOption": "B",
+          "solution": "Pratik, laik ve demokratik olması nedeniyle."
+        },
+        {
+          "text": "Türk Medeni Kanunu ile kadınlara verilen haklar arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "İstediği mesleğe girme hakkı",
+            "Boşanma hakkı",
+            "Mahkemede şahitlikte eşitlik",
+            "Milletvekili seçme ve seçilme hakkı",
+            "Mirasta erkekle eşit pay alma hakkı"
+          ],
+          "correctOption": "D",
+          "solution": "Siyasi haklar Medeni Kanun'da yoktur. Kadınlara siyasi haklar 1930, 1933 ve 1934 yıllarında anayasa değişikliği ile verilmiştir."
+        },
+        {
+          "text": "Osmanlı Devleti’nde uygulanan \"Mecelle\"nin kaldırılarak yerine Medeni Kanun’un kabul edilmesi, Atatürk ilkelerinden doğrudan hangisiyle ilgilidir?",
+          "options": [
+            "Laiklik",
+            "İnkılapçılık",
+            "Devletçilik",
+            "Cumhuriyetçilik",
+            "Milliyetçilik"
+          ],
+          "correctOption": "A",
+          "solution": "Dini hukuk kuralları yerine akılcı ve laik hukuk kuralları geldiği için. Ayrıca kadın-erkek eşitliği yönüyle Halkçılık ilkesiyle de ilgilidir."
+        },
+        {
+          "text": "Türkiye Cumhuriyeti’nin açılan ilk yükseköğretim kurumu (fakültesi) hangisidir?",
+          "options": [
+            "Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi",
+            "İstanbul Üniversitesi",
+            "Ankara Hukuk Mektebi",
+            "Gazi Eğitim Enstitüsü",
+            "Yüksek Ziraat Enstitüsü"
+          ],
+          "correctOption": "C",
+          "solution": "1925 yılında, hukuk devrimini yapacak savcı ve hakim yetiştirmek için açılmıştır."
+        },
+        {
+          "text": "Medeni Kanun’un kabul edilmesiyle birlikte Fener Rum Patrikhanesi’nin hangi yetkisi elinden alınmıştır?",
+          "options": [
+            "Bina onarım yetkisi",
+            "Ruhban yetiştirme yetkisi",
+            "Dini ayin yapma yetkisi",
+            "Türkiye'de kalma hakkı",
+            "Mahkeme kurma ve dünyevi (hukuki) işlere bakma yetkisi"
+          ],
+          "correctOption": "E",
+          "solution": "Böylece hukukta birlik sağlanmış ve \"Patrikhane'nin ekümenik/devlet içinde devlet olma\" iddiası çürütülmüştür."
+        },
+        {
+          "text": "Türkiye’de eğitim ve öğretimin birleştirilmesini sağlayan, tüm okulların Milli Eğitim Bakanlığı’na bağlandığı ve medreselerin kapatılmasına zemin hazırlayan kanun hangisidir?",
+          "options": [
+            "Tevhid-i Tedrisat Kanunu",
+            "Harf İnkılabı Kanunu",
+            "Üniversite Reformu Kanunu",
+            "Maarif Teşkilatı Hakkında Kanun",
+            "Tekke ve Zaviyelerin Kapatılması Kanunu"
+          ],
+          "correctOption": "A",
+          "solution": "3 Mart 1924"
+        },
+        {
+          "text": "1926 yılında çıkarılan \"Maarif Teşkilatı Hakkında Kanun\"un en temel özelliği nedir?",
+          "options": [
+            "Okulların devletleştirilmesi",
+            "Üniversitelerin kurulması",
+            "Yabancı okulların kapatılması",
+            "Karma eğitime geçilmesi",
+            "Müfredatın laikleşmesi ve eğitimin çağdaş esaslara göre düzenlenmesi"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Yeni Türk Harflerinin (Latin Alfabesi) kabul edilmesinin temel amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "Arapçayı yasaklamak",
+            "Okuma-yazmayı kolaylaştırmak ve okuryazar oranını artırmak",
+            "Basın yayın hayatını denetlemek",
+            "Avrupa ile ilişkileri geliştirmek",
+            "Kuran-ı Kerim'in okunmasını engellemek"
+          ],
+          "correctOption": "B",
+          "solution": "Arap harflerinin Türkçenin ses yapısına tam uymaması ve öğrenim zorluğu gerekçe gösterilmiştir."
+        },
+        {
+          "text": "Harf İnkılabı’ndan sonra halka yeni harfleri öğretmek amacıyla açılan ve 16-45 yaş arası vatandaşların katılımının zorunlu olduğu kurslara ne ad verilir?",
+          "options": [
+            "Sanat Enstitüleri",
+            "Köy Enstitüleri",
+            "Türk Ocakları",
+            "Millet Mektepleri",
+            "Halkevleri"
+          ],
+          "correctOption": "D",
+          "solution": "Bu mekteplerin açılış tarihi olan 24 Kasım, Öğretmenler Günü olarak kutlanır."
+        },
+        {
+          "text": "Mustafa Kemal Atatürk’e \"Başöğretmen\" unvanı hangi kurum tarafından ve hangi vesileyle verilmiştir?",
+          "options": [
+            "İstanbul Üniversitesi - Fahri Doktora",
+            "TBMM - Harf İnkılabı",
+            "Millet Mektepleri - Millet Mektepleri Talimatnamesi",
+            "Türk Dil Kurumu - Dil Kurultayı",
+            "CHP - Parti Kurultayı"
+          ],
+          "correctOption": "C",
+          "solution": "24 Kasım 1928"
+        },
+        {
+          "text": "Atatürk’ün; \"Türk çocuğu ecdadını tanıdıkça daha büyük işler yapmak için kendinde kuvvet bulacaktır\" sözü doğrultusunda 1931 yılında kurulan kurum hangisidir?",
+          "options": [
+            "Ankara Dil ve Tarih-Coğrafya Fakültesi",
+            "Anadolu Medeniyetleri Müzesi",
+            "Türk Tarih Kurumu",
+            "Türk Dil Kurumu",
+            "Milli Kütüphane"
+          ],
+          "correctOption": "C",
+          "solution": "Ümmet tarihinden ulus tarihine geçiş."
+        },
+        {
+          "text": "Türk Tarih Kurumu’nun süreli yayın organı olan ve ismini bizzat Atatürk’ün koyduğu, vefatından önce okuduğu son dergi hangisidir?",
+          "options": [
+            "Belleten",
+            "Ülkü",
+            "Kadro",
+            "Türk Yurdu",
+            "Varlık"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Türkçeyi yabancı dillerin boyunduruğundan kurtarmak, Türkçenin zenginliğini ortaya koymak ve bir bilim dili haline getirmek amacıyla 1932 yılında kurulan kurum hangisidir?",
+          "options": [
+            "Türkiyat Enstitüsü",
+            "Millet Mektepleri",
+            "Maarif Vekaleti",
+            "Türk Tarih Kurumu",
+            "Türk Dil Kurumu (TDK)"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk döneminde üniversite reformunu gerçekleştirmek için Türkiye’ye davet edilen ve hazırladığı raporla Darülfünun’un kapatılıp yerine İstanbul Üniversitesi’nin kurulmasını sağlayan İsviçreli profesör kimdir?",
+          "options": [
+            "Reşit Galip",
+            "Albert Malche",
+            "John Dewey",
+            "Kühne",
+            "Hasan Ali Yücel"
+          ],
+          "correctOption": "B",
+          "solution": "1933 Üniversite Reformu"
+        },
+        {
+          "text": "Halkın kültür seviyesini yükseltmek, inkılapları halka benimsetmek ve köylü-aydın kaynaşmasını sağlamak amacıyla 1932 yılında kurulan kurum hangisidir?",
+          "options": [
+            "Köy Enstitüleri",
+            "Türk Ocakları",
+            "Köy Odaları",
+            "Halkevleri",
+            "Millet Mektepleri"
+          ],
+          "correctOption": "D",
+          "solution": "Türk Ocakları kapatılıp yerine Halkevleri kurulmuştur. Yayın organı \"Ülkü\" dergisidir."
+        },
+        {
+          "text": "Osmanlı Devleti’nde kullanılan Hicri ve Rumi takvimlerin kaldırılarak yerine \"Miladi Takvim\"in kabul edilmesi (1926) hangi alanda ikiliği önlemiş ve Batı ile uyumu sağlamıştır?",
+          "options": [
+            "Hukuk",
+            "Askeri",
+            "Dini",
+            "Eğitim",
+            "Ekonomik ve ticari ilişkiler"
+          ],
+          "correctOption": "E",
+          "solution": "Zaman ölçüsünde birlik ve uluslararası ticaret kolaylığı."
+        },
+        {
+          "text": "1931 yılında kabul edilen Ölçüler Kanunu ile \"Okka, arşın, endaze\" gibi geleneksel ölçü birimlerinin yerine \"Kilo, metre\" gibi uluslararası birimlerin getirilmesinin temel amacı nedir?",
+          "options": [
+            "Gelenekleri yok etmek",
+            "Ticari ilişkilerde Batı ile uyum sağlamak ve ülke içindeki ölçü kargaşasını bitirmek",
+            "Vergileri artırmak",
+            "Tarımı geliştirmek",
+            "Nüfusu saymak"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "1934 yılında kabul edilen \"Soyadı Kanunu\"nun çıkarılma gerekçesi aşağıdakilerden hangisi değildir?",
+          "options": [
+            "Toplumda ayrıcalık bildiren unvanları (Paşa, Bey, Ağa, Hafız) kaldırmak",
+            "Sosyal eşitliği sağlamak (Halkçılık)",
+            "Türkçeyi geliştirmek",
+            "Nüfus sayımını engellemek",
+            "Resmi işlerde (askerlik, tapu, miras) çıkan karışıklıkları önlemek"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’e \"Atatürk\" soyadı, hangi kurum tarafından ve ne zaman verilmiştir?",
+          "options": [
+            "CHP - 1930",
+            "Bakanlar Kurulu - 1923",
+            "Ordu - 1921",
+            "Türk Dil Kurumu - 1932",
+            "TBMM - 1934"
+          ],
+          "correctOption": "E",
+          "solution": "Özel bir kanunla verilmiştir ve başkasının kullanması yasaklanmıştır."
+        },
+        {
+          "text": "1935 yılında hafta tatilinin Cuma gününden Pazar gününe alınmasının temel nedeni nedir?",
+          "options": [
+            "Dini nedenler",
+            "Avrupa ile olan ekonomik ve ticari ilişkilerde uyum sağlamak",
+            "Çalışanların dinlenmesini engellemek",
+            "Tatil süresini uzatmak",
+            "Yahudilerin isteği"
+          ],
+          "correctOption": "B",
+          "solution": "Avrupa pazar günü tatilken biz çalışıyorduk, biz cuma tatilken onlar çalışıyordu; iletişim kopukluğu oluyordu."
+        },
+        {
+          "text": "Tekke, Zaviye ve Türbelerin kapatılması (1925); I. Laiklik II. Halkçılık III. Devletçilik ilkelerinden hangileriyle ilgilidir?",
+          "options": [
+            "Yalnız I",
+            "I ve III",
+            "I, II ve III",
+            "Yalnız II",
+            "I ve II"
+          ],
+          "correctOption": "E",
+          "solution": "Laiklik: Dini istismarın önlenmesi. Halkçılık: Şeyh, derviş gibi ayrıcalık bildiren unvanların kalkması ve eşitlik."
+        },
+        {
+          "text": "Türk Ceza Kanunu hangi ülkeden uyarlanarak alınmıştır?",
+          "options": [
+            "Fransa",
+            "İsveç",
+            "İsviçre",
+            "İtalya",
+            "Almanya"
+          ],
+          "correctOption": "D",
+          "solution": "1889 Zanardelli Yasası esas alınmıştır."
+        },
+        {
+          "text": "Osmanlı'dan kalan \"Sanayi-i Nefise Mektebi\", Cumhuriyet döneminde hangi kuruma dönüştürülmüştür?",
+          "options": [
+            "Gazi Eğitim Enstitüsü",
+            "Devlet Konservatuvarı",
+            "Güzel Sanatlar Akademisi (Mimar Sinan Güzel Sanatlar Üni.)",
+            "Dil ve Tarih-Coğrafya Fakültesi",
+            "İstanbul Üniversitesi"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Cumhuriyet döneminde müziğin geliştirilmesi ve çok sesli müziğin yaygınlaştırılması amacıyla Paul Hindemith öncülüğünde kurulan kurum hangisidir?",
+          "options": [
+            "Devlet Konservatuvarı",
+            "Cumhurbaşkanlığı Senfoni Orkestrası",
+            "Mızıka-i Hümayun",
+            "Musiki Muallim Mektebi",
+            "Darülhan"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün vasiyeti üzerine İş Bankası'ndaki hisselerinin gelirleri hangi iki kuruma bırakılmıştır?",
+          "options": [
+            "CHP - Halkevleri",
+            "Kızılay - Yeşilay",
+            "Darüşşafaka - Mehmetçik Vakfı",
+            "Türk Tarih Kurumu - Türk Dil Kurumu",
+            "Ankara Üniversitesi - İstanbul Üniversitesi"
+          ],
+          "correctOption": "D",
+          "solution": "Dil ve Tarih çalışmalarının devam etmesi için."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 3",
+      "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 27 Özeti - Ekonomi, Sağlık ve İlkeler)\nEkonomi İnkılabı:\nİzmir İktisat Kongresi (1923): Kazım Karabekir başkanlığında toplandı. Misak-ı İktisadi (Ekonomik Yemin) kabul edildi. Amaç: Ekonomik bağımsızlık ve yerli malı kullanımı. (Liberal ekonomi benimsendi).\nİş Bankası (1924): İlk özel banka. İlk genel müdürü Celal Bayar.\nTeşvik-i Sanayi Kanunu (1927): Özel sektörü sanayiye teşvik etmek için çıkarıldı. Ancak sermaye ve bilgi yetersizliği + 1929 Dünya Ekonomik Buhranı nedeniyle başarısız oldu.\nDevletçilik Dönemi (1930 Sonrası): Özel sektör başarısız olunca devlet ekonomiye el attı.\nI. Beş Yıllık Sanayi Planı (1933): Uygulandı ve başarılı oldu (Sümerbank, Etibank, Şişe Cam, Kağıt, Demir-Çelik fabrikaları açıldı). Rusya'dan kredi ve uzman desteği alındı.\nII. Beş Yıllık Sanayi Planı: II. Dünya Savaşı çıktığı için uygulanamadı.\nKabotaj Kanunu (1 Temmuz 1926): Türk karasularında gemi işletme hakkı Türklere verildi. (Milliyetçilik).\n\nSağlık:\nHıfzıssıhha Enstitüsü: Aşı ve serum üretimi.\nRefik Saydam: Dönemin efsane Sağlık Bakanı.\n\nAtatürk İlkeleri (Anahtar Kelimeler):\nCumhuriyetçilik: Seçim, Parti, Meclis, Demokrasi, Ulusal Egemenlik.\nMilliyetçilik: Türk, Tarih, Dil, Bağımsızlık, Kabotaj, Misak-ı Milli.\nHalkçılık: Eşitlik, Adalet, Ayrıcalıkların kalkması (Soyadı Kanunu, Medeni Kanun, Kadın Hakları), Sosyal Devlet.\nDevletçilik: Ekonomi, Banka, Fabrika, Planlı Kalkınma, Karma Ekonomi.\nLaiklik: Din, Mezhep, Akıl, Bilim, Hurafeden arınma.\nİnkılapçılık: Çağdaşlaşma, Modernleşme, Dinamizm, Sürekli yenilik.",
+      "questions": [
+        {
+          "text": "Yeni Türk Devleti'nin ekonomi politikasını belirlemek, ekonomik bağımsızlığı sağlamak ve yerli üretimi teşvik etmek amacıyla Kazım Karabekir başkanlığında toplanan kongre hangisidir?",
+          "options": ["Sanayi Kongresi", "Tarım Şurası", "İzmir İktisat Kongresi", "Sivas Kongresi", "Maarif Kongresi"],
+          "correctOption": "C",
+          "solution": "Misak-ı İktisadi kararları alınmıştır."
+        },
+        {
+          "text": "İzmir İktisat Kongresi'nde alınan \"Misak-ı İktisadi\" kararları doğrultusunda, Cumhuriyetin ilk yıllarında (1923-1929 arası) hangi ekonomik model benimsenmiştir?",
+          "options": ["Komünizm", "Sosyalizm", "Merkantilizm", "Devletçilik (Planlı Ekonomi)", "Liberalizm (Serbest Piyasa)"],
+          "correctOption": "E",
+          "solution": "Özel sektörü destekleyen bir politika izlenmiştir."
+        },
+        {
+          "text": "Türkiye Cumhuriyeti'nin ilk özel bankası olan ve ilk genel müdürlüğünü Celal Bayar'ın yaptığı banka hangisidir?",
+          "options": ["İş Bankası", "Sümerbank", "Etibank", "Osmanlı Bankası", "Ziraat Bankası"],
+          "correctOption": "A",
+          "solution": "Atatürk'ün talimatıyla kurulmuştur."
+        },
+        {
+          "text": "1927 yılında özel sektörü sanayi yatırımlarına yönlendirmek amacıyla çıkarılan ancak sermaye birikimi ve teknik bilgi yetersizliği nedeniyle beklenen başarıyı sağlayamayan kanun hangisidir?",
+          "options": ["Türk Parasını Koruma Kanunu", "Kabotaj Kanunu", "Arazi Kanunu", "Teşvik-i Sanayi Kanunu", "Varlık Vergisi Kanunu"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye'de 1930'dan itibaren \"Devletçilik\" ilkesinin zorunlu olarak uygulanmaya başlanmasının en temel dış nedeni nedir?",
+          "options": ["II. Dünya Savaşı'nın çıkması", "Marshall Yardımları", "Avrupa Birliği'ne üyelik süreci", "1929 Dünya Ekonomik Buhranı", "Sovyet Rusya'nın baskısı"],
+          "correctOption": "D",
+          "solution": "Dünya genelinde özel sektör batınca, devlet mecburen ekonomiye müdahale etmiştir."
+        },
+        {
+          "text": "Atatürk döneminde uygulanan \"I. Beş Yıllık Sanayi Planı\"nın finansmanını sağlamak ve sanayi yatırımlarını yönetmek amacıyla 1933 yılında kurulan banka hangisidir?",
+          "options": ["Sümerbank", "Ziraat Bankası", "İş Bankası", "Halkbank", "Vakıfbank"],
+          "correctOption": "A",
+          "solution": "Dönemin dev sanayi kuruluşudur. Etibank ise madencilik içindir."
+        },
+        {
+          "text": "Türk karasularında yolcu ve yük taşıma hakkının sadece Türk gemilerine ve vatandaşlarına verilmesini sağlayan 1 Temmuz 1926 tarihli kanun hangisidir?",
+          "options": ["Kabotaj Kanunu", "Denizcilik Kanunu", "Kapitülasyon Kanunu", "Teşvik-i Sanayi", "Gümrük Birliği"],
+          "correctOption": "A",
+          "solution": "Milliyetçilik ilkesiyle doğrudan ilgilidir. Denizcilik ve Kabotaj Bayramı olarak kutlanır."
+        },
+        {
+          "text": "Türkiye Cumhuriyeti'nde madenleri işletmek, enerji üretmek ve bu alandaki yatırımları finanse etmek amacıyla 1935 yılında kurulan kurumlar hangileridir?",
+          "options": ["Sümerbank - İş Bankası", "MTA (Maden Tetkik Arama) - Etibank", "TPAO - Botaş", "Ziraat - Halkbank", "Karabük Demir Çelik - Ereğli"],
+          "correctOption": "B",
+          "solution": "Madenleri arayan MTA, parayı veren Etibank."
+        },
+        {
+          "text": "Atatürk döneminde kurulan \"Türkiye Cumhuriyet Merkez Bankası\"nın (1930) temel görevi nedir?",
+          "options": ["Çiftçiye kredi vermek", "Madenleri işletmek", "Türk parasının değerini korumak ve para basmak", "Konut kredisi vermek", "Esnafı desteklemek"],
+          "correctOption": "C",
+          "solution": "Para basma yetkisi Osmanlı Bankası'ndan alınarak Merkez Bankası'na verilmiştir."
+        },
+        {
+          "text": "Cumhuriyet döneminde tarımı geliştirmek için yapılan inkılaplardan biri olan ve köylünün üzerindeki ağır vergi yükünü kaldıran gelişme hangisidir?",
+          "options": ["Toprak Reformu", "Ziraat Bankası'nın kurulması", "Teşvik-i Sanayi", "Aşar (Öşür) Vergisinin Kaldırılması", "Varlık Vergisi"],
+          "correctOption": "D",
+          "solution": "1925 - Devletin gelirlerinin %40'ından vazgeçmesi pahasına, Halkçılık ilkesi gereği kaldırılmıştır."
+        },
+        {
+          "text": "Cumhuriyet döneminin efsane Sağlık Bakanı olan, \"Hıfzıssıhha Enstitüsü\"nü kuran ve verem, sıtma, frengi gibi hastalıklarla mücadele eden devlet adamı kimdir?",
+          "options": ["Dr. Rıza Nur", "Dr. Behçet Uz", "Dr. Tevfik Rüştü Aras", "Dr. Adnan Adıvar", "Dr. Refik Saydam"],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk’ün \"Halk içinde muteber bir nesne yok devlet gibi, olmaya devlet cihanda bir nefes sıhhat gibi\" (Kanuni'nin sözü) anlayışıyla kurdurduğu, aşı ve serum üretimi yapan sağlık kurumu hangisidir?",
+          "options": ["Numune Hastaneleri", "Kızılay", "Yeşilay", "Refik Saydam Hıfzıssıhha Enstitüsü", "Sanatoryum"],
+          "correctOption": "D",
+          "solution": "O dönemde Çin'e aşı ihraç edecek seviyeye gelinmiştir."
+        },
+        {
+          "text": "Atatürk'ün \"Egemenlik kayıtsız şartsız milletindir\" sözü, aşağıdaki ilkelerden hangisiyle doğrudan ilişkilidir?",
+          "options": ["Cumhuriyetçilik", "Laiklik", "Milliyetçilik", "Devletçilik", "İnkılapçılık"],
+          "correctOption": "A",
+          "solution": "Milli irade, seçim, meclis = Cumhuriyetçilik"
+        },
+        {
+          "text": "\"Türk dili, Türk tarihi, Türk kültürü\" üzerindeki çalışmalar ve \"Kabotaj Kanunu\" hangi Atatürk ilkesinin bir sonucudur?",
+          "options": ["Halkçılık", "Laiklik", "Milliyetçilik", "Cumhuriyetçilik", "Devletçilik"],
+          "correctOption": "C",
+          "solution": "Ulusal değerleri öne çıkaran her şey Milliyetçiliktir."
+        },
+        {
+          "text": "\"Hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.\" anayasa maddesi ve \"Soyadı Kanunu\" hangi ilkenin gereğidir?",
+          "options": ["Halkçılık", "Milliyetçilik", "Devletçilik", "Cumhuriyetçilik", "İnkılapçılık"],
+          "correctOption": "A",
+          "solution": "Eşitlik, adalet, imtiyazsızlık = Halkçılık"
+        },
+        {
+          "text": "Özel teşebbüsün yetersiz kaldığı durumlarda devletin ekonomiye müdahale etmesi, fabrika kurması ve planlı kalkınmayı esas alması hangi ilkedir?",
+          "options": ["Halkçılık", "İnkılapçılık", "Milliyetçilik", "Laiklik", "Devletçilik"],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Din ve devlet işlerinin ayrılması, akıl ve bilimin rehber alınması, hukuk ve eğitimde birliğin sağlanması hangi ilkenin temelidir?",
+          "options": ["Milliyetçilik", "Laiklik", "Halkçılık", "Cumhuriyetçilik", "Devletçilik"],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Toplumun eskiyen kurumlarının yerine çağdaş kurumların getirilmesi, dinamizm ve sürekli yenileşmeyi öngören ilke hangisidir?",
+          "options": ["Halkçılık", "İnkılapçılık", "Milliyetçilik", "Cumhuriyetçilik", "Devletçilik"],
+          "correctOption": "B",
+          "solution": "Anahtar kelimeler: Çağdaşlaşma, Modernleşme, Dinamizm."
+        },
+        {
+          "text": "Aşağıdaki inkılap-ilke eşleştirmelerinden hangisi yanlıştır?",
+          "options": ["I. Beş Yıllık Sanayi Planı - Devletçilik", "Aşar Vergisinin Kaldırılması - Halkçılık", "Türk Dil Kurumu'nun Kurulması - Milliyetçilik", "Saltanatın Kaldırılması - Cumhuriyetçilik (ve Laiklik)", "Medeni Kanun'un Kabulü - Devletçilik"],
+          "correctOption": "E",
+          "solution": "Medeni Kanun; Hukukta eşitlik sağladığı için Halkçılık, dini hukuku kaldırdığı için Laiklik, modern hukuk olduğu için İnkılapçılık ile ilgilidir. Devletçilik (ekonomi) ile ilgisi yoktur."
+        },
+        {
+          "text": "Halifeliğin kaldırılması (3 Mart 1924) aşağıdaki ilkelerden hangisiyle en az ilgilidir?",
+          "options": ["Milliyetçilik (Ümmetten ulusa geçiş)", "Devletçilik", "Laiklik (Doğrudan)", "Cumhuriyetçilik (Doğrudan)", "Halkçılık (Eşitlik)"],
+          "correctOption": "B",
+          "solution": "Devletçilik ekonomi modelidir, halifelikle bir ilgisi yoktur."
+        },
+        {
+          "text": "\"Kadınlara Seçme ve Seçilme Hakkının Verilmesi\" hangi iki ilkenin doğal sonucudur?",
+          "options": ["Milliyetçilik - Devletçilik", "İnkılapçılık - Devletçilik", "Cumhuriyetçilik - Halkçılık", "Laiklik - Devletçilik", "Halkçılık - Devletçilik"],
+          "correctOption": "C",
+          "solution": "Siyasi katılım olduğu için Cumhuriyetçilik, kadın-erkek eşitliği olduğu için Halkçılık."
+        },
+        {
+          "text": "Atatürk'ün \"Yurtta Sulh, Cihanda Sulh\" sözü, Türk dış politikasının temelini oluşturur. Bu söz hangi ilke ile bütünleşir?",
+          "options": ["Laiklik", "İnkılapçılık", "Milliyetçilik (İnsaniyetçilik boyutu)", "Devletçilik", "Cumhuriyetçilik"],
+          "correctOption": "C",
+          "solution": "Milliyetçilik ilkesinin \"Barışçıl ve İnsaniyetçi\" yönünü temsil eder."
+        },
+        {
+          "text": "Şapka Kanunu, Kılık Kıyafet Kanunu, Takvim, Saat ve Ölçülerde değişiklik yapılması, hafta tatilinin pazara alınması gibi inkılapların ortak amacı ve ilgili olduğu ilke nedir?",
+          "options": ["Milli kültürü korumak - Milliyetçilik", "Ekonomiyi kalkındırmak - Devletçilik", "Dini duyguları güçlendirmek - Laiklik", "Batı ile bütünleşmek ve ikiliği önlemek - İnkılapçılık", "Seçim sistemini düzenlemek - Cumhuriyetçilik"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Medreselerin, Tekke ve Zaviyelerin kapatılması öncelikle hangi ilkenin bir gereğidir?",
+          "options": ["Laiklik", "Devletçilik", "Halkçılık", "Milliyetçilik", "Cumhuriyetçilik"],
+          "correctOption": "A",
+          "solution": "Dini kurumların devlet ve toplum yapısındaki etkisinin düzenlenmesi."
+        },
+        {
+          "text": "1933 yılında \"Vagon-Li\" (Yataklı Vagonlar) şirketinde Türkçe konuşan memurun işten atılması üzerine İstanbul'da başlayan ve \"Vatandaş Türkçe Konuş\" kampanyasına dönüşen olay hangi ilke ile ilgilidir?",
+          "options": ["Laiklik", "Devletçilik", "Cumhuriyetçilik", "Halkçılık", "Milliyetçilik"],
+          "correctOption": "E",
+          "solution": "Dil ve milli hassasiyet."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 4",
+      "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 28 Özeti - Siyasi ve Hukuki Detaylar)\nÇok Partili Hayat Detayları:\nCumhuriyet Halk Fırkası (CHF): 9 Umde (İlke) üzerine kuruldu. Sivas Kongresi, partinin 1. Kurultayı sayılır. Ekonomide Devletçiliği savunur.\nTerakkiperver Cumhuriyet Fırkası (TCF): \"Tek dereceli seçim\" sistemini savunmuştur. Yerinden yönetim (Adem-i Merkeziyet) anlayışını benimsemiştir.\nSerbest Cumhuriyet Fırkası (SCF): Kadınlara siyasi hakların verilmesini parti programına koyan ilk partidir. Atatürk'ün kız kardeşi Makbule Atadan da kurucular arasındadır.\n\nİzmir Suikastı (1926):\nİhbarcı: Giritli Şevki.\nPlanlayan: Ziya Hurşit ve Laz İsmail.\nYargılama: İstiklal Mahkemeleri (Bu mahkemenin görev yaptığı son davadır).\nSonuç: İttihatçılar tasfiye edildi.\n\nHukuk ve Diplomasi:\nBozkurt-Lotus Olayı (1926): Türk gemisi Bozkurt ile Fransız gemisi Lotus çarpıştı. Türkiye, Fransız kaptanı yargıladı. Konu Lahey Adalet Divanı'na gitti. Türkiye'yi Adalet Bakanı Mahmut Esat (Bozkurt) savundu ve kazandı. (Hukuksal bağımsızlık zaferi).\nVagon-Li Olayı: Fransız demiryolu şirketinde Türkçe konuşan memurun işten atılması. (Milliyetçilik/Dil hassasiyeti).\nRazgrad Olayı: Bulgaristan'da Türk mezarlığının tahrip edilmesi. (Milliyetçilik protestoları).\n\nİlk Türk Kadınları:\nİlk Kadın Muhtar: Gül Esin.\nİlk Kadın Belediye Başkanı: Sadiye Hanım.\nİlk Kadın Milletvekilleri: 1935 seçimlerinde meclise girdi (17+1=18 kişi).",
+      "questions": [
+        {
+          "text": "Cumhuriyet Halk Fırkası'nın (CHP) parti programının temeli olan \"9 Umde\" (Dokuz İlke) hangi olay sırasında belirlenmiştir?",
+          "options": ["Lozan Görüşmeleri sırasında", "İzmir İktisat Kongresi", "Cumhuriyet ilan edilirken", "I. TBMM açılırken", "Sivas Kongresi"],
+          "correctOption": "A",
+          "solution": "Lozan sürecinde Anadolu ve Rumeli Müdafaa-i Hukuk Grubu'nun dönüşümüyle hazırlanmıştır. Ancak CHP, Sivas Kongresi'ni ilk kurultayı kabul eder."
+        },
+        {
+          "text": "Terakkiperver Cumhuriyet Fırkası'nın (TCF) parti programında yer alan ve Cumhuriyet Halk Fırkası'ndan ayrılan en temel siyasi görüşü nedir? (Ekonomi dışında).",
+          "options": ["Hilafetin geri getirilmesini istemesi", "Tek partili sistemi savunması", "Adem-i Merkeziyetçiliği (Yerinden Yönetim) savunması", "Çift dereceli seçim sistemini savunması", "Kadınlara seçme hakkı verilmesine karşı olması"],
+          "correctOption": "C",
+          "solution": "Merkezi otoriteyi zayıflatacağı endişesiyle CHF buna karşı çıkmıştır."
+        },
+        {
+          "text": "Şeyh Said İsyanı'nın çıkmasında ve büyümesinde etkili olan dış güç hangisidir?",
+          "options": ["Yunanistan", "Sovyet Rusya", "Fransa", "İngiltere", "İtalya"],
+          "correctOption": "D",
+          "solution": "Musul sorununu kendi lehine çözmek için isyanı kışkırtmıştır."
+        },
+        {
+          "text": "İzmir Suikastı girişimini, \"Durumu valiye haber vererek\" ortaya çıkaran kişi kimdir?",
+          "options": ["Ziya Hurşit", "Giritli Şevki", "Laz İsmail", "Çopur Musa", "Gürcü Yusuf"],
+          "correctOption": "B",
+          "solution": "Tekneyi kaçıracak olan motorcudur, son anda pişman olup ihbar etmiştir."
+        },
+        {
+          "text": "İstiklal Mahkemeleri'nin görev yaptığı son olay hangisidir?",
+          "options": ["Menemen Olayı", "Şeyh Said İsyanı", "Çerkez Ethem İsyanı", "Dersim Olayları", "İzmir Suikastı"],
+          "correctOption": "E",
+          "solution": "1926 - Bu davadan sonra İstiklal Mahkemeleri fiilen sona ermiştir. Menemen'de Divan-ı Harp vardır."
+        },
+        {
+          "text": "Atatürk'ün kız kardeşi Makbule (Atadan) Hanım'ın da kurucu üye olduğu siyasi parti hangisidir?",
+          "options": ["Milli Kalkınma Partisi", "Terakkiperver Cumhuriyet Fırkası", "Demokrat Parti", "Cumhuriyet Halk Fırkası", "Serbest Cumhuriyet Fırkası"],
+          "correctOption": "E",
+          "solution": "Ali Fethi Okyar'ın kurduğu partidir."
+        },
+        {
+          "text": "Serbest Cumhuriyet Fırkası'nın (SCF) savunduğu ve CHF'den ayrıldığı seçim sistemi görüşü nedir?",
+          "options": ["Atama usulü", "Mesleki temsil", "Çift dereceli seçim", "Tek dereceli seçim", "Meclis seçimi"],
+          "correctOption": "D",
+          "solution": "Halkın vekilleri doğrudan seçmesini savunmuştur. CHF o dönemde çift dereceliyi uyguluyordu."
+        },
+        {
+          "text": "Türkiye Cumhuriyeti ile Fransa arasında yaşanan ve Lahey Adalet Divanı'na (Uluslararası Mahkeme) taşınan \"Bozkurt-Lotus\" davasında Türkiye'yi başarıyla savunan ve soyadını bu davadan alan Adalet Bakanı kimdir?",
+          "options": ["Tevfik Rüştü Aras", "Hasan Saka", "Mahmut Esat Bozkurt", "Şükrü Saraçoğlu", "Yusuf Kemal Tengirşenk"],
+          "correctOption": "C",
+          "solution": "Türk hukukunun uluslararası alandaki ilk büyük zaferidir."
+        },
+        {
+          "text": "1930 yılında belediye seçimlerine katılma hakkı elde eden Türk kadını, ilk kadın belediye başkanı olarak kimi seçmiştir? (Artvin/Yusufeli - Kılıçkaya Beldesi).",
+          "options": ["Müfide İlhan", "Gül Esin", "Satı Kadın", "Halide Edip", "Sadiye Hanım"],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye'nin ilk kadın muhtarı olan Gül Esin, hangi ilimizde seçilmiştir?",
+          "options": ["İzmir", "Aydın (Çine)", "Ankara", "İstanbul", "Mersin"],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türk kadınlarının milletvekili seçme ve seçilme hakkını elde etmesiyle katıldıkları ilk genel seçim hangi yıldır?",
+          "options": ["1933", "1946", "1935", "1930", "1934"],
+          "correctOption": "C",
+          "solution": "Hak 1934'te verildi, seçim 1935'te yapıldı. 18 kadın vekil meclise girdi."
+        },
+        {
+          "text": "Menemen Olayı (Kubilay Olayı) sonucunda suçluların yargılandığı mahkeme hangisidir?",
+          "options": ["İstiklal Mahkemesi", "Ağır Ceza Mahkemesi", "Devlet Güvenlik Mahkemesi", "Divan-ı Harp (Sıkıyönetim Mahkemesi)", "Yüce Divan"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "1924 Anayasası'nda yer alan \"Seçme yaşı 18, seçilme yaşı 30'dur\" maddesi, 1934 yılında yapılan değişiklikle seçme yaşı kaça çıkarılmıştır?",
+          "options": ["20", "22", "19", "25", "21"],
+          "correctOption": "C",
+          "solution": "Demokrasi tarihi açısından ilginç bir detaydır, yaş yükseltilmiştir."
+        },
+        {
+          "text": "Cumhuriyet döneminde havacılığı geliştirmek amacıyla 1925 yılında kurulan \"Türk Tayyare Cemiyeti\"nin (Türk Hava Kurumu) ilk başkanı kimdir?",
+          "options": ["Sabiha Gökçen", "Cevat Abbas Gürer", "Nuri Demirağ", "Fuat Umay", "Vecihi Hürkuş"],
+          "correctOption": "B",
+          "solution": "Atatürk'ün yaveri."
+        },
+        {
+          "text": "Türkiye'nin ilk yerli uçağını yapan, ancak izinsiz uçuş yaptığı için cezalandırılan, İstiklal Madalyası sahibi ünlü Türk havacısı kimdir?",
+          "options": ["Selahattin Reşit Alan", "Vecihi Hürkuş", "Nuri Demirağ", "Şakir Zümre", "Nuri Killigil"],
+          "correctOption": "B",
+          "solution": "Vecihi K-VI"
+        },
+        {
+          "text": "Türkiye'nin ilk uçak fabrikasını kuran, ilk yerli yolcu uçağını üreten ve İstanbul Boğazı'na köprü projesi hazırlayan girişimci iş adamı kimdir?",
+          "options": ["Vecihi Hürkuş", "Sakıp Sabancı", "Şakir Zümre", "Vehbi Koç", "Nuri Demirağ"],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "1930'lu yıllarda yayınlanan, Yakup Kadri Karaosmanoğlu ve Şevket Süreyya Aydemir gibi aydınların çıkardığı, Atatürk devrimlerini ideolojik bir temele oturtmayı ve Devletçilik ilkesini savunan dergi hangisidir?",
+          "options": ["Ülkü", "Türk Yurdu", "Çınaraltı", "Kadro", "Varlık"],
+          "correctOption": "D",
+          "solution": "Kadro Hareketi."
+        },
+        {
+          "text": "Halkevleri'nin yayın organı olan ve Atatürk inkılaplarını halka yaymayı amaçlayan dergi hangisidir?",
+          "options": ["Ülkü", "Büyük Doğu", "Kadro", "Dergah", "Belleten"],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Bulgaristan'ın Razgrad şehrindeki Türk mezarlığının tahrip edilmesi üzerine, İstanbul'daki üniversite öğrencilerinin başlattığı protesto ve \"Vatandaş Türkçe Konuş\" kampanyası, hangi Atatürk ilkesiyle ilgilidir?",
+          "options": ["Halkçılık", "Laiklik", "Milliyetçilik", "Cumhuriyetçilik", "Devletçilik"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Cumhuriyetin ilk yıllarında, doğu illerinde iç güvenliği sağlamak ve bölgeyi denetim altına almak amacıyla kurulan idari birim hangisidir?",
+          "options": ["İstiklal Mahkemeleri", "Köy Enstitüleri", "Umumi Müfettişlikler", "Sıkıyönetim Komutanlığı", "OHAL Valiliği"],
+          "correctOption": "C",
+          "solution": "1. Umumi Müfettişlik Diyarbakır merkezli kurulmuştur."
+        },
+        {
+          "text": "Atatürk döneminde, Türk tarihini ve dilini araştırmak için \"Güneş Dil Teorisi\" ve \"Türk Tarih Tezi\" ortaya atılmıştır. Güneş Dil Teorisi'nin temel iddiası nedir?",
+          "options": ["Latin harflerinin Türk kökenli olduğu", "Türkçenin sadece Orta Asya'da konuşulduğu", "Türkçenin Farsçadan etkilendiği", "Tüm dillerin Arapçadan türediği", "Türkçenin, dünya dillerinin kökeni olduğu ve en eski dillerden biri olduğu"],
+          "correctOption": "E",
+          "solution": "Dil devrimini güçlendirmek ve Türkçeye özgüven kazandırmak için ortaya atılmıştır."
+        },
+        {
+          "text": "Atatürk'ün \"Yurttaşlarım! Az zamanda çok ve büyük işler yaptık...\" diye başlayan 10. Yıl Nutku'nu okuduğu tarih hangisidir?",
+          "options": ["10 Kasım 1938", "30 Ağustos 1922", "29 Ekim 1923", "29 Ekim 1933", "23 Nisan 1920"],
+          "correctOption": "D",
+          "solution": "Cumhuriyetin 10. yılı."
+        },
+        {
+          "text": "Terakkiperver Cumhuriyet Fırkası'nın kapatılma gerekçesi nedir?",
+          "options": ["Şeyh Said İsyanı ile bağlantılı görülmesi ve irticai faaliyetlerin odağı olması", "Ekonomik kriz", "Seçimlerde başarısız olması", "İzmir Suikastı", "Menemen Olayı"],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "1924 Anayasası'na göre TBMM seçimleri kaç yılda bir yapılırdı?",
+          "options": ["5", "3", "1", "2", "4"],
+          "correctOption": "E",
+          "solution": "1921 anayasasında 2 yıldı, 1924'te 4 yıl oldu."
+        },
+        {
+          "text": "Cumhuriyet döneminde, \"Toprak Reformu\" denemeleri yapılmış ancak tam başarı sağlanamamıştır. Toprak reformunun temel amacı neydi?",
+          "options": ["Devletin vergi gelirini artırmak", "Topraksız köylüyü topraklandırmak ve ağalık sistemini bitirmek", "Şehre göçü artırmak", "Yabancılara toprak satmak", "Tarımı makineleştirmek"],
+          "correctOption": "B",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 5",
+      "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 29 Özeti - Sanat ve Kültür)\nMimari:\nI. Ulusal Mimarlık Akımı: Osmanlı motifleri ile modern yapıların birleşimi.\nMimar Kemalettin: Gazi Eğitim Enstitüsü.\nMimar Vedat (Tek): II. TBMM Binası, Ankara Palas.\nII. Ulusal Mimarlık (1940 sonrası): Daha sade ve yerel malzeme. (Anıtkabir - Emin Onat & Orhan Arda).\n\nHeykel:\nİslamiyet'te tasvir yasağı olduğu için en geç gelişen sanattır.\nİlk Atatürk Heykeli: İstanbul Sarayburnu'nda dikildi (Heinrich Krippel).\nTaksim Cumhuriyet Anıtı: Pietro Canonica yaptı.\nZafer Anıtı (Ulus): Heinrich Krippel yaptı (Atatürk at üzerinde).\n\nMüzik:\nTürk Beşleri: Batı müziği ile Türk müziğini sentezleyenler (Cemal Reşit Rey, Adnan Saygun, Ulvi Cemal Erkin, Hasan Ferit Alnar, Necil Kazım Akses).\n10. Yıl Marşı: Bestecisi Cemal Reşit Rey.\nİlk Opera: \"Özsoy Operası\" (Adnan Saygun - İran Şahı'nın ziyareti için bestelendi).\n\nEdebiyat:\nAteşten Gömlek: Kurtuluş Savaşı üzerine yazılan ilk roman (Halide Edip Adıvar).\nYaban: Aydın-köylü çatışmasını anlatan eser (Yakup Kadri Karaosmanoğlu).\n\nBilim:\nEinstein Mektubu: Yahudi bilim insanlarının Türkiye'ye kabulü için Atatürk'e yazılan mektup.",
+      "questions": [
+        {
+          "text": "Türkiye Cumhuriyeti'nin ilk Atatürk heykeli 1926 yılında nerede ve hangi heykeltıraş tarafından yapılmıştır?",
+          "options": ["İstanbul Taksim - Pietro Canonica", "İstanbul Sarayburnu - Heinrich Krippel", "İzmir Cumhuriyet Meydanı - Pietro Canonica", "Ankara Ulus - Heinrich Krippel", "Samsun - Heinrich Krippel"],
+          "correctOption": "B",
+          "solution": "Avusturyalı heykeltıraş Krippel yapmıştır."
+        },
+        {
+          "text": "Ankara'da bulunan II. TBMM binasının ve Ankara Palas'ın mimarı olan, I. Ulusal Mimarlık Akımı'nın öncüsü kimdir?",
+          "options": ["Mimar Kemalettin", "Sedad Hakkı Eldem", "Emin Onat", "Orhan Arda", "Mimar Vedat (Tek)"],
+          "correctOption": "E",
+          "solution": "Mimar Kemalettin ise Gazi Eğitim Enstitüsü'nü yapmıştır."
+        },
+        {
+          "text": "Cumhuriyet döneminde Batı müziği ile Türk halk müziğini sentezleyerek çok sesli müziğin temellerini atan ve \"Türk Beşleri\" olarak bilinen grup içinde aşağıdakilerden hangisi yer almaz?",
+          "options": ["Osman Zeki Üngör", "Ahmet Adnan Saygun", "Hasan Ferit Alnar", "Ulvi Cemal Erkin", "Cemal Reşit Rey"],
+          "correctOption": "A",
+          "solution": "Osman Zeki Üngör, İstiklal Marşı'nın bestecisidir, Türk Beşleri grubunda değildir."
+        },
+        {
+          "text": "Cumhuriyetin 10. yılı kutlamaları için yazılan (Faruk Nafiz Çamlıbel & Behçet Kemal Çağlar) ve bestelenen \"10. Yıl Marşı\"nın bestecisi kimdir?",
+          "options": ["Nevit Kodallı", "Muammer Sun", "Cemal Reşit Rey", "Osman Zeki Üngör", "Adnan Saygun"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk döneminde İran Şahı Rıza Pehlevi'nin Türkiye ziyareti onuruna bestelenen ve sahnelenen ilk Türk Operası hangisidir?",
+          "options": ["Kerem", "Köroğlu", "Midas'ın Kulakları", "Özsoy", "Lüküs Hayat"],
+          "correctOption": "D",
+          "solution": "Bestecisi: Ahmet Adnan Saygun"
+        },
+        {
+          "text": "Kurtuluş Savaşı'nı konu alan ilk roman olma özelliği taşıyan ve Halide Edip Adıvar tarafından yazılan eser hangisidir?",
+          "options": ["Yaban", "Ateşten Gömlek (Roman)", "Sodom ve Gomore", "Türk'ün Ateşle İmtihanı (Anı)", "Küçük Ağa"],
+          "correctOption": "B",
+          "solution": "Türk'ün Ateşle İmtihanı anı türündedir."
+        },
+        {
+          "text": "Yakup Kadri Karaosmanoğlu'nun Kurtuluş Savaşı yıllarında bir Anadolu köyünde geçen olayları, aydın ile köylü arasındaki kopukluğu ve çatışmayı anlattığı ünlü romanı hangisidir?",
+          "options": ["Ankara", "Sodom ve Gomore", "Kiralık Konak", "Yaban", "Nur Baba"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "1933 Üniversite Reformu öncesinde, Nazi Almanyası'ndan kaçan Yahudi bilim insanlarının Türkiye'ye kabul edilmesi için Atatürk'e mektup yazan dünyaca ünlü fizikçi kimdir?",
+          "options": ["Marie Curie", "Niels Bohr", "Max Planck", "Oppenheimer", "Albert Einstein"],
+          "correctOption": "E",
+          "solution": "Bu sayede birçok bilim insanı İstanbul Üniversitesi'nde görev almıştır."
+        },
+        {
+          "text": "Ankara'nın imar planını çizen ve modern bir başkent görünümü kazanmasını sağlayan Alman şehir plancısı/mimar kimdir?",
+          "options": ["Hermann Jansen", "Ernst Egli", "Clemens Holzmeister", "Martin Elsaesser", "Bruno Taut"],
+          "correctOption": "A",
+          "solution": "Jansen Planı."
+        },
+        {
+          "text": "TBMM binasının (bugünkü III. Meclis binası) ve birçok bakanlık binasının mimarı olan Avusturyalı mimar kimdir?",
+          "options": ["Giulio Mongeri", "Vedat Tek", "Mimar Kemalettin", "Clemens Holzmeister", "Hermann Jansen"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Cumhuriyet döneminde Türk resim sanatında \"Müstakil Ressamlar ve Heykeltıraşlar Birliği\" ile \"D Grubu\" gibi topluluklar kurulmuştur. Aşağıdakilerden hangisi D Grubu ressamlarından biri olan ve \"Hat\" sanatını resimle birleştiren sanatçıdır?",
+          "options": ["Fikret Mualla", "İbrahim Çallı", "Abidin Dino", "Nurullah Berk", "Bedri Rahmi Eyüboğlu"],
+          "correctOption": "C",
+          "solution": "Veya Bedri Rahmi de bu gruptadır ama hat-resim sentezinde Abidin Dino ve Nurullah Berk öne çıkar."
+        },
+        {
+          "text": "Atatürk'ün naaşının bulunduğu Anıtkabir'in mimarları kimlerdir?",
+          "options": ["Giulio Mongeri - Vedat Tek", "Emin Onat - Orhan Arda", "Sedad Hakkı Eldem - Emin Onat", "Clemens Holzmeister - Hermann Jansen", "Mimar Kemalettin - Vedat Tek"],
+          "correctOption": "B",
+          "solution": "II. Ulusal Mimarlık akımının en önemli eseridir. İnşaatı 1944-1953 arası sürmüştür."
+        },
+        {
+          "text": "İstanbul Taksim Meydanı'ndaki Cumhuriyet Anıtı'nı yapan İtalyan heykeltıraş kimdir?",
+          "options": ["Auguste Rodin", "Josef Thorak", "Pietro Canonica", "Michelangelo", "Heinrich Krippel"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Falih Rıfkı Atay'ın, Atatürk'ün hayatını, anılarını ve Kurtuluş Savaşı'nı anlattığı en önemli eseri hangisidir?",
+          "options": ["Ateş ve Güneş", "Çankaya", "Zeytindağı", "Tek Adam", "Suyu Arayan Adam"],
+          "correctOption": "B",
+          "solution": "Zeytindağı I. Dünya Savaşı Suriye-Filistin cephesini anlatır."
+        },
+        {
+          "text": "İstiklal Marşı'nın TBMM'de kabul edildiği sırada (1921), marşın ilk bestesini yapan kişi kimdir? (Bugünkü bestesi değil).",
+          "options": ["Zeki Müren", "Ali Rıfat Çağatay", "Osman Zeki Üngör", "Cemal Reşit Rey", "Adnan Saygun"],
+          "correctOption": "B",
+          "solution": "1924-1930 arası bu beste kullanılmış, 1930'da Osman Zeki Üngör'ün bestesine geçilmiştir."
+        },
+        {
+          "text": "Cumhuriyet döneminde, halkın spor yapmasını teşvik etmek ve Türk sporunu geliştirmek amacıyla kurulan örgütün adı nedir? (1922'de kurulmuş, Cumhuriyetle gelişmiştir).",
+          "options": ["Türk Spor Kurumu", "Milli Olimpiyat Komitesi", "Gençlik ve Spor Bakanlığı", "Türkiye İdman Cemiyetleri İttifakı", "Beden Terbiyesi Genel Müdürlüğü"],
+          "correctOption": "D",
+          "solution": "Türkiye'nin ilk spor teşkilatıdır."
+        },
+        {
+          "text": "1936 Berlin Olimpiyatları'na katılarak Türkiye'ye olimpiyatlarda ilk altın madalyayı kazandıran güreşçimiz kimdir?",
+          "options": ["Yaşar Doğu", "Naim Süleymanoğlu", "Hamza Yerlikaya", "Yaşar Erkan", "Koca Yusuf"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün \"Ben sporcunun zeki, çevik ve aynı zamanda ahlaklısını severim\" sözünü söylediği alan hangisidir?",
+          "options": ["Sanat", "Siyaset", "Spor", "Eğitim", "Bilim"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Cumhuriyetin ilk yıllarında okuma alışkanlığını yaygınlaştırmak ve kültürel gelişimi sağlamak amacıyla çıkarılan, kadrosunda Nurullah Ataç, Ahmet Hamdi Tanpınar gibi isimlerin olduğu dergi hangisidir?",
+          "options": ["Kadro", "Ülkü", "Dergah", "Büyük Doğu", "Varlık"],
+          "correctOption": "E",
+          "solution": "Yaşar Nabi Nayır öncülüğünde 1933'te çıkmaya başlamıştır."
+        },
+        {
+          "text": "Ankara'daki \"Etnografya Müzesi\", Atatürk dönemi mimarisi için neden önemlidir?",
+          "options": ["İlk betonarme yapıdır.", "I. Ulusal Mimarlık Akımı'nın (Selçuklu-Osmanlı tarzı) önemli bir örneğidir ve Atatürk'ün naaşına 15 yıl ev sahipliği yapmıştır.", "İlk müzedir.", "Yabancı mimarlar tarafından yapılmıştır.", "En büyük müzedir."],
+          "correctOption": "B",
+          "solution": "Mimar Arif Hikmet Koyunoğlu yapmıştır."
+        },
+        {
+          "text": "Atatürk döneminde kurulan ve \"Maden Tetkik Arama Enstitüsü\" (MTA) ile birlikte madencilik alanında mühendis yetiştirmek için açılan okul hangisidir?",
+          "options": ["Sanayi-i Nefise", "Maden Mektebi (Zonguldak)", "İstanbul Teknik Üniversitesi", "Yüksek Ziraat Enstitüsü", "Orman Mektebi"],
+          "correctOption": "E",
+          "solution": "Yüksek Maadin ve Sanayi Mektebi."
+        },
+        {
+          "text": "Cumhuriyet döneminin ilk yıllarında demiryollarına büyük önem verilmiş ve \"Demirağlarla ördük anayurdu dört baştan\" marşı yazılmıştır. Bu dönemde demiryolu yapımını üstlenen ve soyadını Atatürk'ten alan iş adamı kimdir?",
+          "options": ["Vehbi Koç", "Şakir Zümre", "Nuri Demirağ", "Sakıp Sabancı", "Nejat Eczacıbaşı"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye'de kadınların sahneye çıkması konusunda öncü olan ve Atatürk'ün de desteğini alan ilk kadın tiyatrocu kimdir?",
+          "options": ["Afife Jale", "Cahide Sonku", "Neyyire Neyir", "Halide Pişkin", "Bedia Muvahhit"],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "İlk Türk kadın opera sanatçısı ve ressamlarından biri olan, Atatürk tarafından Avrupa'ya eğitime gönderilen sanatçı kimdir?",
+          "options": ["Leyla Gencer", "Suna Kan", "Mihri Müşfik", "İdil Biret", "Semiha Berksoy"],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "1934 yılında İran Şahı'nın ziyareti sırasında Atatürk ve Şah onuruna sahnelenen \"Özsoy Operası\"nın konusu nedir?",
+          "options": ["İstanbul'un fethi", "Kurtuluş Savaşı", "Türklerin Anadolu'ya gelişi", "Türk ve İran halklarının kardeşliği (Feridun'un oğulları Tur ve İraç efsanesi)", "Cumhuriyetin ilanı"],
+          "correctOption": "D",
+          "solution": "Türk-İran dostluğunu pekiştirmek için mitolojik bir hikaye seçilmiştir."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 6",
+      "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 30 Özeti - İç Politika ve Olaylar)\nNasturi Ayaklanması (1924): Hakkari'de çıkan Hristiyan (Nasturi) isyanıdır. İngiliz kışkırtması vardır (Musul meselesi). Cafer Tayyar Paşa bastırmıştır.\n\nŞeyh Said İsyanı (1925):\nNeden: Musul'u vermemek için İngiliz kışkırtması + Rejim karşıtlığı.\nSonuç: Fethi Okyar hükümeti istifa etti, İsmet İnönü hükümeti kuruldu. Takrir-i Sükun Kanunu çıkarıldı. TCF kapatıldı. Musul kaybedildi.\n\nİzmir Suikastı (1926):\nMustafa Kemal'e suikast girişimi.\nİstiklal Mahkemeleri'nin görev yaptığı son olaydır. İttihatçılar tasfiye edildi.\nBozkurt-Lotus Olayı (1926): Hukuksal zafer.\n\nSerbest Cumhuriyet Fırkası (1930):\nEkonomik kriz (1929 Buhranı) nedeniyle kuruldu.\nAğrı İsyanı: Bu dönemde doğuda çıkan isyan.\n\nMenemen Olayı (1930):\nDerviş Mehmet çıkardı. Asteğmen Kubilay şehit edildi.\nDivan-ı Harp'te yargılandılar. (Çok partili hayata geçiş uzun süre askıya alındı).\n\nBursa Olayı (1933):\nEzanın Türkçe okunmasına karşı çıkan protesto.\nAtatürk: \"Bu bir din meselesi değil, dil meselesidir\" demiştir.\n\nDersim Olayları (1937-38):\nTunceli bölgesindeki isyan. Seyit Rıza idam edildi. Sabiha Gökçen hava harekatına katıldı.",
+      "questions": [
+        {
+          "text": "Cumhuriyet döneminde Hakkari yöresinde çıkan ve İngilizlerin Musul meselesini kendi lehlerine çözmek için kışkırttığı Hristiyan kökenli ayaklanma hangisidir?",
+          "options": ["Pontus İsyanı", "Şeyh Said İsyanı", "Nasturi Ayaklanması", "Koçgiri İsyanı", "Dersim Olayları"],
+          "correctOption": "C",
+          "solution": "1924"
+        },
+        {
+          "text": "Şeyh Said İsyanı'nın bastırılmasında yetersiz kaldığı gerekçesiyle istifa eden Başbakan ve yerine gelen Başbakan eşleştirmesi hangisidir?",
+          "options": ["Fethi Okyar - Celal Bayar", "Celal Bayar - Refik Saydam", "Rauf Orbay - Fethi Okyar", "Fethi Okyar - İsmet İnönü", "İsmet İnönü - Fethi Okyar"],
+          "correctOption": "D",
+          "solution": "Sert tedbirler alacak olan İsmet Paşa (Takrir-i Sükun hükümeti) başa geçmiştir."
+        },
+        {
+          "text": "Şeyh Said İsyanı sırasında çıkarılan ve hükümete olağanüstü yetkiler veren, basını denetim altına alan kanun hangisidir?",
+          "options": ["Hıyanet-i Vataniye", "Firariler Kanunu", "Milli Korunma Kanunu", "Teşkilat-ı Esasiye", "Takrir-i Sükun"],
+          "correctOption": "E",
+          "solution": "Huzuru Sağlama Yasası. 1925-1929 arası yürürlükte kalmıştır."
+        },
+        {
+          "text": "Takrir-i Sükun Kanunu'na dayanarak kapatılan ve Türkiye Cumhuriyeti'nin ilk muhalefet partisi olan parti hangisidir?",
+          "options": ["Demokrat Parti", "Terakkiperver Cumhuriyet Fırkası", "Millet Partisi", "Serbest Cumhuriyet Fırkası", "Ahali Fırkası"],
+          "correctOption": "B",
+          "solution": "Şeyh Said isyanı ile bağlantılı görülmüştür."
+        },
+        {
+          "text": "İzmir Suikastı davasında yargılananların büyük bir kısmı eski İttihatçılardır. Bu durum, İzmir Suikastı'nın temel amacının ne olduğunu gösterir?",
+          "options": ["Saltanatı geri getirmek", "Musul'u geri almak", "Halifeliği canlandırmak", "Ekonomik krizi çözmek", "İttihat ve Terakki'nin kadrolarını yönetime getirerek iktidarı ele geçirmek"],
+          "correctOption": "E",
+          "solution": "Atatürk'ü ortadan kaldırıp eski İttihatçı kadroyu başa geçirmek istemişlerdir."
+        },
+        {
+          "text": "İstiklal Mahkemeleri aşağıdaki olaylardan hangisinde görev yapmamıştır?",
+          "options": ["Menemen Olayı", "TBMM'ye karşı çıkan isyanlar", "İzmir Suikastı", "Tekalif-i Milliye Emirleri'nin uygulanması", "Şeyh Said İsyanı"],
+          "correctOption": "A",
+          "solution": "Menemen Olayı'nda suçlular Divan-ı Harp'te (Sıkıyönetim Mahkemesi) yargılanmıştır."
+        },
+        {
+          "text": "1930 yılında Serbest Cumhuriyet Fırkası'nın (SCF) kurulmasının temel nedenlerinden biri, 1929 Dünya Ekonomik Buhranı'nın etkilerini azaltmak ve hükümetin ekonomi politikalarını denetlemektir. SCF'nin benimsediği ekonomi modeli hangisidir?",
+          "options": ["Liberalizm", "Devletçilik", "Korumacılık", "Sosyalizm", "Karma Ekonomi"],
+          "correctOption": "A",
+          "solution": "CHF Devletçiliği savunurken, SCF Liberalizmi savunmuştur."
+        },
+        {
+          "text": "Serbest Cumhuriyet Fırkası'nın kurucusu Ali Fethi Okyar'ın, partiyi kendi isteğiyle feshetmesinin (kapatmasının) nedeni nedir?",
+          "options": ["Partinin rejim karşıtlarının (Saltanat ve Hilafet yanlılarının) odağı haline gelmesi", "Seçimleri kaybetmesi", "Atatürk'ün kapatmasını istemesi", "Ekonomik krizin bitmesi", "Dış baskılar"],
+          "correctOption": "A",
+          "solution": "Menemen Olayı'ndan hemen önce, tehlikeyi sezerek kapatmıştır."
+        },
+        {
+          "text": "Cumhuriyet rejimine yönelik çıkan ikinci büyük irticai ayaklanma olan Menemen Olayı'nda (1930) şehit edilen Türk subayı kimdir?",
+          "options": ["Yüzbaşı Cengiz Topel", "Asteğmen Mustafa Fehmi Kubilay", "Teğmen Süleyman Asaf", "Yüzbaşı Agah", "Pilot Vecihi Hürkuş"],
+          "correctOption": "B",
+          "solution": "Öğretmen ve Asteğmen Kubilay."
+        },
+        {
+          "text": "Menemen Olayı'nın sonuçları dikkate alındığında, Türkiye'de siyasi hayatla ilgili nasıl bir değişim yaşanmıştır?",
+          "options": ["Hemen yeni bir parti kurulmuştur.", "Çok partili hayata geçiş denemeleri uzun bir süre (1946'ya kadar) ertelenmiştir.", "Kadınlara seçme hakkı geri alınmıştır.", "Halifelik geri getirilmiştir.", "Seçim sistemi değiştirilmiştir."],
+          "correctOption": "B",
+          "solution": "Halkın henüz çok partili demokrasiye hazır olmadığı düşünülmüştür."
+        },
+        {
+          "text": "1933 yılında Bursa'da, ezanın Türkçe okunmasına karşı çıkan halkın valilik önünde gösteri yapması üzerine Atatürk'ün Bursa'ya giderek söylediği ünlü söz nedir?",
+          "options": ["\"Ne mutlu Türküm diyene.\"", "\"Yurtta sulh, cihanda sulh.\"", "\"Bu bir din meselesi değil, dil meselesidir.\"", "\"Egemenlik kayıtsız şartsız milletindir.\"", "\"Geldikleri gibi giderler.\""],
+          "correctOption": "C",
+          "solution": "Olayın rejime karşı değil, kültürel bir dil uygulamasına tepki olduğunu vurgulamıştır."
+        },
+        {
+          "text": "Ezanın Türkçe okunması uygulaması hangi tarihler arasında yürürlükte kalmıştır?",
+          "options": ["1932 - 1950", "1923 - 1938", "1930 - 1945", "1920 - 1923", "1924 - 1960"],
+          "correctOption": "A",
+          "solution": "1950'de Demokrat Parti iktidara gelince tekrar Arapça okunmaya başlanmıştır."
+        },
+        {
+          "text": "Cumhuriyet döneminde, Doğu Anadolu'da devlet otoritesini sağlamak için 1937-1938 yıllarında düzenlenen askeri harekat hangisidir?",
+          "options": ["Şeyh Said Harekatı", "Çerkez Ethem Harekatı", "Ağrı Harekatı", "Dersim Harekatı (Tunceli)", "Zilan Harekatı"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Dersim Harekatı sırasında hava saldırılarına katılan ve Türkiye'nin ilk kadın savaş pilotu olan kişi kimdir?",
+          "options": ["Sahavet Karasy", "Sabiha Gökçen", "Yıldız Uçman", "Bedriye Tahir Gökmen", "Edibe Subaşı"],
+          "correctOption": "B",
+          "solution": "Atatürk'ün manevi kızı."
+        },
+        {
+          "text": "Cumhuriyetin ilk yıllarında nüfusu artırmak amacıyla izlenen politika aşağıdakilerden hangisidir?",
+          "options": ["Doğum kontrolünü teşvik etmek", "Nüfus planlaması yapmak ve çocuk sayısını sınırlamak", "Evlenme yaşını yükseltmek", "Göçü yasaklamak", "Çok çocuklu aileleri vergiden muaf tutmak ve ödüllendirmek (Nüfusu artırıcı politika)"],
+          "correctOption": "E",
+          "solution": "Savaşlarda eriyen nüfusu toparlamak ve iş gücü sağlamak için."
+        },
+        {
+          "text": "Türkiye Cumhuriyeti'nin sınırları içinde (Hatay hariç) yaşayan herkesi Türk vatandaşı kabul eden, ırkçılığı reddeden Atatürk ilkesi hangisidir?",
+          "options": ["Devletçilik", "Laiklik", "İnkılapçılık", "Milliyetçilik", "Cumhuriyetçilik"],
+          "correctOption": "D",
+          "solution": "Anayasa Madde 66: \"Türk devletine vatandaşlık bağı ile bağlı olan herkes Türk'tür.\""
+        },
+        {
+          "text": "Atatürk'ün \"Yurtta Sulh, Cihanda Sulh\" ilkesi doğrultusunda Türkiye'nin 1932 yılında üye olduğu uluslararası kuruluş hangisidir?",
+          "options": ["Milletler Cemiyeti (Cemiyet-i Akvam)", "NATO", "Balkan Antantı", "Sadabat Paktı", "Birleşmiş Milletler"],
+          "correctOption": "A",
+          "solution": "İspanya'nın teklifi ve Yunanistan'ın desteği ile davet edilerek girmiştir."
+        },
+        {
+          "text": "1934 yılında Yunanistan Başbakanı Venizelos, Nobel Barış Ödülü'ne kimi aday göstermiştir?",
+          "options": ["Tevfik Rüştü Aras", "Rauf Orbay", "İsmet İnönü", "Celal Bayar", "Mustafa Kemal Atatürk"],
+          "correctOption": "E",
+          "solution": "Türkiye-Yunanistan dostluğunun zirve yaptığı dönem."
+        },
+        {
+          "text": "Atatürk Dönemi'nde kurulan son siyasi parti (muhalefet değil, genel olarak) veya siyasi oluşum denemesi hangisidir? (Çok partili hayata geçiş denemeleri kapsamında).",
+          "options": ["Türkiye İşçi ve Çiftçi Sosyalist Fırkası", "Milli Kalkınma Partisi", "Serbest Cumhuriyet Fırkası", "Demokrat Parti", "Ahali Cumhuriyet Fırkası"],
+          "correctOption": "C",
+          "solution": "Ahali Fırkası 1930'da kısa süreli kurulsa da, ana akım deneme olarak SCF sonuncudur. Sonra 1945'e kadar tek parti dönemi sürer."
+        },
+        {
+          "text": "Aşağıdaki olaylardan hangisi Atatürk'ün sağlığında gerçekleşen, ancak çok partili hayata geçişi engelleyen olaylardan biri değildir?",
+          "options": ["II. Dünya Savaşı'nın çıkması", "TCF'nin kapatılması", "Menemen Olayı", "Şeyh Said İsyanı", "İzmir Suikastı"],
+          "correctOption": "A",
+          "solution": "II. Dünya Savaşı 1939'da, Atatürk'ün ölümünden sonra çıkmıştır. Atatürk dönemindeki engelleyici olaylar Şeyh Said ve Menemen'dir."
+        },
+        {
+          "text": "Cumhuriyet döneminde \"Demiryolu Siyaseti\"nin mimarlarından olan ve \"Demiryolları millileştirilmelidir\" diyen Nafıa Vekili (Bayındırlık Bakanı) kimdir? (Onuncu Yıl Marşı'nı da yazmıştır).",
+          "options": ["Behiç Erkin", "Behçet Kemal Çağlar", "Ali Çetinkaya", "Hasan Ali Yücel", "Recep Peker"],
+          "correctOption": "A",
+          "solution": "Behiç Erkin, demiryollarının babası sayılır."
+        },
+        {
+          "text": "Atatürk'ün naaşı, 1953 yılında Anıtkabir tamamlanana kadar geçici olarak nerede muhafaza edilmiştir?",
+          "options": ["Çankaya Köşkü", "Ankara Etnografya Müzesi", "İstanbul Üniversitesi", "TBMM", "Dolmabahçe Sarayı"],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün vefatından sonra, 11 Kasım 1938'de TBMM tarafından Türkiye Cumhuriyeti'nin İkinci Cumhurbaşkanı olarak seçilen devlet adamı kimdir?",
+          "options": ["Celal Bayar", "Şükrü Saraçoğlu", "İsmet İnönü", "Fevzi Çakmak", "Refik Saydam"],
+          "correctOption": "C",
+          "solution": "Milli Şef dönemi başlamıştır."
+        },
+        {
+          "text": "Atatürk'ün \"Benim şahsi meselem\" dediği ve ölümünden sonra (1939) anavatana katılan toprak neresidir?",
+          "options": ["Batum", "Kerkük", "Musul", "Hatay", "Kıbrıs"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye Cumhuriyeti'nde ilk nüfus sayımı hangi yıl yapılmıştır?",
+          "options": ["1935", "1923", "1924", "1940", "1927"],
+          "correctOption": "E",
+          "solution": "Nüfus 13.6 milyon çıkmıştır."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 7",
+      "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 31 Özeti - Dış Politika I)\nDönem Özelliği (1923-1932): Lozan'dan kalan sorunları çözme ve barışı koruma dönemidir.\n\nYabancı Okullar Sorunu (Fransa ve Papalık ile):\nTürkiye, \"Bu bizim iç meselemizdir\" diyerek uluslararası görüşmeyi reddetti.\nKarar: Okullarda Türkçe, Tarih, Coğrafya derslerini Türk öğretmenler okutacak. Uymayanlar kapatılacak. (Tam bağımsızlık).\n\nMusul Sorunu (Irak Sınırı - İngiltere ile):\nLozan'da çözülemeyen tek konuydu.\nHaliç Konferansı: Ali Fethi Okyar katıldı, sonuç alınamadı.\nŞeyh Said İsyanı: Türkiye'nin elini zayıflattı.\n1926 Ankara Antlaşması: Musul ve Kerkük İngiliz mandasındaki Irak'a bırakıldı. Karşılığında petrol gelirlerinin %10'u 25 yıllığına Türkiye'ye verilecek. (Misak-ı Milli'den 3. ve büyük taviz).\n\nNüfus Mübadelesi (Etabli Sorunu - Yunanistan ile):\nYunanistan, İstanbul'da daha fazla Rum bırakmak için \"Etabli\" (Yerleşik) kavramını geniş tutmak istedi.\nGerginlik savaş boyutuna geldi.\n1930 Ahali (Ankara) Antlaşması: Venizelos-Atatürk dostluğu başladı. Yerleşme tarihine bakılmaksızın İstanbul Rumları ve Batı Trakya Türkleri \"yerleşik\" sayıldı. Sorun barışçıl çözüldü.\n\nDış Borçlar (Fransa ile):\nEn çok borç Fransa'ya idi. Borçlar taksitlendirildi (Lozan).\n1929 Dünya Ekonomik Buhranı: Ödeme güçlüğü yaşandı. Hoover Moratoriumu ile borçlar ertelendi ve 1954'e kadar TL veya Fransız Frangı olarak ödendi.\n\nBarış Paktları:\nBriand-Kellogg Paktı (1928): \"Savaş, ulusal politika aracı olamaz.\" Türkiye katıldı. (Barışçı politika).\nLitvinov Protokolü: SSCB ile sınır güvenliği ve barış için imzalandı.",
+      "questions": [
+        {
+          "text": "Atatürk dönemi dış politikasının 1923-1930 yılları arasındaki temel karakteristiği nedir?",
+          "options": ["II. Dünya Savaşı'na hazırlanmak", "Sovyet Rusya ile tüm ilişkileri kesmek", "Hatay'ı anavatana katmak (Bu 1930 sonrasıdır)", "Lozan'dan kalan sorunları barışçıl yollarla çözmek", "Yayılmacı politika izlemek"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye Cumhuriyeti'nin dış politikada \"Bu bizim iç meselemizdir, kimseyle görüşmeyiz\" diyerek en kararlı duruşu sergilediği ve taviz vermediği konu hangisidir?",
+          "options": ["Musul Sorunu", "Yabancı Okullar", "Dış Borçlar", "Boğazlar", "Nüfus Mübadelesi"],
+          "correctOption": "B",
+          "solution": "Özellikle Fransa ve Papalık ile gerilim yaşanmıştır."
+        },
+        {
+          "text": "Lozan'da çözülemeyen ve Türkiye ile İngiltere arasındaki ikili görüşmelere bırakılan, ancak Haliç Konferansı'nda da sonuç alınamayan sorun hangisidir?",
+          "options": ["Kapitülasyonlar", "Hatay", "Patrikhane", "Musul (Irak Sınırı)", "Boğazlar"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Musul meselesinin Türkiye aleyhine çözülmesinde (Musul'un kaybedilmesinde) etkili olan iç gelişme hangisidir?",
+          "options": ["Menemen Olayı", "Çerkez Ethem İsyanı", "Şeyh Said İsyanı", "İzmir Suikastı", "31 Mart Vakası"],
+          "correctOption": "C",
+          "solution": "Ordu isyanı bastırmakla meşgul olduğu için Musul'a müdahale edememiştir."
+        },
+        {
+          "text": "5 Haziran 1926'da İngiltere ile imzalanan ve Musul-Kerkük bölgesinin Irak'a bırakılmasını öngören antlaşma hangisidir?",
+          "options": ["Sadabat Paktı", "Ankara Antlaşması", "Lozan Antlaşması", "Bağdat Paktı", "Londra Antlaşması"],
+          "correctOption": "B",
+          "solution": "Misak-ı Milli'den verilen en büyük tavizdir."
+        },
+        {
+          "text": "Türkiye ile Yunanistan arasında yaşanan \"Nüfus Mübadelesi\" (Etabli) sorunu, hangi antlaşma ile barışçıl bir şekilde çözülmüştür?",
+          "options": ["Balkan Antantı", "Lozan Antlaşması", "1930 Ahali (Ankara) Antlaşması", "1926 Atina Antlaşması", "Montrö Sözleşmesi"],
+          "correctOption": "C",
+          "solution": "Venizelos Türkiye'ye gelmiş, Türk-Yunan dostluğu başlamıştır."
+        },
+        {
+          "text": "Türkiye'nin en çok dış borcu olan ve borçların ödenmesi konusunda en çok sorun yaşadığı ülke hangisidir?",
+          "options": ["Fransa", "İngiltere", "Almanya", "ABD", "İtalya"],
+          "correctOption": "A",
+          "solution": "Osmanlı'dan kalan borçların %60'ından fazlası."
+        },
+        {
+          "text": "Türkiye'nin dış borçlarını ödemekte zorlanmasına ve borçların yeniden yapılandırılmasına (taksitlendirilmesine) neden olan küresel olay nedir?",
+          "options": ["Soğuk Savaş", "I. Dünya Savaşı", "1929 Dünya Ekonomik Buhranı", "II. Dünya Savaşı", "Sanayi Devrimi"],
+          "correctOption": "C",
+          "solution": "Hoover Moratoriumu'ndan yararlanılmıştır."
+        },
+        {
+          "text": "1923-1930 yılları arasında Türkiye ile Fransa arasında sorun olan konular arasında aşağıdakilerden hangisi yoktur?",
+          "options": ["Dış Borçlar", "Nüfus Mübadelesi", "Adana-Mersin Demiryollarının millileştirilmesi", "Bozkurt-Lotus Olayı", "Yabancı Okullar"],
+          "correctOption": "B",
+          "solution": "Nüfus mübadelesi sadece Yunanistan ile yaşanmıştır."
+        },
+        {
+          "text": "ABD Dışişleri Bakanı ve Fransa Dışişleri Bakanı'nın öncülüğünde kurulan, \"Savaşın ulusal politika aracı olarak kullanılmasını yasaklayan\" ve Türkiye'nin 1929'da katıldığı pakt hangisidir?",
+          "options": ["Sadabat Paktı", "Locarno Paktı", "NATO", "Balkan Antantı", "Briand-Kellogg Paktı"],
+          "correctOption": "E",
+          "solution": "Dünya barışına katkı."
+        },
+        {
+          "text": "Türkiye'nin 1929 yılında, Sovyet Rusya ve komşularıyla sınır güvenliğini sağlamak ve barışçı olduğunu göstermek için imzaladığı protokol hangisidir?",
+          "options": ["Cenevre Protokolü", "Litvinov Protokolü", "Balkan Paktı", "Moskova Protokolü", "Sadabat Paktı"],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Yabancı okullarla ilgili çıkarılan kanuna göre; okullarda Tarih, Coğrafya ve Türkçe derslerine kimlerin girmesi zorunlu hale getirilmiştir?",
+          "options": ["Yabancı uzmanlar", "Din görevlileri", "Türk öğretmenler", "Askeri personel", "Konsolosluk yetkilileri"],
+          "correctOption": "C",
+          "solution": "Ayrıca müfettişlerin Türk olması şartı getirilmiştir."
+        },
+        {
+          "text": "1926 Ankara Antlaşması'na göre Türkiye, Musul petrollerinden ne kadar pay alacaktı?",
+          "options": ["%10 (25 yıl süreyle)", "%50", "%25 (Süresiz)", "Tamamı", "Hiçbiri"],
+          "correctOption": "A",
+          "solution": "Türkiye daha sonra 500 bin Sterlin nakit para karşılığında bu hakkından vazgeçmiştir."
+        },
+        {
+          "text": "Türkiye'nin Bozkurt-Lotus davasını kazanması, Türk hukuk sistemi ve kapitülasyonlar açısından neyi kanıtlamıştır?",
+          "options": ["Kapitülasyonların devam ettiğini", "Denizcilikte geri kaldığımızı", "Fransa'nın haklı olduğunu", "Milletler Cemiyeti'nin taraflı olduğunu", "Türk hukukunun ve yargısının bağımsızlığını, kapitülasyonların tamamen kalktığını"],
+          "correctOption": "E",
+          "solution": "Lahey Adalet Divanı Türkiye'yi haklı bulmuştur."
+        },
+        {
+          "text": "1930 yılında Yunanistan Başbakanı Venizelos'un Türkiye'yi ziyareti ve Atatürk ile görüşmesi sonucunda başlayan dönemde Türkiye hangi uluslararası oluşuma öncülük etmiştir?",
+          "options": ["Balkan Antantı", "Bağdat Paktı", "Varşova Paktı", "NATO", "Sadabat Paktı"],
+          "correctOption": "A",
+          "solution": "1934 - Türkiye, Yunanistan, Yugoslavya, Romanya."
+        },
+        {
+          "text": "Fener Rum Patrikhanesi ile ilgili sorunlar (Patriğin sınır dışı edilmesi vb.) hangi genel sorunun bir parçası olarak yaşanmıştır?",
+          "options": ["Nüfus Mübadelesi", "Boğazlar", "Musul", "Yabancı Okullar", "Dış Borçlar"],
+          "correctOption": "A",
+          "solution": "Mübadele sırasında \"Konstantin\"in patrik olup olamayacağı tartışılmıştır."
+        },
+        {
+          "text": "Lozan Antlaşması'na göre Nüfus Mübadelesi dışında tutulan (yerleşik sayılan) Türkler nerede yaşamaktadır?",
+          "options": ["Mora", "Selanik", "Girit", "Batı Trakya", "Yanya"],
+          "correctOption": "D",
+          "solution": "Buna karşılık İstanbul Rumları da yerleşik sayılmıştır."
+        },
+        {
+          "text": "Türkiye'nin Milletler Cemiyeti'ne (Cemiyet-i Akvam) üye olması (1932) hangi dış politika ilkesinin bir sonucudur?",
+          "options": ["Yayılmacılık", "Devletçilik", "Turancılık", "Yurtta Sulh Cihanda Sulh", "İslamcılık"],
+          "correctOption": "D",
+          "solution": "Barışçı politika."
+        },
+        {
+          "text": "Türkiye'nin Musul konusundaki tezlerini savunmak için Haliç Konferansı'na (1924) gönderdiği devlet adamı kimdir?",
+          "options": ["İsmet İnönü", "Rauf Orbay", "Ali Fethi Okyar", "Tevfik Rüştü Aras", "Kazım Karabekir"],
+          "correctOption": "C",
+          "solution": "O sırada Meclis Başkanıdır."
+        },
+        {
+          "text": "\"Vagon-Li\" ve \"Razgrad\" olayları, 1930'lu yıllarda Türk kamuoyunda hangi duygunun yükselmesine neden olmuştur?",
+          "options": ["Milliyetçilik", "Ümmetçilik", "Devletçilik", "Laiklik", "Batıcılık"],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk döneminde İtalya'nın Akdeniz'deki yayılmacı ve saldırgan politikası (Mussolini), Türkiye'yi hangi paktı kurmaya yöneltmiştir?",
+          "options": ["Varşova Paktı", "Sadabat Paktı", "Briand-Kellogg Paktı", "Litvinov Protokolü", "Balkan Antantı"],
+          "correctOption": "B",
+          "solution": "Batı sınırını güvenceye almak için."
+        },
+        {
+          "text": "Türkiye'nin dış borçlarını ödemek için en son taksiti ödediği yıl hangisidir?",
+          "options": ["1954", "1938", "1945", "1980", "2000"],
+          "correctOption": "A",
+          "solution": "Adnan Menderes döneminde bitmiştir."
+        },
+        {
+          "text": "Adana-Mersin demiryolunun Fransız şirketinden satın alınarak millileştirilmesi hangi ilke ile ilgilidir?",
+          "options": ["Halkçılık", "Laiklik", "Cumhuriyetçilik", "Devletçilik ve Milliyetçilik", "İnkılapçılık"],
+          "correctOption": "D",
+          "solution": "Yabancı tekelinden almak Milliyetçilik, devletin işletmesi Devletçiliktir."
+        },
+        {
+          "text": "Türkiye, Locarno Paktı'na (Avrupa güvenliği için yapılan pakt) neden katılmamıştır?",
+          "options": ["Sınırlarını ilgilendirmediği ve bölgesel olduğu için", "Avrupa devleti sayılmadığı için", "Milletler Cemiyeti'ne üye olmadığı için", "Rusya izin vermediği için", "Almanya ile dost olduğu için"],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Lozan'dan kalan sorunlar içinde Türkiye'nin \"Barışçıl yollarla çözüme kavuşturamadığı\" ve aleyhine sonuçlanan tek konu hangisidir?",
+          "options": ["Musul (Irak Sınırı)", "Hatay (Sonradan lehe döndü)", "Nüfus Mübadelesi (Uzlaşıldığı için nötr/başarılı sayılır)", "Boğazlar (Lehe döndü)", "Yabancı Okullar (Lehe çözüldü)"],
+          "correctOption": "A",
+          "solution": "Misak-ı Milli'ye aykırı ve kalıcı toprak kaybı olarak aleyhte bitmiştir."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 8",
+      "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 32 Özeti - Dış Politika II)\nDönem Özelliği (1932-1939): \"Yurtta Sulh Cihanda Sulh\". Yaklaşan II. Dünya Savaşı tehlikesine (Almanya ve İtalya'nın yayılmacılığı) karşı sınırları güvence altına alma.\n\nMilletler Cemiyeti'ne Giriş (1932): İspanya'nın teklifi, Yunanistan'ın desteği ile davet edilerek girildi.\n\nBalkan Antantı (1934):\nTehdit: Almanya ve İtalya.\nAmaç: Batı sınırını güvenceye almak.\nKatılanlar (Kod: TaYYaR): Türkiye, Yunanistan, Yugoslavya, Romanya.\nKatılmayanlar: Bulgaristan (Yayılmacı/Revizyonist), Arnavutluk (İtalya etkisinde).\n\nMontrö Boğazlar Sözleşmesi (1936):\nNeden: Almanya ve İtalya'nın silahlanması, Boğazların güvenliğinin tehlikeye girmesi.\nSonuç: Boğazlar Komisyonu kaldırıldı. Yetkiler Türkiye'ye geçti. Türk askeri Boğazlara girdi. Misak-ı Milli'ye uygun çözüldü. (Lozan'daki egemenlik kısıtlaması kalktı).\n\nSadabat Paktı (1937):\nTehdit: İtalya'nın Habeşistan'ı işgali ve Doğu'ya yönelmesi.\nAmaç: Doğu sınırını güvenceye almak.\nKatılanlar (Kod: Atİİ): Afganistan, Türkiye, İran, İrak.\nKatılmayan: Suriye (Hatay ve sınır sorunları nedeniyle).\n\nHatay Sorunu:\nAtatürk: \"Kırk asırlık Türk yurdu düşman eline bırakılamaz.\"\nSandler Raporu: Hatay'ın Türk olduğunu belgeleyen uluslararası rapor (Tıpkı Amiral Bristol gibi).\nHatay Cumhuriyeti (1938): İlk ve tek Cumhurbaşkanı Tayfur Sökmen, Başbakanı Abdurrahman Melek.\nAnavatana Katılma (1939): Hatay Meclisi kararıyla Türkiye'ye katıldı. (Atatürk'ün vefatından sonra gerçekleşen ilk ve en büyük dış politika başarısı).",
+      "questions": [
+        {
+          "text": "Türkiye'nin 1930'lu yıllarda Balkan Antantı ve Sadabat Paktı'nı kurarak bölgesel ittifaklara girmesinin temel nedeni nedir?",
+          "options": ["NATO'ya girmek", "Almanya ve İtalya'nın yayılmacı politikalarına karşı sınır güvenliğini sağlamak", "Musul meselesini çözmek", "Sovyet Rusya ile ilişkileri geliştirmek", "Hatay'ı geri almak"],
+          "correctOption": "B",
+          "solution": "Yaklaşan II. Dünya Savaşı tehlikesi."
+        },
+        {
+          "text": "1934 yılında Türkiye, Yunanistan, Yugoslavya ve Romanya'nın katılımıyla oluşturulan Balkan Antantı hangi sınırımızın güvenliğini sağlamaya yöneliktir?",
+          "options": ["Irak Sınırı", "Doğu Sınırı", "Kuzey Sınırı", "Batı Sınırı", "Güney Sınırı"],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Balkan Antantı'na, komşularından toprak talep ettiği için (Revizyonist politika) katılmayan Balkan devleti hangisidir?",
+          "options": ["Türkiye", "Bulgaristan", "Romanya", "Yugoslavya", "Arnavutluk"],
+          "correctOption": "B",
+          "solution": "Arnavutluk ise İtalya baskısı yüzünden katılmamıştır."
+        },
+        {
+          "text": "Türkiye'nin Boğazlar üzerindeki egemenliğini tam olarak sağlayan ve Boğazlar Komisyonu'nu kaldıran belge hangisidir?",
+          "options": ["Montrö Boğazlar Sözleşmesi", "Londra Antlaşması", "Paris Antlaşması", "Ankara Antlaşması", "Lozan Antlaşması"],
+          "correctOption": "A",
+          "solution": "20 Temmuz 1936"
+        },
+        {
+          "text": "Montrö Boğazlar Sözleşmesi ile Türkiye'nin elde ettiği en önemli kazanım nedir?",
+          "options": ["Boğazlardan geçişin ücretli olması", "Boğazların kapatılması", "Sadece ticaret gemilerinin geçebilmesi", "Boğazlar Komisyonu'nun kaldırılarak yetkilerin Türkiye'ye devredilmesi ve Türk askerinin boğazlara girmesi", "Rusya'nın boğazları koruması"],
+          "correctOption": "D",
+          "solution": "Misak-ı Milli'ye uygun hale gelmiş ve egemenlik kısıtlaması kalkmıştır."
+        },
+        {
+          "text": "1937 yılında Türkiye, İran, Irak ve Afganistan arasında imzalanan Sadabat Paktı hangi sınırımızın güvenliğini sağlamaya yöneliktir?",
+          "options": ["Doğu", "Trakya", "Kuzey", "Batı", "Ege"],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye ile sınır sorunları (Hatay Meselesi) yaşadığı için Sadabat Paktı'na katılmayan devlet hangisidir?",
+          "options": ["Irak", "İran", "Afganistan", "Sovyet Rusya", "Suriye"],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün \"Kırk asırlık Türk yurdu düşman eline bırakılamaz\" ve \"Benim şahsi meselemdir\" dediği yer neresidir?",
+          "options": ["Kerkük", "Selanik", "Hatay (İskenderun Sancağı)", "Batum", "Musul"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Hatay sorunu konusunda Milletler Cemiyeti tarafından görevlendirilen İsveçli diplomat Sandler'in hazırladığı Sandler Raporu'nun içeriği nedir?",
+          "options": ["Hatay'ın Türkiye'ye tazminat ödemesi gerektiği", "Hatay'ın Suriye'ye ait olduğu", "Hatay'ın Fransa'da kalması gerektiği", "Hatay'ın İngiliz mandasına girmesi gerektiği", "Hatay'da Türk nüfusunun çoğunlukta olduğu ve Hatay'ın bağımsız olması gerektiği"],
+          "correctOption": "E",
+          "solution": "Bu rapor, Hatay'ın bağımsızlığına ve sonra Türkiye'ye katılmasına giden yolu açmıştır."
+        },
+        {
+          "text": "1938 yılında kurulan bağımsız Hatay Cumhuriyeti'nin ilk ve tek Cumhurbaşkanı kimdir?",
+          "options": ["Tayfur Sökmen", "Rauf Orbay", "Ali Çetinkaya", "Şükrü Sökmensüer", "Abdurrahman Melek"],
+          "correctOption": "A",
+          "solution": "Başbakanı ise Abdurrahman Melek'tir."
+        },
+        {
+          "text": "Hatay'ın Türkiye'ye katılması hangi yıl ve nasıl gerçekleşmiştir?",
+          "options": ["1938 - Savaşla", "1930 - Ankara Antlaşması ile", "1945 - II. Dünya Savaşı sonunda", "1939 - Hatay Meclisi'nin oy birliğiyle aldığı kararla", "1936 - Montrö ile"],
+          "correctOption": "D",
+          "solution": "Atatürk vefat ettikten sonra gerçekleşmiştir."
+        },
+        {
+          "text": "Türkiye'nin Akdeniz'de İtalya'nın tehdidine karşı İngiltere ve Yunanistan ile kurduğu güvenlik işbirliği hangisidir?",
+          "options": ["Balkan Antantı", "Bağdat Paktı", "Akdeniz Paktı", "Nyon Antlaşması", "Sadabat Paktı"],
+          "correctOption": "C",
+          "solution": "İtalya'nın \"Bizim Deniz\" politikasına karşı."
+        },
+        {
+          "text": "Montrö Boğazlar Sözleşmesi'ni imzalayan Türkiye Cumhuriyeti Dışişleri Bakanı kimdir?",
+          "options": ["İsmet İnönü", "Hasan Saka", "Fuat Köprülü", "Şükrü Saraçoğlu", "Tevfik Rüştü Aras"],
+          "correctOption": "E",
+          "solution": "Atatürk dönemi dış politikasının en uzun süreli bakanıdır."
+        },
+        {
+          "text": "Aşağıdaki devletlerden hangisi Montrö Boğazlar Sözleşmesi'ne, Boğazların silahlandırılmasına karşı olduğu için en geç onay veren (veya çekince koyan) devlettir?",
+          "options": ["Fransa", "Yunanistan", "Rusya", "İngiltere", "İtalya"],
+          "correctOption": "E",
+          "solution": "İtalya yayılmacı emelleri olduğu için 2 yıl sonra imzalamıştır. Japonya da imzalamıştır."
+        },
+        {
+          "text": "Türkiye'nin Milletler Cemiyeti'ne (Cemiyet-i Akvam) girmesi, Balkan Antantı ve Sadabat Paktı'nı kurması; Atatürk'ün hangi dış politika ilkesini benimsediğini gösterir?",
+          "options": ["Turancılık", "Yalnızlık", "İslamcılık", "Barışçılık ve Statükoyu (Mevcut sınırları) Koruma", "Yayılmacılık"],
+          "correctOption": "D",
+          "solution": "\"Yurtta Sulh, Cihanda Sulh\""
+        },
+        {
+          "text": "Atatürk, Hatay meselesi konusunda kararlılığını göstermek ve Fransa'ya gözdağı vermek için, hastalığına rağmen hangi şehre giderek askeri birlikleri denetlemiştir?",
+          "options": ["İzmir", "Trabzon", "Konya", "Adana ve Mersin", "Antep"],
+          "correctOption": "D",
+          "solution": "Bu geziden sonra hastalığı artmıştır."
+        },
+        {
+          "text": "1936 yılında Montrö Boğazlar Sözleşmesi imzalandığında, Boğazların her iki yakasında asker bulundurma yasağının kalkmasıyla Türk askeri nereye girmiştir?",
+          "options": ["Kıbrıs", "Musul", "On İki Ada", "Batı Trakya", "Çanakkale ve İstanbul Boğazı çevresine"],
+          "correctOption": "E",
+          "solution": "Lozan'daki \"Askersiz Bölge\" kavramı bitmiştir."
+        },
+        {
+          "text": "Hatay sorunu sırasında Atatürk, \"Kurun\" gazetesinde \"Asım Us\" takma adıyla yazdığı yazılarda kimi eleştirmiştir?",
+          "options": ["Milletler Cemiyeti'ni", "Suriye Yönetimini", "İsmet İnönü Hükümetini (Hatay konusunda pasif kaldığı gerekçesiyle)", "Fransız Hükümetini", "İngiltere'yi"],
+          "correctOption": "C",
+          "solution": "Kendi başbakanını ve hükümetini eleştirerek daha aktif politika istemiştir."
+        },
+        {
+          "text": "Türkiye, İtalya'nın Habeşistan'a saldırması üzerine Akdeniz'deki ticaret gemilerinin güvenliğini sağlamak için 1937'de hangi antlaşmaya katılmıştır?",
+          "options": ["Paris", "Nyon Antlaşması", "Lozan", "Montrö", "Cenevre"],
+          "correctOption": "B",
+          "solution": "Korsanlığa karşı işbirliği."
+        },
+        {
+          "text": "Atatürk Dönemi'nde, Türkiye'nin dış politikadaki öncelikleri arasında aşağıdakilerden hangisi yoktur?",
+          "options": ["Kıbrıs'ı ilhak etmek", "Hatay'ı anavatana katmak", "Nüfus mübadelesini çözmek", "Musul'u geri almak", "Boğazlar üzerindeki kısıtlamaları kaldırmak"],
+          "correctOption": "A",
+          "solution": "Kıbrıs sorunu 1950'lerde, Demokrat Parti döneminde gündeme gelmiştir. Atatürk döneminde bir dış politika konusu değildir."
+        },
+        {
+          "text": "Balkan Antantı'nın \"Balkan sınırlarının karşılıklı olarak garanti edilmesi\" ilkesi, hangi devletin yayılmacı politikasına karşı bir önlemdir?",
+          "options": ["Yunanistan", "Türkiye", "Romanya", "Fransa", "Bulgaristan (ve Almanya/İtalya)"],
+          "correctOption": "E",
+          "solution": "Bulgaristan, II. Balkan Savaşı'nda kaybettiği toprakları geri istiyordu."
+        },
+        {
+          "text": "Sadabat Paktı'nın merkezi neresidir ve hangi şehirde imzalanmıştır?",
+          "options": ["Kabil", "Tahran (Sadabat Sarayı)", "İstanbul", "Bağdat", "Ankara"],
+          "correctOption": "B",
+          "solution": "İran şahının sarayında imzalanmıştır."
+        },
+        {
+          "text": "Atatürk döneminde Türkiye'yi ziyaret eden ilk yabancı devlet başkanı (1928) olan Afgan Kralı kimdir?",
+          "options": ["Venizelos", "Emanullah Han", "Rıza Pehlevi", "İbn Suud", "Kral Faysal"],
+          "correctOption": "B",
+          "solution": "Türkiye'yi örnek alarak ülkesinde reformlar yapmaya çalışmıştır."
+        },
+        {
+          "text": "Türkiye'nin II. Dünya Savaşı öncesinde Almanya ile imzaladığı (1939 başları - Atatürk sonrası, İsmet İnönü dönemi başı ama geçiş süreci) ve krom satışı gibi ticari ilişkileri düzenleyen antlaşma hangisidir? (Genel Kültür).",
+          "options": ["Lozan", "Montrö", "Kliring Antlaşması", "Türk-Alman Dostluk Paktı (1941)", "Ankara Antlaşması"],
+          "correctOption": "C",
+          "solution": "Atatürk döneminde Almanya ile ticari ilişkiler \"Kliring\" (Mal takası) sistemiyle yürümüştür."
+        },
+        {
+          "text": "Atatürk'ün vefatından sonra Hatay'ın anavatana katılması sürecini yöneten Cumhurbaşkanı ve Başbakan ikilisi kimdir?",
+          "options": ["İsmet İnönü - Celal Bayar (Sonra Refik Saydam)", "Celal Bayar - Adnan Menderes", "İsmet İnönü - Şükrü Saraçoğlu", "Atatürk - İsmet İnönü", "Fevzi Çakmak - Rauf Orbay"],
+          "correctOption": "A",
+          "solution": "Cumhurbaşkanı İsmet İnönü, Başbakan Refik Saydam döneminde Hatay resmen iltihak etmiştir."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 9",
+      "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 33 Özeti - Atatürk'ün Hayatı)\nOkuduğu Okullar (Sırasıyla):\nMahalle Mektebi (Annesinin isteği).\nŞemsi Efendi Okulu (Babasının isteği - Modern).\nSelanik Mülkiye Rüştiyesi (Yarıda bıraktı).\nSelanik Askeri Rüştiyesi (Matematik öğretmeni \"Kemal\" adını verdi).\nManastır Askeri İdadisi (Lise - Tarih ve Edebiyat sevgisi burada başladı).\nİstanbul Harp Okulu (Teğmen çıktı).\nİstanbul Harp Akademisi (Kurmay Yüzbaşı çıktı).\n\nGörev Yerleri:\nİlk Görev Yeri: Şam (5. Ordu). Vatan ve Hürriyet Cemiyeti'ni kurdu.\nTarih Sahnesine Çıkışı: 31 Mart Vakası (Hareket Ordusu).\nAtaşemiliterlik: Sofya (Bulgaristan).\n\nFikir Babaları:\nNamık Kemal: \"Vatan ve Hürriyet şairi\".\nMehmet Emin Yurdakul: \"Milli Şair\" (Cenge Giderken).\nZiya Gökalp: \"Fikirlerimin Babası\" (Milliyetçilik).\nTevfik Fikret: \"İnkılapçı Ruh\".\nJean J. Rousseau / Montesquieu: Cumhuriyet ve Demokrasi fikri.\n\nEserleri:\nNutuk (1919-1927): Samsun'a çıkışla başlar, Gençliğe Hitabe ile biter. Geliri THK'ya bırakılmıştır. CHP'nin 1927 kurultayında okunmuştur.\nGeometri Kitabı: Türkçe geometri terimleri (Üçgen, açı, boyut vb.) türetmiştir.\nVatandaş İçin Medeni Bilgiler: Afet İnan ile birlikte hazırlamıştır.\nDiğerleri: Bölüğün Muharebe Eğitimi, Cumalı Ordugahı, Zabit ve Kumandan ile Hasbihal.\n\nMiras:\nİş Bankası hisselerinin gelirini TTK ve TDK'ya bıraktı.\nKız kardeşi Makbule Hanım'a ve manevi evlatlarına maaş bağlandı.\nİsmet İnönü'nün çocuklarının eğitim masrafları karşılandı.\nBursa ve Ankara belediyelerine pay ayrıldı.",
+      "questions": [
+        {
+          "text": "Mustafa Kemal'in \"Kemal\" adını aldığı okul hangisidir?",
+          "options": [
+            "Manastır Askeri İdadisi",
+            "Şemsi Efendi Okulu",
+            "Selanik Askeri Rüştiyesi",
+            "Harp Okulu",
+            "Mahalle Mektebi"
+          ],
+          "correctOption": "C",
+          "solution": "Matematik öğretmeni Mustafa Bey vermiştir."
+        },
+        {
+          "text": "Mustafa Kemal'in eğitim hayatında Tarih (Kolağası Mehmet Tevfik Bey sayesinde) ve Edebiyat (Ömer Naci sayesinde) sevgisinin başladığı, fikir hayatının şekillendiği şehir hangisidir?",
+          "options": [
+            "Şam",
+            "Manastır (Askeri İdadi)",
+            "Sofya",
+            "Selanik",
+            "İstanbul"
+          ],
+          "correctOption": "B",
+          "solution": "Lise yılları."
+        },
+        {
+          "text": "Mustafa Kemal'in 1905 yılında Kurmay Yüzbaşı rütbesiyle mezun olduktan sonra atandığı ilk görev yeri neresidir?",
+          "options": [
+            "Sofya Ataşemiliterliği",
+            "Şam (5. Ordu)",
+            "Çanakkale",
+            "Hareket Ordusu (Selanik)",
+            "Trablusgarp"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal'in Şam'da görev yaparken kurduğu ve daha sonra İttihat ve Terakki ile birleşen cemiyetin adı nedir?",
+          "options": [
+            "Vatan ve Hürriyet Cemiyeti",
+            "Müdafaa-i Hukuk",
+            "Karakol Cemiyeti",
+            "Hürriyet ve İtilaf",
+            "Ahali Fırkası"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal'in I. Dünya Savaşı öncesinde \"Ataşemiliter\" (Askeri Elçi) olarak görev yaptığı ve Batı tarzı yaşamı, operayı, baloyu yakından tanıdığı şehir hangisidir?",
+          "options": [
+            "Berlin",
+            "Sofya",
+            "Londra",
+            "Paris",
+            "Viyana"
+          ],
+          "correctOption": "C",
+          "solution": "Burada kıyafet balosuna Yeniçeri kıyafetiyle katılmıştır."
+        },
+        {
+          "text": "Mustafa Kemal'in \"Bedenimin babası Ali Rıza Efendi, hislerimin babası Namık Kemal, fikirlerimin babası ise...\" dediği düşünür kimdir?",
+          "options": [
+            "Mehmet Emin Yurdakul",
+            "Ziya Gökalp",
+            "Tevfik Fikret",
+            "Montesquieu",
+            "Jean Jacques Rousseau"
+          ],
+          "correctOption": "B",
+          "solution": "Milliyetçilik ve Türkçülük fikirlerinin kaynağı."
+        },
+        {
+          "text": "Mustafa Kemal'in 1919-1927 yılları arasındaki olayları anlattığı ve CHP'nin 2. Kurultayı'nda (1927) 6 gün boyunca okuduğu en önemli eseri hangisidir?",
+          "options": [
+            "Nutuk",
+            "Geometri",
+            "Medeni Bilgiler",
+            "Söylev ve Demeçler",
+            "Zabit ve Kumandan ile Hasbihal"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Nutuk adlı eser hangi olayla başlar, hangi olayla biter?",
+          "options": [
+            "Çanakkale Savaşı - Atatürk'ün Ölümü",
+            "19 Mayıs 1919 Samsun'a Çıkış - Gençliğe Hitabe",
+            "Trablusgarp Savaşı - Lozan Antlaşması",
+            "Mondros Ateşkesi - Cumhuriyetin İlanı",
+            "TBMM'nin Açılması - Çok Partili Hayat"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk, Nutuk adlı eserinin gelirlerini hangi kuruma bağışlamıştır?",
+          "options": [
+            "Kızılay",
+            "Türk Hava Kurumu (Türk Tayyare Cemiyeti)",
+            "Türk Tarih Kurumu",
+            "Çocuk Esirgeme Kurumu",
+            "Türk Dil Kurumu"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün bizzat yazdığı, Türkçe matematik ve geometri terimlerini (Açı, üçgen, dikdörtgen, artı, eksi vb.) türettiği eserinin adı nedir?",
+          "options": [
+            "Hesap Kitabı",
+            "Geometri Kılavuzu (Geometri Kitabı)",
+            "Zabit ve Kumandan",
+            "Matematik Prensipleri",
+            "Medeni Bilgiler"
+          ],
+          "correctOption": "B",
+          "solution": "1937 yılında yazılmıştır."
+        },
+        {
+          "text": "Mustafa Kemal'in I. Dünya Savaşı'nda görev aldığı cephelerin kronolojik sıralaması nasıldır? (Kod: ÇKS)",
+          "options": [
+            "Kafkas - Çanakkale - Suriye",
+            "Çanakkale - Kafkas - Suriye",
+            "Suriye - Çanakkale - Kafkas",
+            "Kafkas - Suriye - Çanakkale",
+            "Çanakkale - Suriye - Kafkas"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün manevi kızı olan, tarih alanında yaptığı çalışmalarla tanınan ve Türk Tarih Kurumu'nun kurucularından olan bilim insanı kimdir?",
+          "options": [
+            "Sabiha Gökçen",
+            "Ülkü Adatepe",
+            "Rukiye Erkin",
+            "Afet İnan",
+            "Zehra Aylin"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün vasiyetinde İş Bankası'ndaki hisselerinin gelirlerini bıraktığı iki kurum hangisidir?",
+          "options": [
+            "Kızılay - Yeşilay",
+            "Türk Tarih Kurumu - Türk Dil Kurumu",
+            "Ankara Üniversitesi - ODTÜ",
+            "CHP - Halkevleri",
+            "Darüşşafaka - Mehmetçik Vakfı"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün vefatından sonra naaşı Anıtkabir yapılana kadar (1938-1953) nerede muhafaza edilmiştir?",
+          "options": [
+            "TBMM",
+            "Ankara Etnografya Müzesi",
+            "İstanbul Üniversitesi",
+            "Dolmabahçe Sarayı",
+            "Çankaya Köşkü"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal'in \"Ben size taarruzu değil, ölmeyi emrediyorum\" sözünü söylediği yer neresidir?",
+          "options": [
+            "Kocatepe (Büyük Taarruz)",
+            "Conkbayırı (Çanakkale)",
+            "Tınaztepe",
+            "Metristepe (II. İnönü)",
+            "Duatepe (Sakarya)"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal'e TBMM tarafından \"Gazilik\" unvanı ve \"Mareşallik\" rütbesi hangi savaştan sonra verilmiştir?",
+          "options": [
+            "Büyük Taarruz",
+            "Sakarya Meydan Muharebesi",
+            "II. İnönü",
+            "Çanakkale",
+            "I. İnönü"
+          ],
+          "correctOption": "C",
+          "solution": "1921"
+        },
+        {
+          "text": "Atatürk'ün \"Doğum günüm\" dediği tarih hangisidir?",
+          "options": [
+            "29 Ekim 1923",
+            "19 Mayıs 1919",
+            "23 Nisan 1920",
+            "1 Ocak 1881",
+            "30 Ağustos 1922"
+          ],
+          "correctOption": "C",
+          "solution": "Samsun'a çıktığı gün."
+        },
+        {
+          "text": "Atatürk'ün nüfusa kayıtlı olduğu il hangisidir? (Sonradan aldığı nüfus cüzdanında yazar).",
+          "options": [
+            "Ankara",
+            "Gaziantep",
+            "İzmir",
+            "İstanbul",
+            "Selanik"
+          ],
+          "correctOption": "C",
+          "solution": "Gaziantep / Bey Mahallesi nüfusuna kayıtlıdır. TBMM kararıyla hemşehrilik verilmiştir."
+        },
+        {
+          "text": "Mustafa Kemal'in Karlsbad (Çekya) şehrinde tedavi görürken yazdığı ve anılarını topladığı eserin adı nedir?",
+          "options": [
+            "Nutuk",
+            "Karlsbad Hatıraları",
+            "Medeni Bilgiler",
+            "Arıburnu Raporu",
+            "Anafartalar Muharebatı"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün \"Benim Kentim\" dediği ve Milli Mücadele'de hiç işgal görmediği halde en çok şehit veren illerden biri olan şehir hangisidir?",
+          "options": [
+            "Kastamonu",
+            "Yalova",
+            "Ankara",
+            "Bursa",
+            "İzmir"
+          ],
+          "correctOption": "C",
+          "solution": "Yalova için \"Benim kentimdir\" demiştir. Yürüyen Köşk de buradadır."
+        },
+        {
+          "text": "Mustafa Kemal'in Harp Okulu'ndan mezuniyet rütbesi ile Harp Akademisi'nden mezuniyet rütbesi sırasıyla nedir?",
+          "options": [
+            "Asteğmen - Teğmen",
+            "Teğmen - Kurmay Yüzbaşı",
+            "Yüzbaşı - Yarbay",
+            "Üsteğmen - Binbaşı",
+            "Teğmen - Üsteğmen"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Atatürk'ün yazdığı veya hazırlanmasına katkıda bulunduğu eserlerden biri değildir?",
+          "options": [
+            "Zabit ve Kumandan ile Hasbihal",
+            "Türk'ün Ateşle İmtihanı",
+            "Geometri",
+            "Bölüğün Muharebe Talimi",
+            "Vatandaş İçin Medeni Bilgiler"
+          ],
+          "correctOption": "D",
+          "solution": "Türk'ün Ateşle İmtihanı, Halide Edip Adıvar'ın eseridir."
+        },
+        {
+          "text": "Atatürk'ün en sevdiği atının ve köpeğinin adı aşağıdakilerden hangisinde doğru verilmiştir?",
+          "options": [
+            "Rüzgar - Foks",
+            "Sakarya - Fox",
+            "Yiğit - Çakır",
+            "Poyraz - Gümüş",
+            "Duman - Karabaş"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk'ün vefat ettiği gün İstanbul Üniversitesi'nde derse girmeyen ve \"Bugün ders yok, çünkü neş'e (kaynağımız) gitti\" diyerek yas tutan Alman profesör kimdir?",
+          "options": [
+            "Prof. Dr. Arndt",
+            "Prof. Dr. Neumark",
+            "Albert Malche",
+            "Prof. Dr. Eckstein",
+            "Prof. Dr. Schwartz"
+          ],
+          "correctOption": "B",
+          "solution": "Veya o dönemin rektörü/hocaları."
+        },
+        {
+          "text": "Atatürk'ün vefatı üzerine Tahran'daki sarayına \"Allah'tan başka her şey fanidir\" yazdıran ve bir ay yas ilan eden devlet başkanı kimdir?",
+          "options": [
+            "Kral Faysal (Irak)",
+            "Rıza Şah Pehlevi (İran)",
+            "Kral Faruk (Mısır)",
+            "Venizelos (Yunanistan)",
+            "Emanullah Han (Afganistan)"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 10",
+      "preTestNote": "📌 BÖLÜM 1: GENEL TEKRAR (Karma Test)\nBu bölüm, İnkılap Tarihi konularının genel bir tekrarı niteliğinde olup, önceki ünitelerden karma sorular içermektedir.",
+      "questions": [
+        {
+          "text": "Atatürk’ün \"Hayatta en hakiki mürşit ilimdir, fendir\" sözü, aşağıdaki ilkelerden hangisiyle doğrudan ilişkilidir?",
+          "options": [
+            "Halkçılık",
+            "Laiklik",
+            "Milliyetçilik",
+            "Devletçilik",
+            "Cumhuriyetçilik"
+          ],
+          "correctOption": "B",
+          "solution": "Akıl ve bilimi esas aldığı için Laiklik. Aynı zamanda İnkılapçılıkla da ilgilidir."
+        },
+        {
+          "text": "1926 yılında Türk Medeni Kanunu’nu kabul edilmesiyle hukuk sisteminde yapılan değişiklik, Osmanlı’daki hangi sisteme son vermiştir?",
+          "options": [
+            "Müsadere Sistemi",
+            "Millet Sistemi (Hukuksal boyutu)",
+            "Devşirme Sistemi",
+            "Tımar Sistemi",
+            "İltizam Sistemi"
+          ],
+          "correctOption": "B",
+          "solution": "Cemaat mahkemeleri ve konsolosluk mahkemeleri kapatılarak hukuk birliği sağlanmış, millet sisteminin hukuksal ayrılığı bitmiştir."
+        },
+        {
+          "text": "Türkiye Cumhuriyeti'nde kadınlara verilen siyasi hakların kronolojik sıralaması (edinme sırasına göre) aşağıdakilerden hangisidir? (Kod: BMW)",
+          "options": [
+            "Belediye - Muhtar - Milletvekili",
+            "Milletvekili - Muhtar - Belediye",
+            "Muhtar - Belediye - Milletvekili",
+            "Belediye - Milletvekili - Muhtar",
+            "Milletvekili - Belediye - Muhtar"
+          ],
+          "correctOption": "B",
+          "solution": "1930 Belediye, 1933 Muhtar, 1934 Vekil."
+        },
+        {
+          "text": "1934 yılında kabul edilen Soyadı Kanunu ile \"Paşa, Bey, Ağa, Hafız\" gibi unvanların yasaklanması, Atatürk ilkelerinden hangisinin bir gereğidir?",
+          "options": [
+            "Laiklik",
+            "Halkçılık",
+            "Devletçilik",
+            "Cumhuriyetçilik",
+            "Milliyetçilik"
+          ],
+          "correctOption": "C",
+          "solution": "Toplumsal eşitliği sağlamak ve ayrıcalıkları kaldırmak."
+        },
+        {
+          "text": "Yeni Türk devletinde okuma-yazma seferberliği başlatmak ve yeni harfleri halka öğretmek amacıyla 1928’de açılan kurum hangisidir?",
+          "options": [
+            "Türk Ocakları",
+            "Millet Mektepleri",
+            "Köy Enstitüleri",
+            "Halkevleri",
+            "Maarif Cemiyeti"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "3 Mart 1924’te kabul edilen Tevhid-i Tedrisat Kanunu’nun temel amacı nedir?",
+          "options": [
+            "Yabancı okulları kapatmak",
+            "Eğitim ve öğretimde birlik sağlamak, eğitimi devlet denetimine almak",
+            "İlköğretimi paralı hale getirmek",
+            "Karma eğitime son vermek",
+            "Üniversite reformu yapmak"
+          ],
+          "correctOption": "B",
+          "solution": "Medrese-Mektep ikiliğini ortadan kaldırmıştır."
+        },
+        {
+          "text": "İzmir İktisat Kongresi’nde (1923) kabul edilen Misak-ı İktisadi kararlarının temel felsefesini oluşturan ilke hangisidir?",
+          "options": [
+            "Sosyalist ekonomi",
+            "Ekonomik bağımsızlık ve yerli üretim",
+            "Yabancı sermayeye dayalı kalkınma",
+            "Sadece tarıma dayalı ekonomi",
+            "İthalata dayalı büyüme"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye’de 1933 yılında gerçekleştirilen Üniversite Reformu sonucunda kapatılan Darülfünun’un yerine kurulan üniversite hangisidir?",
+          "options": [
+            "Ortadoğu Teknik Üniversitesi",
+            "İstanbul Üniversitesi",
+            "Ankara Üniversitesi",
+            "Boğaziçi Üniversitesi",
+            "İstanbul Teknik Üniversitesi"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Şapka Kanunu’nun kabul edilmesi ve kılık kıyafette yapılan düzenlemeler, Atatürk’ün hangi ilkesiyle doğrudan ilgilidir?",
+          "options": [
+            "Devletçilik",
+            "İnkılapçılık",
+            "Halkçılık",
+            "Milliyetçilik",
+            "Cumhuriyetçilik"
+          ],
+          "correctOption": "B",
+          "solution": "Toplumsal alanda çağdaşlaşma ve modernleşme."
+        },
+        {
+          "text": "Cumhuriyet döneminde, devletin özel sektörü desteklemesine rağmen yeterli sermaye birikimi olmaması nedeniyle 1930’dan sonra zorunlu olarak uygulanan ekonomik model hangisidir?",
+          "options": [
+            "Kapitalizm",
+            "Devletçilik",
+            "Korumacılık",
+            "Serbest Piyasa",
+            "Liberalizm"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "1926 yılında İtalya’dan uyarlanarak alınan kanun hangisidir?",
+          "options": [
+            "Ceza Kanunu",
+            "Medeni Kanun",
+            "Ticaret Kanunu",
+            "İcra İflas Kanunu",
+            "Borçlar Kanunu"
+          ],
+          "correctOption": "B",
+          "solution": "1889 Zanardelli Yasası."
+        },
+        {
+          "text": "Hicri ve Rumi takvimlerin kaldırılarak Miladi Takvimin kabul edilmesi, ölçü birimlerinin değiştirilmesi ve hafta tatilinin Pazar gününe alınmasının ortak amacı nedir?",
+          "options": [
+            "Nüfus sayımını kolaylaştırmak",
+            "Batı dünyası ile ekonomik ve ticari ilişkilerde uyum sağlamak",
+            "Dini duyguları zayıflatmak",
+            "Milliyetçiliği güçlendirmek",
+            "Gelenekleri korumak"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Serbest Cumhuriyet Fırkası’nın (SCF) kuruluşunda etkili olan, ancak partinin kapatılmasından sonra Menemen Olayı ile sonuçlanan süreçte yaşanan temel sorun nedir?",
+          "options": [
+            "Dış politikanın başarısız olması",
+            "Rejim karşıtlarının (İrticai unsurların) partiye sızarak Cumhuriyete karşı eyleme geçmesi",
+            "Ekonomik krizin derinleşmesi",
+            "Kadınlara hak verilmesi",
+            "Seçim sisteminin değişmesi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türk karasularında gemi işletme hakkının sadece Türklere ait olduğunu belirten Kabotaj Kanunu, Atatürk’ün hangi ilkesiyle doğrudan ilgilidir?",
+          "options": [
+            "Devletçilik",
+            "Milliyetçilik",
+            "Laiklik",
+            "İnkılapçılık",
+            "Halkçılık"
+          ],
+          "correctOption": "C",
+          "solution": "Ekonomik milliyetçilik."
+        },
+        {
+          "text": "Cumhuriyet ideolojisini halka benimsetmek, kültür seviyesini yükseltmek ve köylü-aydın farkını kapatmak amacıyla 1932’de kurulan, yayın organı \"Ülkü\" olan kurum hangisidir?",
+          "options": [
+            "Millet Mektepleri",
+            "Halkevleri",
+            "Köy Enstitüleri",
+            "Maarif Teşkilatı",
+            "Türk Ocakları"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk döneminde kurulan Türk Tarih Kurumu (TTK) ve Türk Dil Kurumu (TDK), Atatürk’ün hangi ilkesini güçlendirmeye yöneliktir?",
+          "options": [
+            "Laiklik",
+            "Milliyetçilik",
+            "Devletçilik",
+            "Halkçılık",
+            "Cumhuriyetçilik"
+          ],
+          "correctOption": "B",
+          "solution": "Milli tarih ve milli dil bilinci."
+        },
+        {
+          "text": "1934 yılında Keriman Halis’in \"Dünya Güzeli\" seçilmesi, Türk kadınının sosyal hayattaki yerini göstermesi açısından önemlidir. Atatürk, Keriman Halis’e hangi soyadını vermiştir?",
+          "options": [
+            "Gökçen",
+            "Ece",
+            "Afet",
+            "Tayyar",
+            "Ülkü"
+          ],
+          "correctOption": "B",
+          "solution": "Kraliçe anlamında."
+        },
+        {
+          "text": "Cumhuriyet döneminde köylünün ekonomik durumunu düzeltmek amacıyla 1925 yılında kaldırılan vergi hangisidir?",
+          "options": [
+            "Varlık Vergisi",
+            "Aşar (Öşür)",
+            "Emlak Vergisi",
+            "Ağnam",
+            "Yol Vergisi"
+          ],
+          "correctOption": "B",
+          "solution": "Halkçılık ilkesi gereği."
+        },
+        {
+          "text": "Atatürk döneminde sanayileşmeyi sağlamak amacıyla Rusya’dan kredi ve teknik destek alınarak hazırlanan ve 1933-1938 yılları arasında başarıyla uygulanan plan hangisidir?",
+          "options": [
+            "II. Beş Yıllık Sanayi Planı",
+            "I. Beş Yıllık Sanayi Planı",
+            "Teşvik-i Sanayi Planı",
+            "Marshall Planı",
+            "İzmir İktisat Planı"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye Cumhuriyeti’nin mimari sembollerinden olan Anıtkabir’in mimarları kimlerdir?",
+          "options": [
+            "Clemens Holzmeister - Hermann Jansen",
+            "Emin Onat - Orhan Arda",
+            "Mimar Kemalettin - Vedat Tek",
+            "Mimar Sinan - Sedefkar Mehmet Ağa",
+            "Giulio Mongeri - Arif Hikmet Koyunoğlu"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı dönemindeki \"Darülelhan\" (Nağmeler Evi), Cumhuriyet döneminde hangi kuruma dönüştürülmüştür?",
+          "options": [
+            "Türk Tarih Kurumu",
+            "İstanbul Belediye Konservatuvarı",
+            "Devlet Tiyatroları",
+            "Halkevleri",
+            "Güzel Sanatlar Akademisi"
+          ],
+          "correctOption": "B",
+          "solution": "Müzik okulu."
+        },
+        {
+          "text": "Atatürk ilkelerinden \"İnkılapçılık\", yapılan devrimlerin korunmasını ve çağın şartlarına göre geliştirilmesini esas alır. Buna göre İnkılapçılık ilkesinin en temel özelliği nedir?",
+          "options": [
+            "Statükocu (Durağan) olması",
+            "Dinamik olması ve sürekli yenilenmeyi öngörmesi",
+            "Ekonomiyi temel alması",
+            "Gemişe bağlı kalması",
+            "Sadece yasa yapmayı amaçlaması"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Atatürk döneminde \"Demirağlarla ördük anayurdu dört baştan\" dizesiyle vurgulanan ulaşım politikası hangisidir?",
+          "options": [
+            "Havayolu taşımacılığı",
+            "Demiryolu yapımı",
+            "Karayolu yapımı",
+            "Metro yapımı",
+            "Denizyolu taşımacılığı"
+          ],
+          "correctOption": "D",
+          "solution": "Devletçilik ilkesiyle yürütülmüştür."
+        },
+        {
+          "text": "Atatürk, \"Benim manevi mirasım ilim ve akıldır\" diyerek hangi ilkenin önemini vurgulamıştır?",
+          "options": [
+            "Milliyetçilik",
+            "Laiklik",
+            "Devletçilik",
+            "Cumhuriyetçilik",
+            "Halkçılık"
+          ],
+          "correctOption": "B",
+          "solution": "Akılcılık ve bilimsellik Laikliğin temelidir."
+        },
+        {
+          "text": "VII. BÖLÜM FİNAL SORUSU: Atatürk İnkılapları bir bütündür. Siyasi, hukuki, sosyal, eğitim ve ekonomik alanda yapılan tüm inkılapların ortak ve nihai amacı nedir?",
+          "options": [
+            "Osmanlı kurumlarını yaşatmak",
+            "Türkiye Cumhuriyeti'ni çağdaş uygarlıklar seviyesinin üzerine çıkarmak (Muasır Medeniyetler Seviyesi)",
+            "Sadece ekonomiyi kalkındırmak",
+            "Ordunun gücünü artırmak",
+            "Türkiye'yi Batı'nın sömürgesi yapmak"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        }
+      ]
+    }
+  ]
+}

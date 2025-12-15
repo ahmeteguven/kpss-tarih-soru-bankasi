@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376376002636",
+    "project_id": "kpss-tarih-soru-bankasi",
+    "storage_bucket": "kpss-tarih-soru-bankasi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376376002636:android:9d7e3c25f564640853cce9",
+        "android_client_info": {
+          "package_name": "com.ahmeteguven.kpss_tarih_soru_bankasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANU1q4w9J8t4uwQjKU6gCO6sdBTemDOPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

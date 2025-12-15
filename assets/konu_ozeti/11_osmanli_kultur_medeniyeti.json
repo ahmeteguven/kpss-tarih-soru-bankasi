@@ -1,0 +1,160 @@
+{
+  "konu_adi": "11- OSMANLI İMPARATORLUĞU KÜLTÜR VE MEDENİYETİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLI İMPARATORLUĞU KÜLTÜR VE MEDENİYETİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👑 Devlet Yönetimi ve Merkezi Teşkilat"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Osmanlı Devleti, hem Türk örf ve adetleri hem de İslam kurallarına göre yönetilen büyük bir teokratik monarşiydi."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Hükümdar ve Saltanat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Unvanlar: Padişah, Bey, Gazi, Han, Hakan, Sultan, Hünkar.",
+        "Kanunname-i Âli Osman: Fatih Sultan Mehmet döneminde çıkarılan ve padişahın otoritesini güçlendiren kanunlardır.",
+        "Saray Eğitimi: Padişah çocukları (Şehzadeler), sancaklarda deneyim kazanmaları için Lala denilen eğitmenler eşliğinde Sancaklara gönderilirdi."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Divan-ı Hümayun (Bakanlar Kurulu)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Önemi: Devletin en önemli meselelerinin görüşüldüğü, üyeleri padişah tarafından belirlenen büyük organdı.",
+        "Başkanlık: Fatih'ten itibaren Sadrazam (Vezir-i Âzam) başkanlık etmeye başlamıştır. Sadrazam, padişahın mührünü taşır ve en yetkili kişidir.",
+        "İşlevi: Ordu Divan'da görüşülür, davalara (yargı) burada bakılır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Divan Üyeleri ve Görevleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Defterdar: Maliye ve ekonomiden sorumlu olan görevlidir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kazasker (Kadıasker): Adalet, hukuk ve eğitim-öğretim işlerinden sorumlu olan görevlidir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Nişancı: Padişah tuğrasını çeker ve fethedilen toprakların kaydını tutar."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Şeyhülislam: Din işlerinin en yetkili adamı ve alınan kararların dine uygunluğunu denetler."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ Osmanlı Ordusu ve Askerlik"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Kapıkulu Ordusu (Merkez Ordusu)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Sistemi: Devşirme sistemi ile toplanan Hristiyan çocuklarından oluşur. Üç ayda bir Ulufe maaşı alırdı.",
+        "Piyadeleri: Yeniçeriler (İstanbul'un güvenliğini sağlar), Acemi Oğlanları, Cebeciler.",
+        "Süvarileri: Silahdar, Sipahi, Sol Garipler, Sağ Ulufeciler."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Eyalet Ordusu (Tımarlı Sipahi)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Önemi: Ordunun en kalabalık bölümüdür. Dirlik sisteminden meydana gelir.",
+        "Görev: Sadece savaş zamanı askerlik yapar, barış zamanında dirlik işleriyle uğraşır.",
+        "Kuvvetleri: Akıncılar (Sınır boyu istihbarat), Azaplar (İlk çarpışan birlikler), Sakalar (Su ihtiyacını karşılayan)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💰 Toprak Yönetimi ve Ekonomi"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Toprak Yönetimi (Mirî Arazi)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Has Arazi: Geliri 100 bin akçeden fazla olan, üst düzey devlet adamlarına verilen topraklardır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Zeamet Arazi: Geliri 20 bin ile 100 bin akçe arasında değişen, orta dereceli devlet adamlarına verilen topraklardır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Tımar Arazi: Geliri 3 bin ile 20 bin akçe arasında değişen, küçük dereceli devlet adamlarına verilen topraklardır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Devlet Gelir Kaynakları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Öşür (Aşar-Ondalık): Müslüman halktan alınan 1/10 oranında ürün vergisidir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Haraç: Tarımla uğraşan gayrimüslim halktan alınan vergi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Cizye: Askerlik çağına gelmiş gayrimüslim erkeklerden alınan askerlik yapmama vergisidir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Çiftbozan Vergisi: Mazeretsiz olarak toprağı boş bırakan çiftçiden alınan vergi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Avarız Vergisi: Halktan olağanüstü hallerde alınan vergi."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Hukuk Sistemi ve Toplumsal Yapı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hukuk: Şer’i (İslam hukuku) ve Örfi (Türk gelenekleri ve fermanlar) olmak üzere ikiye ayrılırdı.",
+        "Millet Sistemi: Toplum, etnik kökenden ziyade din esasına göre teşkilatlandırılırdı.",
+        "Kadı: Yargılama işlerini yürütürdü ve atamaları Kazasker yapardı."
+      ]
+    }
+  ]
+}

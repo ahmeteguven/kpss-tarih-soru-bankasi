@@ -1,0 +1,3064 @@
+{
+  "topicName": "Çağdaş Türk Dünya Tarihi",
+  "testSets":[
+  {
+    "testName": "Mini Test - 1",
+    "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 43 Özeti - İki Savaş Arası Dünya)\nSSCB ve Orta Asya:\nBolşevik İhtilali (1917): Çarlık yıkıldı, Lenin önderliğinde SSCB kuruldu.\nNEP (Novaya Ekonomiçeskaya Politika): Lenin'in köylüyü rahatlatmak için uyguladığı, özel mülkiyete kısmen izin veren ekonomi politikası.\nKolektifleştirme (Kolkhoz): Stalin'in köylünün elindeki toprağı devlete alması.\nBasmacı Hareketi: Türkistan'ı Ruslardan kurtarmak için başlatılan bağımsızlık mücadelesi. (Liderleri: Korbaşı Ergaş, Enver Paşa, Zeki Velidi Togan).\nAzerbaycan: Mehmet Emin Resulzade (\"Bir kere yükselen bayrak bir daha inmez\").\nOrtadoğu:\nBalfour Deklarasyonu (1917): İngiltere Dışişleri Bakanı Balfour'un, Filistin'de bir Yahudi yurdu kurulmasını desteklediği mektup. (İsrail'in temeli).\nMandalar: Suriye/Lübnan -> Fransa. Irak/Filistin/Ürdün -> İngiltere.\n1929 Dünya Ekonomik Krizi (Kara Perşembe):\nABD Borsasının (New York) çökmesiyle başladı.\nEtkileri: Dünya ticareti durdu. Takas (Kliring) usulü başladı. Türkiye \"Devletçilik\" ilkesine geçti.\nEdebiyat: John Steinbeck - Gazap Üzümleri.\nTotaliter Rejimler:\nİtalya (Faşizm): Mussolini (\"Duce\"). Kara Gömlekliler. Slogan: \"Bizim Deniz\" (Mare Nostrum).\nAlmanya (Nazizm): Hitler (\"Führer\"). Kahverengi Gömlekliler. Slogan: \"Hayat Sahası\" (Lebensraum).\nİspanya: Franco (İç Savaş). Picasso'nun Guernica tablosu bu savaşı anlatır.\nJaponya: İmparator Mutsuhito (Meiji Restorasyonu). Slogan: \"Asya Asyalılarındır\".",
+    "questions": [
+      {
+        "text": "Rusya'da 1917 yılında Çarlık rejimini yıkarak yerine Sovyet Sosyalist Cumhuriyetler Birliği'ni (SSCB) kuran grubun adı nedir?",
+        "options": [
+          "Bolşevikler (Kızıl Ordu)",
+          "Beyaz Ordu",
+          "Menşevikler",
+          "Naziler",
+          "Faşistler"
+        ],
+        "correctOption": "A",
+        "solution": "Lenin önderliğinde."
+      },
+      {
+        "text": "Türkistan'da Rus egemenliğine karşı 1918'de başlayan, Korbaşı Ergaş'ın başlattığı ve Enver Paşa'nın katılımıyla şiddetlenen bağımsızlık mücadelesine ne ad verilir?",
+        "options": [
+          "Gök Bayrak Hareketi",
+          "Türkistan Lejyonu",
+          "Basmacı Hareketi",
+          "Kuvayi Milliye",
+          "Asala"
+        ],
+        "correctOption": "C",
+        "solution": "Ruslar bu harekete \"Baskıncı/Haydut\" anlamında Basmacı demiştir."
+      },
+      {
+        "text": "Basmacı Hareketi'ne katılan, Türk dünyasının önemli tarihçilerinden biri olan ve Türkiye'ye gelerek İstanbul Üniversitesi'nde görev yapan ünlü bilim insanı kimdir?",
+        "options": [
+          "Yusuf Akçura",
+          "Sultan Galiyev",
+          "Gaspıralı İsmail",
+          "Zeki Velidi Togan",
+          "Mehmet Emin Resulzade"
+        ],
+        "correctOption": "D",
+        "solution": ""
+      },
+      {
+        "text": "Azerbaycan Halk Cumhuriyeti'nin kurucusu olan ve \"Bir kere yükselen bayrak bir daha inmez\" sözüyle tanınan lider kimdir?",
+        "options": [
+          "Neriman Nerimanov",
+          "Bahtiyar Vahapzade",
+          "Haydar Aliyev",
+          "Ebulfez Elçibey",
+          "Mehmet Emin Resulzade"
+        ],
+        "correctOption": "E",
+        "solution": "1918'de kurulmuş, 1920'de SSCB işgaliyle yıkılmıştır."
+      },
+      {
+        "text": "SSCB'nin kurucusu Lenin'in, ekonomiyi düzeltmek ve köylünün desteğini almak için \"özel mülkiyete kısmen izin verdiği\" ekonomi politikası hangisidir?",
+        "options": [
+          "Perestroika",
+          "NEP (Novaya Ekonomiçeskaya Politika)",
+          "Demir Perde",
+          "Glasnost",
+          "Kolkhoz"
+        ],
+        "correctOption": "B",
+        "solution": "Yeni Ekonomi Politikası. Stalin döneminde kaldırılarak yerine sert devletçilik gelmiştir."
+      },
+      {
+        "text": "Japonya'nın dış dünyaya kapılarını açarak modernleşmesini sağlayan ve feodal yapıyı yıkarak sanayileşmeyi başlatan reform hareketine ne ad verilir?",
+        "options": [
+          "Meiji Restorasyonu",
+          "Kültür Devrimi",
+          "Sanayi İnkılabı",
+          "Beyaz Devrim",
+          "Aydınlanma Çağı"
+        ],
+        "correctOption": "A",
+        "solution": "İmparator Mutsuhito dönemi."
+      },
+      {
+        "text": "Ortadoğu'da İsrail Devleti'nin kurulmasına zemin hazırlayan, İngiltere Dışişleri Bakanı'nın Siyonist liderlere yazdığı 1917 tarihli mektuba ne ad verilir?",
+        "options": [
+          "Sykes-Picot",
+          "Truman Doktrini",
+          "Balfour Deklarasyonu",
+          "Wilson İlkeleri",
+          "Monroe Doktrini"
+        ],
+        "correctOption": "C",
+        "solution": ""
+      },
+      {
+        "text": "I. Dünya Savaşı'ndan sonra imzalanan San Remo Konferansı kararlarına göre, Suriye ve Lübnan hangi ülkenin mandası (himayesi) altına girmiştir?",
+        "options": [
+          "Rusya",
+          "ABD",
+          "İtalya",
+          "Fransa",
+          "İngiltere"
+        ],
+        "correctOption": "D",
+        "solution": "Irak, Filistin ve Ürdün ise İngiltere mandası olmuştur."
+      },
+      {
+        "text": "1929 Dünya Ekonomik Buhranı (Büyük Depresyon) hangi ülkede ve hangi olayla başlamıştır?",
+        "options": [
+          "İngiltere - İşsizlik",
+          "İtalya - Banka krizi",
+          "Almanya - Hiperenflasyon",
+          "Rusya - Kıtlık",
+          "ABD - New York Borsası'nın (Wall Street) Çöküşü"
+        ],
+        "correctOption": "E",
+        "solution": "24 Ekim 1929 - Kara Perşembe."
+      },
+      {
+        "text": "1929 Dünya Ekonomik Krizi'ni anlatan ve John Steinbeck tarafından yazılan dünyaca ünlü roman hangisidir?",
+        "options": [
+          "Sefiller",
+          "Gazap Üzümleri",
+          "Çanlar Kimin İçin Çalıyor",
+          "Savaş ve Barış",
+          "Silahlara Veda"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Türkiye, 1929 Ekonomik Krizi'nin etkilerinden korunmak için aşağıdaki önlemlerden hangisini almıştır?",
+        "options": [
+          "Liberal ekonomiye geçmiştir.",
+          "Dış borç almıştır.",
+          "Avrupa Birliği'ne başvurmuştur.",
+          "Yabancı malların ithalatını serbest bırakmıştır.",
+          "\"Devletçilik\" ilkesini uygulamaya koymuş ve \"Milli İktisat ve Tasarruf Cemiyeti\"ni kurmuştur."
+        ],
+        "correctOption": "E",
+        "solution": "Ayrıca Kliring (Mal takası) sistemini uygulamıştır."
+      },
+      {
+        "text": "İtalya'da Faşist Parti'nin lideri olan, \"Kara Gömlekliler\" ile Roma'ya yürüyerek iktidarı ele geçiren ve Akdeniz için \"Bizim Deniz\" (Mare Nostrum) diyen diktatör kimdir?",
+        "options": [
+          "Lenin",
+          "Adolf Hitler",
+          "Benito Mussolini",
+          "Franco",
+          "Salazar"
+        ],
+        "correctOption": "C",
+        "solution": "Unvanı: Duce / Lider."
+      },
+      {
+        "text": "Almanya'da Nasyonal Sosyalist İşçi Partisi'nin (Nazi) lideri olan ve Alman ırkının dünyaya hakim olması gerektiğini (Hayat Sahası / Lebensraum) savunan diktatör kimdir?",
+        "options": [
+          "Adolf Hitler",
+          "Bismarck",
+          "Hindenburg",
+          "Stalin",
+          "Mussolini"
+        ],
+        "correctOption": "A",
+        "solution": "Unvanı: Führer."
+      },
+      {
+        "text": "İspanya İç Savaşı'nda (1936-1939) General Franco'ya destek veren Alman uçaklarının \"Guernica\" kasabasını bombalamasını anlatan ünlü tablo kime aittir?",
+        "options": [
+          "Leonardo da Vinci",
+          "Frida Kahlo",
+          "Salvador Dali",
+          "Van Gogh",
+          "Pablo Picasso"
+        ],
+        "correctOption": "D",
+        "solution": "Savaşın vahşetini anlatan kübist eser."
+      },
+      {
+        "text": "Japonya'nın II. Dünya Savaşı öncesinde Asya'daki yayılmacı politikasını özetleyen ve Batılıları Asya'dan atmayı hedefleyen sloganı nedir?",
+        "options": [
+          "Hayat Sahası",
+          "Asya Asyalılarındır (Ortak Refah Alanı)",
+          "Güneş İmparatorluğu",
+          "Demir Perde",
+          "Bizim Deniz"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Almanya'nın I. Dünya Savaşı'ndan sonra dışlandığı uluslararası sisteme geri dönmesini sağlayan ve Fransa ile sınır güvenliğini garanti altına alan 1925 tarihli antlaşma hangisidir?",
+        "options": [
+          "Münih Antlaşması",
+          "Versay Antlaşması",
+          "Sadabat Paktı",
+          "Locarno Antlaşması",
+          "Briand-Kellogg Paktı"
+        ],
+        "correctOption": "D",
+        "solution": "Bu antlaşma ile Almanya Milletler Cemiyeti'ne girmiştir."
+      },
+      {
+        "text": "1928 yılında ABD ve Fransa öncülüğünde imzalanan ve \"Savunmaya dayanmayan savaşı kanun dışı sayan\" belge hangisidir?",
+        "options": [
+          "Yalta Konferansı",
+          "Atlantik Bildirisi",
+          "Briand-Kellogg Paktı",
+          "Locarno Paktı",
+          "Paris Barış Konferansı"
+        ],
+        "correctOption": "C",
+        "solution": "Türkiye de 1929'da katılmıştır."
+      },
+      {
+        "text": "Sovyet Rusya'da Stalin döneminde uygulanan, köylülerin küçük topraklarının birleştirilerek devlet çiftliklerine dönüştürülmesi politikasına ne ad verilir?",
+        "options": [
+          "Perestroika",
+          "Kolkhoz (Kolektifleştirme)",
+          "Gulag",
+          "NEP",
+          "Glasnost"
+        ],
+        "correctOption": "B",
+        "solution": "Bu politika kıtlığa ve milyonlarca insanın ölümüne yol açmıştır."
+      },
+      {
+        "text": "İki savaş arası dönemde bilim alanında yapılan en önemli gelişmelerden biri olan \"Penisilin\"i bulan bilim insanı kimdir?",
+        "options": [
+          "Marie Curie",
+          "Albert Einstein",
+          "Alexander Fleming",
+          "Louis Pasteur",
+          "Graham Bell"
+        ],
+        "correctOption": "C",
+        "solution": "1928"
+      },
+      {
+        "text": "İki savaş arası dönemde (1920'ler) mimaride sadeliği ve işlevselliği savunan, Almanya'da ortaya çıkan sanat/mimari akımı hangisidir?",
+        "options": [
+          "Rönesans",
+          "Gotik",
+          "Sürrealizm",
+          "Bauhaus",
+          "Barok"
+        ],
+        "correctOption": "D",
+        "solution": "Modern mimarinin temelidir."
+      },
+      {
+        "text": "Türkiye'de ilk radyo yayını hangi yıl başlamıştır?",
+        "options": [
+          "1923",
+          "1950",
+          "1927",
+          "1940",
+          "1935"
+        ],
+        "correctOption": "C",
+        "solution": " \"Alo, alo, muhterem samiin...\" diye başlamıştır."
+      },
+      {
+        "text": "İtalya'da Mussolini'nin halka hitap ettiği ünlü nutuklarına ne ad verilir?",
+        "options": [
+          "Roma Hitabı",
+          "Scala Nutku",
+          "Faşist Bildiri",
+          "Mein Kampf",
+          "Nutuk"
+        ],
+        "correctOption": "C",
+        "solution": "Milano'daki La Scala opera binasında yaptığı konuşma."
+      },
+      {
+        "text": "Almanya'nın, I. Dünya Savaşı'ndan sonra imzalamak zorunda kaldığı ve Hitler'in \"İhanet Belgesi\" olarak görüp yırttığı ağır antlaşma hangisidir?",
+        "options": [
+          "Trianon",
+          "Sevr",
+          "Neuilly",
+          "Versay",
+          "Saint Germain"
+        ],
+        "correctOption": "D",
+        "solution": "II. Dünya Savaşı'nın en büyük nedenlerinden biridir."
+      },
+      {
+        "text": "ABD'nin, Monroe Doktrini'ne (Yalnızlık Politikası) geri dönerek Avrupa sorunlarından uzaklaşması hangi olaydan sonra olmuştur?",
+        "options": [
+          "I. Dünya Savaşı",
+          "1929 Krizi",
+          "II. Dünya Savaşı",
+          "Kore Savaşı",
+          "Vietnam Savaşı"
+        ],
+        "correctOption": "A",
+        "solution": "Ancak II. Dünya Savaşı ile bu politika tamamen bitecektir."
+      },
+      {
+        "text": "1938 yılında Almanya, İtalya, İngiltere ve Fransa arasında yapılan, Çekoslovakya'nın Südetler bölgesinin Almanya'ya verilmesini öngören ve \"Yatıştırma Politikası\"nın zirvesi sayılan antlaşma hangisidir?",
+        "options": [
+          "Çelik Pakt",
+          "Münih Antlaşması",
+          "Berlin Antlaşması",
+          "Paris Antlaşması",
+          "Anti-Komintern Pakt"
+        ],
+        "correctOption": "B",
+        "solution": "İngiltere Başbakanı Chamberlain, \"Size barış getirdim\" demiştir ama 1 yıl sonra savaş çıkmıştır."
+      }
+    ]
+  },
+  {
+    "testName": "Mini Test - 2",
+    "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 44 Özeti - Savaşın Seyri)\nBloklar:\nMihver (Axis): Almanya, İtalya, Japonya. (Berlin-Roma-Tokyo Mihveri).\nMüttefik (Allies): İngiltere, Fransa (kısa sürede işgal edildi), SSCB (sonradan), ABD (sonradan).\nKritik Harekatlar:\nYıldırım Savaşı (Blitzkrieg): Almanya'nın Polonya ve Fransa'yı şok baskınlarla alma taktiği.\nKartal Hücumu: Almanya'nın İngiltere'yi havadan bombalaması (Başarısız).\nBarbarossa Harekatı: Almanya'nın SSCB'ye saldırması. (Tarihin en geniş kara harekatı).\nPearl Harbor Baskını: Japonya'nın ABD donanmasını vurması -> ABD savaşa girdi.\nNormandiya Çıkarması (Overlord): Müttefiklerin Fransa'ya asker çıkarıp Almanya'yı batıdan sıkıştırması. (İkinci Cephe).\nKırılma Noktaları:\nStalingrad: Almanların Rusya'da durdurulduğu yer.\nEl-Alameyn: Almanların Kuzey Afrika'da durdurulduğu yer.\nMidway: Japonların Pasifik'te durdurulduğu yer.\nKonferanslar (Savaş Sırasında):\nCasablanca: \"Kayıtsız şartsız teslim\" kararı alındı.\nTahran: Normandiya çıkarmasına (İkinci cephe) karar verildi.\nYalta: Savaş sonrası dünya düzeni konuşuldu. BM'nin kurulması kararlaştırıldı. (Boğazlar konusu Türkiye aleyhine gündeme geldi).\nPotsdam: Savaş sonundaki son konferans. Almanya 4 işgal bölgesine ayrıldı.\nSan Francisco: Birleşmiş Milletler (BM) resmen kuruldu.",
+    "questions": [
+      {
+        "text": "II. Dünya Savaşı, 1 Eylül 1939'da Almanya'nın hangi ülkeyi işgal etmesiyle resmen başlamıştır?",
+        "options": [
+          "Rusya",
+          "Polonya",
+          "Fransa",
+          "Avusturya",
+          "Çekoslovakya"
+        ],
+        "correctOption": "B",
+        "solution": "Polonya'nın işgali üzerine İngiltere ve Fransa Almanya'ya savaş ilan etmiştir."
+      },
+      {
+        "text": "Fransa'nın, Almanya sınırına kurduğu ve \"geçilemez\" dediği ancak Almanların etrafından dolaşarak (Belçika üzerinden) geçtiği ünlü savunma hattı hangisidir?",
+        "options": [
+          "Demir Perde",
+          "Mannerheim Hattı",
+          "Siegfried Hattı",
+          "Maginot Hattı",
+          "Berlin Duvarı"
+        ],
+        "correctOption": "D",
+        "solution": "Savaş tarihinin en pahalı ve en işe yaramaz yatırımlarından biri sayılır."
+      },
+      {
+        "text": "Almanya'nın İngiltere'yi işgal etmek amacıyla başlattığı ancak İngiliz Kraliyet Hava Kuvvetleri'nin (RAF) direnişiyle başarısız olduğu hava harekatının adı nedir?",
+        "options": [
+          "Pearl Harbor",
+          "Normandiya Çıkarması",
+          "Kartal Hücumu (Denizaslanı Harekatı'nın öncüsü)",
+          "Barbarossa Harekatı",
+          "Stalingrad"
+        ],
+        "correctOption": "C",
+        "solution": "Almanya'nın ilk büyük başarısızlığıdır."
+      },
+      {
+        "text": "Almanya'nın, aralarındaki saldırmazlık paktını bozarak Sovyet Rusya'ya (SSCB) karşı başlattığı tarihin en büyük kara harekatı hangisidir?",
+        "options": [
+          "Normandiya",
+          "Kartal Hücumu",
+          "Barbarossa Harekatı",
+          "Kursk Savaşı",
+          "Meşale Harekatı"
+        ],
+        "correctOption": "C",
+        "solution": "Hitler'in en büyük hatası olarak kabul edilir."
+      },
+      {
+        "text": "II. Dünya Savaşı'nın Doğu Cephesi'ndeki dönüm noktası olan, Alman ordusunun Ruslara yenilerek geri çekilmeye başladığı savaş hangisidir?",
+        "options": [
+          "Moskova Savaşı",
+          "Stalingrad Savaşı",
+          "Leningrad Kuşatması",
+          "Berlin Savaşı",
+          "Varşova Ayaklanması"
+        ],
+        "correctOption": "B",
+        "solution": "Alman 6. Ordusu tamamen imha edilmiştir."
+      },
+      {
+        "text": "ABD'nin II. Dünya Savaşı'na girmesine neden olan ve Japonya tarafından düzenlenen ani baskın hangisidir?",
+        "options": [
+          "Guadalcanal",
+          "Iwo Jima",
+          "Midway Savaşı",
+          "Pearl Harbor Baskını",
+          "Mercan Denizi Savaşı"
+        ],
+        "correctOption": "D",
+        "solution": "7 Aralık 1941 - \"Alçaklık günü\" olarak anılır."
+      },
+      {
+        "text": "Japon pilotların, patlayıcı yüklü uçaklarla Müttefik gemilerine intihar dalışı yapması taktiğine ne ad verilir?",
+        "options": [
+          "Banzai",
+          "Kamikaze",
+          "Blitzkrieg",
+          "Harakiri",
+          "Samuray"
+        ],
+        "correctOption": "B",
+        "solution": "İlahi Rüzgar anlamına gelir."
+      },
+      {
+        "text": "Kuzey Afrika cephesinde, Alman Mareşali Rommel'in (Çöl Tilkisi) İngilizlere yenilerek Afrika'daki üstünlüğünü kaybettiği savaş hangisidir?",
+        "options": [
+          "Süveyş",
+          "Tobruk",
+          "Tunus",
+          "El-Alameyn Savaşı",
+          "Sicilya"
+        ],
+        "correctOption": "D",
+        "solution": "Mısır'da yapılan bu savaş Afrika cephesinin dönüm noktasıdır."
+      },
+      {
+        "text": "Müttefik Devletlerin (ABD ve İngiltere), Almanya işgali altındaki Fransa'yı kurtarmak ve Avrupa'da \"İkinci Cephe\"yi açmak için düzenledikleri tarihin en büyük deniz çıkarması hangisidir?",
+        "options": [
+          "Sicilya Çıkarması",
+          "Normandiya Çıkarması",
+          "Gelibolu Çıkarması",
+          "İtalya Çıkarması",
+          "Dunkirk Tahliyesi"
+        ],
+        "correctOption": "B",
+        "solution": "6 Haziran 1944 - D-Day. Komutan: Eisenhower."
+      },
+      {
+        "text": "İtalya'da Faşist Konsey tarafından görevden alınan, hapsedilen ve daha sonra kaçmaya çalışırken partizanlar tarafından yakalanıp idam edilen lider kimdir?",
+        "options": [
+          "Franco",
+          "Hitler",
+          "Salazar",
+          "Victor Emmanuel",
+          "Mussolini"
+        ],
+        "correctOption": "E",
+        "solution": "Cesedi Milano meydanında teşhir edilmiştir."
+      },
+      {
+        "text": "ABD Başkanı Roosevelt ve İngiltere Başbakanı Churchill'in katıldığı, Mihver devletlerinin \"Kayıtsız şartsız teslim olana kadar\" savaşın sürdürülmesi kararının alındığı konferans hangisidir?",
+        "options": [
+          "Tahran",
+          "Yalta",
+          "Potsdam",
+          "Kahire",
+          "Casablanca"
+        ],
+        "correctOption": "E",
+        "solution": "Türkiye'nin de savaşa katılması istenmiştir."
+      },
+      {
+        "text": "\"Üç Büyükler\"in (ABD, İngiltere, SSCB) ilk kez bir araya geldiği ve Normandiya Çıkarması'nın (İkinci Cephe) yapılmasına karar verdikleri konferans hangisidir?",
+        "options": [
+          "Yalta",
+          "Tahran",
+          "Potsdam",
+          "Moskova",
+          "Kahire"
+        ],
+        "correctOption": "B",
+        "solution": "Roosevelt, Churchill, Stalin."
+      },
+      {
+        "text": "Savaşın sonlarına doğru toplanan, savaş sonrası dünya düzeninin (Birleşmiş Milletler'in kurulması, veto yetkisi vb.) şekillendiği ve \"Dünyanın paylaşıldığı\" konferans olarak bilinen konferans hangisidir?",
+        "options": [
+          "San Francisco",
+          "Potsdam Konferansı",
+          "Quebec Konferansı",
+          "Yalta Konferansı",
+          "Moskova Konferansı"
+        ],
+        "correctOption": "D",
+        "solution": "Soğuk Savaş'ın temelleri burada atılmıştır."
+      },
+      {
+        "text": "Almanya'nın teslim olmasından sonra toplanan ve Almanya'nın dört işgal bölgesine ayrılmasının kesinleştiği son büyük konferans hangisidir?",
+        "options": [
+          "Yalta",
+          "Potsdam Konferansı",
+          "Paris",
+          "Viyana",
+          "Berlin"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "ABD'nin Japonya'yı teslime zorlamak için atom bombası attığı iki şehir hangisidir?",
+        "options": [
+          "Tokyo - Kyoto",
+          "Hiroşima - Tokyo",
+          "Osaka - Kobe",
+          "Yokohama - Sapporo",
+          "Hiroşima - Nagazaki"
+        ],
+        "correctOption": "E",
+        "solution": "Little Boy ve Fat Man isimli bombalar."
+      },
+      {
+        "text": "II. Dünya Savaşı sırasında İngiltere Başbakanı olan ve \"Demir Perde\" tabirini kullanarak Soğuk Savaş'ın sinyalini veren lider kimdir?",
+        "options": [
+          "Chamberlain",
+          "Winston Churchill",
+          "Tony Blair",
+          "Thatcher",
+          "Clement Attlee"
+        ],
+        "correctOption": "B",
+        "solution": "Savaşın başında Chamberlain vardı, sonra efsanevi lider Churchill geldi, savaşın sonunda seçimle Attlee geldi."
+      },
+      {
+        "text": "Almanya'nın Yahudilere ve diğer azınlıklara uyguladığı sistematik soykırıma ne ad verilir?",
+        "options": [
+          "Gestapo",
+          "Holocaust",
+          "Kristal Gece",
+          "SS",
+          "Nürnberg Yasaları"
+        ],
+        "correctOption": "A",
+        "solution": ""
+      },
+      {
+        "text": "Almanya'nın Fransa'yı işgalinden sonra Fransa'nın güneyinde kurulan ve Almanya ile işbirliği yapan kukla hükümete ne ad verilir?",
+        "options": [
+          "Vichy Hükümeti",
+          "Direniş Hükümeti",
+          "Paris Komünü",
+          "Özgür Fransa",
+          "4. Cumhuriyet"
+        ],
+        "correctOption": "A",
+        "solution": "Mareşal Petain yönetiminde."
+      },
+      {
+        "text": "ABD savaşa girmeden önce, Roosevelt ve Churchill'in bir araya gelerek yayınladıkları ve savaş sonrası dünyanın prensiplerini (toprak kazancı olmayacak, halklar kendi kaderini tayin edecek vb.) belirleyen belge hangisidir?",
+        "options": [
+          "Monroe Doktrini",
+          "Balfour Deklarasyonu",
+          "Yalta Kararları",
+          "Atlantik Bildirisi",
+          "Truman Doktrini"
+        ],
+        "correctOption": "D",
+        "solution": "Birleşmiş Milletler Antlaşması'nın da temelini oluşturur. Wilson İlkeleri'ne benzer."
+      },
+      {
+        "text": "\"Mihver Devletler\" grubunda yer alan üç ana devlet hangisidir?",
+        "options": [
+          "Japonya - Çin - Almanya",
+          "Almanya - Avusturya - Macaristan",
+          "Almanya - İtalya - Rusya",
+          "Almanya - İtalya - Japonya",
+          "İtalya - İspanya - Almanya"
+        ],
+        "correctOption": "D",
+        "solution": "Berlin-Roma-Tokyo Mihveri."
+      },
+      {
+        "text": "Pasifik'te ABD ile Japonya arasında yapılan ve tarihin en büyük deniz savaşı olarak kabul edilen savaş hangisidir?",
+        "options": [
+          "Leyte Körfezi Savaşı",
+          "Midway",
+          "Okinawa",
+          "Pearl Harbor",
+          "Mercan Denizi"
+        ],
+        "correctOption": "A",
+        "solution": "Filipinler açıklarında."
+      },
+      {
+        "text": "Avrupa'daki savaş, Sovyet Ordusu'nun (Kızıl Ordu) hangi şehre girip bayrak dikmesiyle fiilen sona ermiştir?",
+        "options": [
+          "Paris",
+          "Viyana",
+          "Berlin",
+          "Roma",
+          "Varşova"
+        ],
+        "correctOption": "C",
+        "solution": "Hitler sığınağında intihar etmiş, Almanya teslim olmuştur."
+      },
+      {
+        "text": "Birleşmiş Milletler Teşkilatı'nın (BM) kuruluş antlaşmasının imzalandığı konferans hangisidir?",
+        "options": [
+          "Yalta",
+          "New York",
+          "Londra",
+          "San Francisco Konferansı",
+          "Washington"
+        ],
+        "correctOption": "D",
+        "solution": "Türkiye de kurucu üye olarak katılmıştır."
+      },
+      {
+        "text": "Japonya'nın teslim olmasını sağlayan atom bombasının atılması emrini veren ABD Başkanı kimdir?",
+        "options": [
+          "Wilson",
+          "Eisenhower",
+          "Harry S. Truman",
+          "Kennedy",
+          "Roosevelt"
+        ],
+        "correctOption": "C",
+        "solution": "Roosevelt savaş bitmeden ölmüş, yerine yardımcısı Truman geçmiştir."
+      },
+      {
+        "text": "II. Dünya Savaşı'nda yaklaşık 60 milyon insan ölmüştür. Bu savaşın sonucunda dünya siyaseti \"İki Kutuplu\" hale gelmiştir.Bu iki kutubun liderleri hangi devletlerdir?",
+        "options": [
+          "Almanya - Japonya",
+          "Çin - ABD",
+          "İngiltere - Rusya",
+          "İngiltere - Fransa",
+          "ABD (Batı Bloğu) - SSCB (Doğu Bloğu)"
+        ],
+        "correctOption": "E",
+        "solution": "Soğuk Savaş dönemi başlamıştır."
+      }
+    ]
+  },
+  {
+    "testName": "Mini Test - 3",
+    "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 45 Özeti - Türkiye'nin Savaş Yılları)\nDış Politika (Denge Politikası):\nHedef: Savaş dışı kalmak ve toprak bütünlüğünü korumak.\nPaktlar: İngiltere ve Fransa ile Üçlü İttifak (1939), Almanya ile Saldırmazlık Paktı (1941) imzalandı.\nGörüşmeler:\nAdana Görüşmeleri (1943): Churchill, İsmet İnönü ile Yenice istasyonunda görüştü. Türkiye'yi savaşa ikna edemedi.\nKahire Görüşmeleri: Türkiye'nin savaşa girmesi için baskı arttı.\nSonuç: Türkiye, Yalta Konferansı kararı gereği BM'ye kurucu üye olabilmek için savaşın bitimine az kala (Şubat 1945) Almanya ve Japonya'ya sembolik savaş ilan etti. (Fiilen savaşmadı).\nİç Politika ve Ekonomi:\nCumhurbaşkanı: İsmet İnönü.\nBaşbakanlar: Refik Saydam (vefat etti), Şükrü Saraçoğlu.\nMilli Korunma Kanunu (1940): Hükümete ekonomiye el koyma, fiyat belirleme ve zorunlu çalıştırma yetkisi veren kanun.\nVergiler: Varlık Vergisi (Zenginlerden bir defaya mahsus), Toprak Mahsulleri Vergisi.\nUygulamalar: Ekmek Karnesi, Karartma Geceleri, Radyo Yayınları.\nÇakmak Hattı: Olası Alman saldırısına karşı Trakya sınırına kurulan savunma hattı.\nEğitim:\nKöy Enstitüleri (1940): Köye öğretmen ve sağlıkçı yetiştirmek için kuruldu. Mimarları: Hasan Ali Yücel ve İsmail Hakkı Tonguç.",
+    "questions": [
+      {
+        "text": "II. Dünya Savaşı yılları boyunca (1939-1945) Türkiye Cumhuriyeti'nin Cumhurbaşkanı kimdir?",
+        "options": [
+          "Refik Saydam",
+          "Celal Bayar",
+          "Fevzi Çakmak",
+          "İsmet İnönü",
+          "Mustafa Kemal Atatürk"
+        ],
+        "correctOption": "D",
+        "solution": "Milli Şef Dönemi."
+      },
+      {
+        "text": "Türkiye'nin II. Dünya Savaşı sırasında izlediği temel dış politika stratejisi nedir?",
+        "options": [
+          "Savaş dışı kalarak toprak bütünlüğünü korumak (Aktif Tarafsızlık / Denge)",
+          "Müttefik Devletlerle hemen savaşa girmek",
+          "Sovyet Rusya'ya toprak vermek",
+          "Almanya'nın yanında savaşa girmek",
+          "Yayılmacı politika izlemek"
+        ],
+        "correctOption": "A",
+        "solution": "İsmet İnönü'nün en büyük başarısıdır: \"Sizi ekmeksiz bıraktım ama babasız bırakmadım.\""
+      },
+      {
+        "text": "Türkiye'nin II. Dünya Savaşı sırasında ekonomiyi kontrol altına almak, fiyatları belirlemek ve stokçuluğu önlemek amacıyla 1940 yılında çıkardığı olağanüstü kanun hangisidir?",
+        "options": [
+          "Teşvik-i Sanayi",
+          "Toprak Reformu Kanunu",
+          "Varlık Vergisi Kanunu",
+          "Takrir-i Sükun",
+          "Milli Korunma Kanunu"
+        ],
+        "correctOption": "E",
+        "solution": "Hükümete sınırsız yetki vermiştir."
+      },
+      {
+        "text": "Savaş zenginlerinden ve gayrimüslim tüccarlardan bir defaya mahsus olmak üzere alınan, ödemeyenlerin Aşkale'ye (Erzurum) çalışma kampına gönderildiği tartışmalı vergi hangisidir?",
+        "options": [
+          "Yol Vergisi",
+          "Aşar Vergisi",
+          "Varlık Vergisi",
+          "Emlak Vergisi",
+          "Toprak Mahsulleri Vergisi"
+        ],
+        "correctOption": "C",
+        "solution": "1942 - Şükrü Saraçoğlu hükümeti."
+      },
+      {
+        "text": "II. Dünya Savaşı sırasında un stoklarının azalması üzerine Türkiye'de temel gıda maddelerinin dağıtımında hangi uygulamaya geçilmiştir?",
+        "options": [
+          "İthalat serbestliği",
+          "Karne Usulü (Ekmek Karnesi)",
+          "Özel sektör dağıtımı",
+          "Takas usulü",
+          "Ücretsiz dağıtım"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Türkiye'de köylüye eğitim, sağlık ve tarım hizmeti götürmek amacıyla 1940 yılında kurulan, \"iş içinde eğitim\" ilkesini benimseyen eğitim kurumları hangisidir?",
+        "options": [
+          "Sanat Enstitüleri",
+          "Köy Enstitüleri",
+          "Millet Mektepleri",
+          "Darülmuallimin",
+          "Halkevleri"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Köy Enstitüleri'nin kuruluşunda en büyük emeği geçen, dönemin Milli Eğitim Bakanı ve İlköğretim Genel Müdürü ikilisi kimdir?",
+        "options": [
+          "Behçet Kemal - Faruk Nafiz",
+          "Hasan Ali Yücel - İsmail Hakkı Tonguç",
+          "Tevfik İleri - Reşit Galip",
+          "Hamdullah Suphi - Rıza Nur",
+          "Saffet Arıkan - Falih Rıfkı"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "İngiltere Başbakanı Winston Churchill'in, Türkiye'yi savaşa girmeye ikna etmek için Cumhurbaşkanı İsmet İnönü ile Adana'da (Yenice İstasyonu'nda) yaptığı görüşme hangisidir?",
+        "options": [
+          "Kahire Görüşmeleri",
+          "Tahran Konferansı",
+          "Moskova Görüşmeleri",
+          "Adana Görüşmeleri",
+          "Yalta Konferansı"
+        ],
+        "correctOption": "D",
+        "solution": "1943 - \"Sağırlar Diyaloğu\" olarak da bilinir, Türkiye talepleri reddetmiştir."
+      },
+      {
+        "text": "Türkiye'nin, II. Dünya Savaşı'nın sonlarına doğru (Şubat 1945) Almanya ve Japonya'ya kağıt üzerinde (sembolik) savaş ilan etmesinin temel amacı nedir?",
+        "options": [
+          "Almanya'dan toprak almak",
+          "Savaş tazminatı kazanmak",
+          "Yalta Konferansı kararı gereği Birleşmiş Milletler'e (BM) kurucu üye olabilmek",
+          "Rusya'nın saldırısından korunmak",
+          "İngiltere'ye borcunu ödemek"
+        ],
+        "correctOption": "C",
+        "solution": "San Francisco Konferansı'na davet edilmek için."
+      },
+      {
+        "text": "II. Dünya Savaşı sırasında Türkiye'nin Almanya'nın olası bir Trakya saldırısına karşı oluşturduğu savunma hattına ne ad verilir?",
+        "options": [
+          "İnönü Hattı",
+          "Balkan Hattı",
+          "Maginot Hattı",
+          "Siegfried Hattı",
+          "Çakmak Hattı"
+        ],
+        "correctOption": "E",
+        "solution": "Mareşal Fevzi Çakmak'ın adıyla anılır."
+      },
+      {
+        "text": "Savaş yıllarında Türkiye'de, özellikle büyük şehirlerde hava saldırılarına karşı alınan tedbirlerden biri olan ve geceleri ışıkların kapatılmasını/örtülmesini zorunlu kılan uygulama nedir?",
+        "options": [
+          "Sokağa Çıkma Yasağı",
+          "Karartma Uygulaması",
+          "Tahliye",
+          "Seferberlik",
+          "Sıkıyönetim"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Türkiye, savaşın başında (1939) kendisini güvenceye almak için İngiltere ve Fransa ile hangi antlaşmayı imzalamıştır?",
+        "options": [
+          "Saldırmazlık Paktı",
+          "Balkan Antantı",
+          "Karşılıklı Yardım Antlaşması (Üçlü İttifak)",
+          "Sadabat Paktı",
+          "Nyon Antlaşması"
+        ],
+        "correctOption": "C",
+        "solution": "Ancak \"Sovyet Rusya ile savaşa girmeme\" çekincesi koymuştur."
+      },
+      {
+        "text": "Türkiye, 1941 yılında Almanya ordularının Balkanlar'a ve Türkiye sınırına dayanması üzerine Almanya ile hangi antlaşmayı imzalamıştır?",
+        "options": [
+          "Dostluk ve Saldırmazlık Paktı",
+          "İttifak Antlaşması",
+          "Sınır Antlaşması",
+          "Ticaret Antlaşması",
+          "Barış Antlaşması"
+        ],
+        "correctOption": "A",
+        "solution": "Almanya, Türkiye'yi kendi yanına çekmek veya en azından tarafsız tutmak istemiştir."
+      },
+      {
+        "text": "II. Dünya Savaşı sırasında Türkiye Başbakanlığı yapan ve görevi başındayken vefat eden devlet adamı kimdir? (Refik Saydam Hıfzıssıhha Enstitüsü'nün kurucusu).",
+        "options": [
+          "Şemsettin Günaltay",
+          "Refik Saydam",
+          "Hasan Saka",
+          "Şükrü Saraçoğlu",
+          "Recep Peker"
+        ],
+        "correctOption": "B",
+        "solution": "Ölümünden sonra yerine Şükrü Saraçoğlu geçmiştir."
+      },
+      {
+        "text": "Savaş yıllarında Türkiye'de nüfus artış hızının düşmesinin temel nedeni nedir?",
+        "options": [
+          "Köy Enstitüleri",
+          "Varlık Vergisi",
+          "Genç nüfusun silah altına alınması (Seferberlik)",
+          "Salgın hastalıklar",
+          "Göçler"
+        ],
+        "correctOption": "C",
+        "solution": "Erkek nüfusun büyük kısmı askerde olduğu için."
+      },
+      {
+        "text": "II. Dünya Savaşı sırasında Türkiye'de basılan paraların üzerinden Atatürk resmi kaldırılarak yerine kimin resmi basılmıştır?",
+        "options": [
+          "Refik Saydam",
+          "Fevzi Çakmak",
+          "İsmet İnönü",
+          "Kazım Karabekir",
+          "Celal Bayar"
+        ],
+        "correctOption": "C",
+        "solution": "Milli Şef dönemi uygulaması."
+      },
+      {
+        "text": "Türkiye'nin savaş yıllarında Almanya'ya sattığı en stratejik maden hangisidir? (Savaş sanayisinde çeliği sertleştirmek için kullanılır).",
+        "options": [
+          "Demir",
+          "Krom",
+          "Bor",
+          "Kömür",
+          "Bakır"
+        ],
+        "correctOption": "B",
+        "solution": "Müttefikler bu satışın durdurulması için baskı yapmıştır."
+      },
+      {
+        "text": "1945 yılında çiftçiyi topraklandırmak amacıyla çıkarılan \"Çiftçiyi Topraklandırma Kanunu\", CHP içinde görüş ayrılığına neden olmuş ve hangi partinin kuruluş sürecini başlatmıştır?",
+        "options": [
+          "Milli Kalkınma Partisi",
+          "Demokrat Parti",
+          "Hürriyet Partisi",
+          "Türkiye İşçi Partisi",
+          "Millet Partisi"
+        ],
+        "correctOption": "D",
+        "solution": "Adnan Menderes gibi toprak sahibi vekiller bu kanuna sert muhalefet etmiştir."
+      },
+      {
+        "text": "II. Dünya Savaşı sırasında İstanbul'da, Nazi Almanyası büyükelçisi olarak görev yapan ve Türkiye'yi savaşa sokmaya çalışan ünlü diplomat kimdir?",
+        "options": [
+          "Von Papen",
+          "Rommel",
+          "Goebbels",
+          "Himmler",
+          "Ribbentrop"
+        ],
+        "correctOption": "A",
+        "solution": "Franz von Papen. Kendisine suikast girişimi de düzenlenmiştir."
+      },
+      {
+        "text": "Aşağıdakilerden hangisi II. Dünya Savaşı'nın Türkiye üzerindeki ekonomik etkilerinden biri değildir?",
+        "options": [
+          "Enflasyonun yükselmesi",
+          "Karaborsacılığın artması",
+          "Temel gıda maddelerinin bulunamaması",
+          "Marshall Yardımı'nın başlaması (Savaş bittikten sonradır)",
+          "Dış ticaret fazlası verilmesi (İthalat yapılamadığı için) - Not: Bu teknik bir detaydır, ithalat kısıtlandığı için kağıt üzerinde dış ticaret açığı azalmış olabilir ama halk fakirleşmiştir."
+        ],
+        "correctOption": "D",
+        "solution": "Marshall Yardımı 1947-48 yıllarında, Soğuk Savaş döneminde başlamıştır."
+      },
+      {
+        "text": "Türkiye'nin II. Dünya Savaşı'na girmesi yönündeki en büyük baskı hangi konferansta yapılmıştır? (İnönü'nün Roosevelt ve Churchill ile görüştüğü).",
+        "options": [
+          "Adana",
+          "Yalta",
+          "2. Kahire Konferansı",
+          "Tahran",
+          "Potsdam"
+        ],
+        "correctOption": "C",
+        "solution": "1943 sonu. İnönü buraya giderek müttefikleri oyalamayı başarmıştır."
+      },
+      {
+        "text": "Savaş yıllarında Türkiye'de radyo yayınlarında savaşın gidişatını anlatan ve halkın yakından takip ettiği ünlü spiker/programcı kimdir?",
+        "options": [
+          "Nurettin Artam",
+          "Orhan Boran",
+          "Zeki Müren",
+          "Eşref Şefik",
+          "Halit Kıvanç"
+        ],
+        "correctOption": "A",
+        "solution": "Devlet radyosunda savaş yorumları yapmıştır."
+      },
+      {
+        "text": "II. Dünya Savaşı sırasında Türkiye'de çok partili hayata geçiş denemesi olmuş mudur?",
+        "options": [
+          "Evet, Demokrat Parti kurulmuştur.",
+          "Hayır, savaş şartları nedeniyle tek parti yönetimi sıkılaştırılmıştır.",
+          "Evet, Nuri Demirağ parti kurmuştur.",
+          "Evet, Komünist parti kurulmuştur.",
+          "Evet, Serbest Fırka tekrar açılmıştır."
+        ],
+        "correctOption": "B",
+        "solution": "İlk parti olan Milli Kalkınma Partisi savaş bittikten hemen sonra, 1945'te kurulmuştur. Savaş sırasında yeni parti yoktur."
+      },
+      {
+        "text": "1940-1945 yılları arasında Türkiye'de \"Milli Şef\" döneminin kültür politikasını yansıtan ve dünya klasiklerinin Türkçeye çevrilmesini sağlayan Tercüme Bürosu'nun başında hangi bakan vardır?",
+        "options": [
+          "Hamdullah Suphi",
+          "Reşit Galip",
+          "Saffet Arıkan",
+          "Hasan Ali Yücel",
+          "Tevfik İleri"
+        ],
+        "correctOption": "D",
+        "solution": "Türk kültür hayatına \"Hasan Ali Yücel Klasikleri\"ni kazandırmıştır."
+      },
+      {
+        "text": "Türkiye'nin II. Dünya Savaşı'na fiilen girmemesine rağmen savaşın sonunda San Francisco Konferansı'na davet edilmesinin nedeni nedir?",
+        "options": [
+          "Almanya'yı desteklemesi",
+          "İngiltere'ye üs vermesi",
+          "Savaşın son günlerinde Mihver devletlere savaş ilan etmesi",
+          "Krom satması",
+          "Boğazları kapatması"
+        ],
+        "correctOption": "C",
+        "solution": "BM kurucu üyeliği şartını yerine getirmesi."
+      }
+    ]
+  },
+  {
+    "testName": "Mini Test - 4",
+    "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 46 Özeti - Soğuk Savaş Başlıyor)\nSoğuk Savaş (1947-1991): ABD (Batı/Kapitalist) ve SSCB (Doğu/Komünist) arasındaki sıcak çatışmaya varmayan gerginlik dönemi.\nKavramlar:\nDemir Perde: Churchill'in Doğu Avrupa'daki Sovyet etkisini tarif etmek için kullandığı terim.\nÇevreleme Politikası: ABD'nin SSCB'yi kuşatma stratejisi.\nDoktrinler ve Planlar:\nTruman Doktrini (1947): ABD'nin Türkiye ve Yunanistan'a askeri yardımı. (Soğuk Savaş'ın ilanı sayılır).\nMarshall Planı (1948): ABD'nin Avrupa'yı kalkındırmak için yaptığı ekonomik yardım. (Türkiye de aldı).\nMolotov Planı / COMECON: SSCB'nin Marshall Planı'na cevabı (Doğu Bloğu ekonomik işbirliği).\nPaktlar:\nNATO (1949): Batı Bloğu askeri ittifakı. (Kuzey Atlantik Paktı).\nVarşova Paktı (1955): Doğu Bloğu askeri ittifakı.\nCOMINFORM: Komünist partiler arası bilgi ağı.\nKrizler ve Savaşlar:\nBerlin Buhranı (1948): SSCB, Batı Berlin'i abluka altına aldı. ABD \"Hava Köprüsü\" kurarak şehri besledi. Almanya ikiye bölündü (Doğu-Batı).\nKore Savaşı (1950-1953): Kuzey (SSCB/Çin) ve Güney (ABD/BM) savaştı. Sınır 38. Enlem olarak kaldı. Türkiye buraya asker gönderdi (NATO'ya girmek için).\nİsrail'in Kuruluşu (1948): Filistin topraklarında kuruldu. İlk tanıyanlar: ABD, SSCB. İlk tanıyan Müslüman ülke: Türkiye.\nAsya'daki Gelişmeler:\nHindistan: Mahatma Gandhi önderliğinde İngiltere'den bağımsız oldu (\"Tuz Yürüyüşü\").\nPakistan: Muhammed Ali Cinnah önderliğinde Hindistan'dan ayrılarak kuruldu.\nÇin: Mao Zedong önderliğinde komünist devrim gerçekleşti (Çin Halk Cumhuriyeti).",
+    "questions": [
+      {
+        "text": "II. Dünya Savaşı'ndan sonra dünya siyasetinin ABD ve SSCB liderliğinde iki kutba ayrıldığı döneme ne ad verilir?",
+        "options": [
+          "Yumuşama Dönemi",
+          "Yeni Dünya Düzeni",
+          "Soğuk Savaş",
+          "Buhran Dönemi",
+          "Küreselleşme"
+        ],
+        "correctOption": "C",
+        "solution": "(Sıcak çatışma yok, vekalet savaşları ve gerginlik var.)"
+      },
+      {
+        "text": "İngiltere Başbakanı Winston Churchill'in, Sovyetlerin Doğu Avrupa üzerindeki etkisini anlatmak için kullandığı ve Soğuk Savaş'ın sembolü olan tabir hangisidir?",
+        "options": [
+          "Demir Perde",
+          "Çelik Pakt",
+          "Kızıl Meydan",
+          "Doğu Bloğu",
+          "Berlin Duvarı"
+        ],
+        "correctOption": "A",
+        "solution": "(\"Baltık'ta Stettin'den Adriyatik'te Trieste'ye kadar kıtaya bir demir perde inmiştir.\")"
+      },
+      {
+        "text": "ABD Başkanı Harry Truman'ın, Sovyet tehdidi altındaki ülkelere (özellikle Türkiye ve Yunanistan'a) askeri ve ekonomik yardım yapılmasını öngören ve Soğuk Savaş'ın fiilen başlangıcı sayılan doktrini hangisidir?",
+        "options": [
+          "Eisenhower Doktrini",
+          "Monroe Doktrini",
+          "Truman Doktrini",
+          "Carter Doktrini",
+          "Nixon Doktrini"
+        ],
+        "correctOption": "C",
+        "solution": "(1947 - Komünizmin yayılmasını engellemek için.)"
+      },
+      {
+        "text": "ABD Dışişleri Bakanı'nın adıyla anılan ve II. Dünya Savaşı'nda yıkılan Avrupa ekonomisini kalkındırmak (ve komünizme kaymasını önlemek) amacıyla hazırlanan ekonomik yardım paketi hangisidir?",
+        "options": [
+          "Molotov Planı",
+          "Schuman Bildirisi",
+          "Dawes Planı",
+          "Marshall Planı",
+          "Truman Doktrini"
+        ],
+        "correctOption": "D",
+        "solution": "(Türkiye de bu yardımdan yararlanmıştır.)"
+      },
+      {
+        "text": "Sovyet Rusya'nın (SSCB), Marshall Planı'na karşılık olarak Doğu Bloğu ülkeleriyle ekonomik işbirliğini sağlamak amacıyla kurduğu örgüt hangisidir?",
+        "options": [
+          "COMECON",
+          "Varşova Paktı",
+          "AET",
+          "COMINFORM",
+          "NATO"
+        ],
+        "correctOption": "A",
+        "solution": "(Karşılıklı Ekonomik Yardımlaşma Konseyi.)"
+      },
+      {
+        "text": "1949 yılında ABD öncülüğünde kurulan ve \"Bir üyeye yapılan saldırı hepsine yapılmış sayılır\" ilkesine dayanan Batı Bloğu askeri ittifakı hangisidir?",
+        "options": [
+          "Avrupa Konseyi",
+          "CENTO",
+          "NATO (Kuzey Atlantik Paktı)",
+          "Birleşmiş Milletler",
+          "SEATO"
+        ],
+        "correctOption": "C",
+        "solution": "(Türkiye 1952'de üye olmuştur.)"
+      },
+      {
+        "text": "NATO'ya karşı SSCB öncülüğünde 1955 yılında kurulan Doğu Bloğu askeri ittifakı hangisidir?",
+        "options": [
+          "Balkan Paktı",
+          "Varşova Paktı",
+          "Bağdat Paktı",
+          "Sadabat Paktı",
+          "COMINFORM"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "1948 yılında SSCB'nin Batı Berlin'i abluka altına alması üzerine, Batılı devletlerin şehri havadan beslemek için kurdukları lojistik operasyona ne ad verilir?",
+        "options": [
+          "Normandiya Çıkarması",
+          "Berlin Hava Köprüsü",
+          "Özgürlük Yolu",
+          "Barbarossa Harekatı",
+          "Demir Perde Operasyonu"
+        ],
+        "correctOption": "B",
+        "solution": "(Berlin Buhranı.)"
+      },
+      {
+        "text": "Berlin Buhranı sonucunda Almanya'nın siyasi durumu ne olmuştur?",
+        "options": [
+          "Avusturya ile birleşmiştir.",
+          "Doğu (Demokratik) ve Batı (Federal) olarak ikiye bölünmüştür.",
+          "Birleşmiştir.",
+          "Tamamen SSCB kontrolüne girmiştir.",
+          "Tarafsız bölge ilan edilmiştir."
+        ],
+        "correctOption": "B",
+        "solution": "(Federal Almanya (Batı) ve Demokratik Almanya (Doğu) olarak 1990'a kadar bölünük kalmıştır.)"
+      },
+      {
+        "text": "1948 yılında Filistin topraklarında kurulan İsrail Devleti'ni tanıyan ilk devlet hangisidir?",
+        "options": [
+          "Türkiye",
+          "Fransa",
+          "İngiltere",
+          "Mısır",
+          "ABD"
+        ],
+        "correctOption": "E",
+        "solution": "(Hemen ardından SSCB tanımıştır.)"
+      },
+      {
+        "text": "İsrail'in kuruluşundan hemen sonra (1948) Arap devletleri ile İsrail arasında başlayan savaşların (Arap-İsrail Savaşları) temel nedeni nedir?",
+        "options": [
+          "Petrol paylaşımı",
+          "Süveyş Kanalı",
+          "Filistin Sorunu",
+          "Su kaynakları",
+          "Doğu-Batı çatışması"
+        ],
+        "correctOption": "C",
+        "solution": "(İsrail'in kuruluşuyla başlayan \"Nekbe/Felaket\" günü.)"
+      },
+      {
+        "text": "Hindistan'ın bağımsızlık mücadelesinin lideri olan, şiddet içermeyen \"Pasif Direniş\" (Satyagraha) yöntemini uygulayan ve \"Tuz Yürüyüşü\" ile tanınan lider kimdir?",
+        "options": [
+          "Babür Şah",
+          "Mahatma Gandhi",
+          "Muhammed Ali Cinnah",
+          "Nehru",
+          "İndira Gandhi"
+        ],
+        "correctOption": "B",
+        "solution": "(Ruhani lider.)"
+      },
+      {
+        "text": "Hindistan'dan ayrılarak kurulan Pakistan Devleti'nin kurucusu ve ilk devlet başkanı kimdir?",
+        "options": [
+          "Muhammed Ali Cinnah",
+          "Mahatma Gandhi",
+          "Pervez Müşerref",
+          "Zülfikar Ali Butto",
+          "Benazir Butto"
+        ],
+        "correctOption": "A",
+        "solution": "(Kaide-i Azam / Büyük Önder.)"
+      },
+      {
+        "text": "Çin'de 1949 yılında milliyetçileri (Tayvan'a süren) yenerek Çin Halk Cumhuriyeti'ni kuran komünist lider kimdir?",
+        "options": [
+          "Mao Zedong",
+          "Sun Yat Sen",
+          "Deng Şiaoping",
+          "Çan Kay Şek",
+          "Ho Şi Minh"
+        ],
+        "correctOption": "A",
+        "solution": ""
+      },
+      {
+        "text": "1950-1953 yılları arasında yaşanan Kore Savaşı'nda Kuzey Kore'yi hangi devletler, Güney Kore'yi hangi güç desteklemiştir?",
+        "options": [
+          "Kuzey: Türkiye - Güney: Yunanistan",
+          "Kuzey: Japonya - Güney: Çin",
+          "Kuzey: SSCB/Çin - Güney: ABD/Birleşmiş Milletler",
+          "Kuzey: İngiltere - Güney: Fransa",
+          "Kuzey: ABD - Güney: SSCB"
+        ],
+        "correctOption": "C",
+        "solution": "(Soğuk Savaş'ın ilk sıcak çatışmasıdır.)"
+      },
+      {
+        "text": "Kore Savaşı sonucunda iki Kore arasındaki sınır neresi olarak kabul edilmiştir?",
+        "options": [
+          "Yalu Nehri",
+          "38. Enlem",
+          "Çin Seddi",
+          "17. Enlem (Vietnam sınırıdır)",
+          "Berlin Duvarı"
+        ],
+        "correctOption": "B",
+        "solution": "(Savaş başladığı yerde bitmiş, sınırlar değişmemiştir.)"
+      },
+      {
+        "text": "Kore Savaşı'nı sona erdiren ateşkes antlaşması hangisidir?",
+        "options": [
+          "Cenevre Antlaşması",
+          "Panmunjom Ateşkesi",
+          "Paris Antlaşması",
+          "Seul Antlaşması",
+          "Camp David"
+        ],
+        "correctOption": "B",
+        "solution": "(Kalıcı bir barış antlaşması hala imzalanmamıştır.)"
+      },
+      {
+        "text": "ABD'nin Ortadoğu'daki Sovyet etkisini kırmak ve bölge ülkelerine askeri/ekonomik yardım yapmak amacıyla 1957'de yayımladığı doktrin hangisidir?",
+        "options": [
+          "Monroe Doktrini",
+          "Eisenhower Doktrini",
+          "Nixon Doktrini",
+          "Kennedy Doktrini",
+          "Truman Doktrini"
+        ],
+        "correctOption": "B",
+        "solution": "(Türkiye bu doktrini de kabul etmiştir.)"
+      },
+      {
+        "text": "1951 yılında kurulan ve bugünkü Avrupa Birliği'nin temeli sayılan, Fransa ve Almanya'nın kömür-çelik üretimini ortaklaştırdığı örgüt hangisidir?",
+        "options": [
+          "Avrupa Kömür ve Çelik Topluluğu (AKÇT)",
+          "Avrupa Ekonomik Topluluğu (AET)",
+          "Avrupa Konseyi",
+          "NATO",
+          "EFTA"
+        ],
+        "correctOption": "A",
+        "solution": "(Schuman Bildirisi ile kurulmuştur.)"
+      },
+      {
+        "text": "İnsan Hakları Evrensel Beyannamesi (1948) hangi uluslararası örgüt tarafından kabul edilmiştir?",
+        "options": [
+          "Milletler Cemiyeti",
+          "UNESCO",
+          "NATO",
+          "Avrupa Konseyi",
+          "Birleşmiş Milletler"
+        ],
+        "correctOption": "E",
+        "solution": ""
+      },
+      {
+        "text": "Doğu Bloğu ülkelerinin kendi aralarındaki siyasi ve ideolojik birliği sağlamak amacıyla kurdukları örgüte ne ad verilir? (Askeri değil, siyasi).",
+        "options": [
+          "Varşova Paktı",
+          "COMECON",
+          "COMINFORM",
+          "KGB",
+          "Demir Perde"
+        ],
+        "correctOption": "C",
+        "solution": ""
+      },
+      {
+        "text": "II. Dünya Savaşı'ndan sonra sömürgeciliğin sona ermesiyle Asya ve Afrika'da yeni devletlerin kurulması sürecine ne ad verilir?",
+        "options": [
+          "Manda ve Himaye",
+          "Dekolonizasyon",
+          "Sanayileşme",
+          "Demokratikleşme",
+          "Küreselleşme"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Fransa'nın sömürgesi olan ve kanlı bir bağımsızlık savaşı (1954-1962) sonucunda bağımsızlığını kazanan Kuzey Afrika ülkesi hangisidir?",
+        "options": [
+          "Fas",
+          "Tunus",
+          "Cezayir",
+          "Libya",
+          "Mısır"
+        ],
+        "correctOption": "C",
+        "solution": "(Cemile Buhayrad gibi sembol isimleri vardır.)"
+      },
+      {
+        "text": "Soğuk Savaş döneminde Yugoslavya lideri Tito'nun öncülüğünde, ne Batı ne de Doğu bloğuna dahil olmak istemeyen ülkelerin oluşturduğu hareket hangisidir?",
+        "options": [
+          "OPEC",
+          "Bağlantısızlar Hareketi (3. Dünya)",
+          "İslam İşbirliği Teşkilatı",
+          "Afrika Birliği",
+          "ASEAN"
+        ],
+        "correctOption": "B",
+        "solution": "(Bandung Konferansı ile temelleri atılmıştır.)"
+      },
+      {
+        "text": "1948 yılında \"Apartheid\" (Irk Ayrımı) rejiminin resmen uygulamaya konulduğu ve Nelson Mandela'nın buna karşı mücadele ettiği ülke hangisidir?",
+        "options": [
+          "Kenya",
+          "ABD",
+          "Hindistan",
+          "Nijerya",
+          "Güney Afrika Cumhuriyeti"
+        ],
+        "correctOption": "E",
+        "solution": ""
+      }
+    ]
+  },
+  {
+    "testName": "Mini Test - 5",
+    "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 47 Özeti - Demokrat Parti Dönemi)\nÇok Partili Hayata Geçiş:\nMilli Kalkınma Partisi (1945): Nuri Demirağ kurdu. İlk muhalefet partisi.\nDörtlü Takrir: CHP içindeki muhaliflerin (Celal Bayar, Adnan Menderes, Fuat Köprülü, Refik Koraltan) verdiği önerge. Reddedilince ayrılıp Demokrat Parti'yi (DP) kurdular (1946).\n1946 Seçimleri: İlk tek dereceli seçim. Şaibeli seçimdir (Açık Oy, Gizli Sayım). CHP kazandı.\n1950 Seçimleri (Beyaz İhtilal): İlk demokratik seçim (Gizli Oy, Açık Sayım). DP kazandı. 27 yıllık CHP iktidarı bitti.\nDP Dönemi (1950-1960):\nCumhurbaşkanı: Celal Bayar. Başbakan: Adnan Menderes.\nİcraatlar: Ezan Arapçaya döndü. Halkevleri ve Köy Enstitüleri kapatıldı. Atatürk'ü Koruma Kanunu çıkarıldı. Anıtkabir tamamlandı.\nEkonomi: Liberalizm. Tarımda makineleşme (Traktör). Karayolu yapımı. Marshall yardımları.\nDış Politika:\nKore Savaşı (1950): Tuğgeneral Tahsin Yazıcı komutasında asker gönderildi (Kunuri Zaferi). Amaç NATO'ya girmek.\nNATO (1952): Türkiye ve Yunanistan birlikte üye oldu.\nBalkan Paktı (1953): Türkiye, Yunanistan, Yugoslavya.\nBağdat Paktı (1955): Türkiye, İran, Irak, Pakistan, İngiltere. (Irak çıkınca adı CENTO oldu).\n6-7 Eylül Olayları (1955): Atatürk'ün evinin bombalandığı yalan haberi üzerine İstanbul'daki Rumlara saldırılması.\n27 Mayıs 1960 Darbesi:\nTSK yönetime el koydu. Milli Birlik Komitesi (MBK) kuruldu.\nYassıada Duruşmaları: Adnan Menderes, Fatin Rüştü Zorlu ve Hasan Polatkan idam edildi.",
+    "questions": [
+      {
+        "text": "Türkiye Cumhuriyeti'nde çok partili hayata geçişin ilk partisi olan ve iş adamı Nuri Demirağ tarafından 1945'te kurulan parti hangisidir?",
+        "options": [
+          "Hürriyet Partisi",
+          "Millet Partisi",
+          "Milli Kalkınma Partisi",
+          "Türkiye İşçi Partisi",
+          "Demokrat Parti"
+        ],
+        "correctOption": "C",
+        "solution": "(DP'den önce kurulmuştur ancak meclise girememiştir.)"
+      },
+      {
+        "text": "CHP içindeki dört milletvekilinin (Celal Bayar, Adnan Menderes, Fuat Köprülü, Refik Koraltan) verdiği ve Demokrat Parti'nin kuruluşuna zemin hazırlayan önergeye ne ad verilir?",
+        "options": [
+          "24 Ocak Kararları",
+          "Dörtlü Takrir",
+          "Misak-ı Milli",
+          "Dokuz Umde",
+          "12 Mart Muhtırası"
+        ],
+        "correctOption": "B",
+        "solution": "(Toprak reformuna muhalefetle başlamışlardır.)"
+      },
+      {
+        "text": "Türk siyasi tarihinde \"Açık Oy, Gizli Sayım\" usulüyle yapılan ve şaibeli olduğu iddia edilen seçim hangisidir?",
+        "options": [
+          "1950 Seçimleri",
+          "1961 Seçimleri",
+          "1954 Seçimleri",
+          "1946 Seçimleri",
+          "1957 Seçimleri"
+        ],
+        "correctOption": "D",
+        "solution": "(CHP kazanmış, DP meclise girmiştir.)"
+      },
+      {
+        "text": "14 Mayıs 1950 seçimlerinde Demokrat Parti'nin büyük bir zafer kazanarak 27 yıllık CHP iktidarına son vermesi olayına siyasi tarihte ne ad verilir?",
+        "options": [
+          "Muhtıra",
+          "Post-Modern Darbe",
+          "Beyaz İhtilal (Beyaz Devrim)",
+          "27 Mayıs Darbesi",
+          "Kadife Devrim"
+        ],
+        "correctOption": "C",
+        "solution": "(Kansız bir iktidar değişimi olduğu için.)"
+      },
+      {
+        "text": "1950-1960 yılları arasında Cumhurbaşkanlığı yapan ve \"Milli Şef\" İsmet İnönü'den görevi devralan devlet adamı kimdir?",
+        "options": [
+          "Adnan Menderes",
+          "Celal Bayar",
+          "Refik Koraltan",
+          "Cemal Gürsel",
+          "Fevzi Çakmak"
+        ],
+        "correctOption": "B",
+        "solution": "(Adnan Menderes Başbakan olmuştur.)"
+      },
+      {
+        "text": "Demokrat Parti'nin iktidara geldikten sonra yaptığı ilk icraatlardan biri olan ve halk üzerindeki dini baskıyı kaldırmayı amaçlayan düzenleme nedir?",
+        "options": [
+          "Halifeliğin getirilmesi",
+          "Ezanın tekrar Arapça okunmasının serbest bırakılması",
+          "Şapka kanununun kaldırılması",
+          "Medreselerin açılması",
+          "Tekkelerin açılması"
+        ],
+        "correctOption": "B",
+        "solution": "(1950 - 18 yıl aradan sonra.)"
+      },
+      {
+        "text": "Türkiye'nin NATO'ya üye olabilmek için asker gönderdiği savaş hangisidir?",
+        "options": [
+          "Kore Savaşı",
+          "Körfez Savaşı",
+          "Vietnam Savaşı",
+          "II. Dünya Savaşı",
+          "Kıbrıs Barış Harekatı"
+        ],
+        "correctOption": "A",
+        "solution": "(NATO üyeliği için \"kan bedeli\" ödenmiştir.)"
+      },
+      {
+        "text": "Kore Savaşı'nda Türk tugayının (Şimal Yıldızı) gösterdiği üstün başarı ve kahramanlıkla tanınan muharebe hangisidir?",
+        "options": [
+          "Pyongyang Kuşatması",
+          "Seul Savunması",
+          "Kunuri Muharebeleri",
+          "Yalu Nehri Savaşı",
+          "Pusan Savaşı"
+        ],
+        "correctOption": "C",
+        "solution": "(Türk askeri, BM ordusunu tamamen yok olmaktan kurtarmıştır.)"
+      },
+      {
+        "text": "Türkiye, 1952 yılında hangi ülke ile birlikte NATO'ya üye olmuştur?",
+        "options": [
+          "İspanya",
+          "Almanya",
+          "İtalya",
+          "Fransa",
+          "Yunanistan"
+        ],
+        "correctOption": "E",
+        "solution": "(O dönemde ilişkiler iyiydi.)"
+      },
+      {
+        "text": "Demokrat Parti döneminde tarımda üretimi artırmak için kullanılan ve \"Kara sabandan makineye geçişi\" simgeleyen araç hangisidir?",
+        "options": [
+          "Gübre",
+          "Traktör",
+          "Pulluk",
+          "Biçerdöver",
+          "Sulama kanalı"
+        ],
+        "correctOption": "B",
+        "solution": "(Marshall yardımları sayesinde traktör sayısı patlamıştır.)"
+      },
+      {
+        "text": "1953 yılında Türkiye, Yunanistan ve Yugoslavya arasında SSCB tehdidine karşı kurulan pakt hangisidir?",
+        "options": [
+          "Bağdat Paktı",
+          "Sadabat Paktı",
+          "CENTO",
+          "Varşova Paktı",
+          "Balkan Paktı (Balkan İttifakı)"
+        ],
+        "correctOption": "E",
+        "solution": "(Atatürk dönemi Balkan Antantı ile karıştırılmamalıdır. Antant 1934, Pakt 1953'tür.)"
+      },
+      {
+        "text": "1955 yılında Türkiye, İran, Irak, Pakistan ve İngiltere'nin katılımıyla kurulan, daha sonra Irak'ın ayrılmasıyla adı CENTO olarak değiştirilen örgüt hangisidir?",
+        "options": [
+          "Sadabat Paktı",
+          "İslam İşbirliği Teşkilatı",
+          "Arap Birliği",
+          "Bağdat Paktı",
+          "Balkan Paktı"
+        ],
+        "correctOption": "D",
+        "solution": "(Merkezi Ankara'ya taşınmıştır.)"
+      },
+      {
+        "text": "6-7 Eylül 1955 Olayları'nın çıkmasına neden olan (yalan) haber nedir?",
+        "options": [
+          "Patrikhanenin kapatılacağı",
+          "Yunanistan'ın savaş açtığı",
+          "Kıbrıs'ın Yunanistan'a verildiği",
+          "Atatürk'ün Selanik'teki evinin bombalandığı",
+          "Adaların işgal edildiği"
+        ],
+        "correctOption": "D",
+        "solution": "(Bu haber üzerine İstanbul'da azınlıklara ait iş yerleri yağmalanmıştır.)"
+      },
+      {
+        "text": "Atatürk aleyhine işlenen suçların artması üzerine, Demokrat Parti döneminde (1951) çıkarılan kanun hangisidir?",
+        "options": [
+          "Hıyanet-i Vataniye",
+          "Milli Korunma Kanunu",
+          "Varlık Vergisi",
+          "Takrir-i Sükun",
+          "Atatürk'ü Koruma Kanunu"
+        ],
+        "correctOption": "E",
+        "solution": "(Hala yürürlüktedir.)"
+      },
+      {
+        "text": "Demokrat Parti döneminde kurulan ve 1960 darbesine kadar eğitim veren, bugün Ankara'da bulunan üniversite hangisidir? (ABD modeliyle kurulmuştur).",
+        "options": [
+          "Ankara Üniversitesi",
+          "Bilkent Üniversitesi",
+          "Hacettepe Üniversitesi",
+          "Orta Doğu Teknik Üniversitesi (ODTÜ)",
+          "Gazi Üniversitesi"
+        ],
+        "correctOption": "D",
+        "solution": "(Karadeniz Teknik Üniversitesi, Ege Üniversitesi ve Atatürk Üniversitesi de bu dönemde kurulmuştur.)"
+      },
+      {
+        "text": "Köy Enstitüleri hangi yıl ve hangi parti döneminde tamamen kapatılarak İlköğretmen Okullarına dönüştürülmüştür?",
+        "options": [
+          "1940 - CHP",
+          "1980 - Askeri Yönetim",
+          "1960 - Milli Birlik Komitesi",
+          "1946 - CHP",
+          "1954 - Demokrat Parti"
+        ],
+        "correctOption": "E",
+        "solution": "(Aslında 1946'dan itibaren işlevini yitirmeye başlamış, 1954'te resmen kapatılmıştır.)"
+      },
+      {
+        "text": "Demokrat Parti iktidarına son veren askeri müdahale hangisidir?",
+        "options": [
+          "12 Mart 1971 Muhtırası",
+          "28 Şubat 1997 Süreci",
+          "12 Eylül 1980 Darbesi",
+          "27 Mayıs 1960 Darbesi",
+          "15 Temmuz 2016 Girişimi"
+        ],
+        "correctOption": "D",
+        "solution": "(Türkiye Cumhuriyeti tarihindeki ilk askeri darbedir.)"
+      },
+      {
+        "text": "27 Mayıs 1960 darbesinden sonra yönetimi ele alan askeri kurulun adı nedir?",
+        "options": [
+          "Cumhurbaşkanlığı Konseyi",
+          "Yüksek Askeri Şura",
+          "Milli Birlik Komitesi (MBK)",
+          "Devlet Denetleme Kurulu",
+          "Milli Güvenlik Konseyi"
+        ],
+        "correctOption": "C",
+        "solution": "(Başkanı Orgeneral Cemal Gürsel'dir.)"
+      },
+      {
+        "text": "27 Mayıs darbesinden sonra Demokrat Parti yöneticilerinin yargılandığı ada hangisidir?",
+        "options": [
+          "Büyükada",
+          "İmralı",
+          "Heybeliada",
+          "Kınalıada",
+          "Yassıada (Demokrasi ve Özgürlükler Adası)"
+        ],
+        "correctOption": "E",
+        "solution": ""
+      },
+      {
+        "text": "Yassıada yargılamaları sonucunda idam edilen üç devlet adamı kimlerdir?",
+        "options": [
+          "Adnan Menderes - Celal Bayar - Fuat Köprülü",
+          "Fatin Rüştü Zorlu - Hasan Polatkan - Samet Ağaoğlu",
+          "Adnan Menderes - Fatin Rüştü Zorlu - Hasan Polatkan",
+          "Celal Bayar - Adnan Menderes - Tevfik İleri",
+          "Adnan Menderes - Celal Bayar - Refik Koraltan"
+        ],
+        "correctOption": "C",
+        "solution": "(Celal Bayar yaş haddinden dolayı idam edilmemiştir.)"
+      },
+      {
+        "text": "Demokrat Parti döneminde ekonomide benimsenen model hangisidir?",
+        "options": [
+          "Korumacılık",
+          "Liberalizm (Serbest Piyasa ve Yabancı Sermaye Teşviki)",
+          "Devletçilik",
+          "Sosyalizm",
+          "Karma Ekonomi"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Mareşal Fevzi Çakmak'ın fahri başkanlığını yaptığı ve Demokrat Parti'ye muhalefet olarak kurulan (daha milliyetçi/muhafazakar) parti hangisidir?",
+        "options": [
+          "Hürriyet Partisi",
+          "Millet Partisi",
+          "Adalet Partisi",
+          "Cumhuriyetçi Köylü Millet Partisi",
+          "Yeni Türkiye Partisi"
+        ],
+        "correctOption": "B",
+        "solution": "(1948'de kurulmuştur.)"
+      },
+      {
+        "text": "Türkiye'de \"Vatan Cephesi\" adlı oluşumu kurarak, radyo yoluyla taraftar toplayan ve toplumu kutuplaştırdığı için eleştirilen parti hangisidir?",
+        "options": [
+          "CHP",
+          "Hürriyet Partisi",
+          "Adalet Partisi",
+          "Millet Partisi",
+          "Demokrat Parti"
+        ],
+        "correctOption": "E",
+        "solution": "(İktidarının son yıllarında baskıcı politikalara yönelmiştir.)"
+      },
+      {
+        "text": "Soğuk Savaş döneminde, 1960 yılında SSCB tarafından düşürülen ABD casus uçağı \"U-2\" krizi, Türkiye'yi neden ilgilendirmiştir?",
+        "options": [
+          "Pilot Türktür.",
+          "SSCB Türkiye'yi tehdit etmiştir.",
+          "Uçak Türkiye'ye düşmüştür.",
+          "Türkiye arabulucu olmuştur.",
+          "Uçak Adana İncirlik Üssü'nden kalkmıştır."
+        ],
+        "correctOption": "E",
+        "solution": "(Türkiye'nin Soğuk Savaş'ın tam merkezinde olduğunu göstermiştir.)"
+      },
+      {
+        "text": "Demokrat Parti döneminde Kıbrıs meselesi ilk kez gündeme gelmiş ve Türkiye'nin garantörlüğünü sağlayan antlaşmalar imzalanmıştır. (1959).Bu antlaşmalar hangileridir?",
+        "options": [
+          "Lozan ve Paris",
+          "Cenevre ve Viyana",
+          "Montrö ve Sevr",
+          "Ankara ve Atina",
+          "Zürih ve Londra Antlaşmaları"
+        ],
+        "correctOption": "E",
+        "solution": "(Kıbrıs Cumhuriyeti'nin temeli atılmıştır.)"
+      }
+    ]
+  },
+  {
+    "testName": "Mini Test - 6",
+    "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 48 Özeti - Küba, Yumuşama ve Kıbrıs)\nKüba Füze Krizi (1962):\nTaraflar: ABD (Kennedy) vs. SSCB (Kruşçev).\nOlay: SSCB'nin Küba'ya nükleer füze yerleştirmesi. ABD'nin Küba'yı ablukaya alması.\nSonuç: SSCB füzeleri çekti. Karşılığında ABD, Türkiye'deki Jüpiter füzelerini söktü. (Dünya nükleer savaşa en çok bu olayda yaklaştı).\nKırmızı Telefon: İki lider arasında doğrudan iletişim hattı kuruldu.\nYumuşama (Détente) Dönemi:\nSALT-I ve SALT-II: Nükleer silahların sınırlandırılması antlaşmaları.\nHelsinki Nihai Senedi (1975): İnsan hakları ve sınırların dokunulmazlığı. (AGİT'in temeli).\nPing-Pong Diplomasisi: ABD-Çin yakınlaşması.\nVietnam Savaşı: ABD'nin komünizme karşı girdiği ancak başarısız olduğu bataklık. (Muhammed Ali savaşa gitmeyi reddetti).\nTürkiye (1960-1980):\n1961 Anayasası: Özgürlükçü anayasa. Anayasa Mahkemesi ve Cumhuriyet Senatosu (Çift Meclis) kuruldu.\nJohnson Mektubu (1964): ABD Başkanı Johnson'ın Türkiye'yi Kıbrıs'a müdahale etmemesi için tehdit ettiği mektup. (ABD ile ilişkiler bozuldu, SSCB ile yakınlaşma başladı).\n12 Mart 1971 Muhtırası: Askerin hükümete (Süleyman Demirel) ültimatom vermesi. Nihat Erim (Teknokrat) hükümeti kuruldu.\nKıbrıs Barış Harekatı (1974):\nBaşbakan: Bülent Ecevit (\"Karaoğlan\"). Yardımcısı: Necmettin Erbakan.\nParola: \"Ayşe tatile çıksın.\"\nSonuç: Kıbrıs Türk Federe Devleti kuruldu (Rauf Denktaş). ABD Türkiye'ye ambargo uyguladı.\nASALA: Türk diplomatlarını şehit eden Ermeni terör örgütü.",
+    "questions": [
+      {
+        "text": "Soğuk Savaş döneminde, dünyayı nükleer savaşın eşiğine getiren ve \"Ekim Füzeleri Krizi\" olarak da bilinen olay, ABD ile SSCB arasında hangi ülke yüzünden çıkmıştır?",
+        "options": [
+          "Kore",
+          "Küba",
+          "Almanya",
+          "Vietnam",
+          "Türkiye"
+        ],
+        "correctOption": "B",
+        "solution": "(Fidel Castro yönetimindeki Küba'ya Rus füzelerinin yerleştirilmesi.)"
+      },
+      {
+        "text": "Küba Füze Krizi'nin çözümü sırasında ABD, SSCB'nin Küba'daki füzeleri sökmesi karşılığında hangi ülkedeki Jüpiter füzelerini sökme sözü vermiştir?",
+        "options": [
+          "İngiltere",
+          "Yunanistan",
+          "Almanya",
+          "Türkiye",
+          "İtalya"
+        ],
+        "correctOption": "D",
+        "solution": "(Türkiye'nin haberi olmadan yapılan pazarlık, ABD'ye olan güveni sarsmıştır.)"
+      },
+      {
+        "text": "Küba Krizi sonrasında Washington ile Moskova arasında yanlış anlaşılmaları önlemek ve doğrudan iletişimi sağlamak amacıyla kurulan hattın adı nedir?",
+        "options": [
+          "Demir Perde",
+          "Yeşil Hat",
+          "Kırmızı Telefon (Hotline)",
+          "Barış Hattı",
+          "Mavi Akım"
+        ],
+        "correctOption": "C",
+        "solution": ""
+      },
+      {
+        "text": "ABD ve SSCB arasında nükleer silahlanma yarışını durdurmak amacıyla 1972'de imzalanan ve \"Yumuşama (Détente)\" döneminin en önemli adımlarından biri sayılan antlaşma hangisidir?",
+        "options": [
+          "NPT",
+          "Varşova Paktı",
+          "SALT-I",
+          "Kyoto Protokolü",
+          "NATO"
+        ],
+        "correctOption": "C",
+        "solution": "(SALT-II ise imzalanmış ama SSCB Afganistan'ı işgal edince ABD kongresi onaylamamıştır.)"
+      },
+      {
+        "text": "1975 yılında imzalanan, Avrupa'da sınırların değişmezliğini ve insan haklarına saygıyı esas alan, Yumuşama döneminin zirvesi sayılan belge hangisidir?",
+        "options": [
+          "Kopenhag Kriterleri",
+          "Paris Şartı",
+          "Maastricht Antlaşması",
+          "Roma Antlaşması",
+          "Helsinki Nihai Senedi"
+        ],
+        "correctOption": "E",
+        "solution": "(Avrupa Güvenlik ve İşbirliği Teşkilatı - AGİT'in temeli.)"
+      },
+      {
+        "text": "ABD ile Çin arasındaki ilişkilerin düzelmesini sağlayan ve \"Ping-Pong Diplomasisi\" olarak adlandırılan süreç hangi ABD Başkanı döneminde başlamıştır?",
+        "options": [
+          "Reagan",
+          "Carter",
+          "Johnson",
+          "Kennedy",
+          "Nixon"
+        ],
+        "correctOption": "E",
+        "solution": "(Masa tenisi takımının davetiyle başlayan süreç.)"
+      },
+      {
+        "text": "ABD'nin Güneydoğu Asya'da komünizmin yayılmasını engellemek için girdiği, ancak büyük kayıplar vererek başarısız olduğu ve ülke içinde büyük protestolara (Hippie hareketi vb.) neden olan savaş hangisidir?",
+        "options": [
+          "Kamboçya İç Savaşı",
+          "Körfez Savaşı",
+          "Vietnam Savaşı",
+          "Afganistan Savaşı",
+          "Kore Savaşı"
+        ],
+        "correctOption": "C",
+        "solution": ""
+      },
+      {
+        "text": "Vietnam Savaşı'na gitmeyi \"Vietkonglularla bir derdim yok\" diyerek reddeden ve bu yüzden şampiyonluk unvanı elinden alınıp hapse atılan efsanevi boksör kimdir?",
+        "options": [
+          "George Foreman",
+          "Mike Tyson",
+          "Muhammed Ali (Cassius Clay)",
+          "Joe Frazier",
+          "Rocky Marciano"
+        ],
+        "correctOption": "C",
+        "solution": ""
+      },
+      {
+        "text": "1964 yılında Türkiye'nin Kıbrıs'a müdahale etmesini önlemek amacıyla ABD Başkanı tarafından yazılan ve Türk-Amerikan ilişkilerinde büyük bir kırılmaya neden olan mektup hangisidir?",
+        "options": [
+          "Nixon Mektubu",
+          "Johnson Mektubu",
+          "Carter Mektubu",
+          "Kennedy Mektubu",
+          "Truman Mektubu"
+        ],
+        "correctOption": "B",
+        "solution": "(\"NATO silahlarını kullanamazsınız\" tehdidi.)"
+      },
+      {
+        "text": "Johnson Mektubu'ndan sonra Türkiye dış politikasında nasıl bir değişiklik olmuştur?",
+        "options": [
+          "ABD'ye daha çok bağlanmıştır.",
+          "Kıbrıs'tan vazgeçmiştir.",
+          "Çok yönlü dış politikaya geçerek SSCB ve Ortadoğu ülkeleriyle ilişkilerini geliştirmeye başlamıştır.",
+          "NATO'dan çıkmıştır.",
+          "AB'ye girmiştir."
+        ],
+        "correctOption": "C",
+        "solution": "(Türkiye, sadece Batı'ya güvenilemeyeceğini anlamıştır.)"
+      },
+      {
+        "text": "Kıbrıs'ta Rumların, adayı Yunanistan'a bağlama hedefine ne ad verilir?",
+        "options": [
+          "Taksim",
+          "EOKA",
+          "Enosis",
+          "Megali İdea",
+          "Akritas Planı"
+        ],
+        "correctOption": "C",
+        "solution": "(Bu hedef için kurdukları terör örgütü EOKA, imha planı ise Akritas'tır.)"
+      },
+      {
+        "text": "Kıbrıs Türklerinin haklarını savunmak için Rauf Denktaş ve Dr. Fazıl Küçük önderliğinde kurulan direniş örgütünün adı nedir?",
+        "options": [
+          "Müdafaa-i Hukuk",
+          "Asala",
+          "Türk Mukavemet Teşkilatı (TMT)",
+          "Kuvayi Milliye",
+          "Akritas"
+        ],
+        "correctOption": "C",
+        "solution": "(Volkan teşkilatı da vardır.)"
+      },
+      {
+        "text": "1974 Kıbrıs Barış Harekatı sırasında Türkiye'nin Başbakanı ve Başbakan Yardımcısı (Koalisyon ortakları) kimlerdir?",
+        "options": [
+          "Nihat Erim - Bülent Ecevit",
+          "Bülent Ecevit - Necmettin Erbakan",
+          "Süleyman Demirel - Necmettin Erbakan",
+          "Süleyman Demirel - Turgut Özal",
+          "Bülent Ecevit - Alparslan Türkeş"
+        ],
+        "correctOption": "B",
+        "solution": "(CHP-MSP Koalisyonu.)"
+      },
+      {
+        "text": "Kıbrıs Barış Harekatı'nın askeri parolasını (\"Ayşe tatile çıksın\") veren dönemin Dışişleri Bakanı kimdir?",
+        "options": [
+          "Fatin Rüştü Zorlu",
+          "İhsan Sabri Çağlayangil",
+          "Haluk Bayülken",
+          "Hasan Saka",
+          "Turan Güneş"
+        ],
+        "correctOption": "E",
+        "solution": ""
+      },
+      {
+        "text": "Kıbrıs Barış Harekatı sonucunda kurulan \"Kıbrıs Türk Federe Devleti\"nin ve daha sonra \"Kuzey Kıbrıs Türk Cumhuriyeti\"nin (KKTC) ilk Cumhurbaşkanı kimdir?",
+        "options": [
+          "Mustafa Akıncı",
+          "Dr. Fazıl Küçük",
+          "Derviş Eroğlu",
+          "Mehmet Ali Talat",
+          "Rauf Denktaş"
+        ],
+        "correctOption": "E",
+        "solution": ""
+      },
+      {
+        "text": "1974 Harekatı nedeniyle ABD'nin Türkiye'ye uyguladığı silah ambargosuna karşılık Türkiye hangi tepkiyi vermiştir?",
+        "options": [
+          "Geri adım atmıştır.",
+          "Rusya'dan füze almıştır.",
+          "NATO'dan çıkmıştır.",
+          "Savaş ilan etmiştir.",
+          "ABD'deki İncirlik Üssü dahil tüm üsleri kapatmış/el koymuştur."
+        ],
+        "correctOption": "E",
+        "solution": "(1975-1978 arası ilişkiler çok gergindir.)"
+      },
+      {
+        "text": "1961 Anayasası'nın getirdiği en önemli yeniliklerden biri olan ve kanunların anayasaya uygunluğunu denetleyen yüksek mahkeme hangisidir?",
+        "options": [
+          "Yargıtay",
+          "Sayıştay",
+          "Danıştay",
+          "Uyuşmazlık Mahkemesi",
+          "Anayasa Mahkemesi"
+        ],
+        "correctOption": "E",
+        "solution": "(Ayrıca çift meclisli sistem -Cumhuriyet Senatosu- gelmiştir.)"
+      },
+      {
+        "text": "12 Mart 1971 Muhtırası ile istifaya zorlanan Başbakan kimdir?",
+        "options": [
+          "Adnan Menderes",
+          "Bülent Ecevit",
+          "Turgut Özal",
+          "Süleyman Demirel",
+          "Necmettin Erbakan"
+        ],
+        "correctOption": "D",
+        "solution": "(Ordu \"partiler üstü bir reform hükümeti\" istemiştir.)"
+      },
+      {
+        "text": "12 Mart Muhtırası'ndan sonra kurulan \"Teknokratlar Hükümeti\"nin Başbakanı kimdir? (Bu dönemde anayasada özgürlükleri kısıtlayıcı değişiklikler yapılmıştır).",
+        "options": [
+          "Sadi Irmak",
+          "Nihat Erim",
+          "Ferit Melen",
+          "Suat Hayri Ürgüplü",
+          "Naim Talu"
+        ],
+        "correctOption": "B",
+        "solution": "(CHP'den istifa ettirilip başbakan yapılmıştır.)"
+      },
+      {
+        "text": "1970'li yıllarda Türk diplomatlarına yönelik suikastlar düzenleyen Ermeni terör örgütünün adı nedir?",
+        "options": [
+          "EOKA",
+          "PKK",
+          "ASALA",
+          "İBDA-C",
+          "DHKP-C"
+        ],
+        "correctOption": "C",
+        "solution": ""
+      },
+      {
+        "text": "Türkiye'nin ilk yerli otomobili olan \"Devrim\", hangi dönemde ve kimin talimatıyla üretilmiştir?",
+        "options": [
+          "1974 - Bülent Ecevit",
+          "Demokrat Parti - Adnan Menderes",
+          "1960 Darbesi sonrası (MBK) - Cemal Gürsel",
+          "1980 - Kenan Evren",
+          "1923 - Atatürk"
+        ],
+        "correctOption": "C",
+        "solution": "(Eskişehir Demiryolu Fabrikası'nda üretilmiş, ancak benzin konulmadığı için yolda kalmıştır.)"
+      },
+      {
+        "text": "1969 yılında İslam İşbirliği Teşkilatı'nın (İİT) kurulmasına neden olan olay nedir? (Türkiye de kurucu üyedir).",
+        "options": [
+          "İran İslam Devrimi",
+          "Kıbrıs Barış Harekatı",
+          "İsrail'in kuruluşu",
+          "Sovyetlerin Afganistan'ı işgali",
+          "Mescid-i Aksa'nın (Kudüs) kundaklanması girişimi"
+        ],
+        "correctOption": "E",
+        "solution": ""
+      },
+      {
+        "text": "Soğuk Savaş döneminde uzay yarışını başlatan ve uzaya ilk insanı (Yuri Gagarin) gönderen ülke hangisidir?",
+        "options": [
+          "Japonya",
+          "SSCB",
+          "ABD",
+          "Çin",
+          "Almanya"
+        ],
+        "correctOption": "B",
+        "solution": "(Sputnik uydusu ve Vostok-1 ile öne geçmiştir. ABD ise Ay'a inerek -Apollo 11- cevap vermiştir.)"
+      },
+      {
+        "text": "Türkiye'de 1960-1980 arası dönemde yaşanan ekonomik ve sosyal sorunlar (döviz darboğazı, kuyruklar, sağ-sol çatışmaları) hangi askeri müdahaleye zemin hazırlamıştır?",
+        "options": [
+          "12 Mart 1971",
+          "27 Mayıs 1960",
+          "28 Şubat 1997",
+          "12 Eylül 1980 Darbesi",
+          "15 Temmuz 2016"
+        ],
+        "correctOption": "D",
+        "solution": "(Kenan Evren liderliğinde.)"
+      },
+      {
+        "text": "SOĞUK SAVAŞ ARA FİNAL SORUSU:\nSoğuk Savaş döneminde Türkiye'nin NATO'ya girmesi, Kore'ye asker göndermesi ve ABD ile yakın ilişkiler kurmasının temel stratejik nedeni nedir?",
+        "options": [
+          "ABD'yi çok sevmesi",
+          "Sovyet Rusya'nın (SSCB) Türkiye'den toprak (Kars/Ardahan) ve Boğazlardan üs talep etmesi",
+          "AB'ye girmek",
+          "Ekonomik yardım almak",
+          "Ortadoğu'ya hakim olmak"
+        ],
+        "correctOption": "B",
+        "solution": "(Sovyet tehdidi, Türkiye'yi Batı bloğuna iten en büyük güçtür.)"
+      }
+    ]
+  },
+  {
+    "testName": "Mini Test - 7",
+    "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 49 Özeti - Dağılma ve Yeni Düzen)\nSSCB'nin Dağılması:\nMihail Gorbaçov: Glasnost (Açıklık) ve Perestroika (Yeniden Yapılanma) politikalarıyla sistemi kurtarmaya çalıştı ama dağılmayı hızlandırdı.\nAlma Ata Zirvesi (1991): SSCB resmen dağıldı, yerine Bağımsız Devletler Topluluğu (BDT) kuruldu.\nTürk Cumhuriyetleri: Azerbaycan (Ebulfez Elçibey), Kazakistan (Nursultan Nazarbayev), Kırgızistan (Askar Akayev), Özbekistan (İslam Kerimov), Türkmenistan (Saparmurat Türkmenbaşı) bağımsız oldu.\nOrtadoğu Savaşları:\nİran-Irak Savaşı (1980-1988): 8 yıl sürdü, kazananı olmadı. (Halepçe Katliamı bu dönemde yaşandı).\nI. Körfez Savaşı (1990-1991): Saddam Hüseyin'in (Irak) Kuveyt'i işgal etmesi üzerine ABD öncülüğünde koalisyon gücü müdahale etti. (Çekiç Güç Türkiye'ye yerleşti).\nBalkanlar ve Bosna:\nYugoslavya'nın Dağılması: Tito öldükten sonra iç savaş çıktı.\nBosna Savaşı (1992-1995): Sırpların Boşnaklara soykırım uyguladığı savaş.\nSrebrenitsa Katliamı: Mavi Kelebekler.\nAliya İzzetbegoviç: \"Bilge Kral\". Bağımsız Bosna'nın lideri.\nDayton Antlaşması: Savaşı bitiren antlaşma.\nTürkiye (1980 Sonrası):\n12 Eylül 1980: Kenan Evren liderliğinde darbe. 1982 Anayasası kabul edildi.\nTurgut Özal Dönemi: 24 Ocak Kararları (Liberal ekonomi), serbest döviz, turizm hamlesi.\nKKTC (1983): Kuzey Kıbrıs Türk Cumhuriyeti resmen kuruldu.\nAB Süreci: 1987'de tam üyelik başvurusu yapıldı. 1996'da Gümrük Birliği'ne girildi.",
+    "questions": [
+      {
+        "text": "1980'li yıllarda SSCB lideri Mihail Gorbaçov'un sistemi kurtarmak ve ekonomiyi canlandırmak için uygulamaya koyduğu \"Açıklık\" ve \"Yeniden Yapılanma\" politikaları hangileridir?",
+        "options": [
+          "NEP - Kolkhoz",
+          "Glasnost - Perestroika",
+          "Monroe - Truman",
+          "Bolşevik - Menşevik",
+          "Demir Perde - Çevreleme"
+        ],
+        "correctOption": "B",
+        "solution": "(Bu politikalar Sovyet blokunun çözülmesini hızlandırmıştır.)"
+      },
+      {
+        "text": "1991 yılında SSCB'nin resmen dağılmasıyla kurulan ve Rusya ile eski Sovyet cumhuriyetlerini (Baltık ülkeleri hariç) bir çatı altında toplamayı amaçlayan örgüt hangisidir?",
+        "options": [
+          "Varşova Paktı",
+          "Şanghay İşbirliği Örgütü",
+          "Bağımsız Devletler Topluluğu (BDT)",
+          "NATO",
+          "Türk Keneşi"
+        ],
+        "correctOption": "C",
+        "solution": ""
+      },
+      {
+        "text": "Azerbaycan'ın bağımsızlığını ilan etmesinden sonra ilk Cumhurbaşkanı olan ve \"Biz bir millet, iki devletiz\" (veya benzeri birlik sözleri) söylemiyle tanınan lider kimdir? (Soru düzeltmesi: Azerbaycan Halk Cephesi lideri ve ilk demokratik seçimle gelen Cumhurbaşkanı kimdir?)",
+        "options": [
+          "Haydar Aliyev",
+          "Ebulfez Elçibey",
+          "Ayaz Muttalibov",
+          "Resul Guliyev",
+          "İlham Aliyev"
+        ],
+        "correctOption": "B",
+        "solution": "(Türkiye ile birleşmeyi savunacak kadar Türkçü bir liderdir.)"
+      },
+      {
+        "text": "Kazakistan'ın bağımsızlığını kazanmasında ve modernleşmesinde büyük rol oynayan, başkenti Astana'ya (Nur-Sultan) taşıyan efsanevi lider kimdir?",
+        "options": [
+          "Nursultan Nazarbayev",
+          "Askar Akayev",
+          "İslam Kerimov",
+          "Saparmurat Türkmenbaşı",
+          "Şevket Mirziyoyev"
+        ],
+        "correctOption": "A",
+        "solution": "(Türk dünyasının \"Aksakallısı\" olarak bilinir.)"
+      },
+      {
+        "text": "Türkiye, SSCB'den ayrılarak bağımsızlığını ilan eden Türk Cumhuriyetlerini tanıma konusunda nasıl bir politika izlemiştir?",
+        "options": [
+          "Rusya'nın onayını beklemiştir.",
+          "Çekimser kalmıştır.",
+          "Sadece Azerbaycan'ı tanımıştır.",
+          "Batı ile birlikte hareket etmiştir.",
+          "Tanıyan ilk ülke olmuştur."
+        ],
+        "correctOption": "E",
+        "solution": "(Türkiye, Azerbaycan başta olmak üzere Türk Cumhuriyetlerini tanıyan ilk devlettir.)"
+      },
+      {
+        "text": "1992 yılında Türk dili konuşan ülkeler arasındaki kültürel bağları güçlendirmek amacıyla kurulan teşkilat hangisidir?",
+        "options": [
+          "Yunus Emre Enstitüsü",
+          "TÜRKSOY (Uluslararası Türk Kültürü Teşkilatı)",
+          "Maarif Vakfı",
+          "Türk Keneşi",
+          "TİKA (Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı)"
+        ],
+        "correctOption": "B",
+        "solution": "(Kültür bakanları düzeyinde kurulmuştur. TİKA ise kalkınma yardımları içindir.)"
+      },
+      {
+        "text": "Yugoslavya'nın dağılması sürecinde, Sırpların Boşnaklara karşı uyguladığı soykırıma (Srebrenitsa Katliamı) sahne olan ve \"Mavi Kelebekler\" ile simgeleşen savaş hangisidir?",
+        "options": [
+          "Arnavutluk Savaşı",
+          "Hırvatistan Savaşı",
+          "Kosova Savaşı",
+          "Bosna Savaşı",
+          "Makedonya Savaşı"
+        ],
+        "correctOption": "D",
+        "solution": "(1992-1995)"
+      },
+      {
+        "text": "Bosna-Hersek'in bağımsızlık mücadelesinin lideri olan, \"Bilge Kral\" lakaplı devlet adamı kimdir?",
+        "options": [
+          "İbrahim Rugova",
+          "Slobodan Miloseviç",
+          "Franjo Tudjman",
+          "Radovan Karadziç",
+          "Aliya İzzetbegoviç"
+        ],
+        "correctOption": "E",
+        "solution": "(\"Biz ölüyoruz ama onlar da kazanmıyorlar...\")"
+      },
+      {
+        "text": "Bosna Savaşı'nı sona erdiren ve Bosna-Hersek'in bugünkü karmaşık siyasi yapısını (Kantonlar) kuran antlaşma hangisidir?",
+        "options": [
+          "Ankara Antlaşması",
+          "Rambouillet Antlaşması",
+          "Dayton Antlaşması",
+          "Kumanova Antlaşması",
+          "Paris Antlaşması"
+        ],
+        "correctOption": "C",
+        "solution": "(ABD'nin Ohio eyaletinde imzalanmıştır.)"
+      },
+      {
+        "text": "1980-1988 yılları arasında yaşanan İran-Irak Savaşı'nın temel nedenlerinden biri olan su yolu sorunu (Şattül-Arap) ve mezhep çatışmaları sırasında, Saddam Hüseyin yönetimindeki Irak'ın Halepçe'de kendi vatandaşlarına (Kürtlere) karşı kullandığı silah türü nedir?",
+        "options": [
+          "Kimyasal silah (Hardal ve Sinir gazı)",
+          "Misket bombası",
+          "Nükleer silah",
+          "Napalm bombası",
+          "Biyolojik silah"
+        ],
+        "correctOption": "A",
+        "solution": "(Halepçe Katliamı.)"
+      },
+      {
+        "text": "1990 yılında Irak'ın Kuveyt'i işgal etmesiyle başlayan ve ABD öncülüğündeki koalisyon güçlerinin Irak'a müdahalesiyle (Çöl Fırtınası Harekatı) sonuçlanan savaş hangisidir?",
+        "options": [
+          "II. Körfez Savaşı",
+          "I. Körfez Savaşı",
+          "Altı Gün Savaşı",
+          "Afganistan Savaşı",
+          "İran-Irak Savaşı"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "I. Körfez Savaşı sonrasında Kuzey Irak'taki Kürtleri Saddam'ın saldırılarından korumak amacıyla Türkiye'de (İncirlik ve Pirinçlik üslerinde) konuşlandırılan askeri güce ne ad verilir?",
+        "options": [
+          "Çekiç Güç",
+          "ISAF",
+          "KFOR",
+          "NATO Acil Müdahale Gücü",
+          "Barış Gücü"
+        ],
+        "correctOption": "A",
+        "solution": ""
+      },
+      {
+        "text": "Filistinlilerin İsrail işgaline karşı 1987'de başlattıkları halk ayaklanmasına (Taşlarla direniş) ne ad verilir?",
+        "options": [
+          "Cihad",
+          "Hamas",
+          "Fetih",
+          "Hizbullah",
+          "İntifada"
+        ],
+        "correctOption": "E",
+        "solution": ""
+      },
+      {
+        "text": "Türkiye'de 12 Eylül 1980 askeri darbesinden sonra hazırlanan ve 1982'de halkoyuna sunularak kabul edilen anayasa hangisidir?",
+        "options": [
+          "1961 Anayasası",
+          "1982 Anayasası",
+          "1924 Anayasası",
+          "2017 Anayasası",
+          "1921 Anayasası"
+        ],
+        "correctOption": "B",
+        "solution": "(Hala yürürlükte olan, ancak birçok maddesi değişmiş anayasadır.)"
+      },
+      {
+        "text": "1983 yılında Türkiye'de tekrar çok partili hayata geçildiğinde, seçimleri kazanarak tek başına iktidar olan ve Türkiye'de liberal ekonomi politikalarını (24 Ocak Kararları) uygulayan lider kimdir?",
+        "options": [
+          "Bülent Ecevit (DSP)",
+          "Süleyman Demirel (Doğru Yol Partisi)",
+          "Necmettin Erbakan (Refah Partisi)",
+          "Alparslan Türkeş (MÇP)",
+          "Turgut Özal (Anavatan Partisi)"
+        ],
+        "correctOption": "E",
+        "solution": "(Türkiye'nin dışa açılma dönemidir.)"
+      },
+      {
+        "text": "Turgut Özal döneminde Türk ekonomisinde yapılan en köklü değişikliklerden biri nedir?",
+        "options": [
+          "İthalatın yasaklanması",
+          "Döviz bulundurmanın serbest bırakılması ve serbest piyasa ekonomisine tam geçiş",
+          "Devletçiliğin sertleştirilmesi",
+          "Tarıma dayalı büyüme",
+          "Yabancı sermayenin yasaklanması"
+        ],
+        "correctOption": "B",
+        "solution": "(Türk Parasının Kıymetini Koruma Kanunu değiştirilmiş, döviz serbest kalmıştır.)"
+      },
+      {
+        "text": "15 Kasım 1983 tarihinde bağımsızlığını ilan eden Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) kurucu Cumhurbaşkanı kimdir?",
+        "options": [
+          "Derviş Eroğlu",
+          "Mustafa Akıncı",
+          "Ersin Tatar",
+          "Dr. Fazıl Küçük",
+          "Rauf Denktaş"
+        ],
+        "correctOption": "E",
+        "solution": ""
+      },
+      {
+        "text": "Türkiye, Avrupa Ekonomik Topluluğu'na (Bugünkü AB) \"Tam Üyelik\" başvurusunu hangi yıl ve hangi başbakan döneminde yapmıştır?",
+        "options": [
+          "1996 - Tansu Çiller",
+          "1987 - Turgut Özal",
+          "1963 - İsmet İnönü",
+          "2005 - Recep Tayyip Erdoğan",
+          "1959 - Adnan Menderes"
+        ],
+        "correctOption": "B",
+        "solution": "(1959'daki başvuru ortaklık içindi, 1987'deki ise tam üyelik içindir.)"
+      },
+      {
+        "text": "Soğuk Savaş'ın sona ermesini simgeleyen, 1989'da yıkılan ve Doğu-Batı Almanya'nın birleşmesini sağlayan yapı hangisidir?",
+        "options": [
+          "Çin Seddi",
+          "Maginot Hattı",
+          "Berlin Duvarı (Utanç Duvarı)",
+          "Kremlin Sarayı",
+          "Demir Perde"
+        ],
+        "correctOption": "C",
+        "solution": ""
+      },
+      {
+        "text": "1986 yılında Ukrayna'da (SSCB dönemi) meydana gelen ve Karadeniz bölgesini de (radyasyon nedeniyle) etkileyen büyük nükleer felaket hangisidir?",
+        "options": [
+          "Fukuşima",
+          "Three Mile Island",
+          "Hiroşima",
+          "Çernobil",
+          "Kyshtym"
+        ],
+        "correctOption": "D",
+        "solution": ""
+      },
+      {
+        "text": "Bulgaristan'da yaşayan Türklere yönelik 1980'lerde uygulanan asimilasyon politikası (İsim değiştirme, zorunlu göç) hangi lider döneminde yapılmıştır?",
+        "options": [
+          "Petkov",
+          "Todor Jivkov",
+          "Borisov",
+          "Dimitrov",
+          "Stanişev"
+        ],
+        "correctOption": "B",
+        "solution": "(Bu baskılar sonucu 1989'da Türkiye'ye büyük bir göç dalgası yaşanmıştır.)"
+      },
+      {
+        "text": "Naim Süleymanoğlu, 1988 Seul Olimpiyatları'nda hangi sporda rekorlar kırarak \"Cep Herkülü\" unvanıyla dünyaya adını duyurmuştur?",
+        "options": [
+          "Güreş",
+          "Halter",
+          "Boks",
+          "Atletizm",
+          "Judo"
+        ],
+        "correctOption": "B",
+        "solution": "(Bulgaristan'daki zulümden kaçarak Türkiye'ye iltica etmiştir.)"
+      },
+      {
+        "text": "1996 yılında Türkiye ile Avrupa Birliği arasında ekonomik entegrasyonu sağlayan (sanayi ürünlerinde gümrüklerin kalkması) antlaşma hangisidir?",
+        "options": [
+          "Schengen Antlaşması",
+          "Maastricht Antlaşması",
+          "Katma Protokol",
+          "Ankara Antlaşması",
+          "Gümrük Birliği Antlaşması"
+        ],
+        "correctOption": "E",
+        "solution": "(Tansu Çiller döneminde yürürlüğe girmiştir.)"
+      },
+      {
+        "text": "1993 yılında Azerbaycan ile Ermenistan arasında yaşanan ve Ermenilerin Azerbaycan topraklarının %20'sini (Karabağ ve çevresi) işgal ettiği savaşta, Ermenilerin yaptığı büyük katliam hangisidir?",
+        "options": [
+          "Halepçe Katliamı",
+          "Srebrenitsa Katliamı",
+          "Katyn Katliamı",
+          "Sabra ve Şatilla Katliamı",
+          "Hocalı Katliamı"
+        ],
+        "correctOption": "E",
+        "solution": "(26 Şubat 1992)"
+      },
+      {
+        "text": "Şanghay İşbirliği Örgütü (Şanghay Beşlisi), 1996 yılında hangi amaçla kurulmuştur?",
+        "options": [
+          "AB'ye girmek",
+          "Sınır güvenliği ve terörle mücadele (Başlangıçta), sonrasında ekonomik ve siyasi işbirliği",
+          "Petrol fiyatlarını belirlemek",
+          "Çin'i izole etmek",
+          "NATO'ya alternatif askeri güç oluşturmak"
+        ],
+        "correctOption": "B",
+        "solution": "(Rusya, Çin, Kazakistan, Kırgızistan, Tacikistan kurmuştur. Sonra Özbekistan, Hindistan, Pakistan katılmıştır.)"
+      }
+    ]
+  },
+  {
+    "testName": "Mini Test - 8",
+    "preTestNote": "📌 BÖLÜM 1: HAP BİLGİ (Set 50 Özeti - Yakın Tarih ve Güncel)\n11 Eylül Saldırıları (2001): El-Kaide'nin ABD'de İkiz Kulelere (Dünya Ticaret Merkezi) saldırması. ABD, terörle mücadele adı altında Afganistan ve Irak'ı işgal etti.\nArap Baharı (2010):\nBaşlangıç: Tunus (Muhammed Buazizi'nin kendini yakması). Adı: Yasemin Devrimi.\nYayıldığı Ülkeler: Mısır (Mübarek devrildi, Mursi geldi, darbe oldu), Libya (Kaddafi öldürüldü), Suriye (İç savaş başladı), Yemen.\nUluslararası Örgütler:\nD-8 (Developing 8): Necmettin Erbakan öncülüğünde kurulan, Türkiye, İran, Pakistan, Bangladeş, Malezya, Endonezya, Mısır ve Nijerya'nın oluşturduğu ekonomik örgüt.\nG-20: Dünyanın en büyük 20 ekonomisi (Türkiye üyedir).\nŞanghay İşbirliği Örgütü (ŞİÖ): Türkiye \"Diyalog Ortağı\"dır.\nKyoto Protokolü / Paris İklim Anlaşması: Küresel ısınma ve sera gazı salınımını azaltmak için.\nTürkiye ve AB Süreci:\n1999 Helsinki Zirvesi: Türkiye resmen \"Aday Üye\" ilan edildi.\n2005: Katılım müzakereleri resmen başladı.\nBilim ve Türkiye:\nAziz Sancar: 2015 Nobel Kimya Ödülü (DNA onarımı üzerine çalışmasıyla).\nOktay Sinanoğlu: \"Türk Einstein\"ı. (Bye Bye Türkçe kitabı).\nFuat Sezgin: İslam Bilim Tarihi araştırmacısı.\nYakın Tarih:\n15 Temmuz 2016: FETÖ darbe girişimi. (Demokrasi ve Milli Birlik Günü).\nKarabağ Zaferi (2020): Azerbaycan'ın Ermenistan işgalindeki topraklarını kurtarması (\"Tek Millet İki Devlet\").",
+    "questions": [
+      {
+        "text": "11 Eylül 2001 tarihinde ABD'de Dünya Ticaret Merkezi'ne (İkiz Kuleler) yapılan terör saldırıları sonrasında ABD, \"Terörle Savaş\" doktrini kapsamında ilk olarak hangi ülkeyi işgal etmiştir?",
+        "options": [
+          "İran",
+          "Libya",
+          "Afganistan",
+          "Irak",
+          "Suriye"
+        ],
+        "correctOption": "C",
+        "solution": "(El-Kaide ve Taliban'a karşı.)"
+      },
+      {
+        "text": "2010 yılında Tunus'ta seyyar satıcı Muhammed Buazizi'nin kendini yakmasıyla başlayan ve Ortadoğu/Kuzey Afrika ülkelerindeki diktatörlüklerin devrilmesine yol açan halk hareketlerine ne ad verilir?",
+        "options": [
+          "Beyaz Devrim",
+          "Arap Baharı",
+          "Turuncu Devrim",
+          "Gül Devrimi",
+          "Kadife Devrim"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Arap Baharı'nın başladığı ülke olan Tunus'ta gerçekleşen ve yönetimin değişmesini sağlayan devrime verilen isim nedir?",
+        "options": [
+          "Lale Devrimi",
+          "Yasemin Devrimi",
+          "Sedir Devrimi",
+          "Karanfil Devrimi",
+          "Kadife Devrim"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "1997 yılında Türkiye'nin (Başbakan Necmettin Erbakan) öncülüğünde kurulan ve gelişmekte olan 8 İslam ülkesinin ekonomik işbirliğini amaçlayan örgüt hangisidir?",
+        "options": [
+          "İslam İşbirliği Teşkilatı",
+          "D-8 (Developing 8)",
+          "EKO",
+          "Karadeniz Ekonomik İşbirliği",
+          "G-20"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Küresel ısınmaya neden olan sera gazı salınımını azaltmak amacıyla 1997'de imzalanan ve 2005'te yürürlüğe giren (Türkiye'nin 2009'da imzaladığı) uluslararası protokol hangisidir?",
+        "options": [
+          "Cenevre Sözleşmesi",
+          "Helsinki Nihai Senedi",
+          "Kyoto Protokolü",
+          "Montreal Protokolü",
+          "Viyana Sözleşmesi"
+        ],
+        "correctOption": "C",
+        "solution": "(Daha sonra yerini Paris İklim Anlaşması'na bırakmıştır.)"
+      },
+      {
+        "text": "Türkiye'nin Avrupa Birliği'ne (AB) resmen \"Aday Üye\" statüsü kazandığı zirve hangisidir?",
+        "options": [
+          "1963 Ankara Antlaşması",
+          "2005 Lüksemburg Zirvesi",
+          "1999 Helsinki Zirvesi",
+          "1996 Gümrük Birliği",
+          "2004 Brüksel Zirvesi"
+        ],
+        "correctOption": "C",
+        "solution": "(Adaylık resmileşmiş, Kopenhag Kriterleri'ne uyum süreci hızlanmıştır.)"
+      },
+      {
+        "text": "Türkiye ile Avrupa Birliği arasındaki \"Katılım Müzakereleri\" (Başlıkların açılması) hangi yıl resmen başlamıştır?",
+        "options": [
+          "1999",
+          "2010",
+          "2002",
+          "2023",
+          "2005"
+        ],
+        "correctOption": "E",
+        "solution": "(3 Ekim 2005)"
+      },
+      {
+        "text": "2015 yılında DNA onarımı mekanizmaları konusundaki çalışmalarıyla \"Nobel Kimya Ödülü\"nü kazanan Türk bilim insanı kimdir?",
+        "options": [
+          "Oktay Sinanoğlu",
+          "Aziz Sancar",
+          "Gazi Yaşargil",
+          "Canan Dağdeviren",
+          "Orhan Pamuk (Edebiyat)"
+        ],
+        "correctOption": "B",
+        "solution": "(Mardin/Savur doğumlu gururumuz.)"
+      },
+      {
+        "text": "İslam Bilim Tarihi alanında yaptığı çalışmalarıyla dünyaca tanınan, 2019 yılının Türkiye'de \"...... Yılı\" ilan edildiği bilim insanı kimdir?",
+        "options": [
+          "Cahit Arf",
+          "Fuat Sezgin",
+          "Feza Gürsey",
+          "İlber Ortaylı",
+          "Halil İnalcık"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "2002 yılında tedavüle giren ve Avrupa Birliği üyesi ülkelerin (bazıları hariç) ortak para birimi olan para hangisidir?",
+        "options": [
+          "Sterlin",
+          "Mark",
+          "Dolar",
+          "Frank",
+          "Euro"
+        ],
+        "correctOption": "E",
+        "solution": "(Maastricht Antlaşması ile kararlaştırılmıştır.)"
+      },
+      {
+        "text": "Birleşik Krallık'ın (İngiltere) Avrupa Birliği'nden ayrılma sürecine verilen isim nedir?",
+        "options": [
+          "Brexit",
+          "Frexit",
+          "Grexit",
+          "Euroexit",
+          "UK-Out"
+        ],
+        "correctOption": "A",
+        "solution": "(British Exit - 2020'de tamamlandı.)"
+      },
+      {
+        "text": "Türkiye'nin de üye olduğu, dünyanın en gelişmiş ve gelişmekte olan 20 ekonomisini bir araya getiren platform hangisidir?",
+        "options": [
+          "G-20",
+          "D-8",
+          "G-8 (Rusya atıldıktan sonra G-7 oldu)",
+          "G-7",
+          "OECD"
+        ],
+        "correctOption": "A",
+        "solution": ""
+      },
+      {
+        "text": "15 Temmuz 2016'da gerçekleşen FETÖ darbe girişiminin bastırılmasından sonra, bu tarih ne günü olarak ilan edilmiştir?",
+        "options": [
+          "Demokrasi ve Milli Birlik Günü",
+          "Cumhuriyet Günü",
+          "Ulusal Egemenlik Günü",
+          "Zafer Günü",
+          "Özgürlük Günü"
+        ],
+        "correctOption": "A",
+        "solution": ""
+      },
+      {
+        "text": "2020 yılında Azerbaycan'ın, Ermenistan işgali altındaki Karabağ topraklarını kurtardığı savaş (44 Gün Savaşı) sonucunda imzalanan ateşkes ile Türkiye ile Azerbaycan arasında kara bağlantısını sağlayacak olan koridorun adı nedir? (Planlanan).",
+        "options": [
+          "Hazar Koridoru",
+          "Zengezur Koridoru",
+          "Bakü Koridoru",
+          "Laçin Koridoru",
+          "Nahçıvan Yolu"
+        ],
+        "correctOption": "B",
+        "solution": "(Türkiye'nin Orta Asya'ya açılan kapısı olma potansiyeline sahiptir.)"
+      },
+      {
+        "text": "2019'un sonlarında Çin'in Wuhan kentinde ortaya çıkan ve Dünya Sağlık Örgütü (DSÖ) tarafından \"Pandemi\" ilan edilen salgın hastalık hangisidir?",
+        "options": [
+          "MERS",
+          "COVID-19",
+          "Ebola",
+          "SARS",
+          "İspanyol Gribi"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Kıbrıs sorununun çözümü için 2004 yılında BM Genel Sekreteri tarafından hazırlanan ve referanduma sunulan (Türklerin Evet, Rumların Hayır dediği) plan hangisidir?",
+        "options": [
+          "Annan Planı",
+          "Cenevre Planı",
+          "Davos Planı",
+          "Brüksel Planı",
+          "New York Planı"
+        ],
+        "correctOption": "A",
+        "solution": "(Kofi Annan Planı.)"
+      },
+      {
+        "text": "\"Türk Einstein\"ı olarak bilinen, Yale Üniversitesi'nde en genç yaşta profesör olan ve Türkçenin korunması konusundaki hassasiyetiyle tanınan bilim insanı kimdir?",
+        "options": [
+          "Oktay Sinanoğlu",
+          "Behram Kurşunoğlu",
+          "Cahit Arf",
+          "Feza Gürsey",
+          "Erdal İnönü"
+        ],
+        "correctOption": "A",
+        "solution": ""
+      },
+      {
+        "text": "Türkiye'nin Şanghay İşbirliği Örgütü (ŞİÖ) içindeki statüsü nedir?",
+        "options": [
+          "Diyalog Ortağı",
+          "Tam Üye",
+          "Gözlemci Üye",
+          "Misafir Üye",
+          "Kurucu Üye"
+        ],
+        "correctOption": "C",
+        "solution": "(2012'den beri.)"
+      },
+      {
+        "text": "Aşağıdaki ülkelerden hangisi Arap Baharı sürecinde iç savaş yaşayarak en büyük mülteci krizine ve insani drama sahne olmuştur?",
+        "options": [
+          "Mısır",
+          "Suriye",
+          "Tunus",
+          "Fas",
+          "Cezayir"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) su ihtiyacını karşılamak amacıyla Türkiye'den denizin altından borularla su götürülen projenin adı nedir? (Asrın Projesi).",
+        "options": [
+          "Mavi Akım",
+          "Barış Suyu Projesi (Cansuyu)",
+          "TANAP",
+          "Türk Akımı",
+          "Bakü-Tiflis-Ceyhan"
+        ],
+        "correctOption": "D",
+        "solution": "(Anamur'dan Girne'ye.)"
+      },
+      {
+        "text": "1996 yılında Kardak Kayalıkları krizi nedeniyle Türkiye'nin savaşın eşiğine geldiği komşu ülke hangisidir?",
+        "options": [
+          "İran",
+          "Yunanistan",
+          "Bulgaristan",
+          "Suriye",
+          "Irak"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "Bosna Savaşı sırasında Srebrenitsa'da 8 binden fazla Boşnak sivili katleden Sırp komutan kimdir? (\"Bosna Kasabı\").",
+        "options": [
+          "Miloseviç",
+          "Karadziç",
+          "Ratko Mladiç",
+          "Tudjman",
+          "İzzetbegoviç"
+        ],
+        "correctOption": "C",
+        "solution": ""
+      },
+      {
+        "text": "Türkiye'nin ilk yerli ve milli otomobili olarak tanıtılan ve seri üretimine başlanan aracın markası nedir?",
+        "options": [
+          "Devrim",
+          "TOGG",
+          "Anadol",
+          "Murat 124",
+          "Zafer"
+        ],
+        "correctOption": "B",
+        "solution": ""
+      },
+      {
+        "text": "2006 yılında İsrail ile Lübnan (Hizbullah) arasındaki savaşta Türkiye, barış gücü kapsamında askerini hangi ülkeye göndermiştir?",
+        "options": [
+          "Suriye",
+          "Lübnan",
+          "İsrail",
+          "Mısır",
+          "Filistin"
+        ],
+        "correctOption": "D",
+        "solution": "(UNIFIL bünyesinde.)"
+      },
+      {
+        "text": "IX. BÖLÜM ARA FİNAL SORUSU:\nXXI. yüzyılda Türkiye'nin dış politikasında \"Yumuşak Güç\" (Soft Power) unsuru olarak öne çıkan, dünyanın dört bir yanına kalkınma yardımları götüren ve kültürel işbirliği sağlayan devlet kurumu hangisidir?",
+        "options": [
+          "TÜİK",
+          "TİKA (Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı)",
+          "BDDK",
+          "MİT",
+          "TMSF"
+        ],
+        "correctOption": "B",
+        "solution": "(Türk kültürünü ve yardım elini dünyaya taşıyan kurum.)"
+      }
+    ]
+  },
+    {
+      "testName": "Mini Test - 9",
+      "preTestNote": "📌 BÖLÜM 1: MİNİ TEST - SET 51 (ÇAĞDAŞ KARMA DENEME - I 1251-1275)",
+      "questions": [
+        {
+          "text": "II. Dünya Savaşı öncesinde Almanya'nın \"Hayat Sahası\" (Lebensraum) politikası doğrultusunda işgal ettiği veya ilhak ettiği bölgeler arasında aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Avusturya (Anschluss)",
+            "Polonya",
+            "Ren Bölgesi (Askersiz bölgeye giriş)",
+            "Südetler (Çekoslovakya)",
+            "İsviçre"
+          ],
+          "correctOption": "E",
+          "solution": "(İsviçre savaş boyunca tarafsızlığını korumuş ve işgal edilmemiştir.)"
+        },
+        {
+          "text": "Türkiye'nin II. Dünya Savaşı yıllarında (1939-1945) uyguladığı ekonomi politikasının temel aracı olan kanun hangisidir?",
+          "options": [
+            "Toprak Reformu Kanunu",
+            "Varlık Vergisi Kanunu",
+            "Milli Korunma Kanunu",
+            "Teşvik-i Sanayi Kanunu",
+            "Yabancı Sermayeyi Teşvik Kanunu"
+          ],
+          "correctOption": "C",
+          "solution": "(Hükümete ekonomiye tam müdahale yetkisi veren çatı kanundur. Varlık Vergisi bu kanuna dayanarak çıkarılan bir uygulamadır.)"
+        },
+        {
+          "text": "Soğuk Savaş döneminde, ABD'nin Ortadoğu ülkelerine ekonomik ve askeri yardım yaparak bölgeyi Sovyet etkisinden korumayı amaçlayan 1957 tarihli doktrini hangisidir?",
+          "options": [
+            "Marshall Planı",
+            "Truman Doktrini",
+            "Nixon Doktrini",
+            "Eisenhower Doktrini",
+            "Carter Doktrini"
+          ],
+          "correctOption": "D",
+          "solution": "(Türkiye, Lübnan gibi ülkeler yararlanmıştır.)"
+        },
+        {
+          "text": "1960 yılında kurulan Kıbrıs Cumhuriyeti'nin Cumhurbaşkanı Rum lider Makarios iken, Cumhurbaşkanı Yardımcısı olan Türk lider kimdir?",
+          "options": [
+            "Mustafa Akıncı",
+            "Dr. Fazıl Küçük",
+            "Rauf Denktaş",
+            "Osman Örek",
+            "Derviş Eroğlu"
+          ],
+          "correctOption": "B",
+          "solution": "(Zürih ve Londra antlaşmalarıyla kurulan ortak cumhuriyetin yapısıdır.)"
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Yumuşama (Détente) Dönemi'nin başlamasında etkili olan faktörlerden biri değildir?",
+          "options": [
+            "Küba Krizi'nin barışçıl çözümü",
+            "Liderlerin değişimi (Stalin'in ölümü vb.)",
+            "Berlin Duvarı'nın yıkılması (Bu Soğuk Savaş'ın sonudur)",
+            "Nükleer savaş korkusu",
+            "Bloklar içindeki çatlaklar (Çin-SSCB, Fransa-ABD)"
+          ],
+          "correctOption": "C",
+          "solution": "(Berlin Duvarı'nın yıkılması 1989'dadır ve Soğuk Savaş'ı bitiren olaylardandır. Yumuşama ise 1960'ların başında başlamıştır.)"
+        },
+        {
+          "text": "Türkiye'de \"Beyaz İhtilal\" olarak adlandırılan ve tek parti dönemini sona erdirip Demokrat Parti'yi iktidara getiren seçim hangisidir?",
+          "options": [
+            "1950 Seçimleri",
+            "1946 Seçimleri",
+            "1954 Seçimleri",
+            "1965 Seçimleri",
+            "1957 Seçimleri"
+          ],
+          "correctOption": "A",
+          "solution": "(14 Mayıs 1950)"
+        },
+        {
+          "text": "Hindistan ve Pakistan'ın bağımsızlıklarını kazanmasından sonra iki ülke arasında sürekli çatışmalara neden olan sorunlu bölge neresidir?",
+          "options": [
+            "Tibet",
+            "Keşmir",
+            "Bengal",
+            "Pencap",
+            "Haydarabad"
+          ],
+          "correctOption": "B",
+          "solution": "(Hala çözülememiş bir sorundur.)"
+        },
+        {
+          "text": "1974 Kıbrıs Barış Harekatı sonrasında Türkiye'ye silah ambargosu uygulayan devlet hangisidir?",
+          "options": [
+            "Almanya",
+            "SSCB",
+            "ABD",
+            "İngiltere",
+            "Fransa"
+          ],
+          "correctOption": "C",
+          "solution": "(1975-1978 yılları arasında.)"
+        },
+        {
+          "text": "II. Dünya Savaşı'ndan sonra kurulan Birleşmiş Milletler Teşkilatı'nın (BM) merkezi neresidir?",
+          "options": [
+            "Cenevre",
+            "Paris",
+            "New York",
+            "Londra",
+            "Brüksel"
+          ],
+          "correctOption": "E",
+          "solution": "(Milletler Cemiyeti'nin merkezi Cenevre idi.)"
+        },
+        {
+          "text": "Türkiye'nin NATO'ya üye olmasıyla birlikte topraklarındaki hangi üsleri NATO kullanımına açmıştır?",
+          "options": [
+            "Çiğli",
+            "Konya",
+            "Hepsi",
+            "İncirlik",
+            "Diyarbakır"
+          ],
+          "correctOption": "C",
+          "solution": "(Başta İncirlik olmak üzere birçok üs NATO kullanımına açılmıştır.)"
+        },
+        {
+          "text": "Demokrat Parti döneminde (1950-1960) Türkiye'de aşağıdaki gelişmelerden hangisi yaşanmamıştır?",
+          "options": [
+            "Hatay'ın anavatana katılması",
+            "Ezanın Arapça okunması",
+            "Köy Enstitüleri'nin kapatılması",
+            "6-7 Eylül Olayları",
+            "Kore Savaşı'na asker gönderilmesi"
+          ],
+          "correctOption": "A",
+          "solution": "(Hatay'ın katılması 1939'dadır, Atatürk sonrası İsmet İnönü/Refik Saydam dönemidir. DP henüz kurulmamıştı.)"
+        },
+        {
+          "text": "SSCB'nin Afganistan'ı işgali (1979) üzerine ABD'nin öncülüğünde Batılı ülkelerin protesto ettiği ve katılmadığı organizasyon hangisidir?",
+          "options": [
+            "Dünya Kupası",
+            "BM Genel Kurulu",
+            "NATO Zirvesi",
+            "1980 Moskova Olimpiyatları",
+            "Eurovision Şarkı Yarışması"
+          ],
+          "correctOption": "D",
+          "solution": "(Buna karşılık Doğu Bloğu da 1984 Los Angeles Olimpiyatlarını boykot etmiştir.)"
+        },
+        {
+          "text": "1990'larda Bosna-Hersek'in bağımsızlığı için mücadele eden ve Sırp saldırılarına karşı direnişi örgütleyen lider Aliya İzzetbegoviç'in ünlü eseri hangisidir?",
+          "options": [
+            "Nutuk",
+            "Medeniyetler Çatışması",
+            "Doğu ile Batı Arasında İslam",
+            "Tarihin Sonu",
+            "Yeşil Kitap"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Avrupa Birliği'nin (AB) temellerini atan antlaşmalardan biri değildir?",
+          "options": [
+            "Lizbon Antlaşması",
+            "Kuzey Atlantik Antlaşması (NATO)",
+            "Maastricht Antlaşması",
+            "Roma Antlaşması",
+            "Amsterdam Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": "(NATO askeri bir paktır, AB ile doğrudan kurumsal bağı yoktur.)"
+        },
+        {
+          "text": "Türkiye'nin 1996 yılında Gümrük Birliği'ne girmesi, hangi sektördeki rekabet gücünü artırmış ancak bazı yerli üreticileri zorlamıştır?",
+          "options": [
+            "Tarım",
+            "Hizmet",
+            "Sanayi",
+            "Turizm",
+            "Madencilik"
+          ],
+          "correctOption": "C",
+          "solution": "(Sanayi ürünlerinde gümrük duvarları kalkmıştır.)"
+        },
+        {
+          "text": "İran'da 1979 yılında gerçekleşen İslam Devrimi ile şahlık rejimini yıkarak İslam Cumhuriyeti'ni kuran dini lider kimdir?",
+          "options": [
+            "Şah Rıza Pehlevi",
+            "Muhammed Musaddık",
+            "Ayetullah Humeyni (Humeyni)",
+            "Ali Hamaney",
+            "Ahmedinejad"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Soğuk Savaş döneminde, Doğu Bloğu ülkelerinde başlayan demokratikleşme hareketlerinin sembolü olan \"Dayanışma Sendikası\" hangi ülkede ve kimin liderliğinde kurulmuştur?",
+          "options": [
+            "Macaristan - İmre Nagy",
+            "Polonya - Lech Walesa",
+            "Almanya - Willy Brandt",
+            "Romanya - Çavuşesku",
+            "Çekoslovakya - Vaclav Havel"
+          ],
+          "correctOption": "B",
+          "solution": "(Demir Perde'de açılan ilk gediklerden biridir.)"
+        },
+        {
+          "text": "II. Dünya Savaşı sırasında Japonya'ya atılan atom bombalarının etkisiyle radyasyona maruz kalan çocukları simgeleyen \"Turna Kuşu\" hikayesi hangi kız çocuğu ile özdeşleşmiştir?",
+          "options": [
+            "Anne Frank",
+            "Malala",
+            "Sadako Sasaki",
+            "Ahed Tamimi",
+            "Greta"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye'nin 1974 Kıbrıs Barış Harekatı'nı düzenlerken dayandığı uluslararası hukuki belge hangisidir?",
+          "options": [
+            "Lozan Antlaşması",
+            "1960 Zürih ve Londra Antlaşmaları (Garantörlük Hakkı)",
+            "Paris Antlaşması",
+            "BM Kararları",
+            "NATO Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": "(Türkiye, İngiltere ve Yunanistan garantör devletlerdir. Türkiye bu hakkını kullanmıştır.)"
+        },
+        {
+          "text": "1962 yılında Türkiye'de üretilmeye çalışılan ancak seri üretime geçilemeyen ilk yerli otomobil \"Devrim\"in motor blokları nerede dökülmüştür?",
+          "options": [
+            "Bursa",
+            "İstanbul",
+            "Eskişehir (Demiryolu Fabrikaları - TÜLOMSAŞ)",
+            "İzmir",
+            "Kocaeli"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi İsmet İnönü'nün Cumhurbaşkanlığı (Milli Şef) döneminde (1938-1950) yaşanan gelişmelerden biri değildir?",
+          "options": [
+            "Çok partili hayata geçiş",
+            "Kore Savaşı'na asker gönderilmesi",
+            "Varlık Vergisi",
+            "Köy Enstitüleri'nin kurulması",
+            "II. Dünya Savaşı'nda denge politikası"
+          ],
+          "correctOption": "B",
+          "solution": "(Kore'ye asker gönderme kararı 1950'de Demokrat Parti (Adnan Menderes) döneminde alınmıştır.)"
+        },
+        {
+          "text": "1993 yılında AB ülkeleri arasında sınırları kaldıran ve serbest dolaşımı sağlayan antlaşma hangisidir?",
+          "options": [
+            "Schengen",
+            "Kopenhag",
+            "Nice",
+            "Roma",
+            "Maastricht"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye ile Yunanistan arasında 1990'lı yıllarda yaşanan \"Kardak Krizi\", hangi konudaki anlaşmazlığın bir sonucudur?",
+          "options": [
+            "Kıta Sahanlığı",
+            "Aidiyeti Belli Olmayan Ada ve Kayacıklar (Ege Adaları)",
+            "Batı Trakya",
+            "FIR Hattı",
+            "Azınlıklar"
+          ],
+          "correctOption": "B",
+          "solution": "(Ege'deki gri bölgeler.)"
+        },
+        {
+          "text": "SSCB'nin dağılmasından sonra \"Türk dünyasının UNESCO'su\" olarak bilinen ve Türk kültürünü dünyaya tanıtmayı amaçlayan TÜRKSOY'un merkezi hangi şehirdedir?",
+          "options": [
+            "Taşkent",
+            "Ankara",
+            "Bakü",
+            "İstanbul",
+            "Astana"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "II. Dünya Savaşı sonrasında, savaş suçlularının yargılandığı uluslararası mahkemeler hangi şehirlerde kurulmuştur?",
+          "options": [
+            "Lahey ve Cenevre",
+            "Nürnberg (Almanya) ve Tokyo (Japonya)",
+            "Yalta ve Potsdam",
+            "Paris ve Londra",
+            "Berlin ve Roma"
+          ],
+          "correctOption": "D",
+          "solution": "(Nazi liderleri Nürnberg'de, Japon liderler Tokyo'da yargılanmıştır.)"
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 10",
+      "preTestNote": "📌 BÖLÜM 1: MİNİ TEST - SET 52 (ÇAĞDAŞ KARMA DENEME - II ve FİNAL 1276-1300)",
+      "questions": [
+        {
+          "text": "1978 yılında ABD Başkanı Jimmy Carter'ın arabuluculuğunda Mısır ve İsrail arasında imzalanan ve İsrail'i tanıyan ilk Arap devletinin Mısır olmasını sağlayan antlaşma hangisidir?",
+          "options": [
+            "Oslo Görüşmeleri",
+            "Camp David Antlaşması",
+            "Kahire Protokolü",
+            "Madrid Konferansı",
+            "Süveyş Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": "(Enver Sedat ve Menahem Begin imzalamıştır.)"
+        },
+        {
+          "text": "1979 İran İslam Devrimi öncesinde, İran'da batılılaşma ve modernleşme reformlarını içeren ancak halktan tepki gören \"Ak Devrim\"i yapan lider kimdir?",
+          "options": [
+            "Muhammed Musaddık",
+            "Ayetullah Humeyni",
+            "Ahmedinejad",
+            "Şah Rıza Pehlevi",
+            "Ali Hamaney"
+          ],
+          "correctOption": "D",
+          "solution": "(Şah rejimi bu reformlara rağmen -veya bu reformların yarattığı tepkiyle- yıkılmıştır.)"
+        },
+        {
+          "text": "SSCB'nin dağılma sürecinde, 1991 yılında 11 Sovyet Cumhuriyeti'nin katılımıyla Bağımsız Devletler Topluluğu'nun (BDT) kurulduğunu ilan eden belge/deklarasyon hangisidir?",
+          "options": [
+            "Minsk Protokolü",
+            "Alma Ata Deklarasyonu",
+            "Bişkek Protokolü",
+            "Moskova Antlaşması",
+            "Taşkent Bildirisi"
+          ],
+          "correctOption": "B",
+          "solution": "(SSCB resmen tarihe karışmıştır.)"
+        },
+        {
+          "text": "Türkiye'nin Avrupa Birliği sürecinde \"Kopenhag Kriterleri\"ne uyum sağlamak amacıyla 2000'li yılların başında gerçekleştirdiği anayasa değişikliklerine ne ad verilir?",
+          "options": [
+            "24 Ocak Kararları",
+            "Uyum Paketleri",
+            "Beyaz Devrim",
+            "Sessiz Devrim",
+            "12 Eylül Kararları"
+          ],
+          "correctOption": "B",
+          "solution": "(İdam cezasının kaldırılması, DGM'lerin kaldırılması vb.)"
+        },
+        {
+          "text": "Kıbrıs'ta 2003 yılında sınır kapılarının karşılıklı geçişlere açılması ve 2004 yılında Annan Planı referandumu, hangi liderlerin döneminde gerçekleşmiştir?",
+          "options": [
+            "Fazıl Küçük - Makarios",
+            "Derviş Eroğlu - Hristofyas",
+            "Rauf Denktaş - Glafkos Klerides (veya Papadopulos)",
+            "Mustafa Akıncı - Anastasiadis",
+            "Ersin Tatar - Anastasiadis"
+          ],
+          "correctOption": "C",
+          "solution": "(Referandum sürecinde Papadopulos Rum tarafının lideriydi ve Hayır oyu verilmesi için çalıştı.)"
+        },
+        {
+          "text": "12 Eylül 1980 darbesinin lideri olan, 1982 Anayasası'nın kabulüyle Türkiye'nin 7. Cumhurbaşkanı seçilen asker kimdir?",
+          "options": [
+            "Cevdet Sunay",
+            "Kenan Evren",
+            "Cemal Gürsel",
+            "Fahri Korutürk",
+            "Tahsin Şahinkaya"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye ekonomisinin dışa açılmasını sağlayan \"24 Ocak Kararları\"nın (1980) mimarı olan ve daha sonra Başbakanlık ve Cumhurbaşkanlığı yapan devlet adamı kimdir?",
+          "options": [
+            "Süleyman Demirel",
+            "Turgut Özal",
+            "Bülent Ecevit",
+            "Tansu Çiller",
+            "Mesut Yılmaz"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye'nin Güneydoğu Anadolu Bölgesi'ni kalkındırmak, sulama ve enerji ihtiyacını karşılamak amacıyla başlattığı Cumhuriyet tarihinin en büyük projesi hangisidir?",
+          "options": [
+            "KOP (Konya Ovası Projesi)",
+            "GAP (Güneydoğu Anadolu Projesi)",
+            "Mavi Akım",
+            "DAP (Doğu Anadolu Projesi)",
+            "Yeşilırmak Havzası Projesi"
+          ],
+          "correctOption": "B",
+          "solution": "(Atatürk Barajı bu projenin en büyük eseridir.)"
+        },
+        {
+          "text": "Rusya'dan Türkiye'ye Karadeniz'in altından doğalgaz taşıyan ve 2003 yılında faaliyete geçen boru hattı projesi hangisidir?",
+          "options": [
+            "Türk Akımı (Daha yeni bir projedir)",
+            "Mavi Akım",
+            "Bakü-Tiflis-Ceyhan",
+            "TANAP",
+            "Nabucco"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "\"Asrın Projesi\" olarak adlandırılan ve Azerbaycan petrolünü Gürcistan üzerinden Türkiye'ye (Ceyhan Limanı'na) taşıyan petrol boru hattı hangisidir?",
+          "options": [
+            "Mavi Akım",
+            "Bakü-Tiflis-Ceyhan (BTC)",
+            "Kerkük-Yumurtalık",
+            "TANAP",
+            "TAPC"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Çevre sorunlarına dikkat çekmek ve sürdürülebilir kalkınmayı sağlamak amacıyla 1992 yılında Rio'da düzenlenen zirve hangisidir?",
+          "options": [
+            "Kyoto Konferansı",
+            "Yeryüzü Zirvesi",
+            "Paris İklim Zirvesi",
+            "Habitat Zirvesi",
+            "Stockholm Konferansı"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Arap Baharı'nın etkisiyle Suriye'de 2011'de başlayan iç savaş, Türkiye'yi en çok hangi alanda etkilemiştir?",
+          "options": [
+            "Su sorunu",
+            "Mülteci sorunu ve sınır güvenliği",
+            "Enerji açığı",
+            "AB üyeliği",
+            "Turizm gelirleri"
+          ],
+          "correctOption": "B",
+          "solution": "(Milyonlarca sığınmacı ve Fırat Kalkanı/Zeytin Dalı gibi sınır ötesi harekatlar.)"
+        },
+        {
+          "text": "Şanghay İşbirliği Örgütü'nün (Şanghay Beşlisi) kurucu üyeleri arasında aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Rusya",
+            "Kırgızistan",
+            "Çin",
+            "Özbekistan",
+            "Kazakistan"
+          ],
+          "correctOption": "D",
+          "solution": "(Özbekistan örgüte 2001 yılında katılmış, o tarihten sonra örgütün adı \"Şanghay İşbirliği Örgütü\" olmuştur. Kurucu 5'li: Çin, Rusya, Kazakistan, Kırgızistan, Tacikistan.)"
+        },
+        {
+          "text": "Bosna Savaşı sırasında BM tarafından \"Güvenli Bölge\" ilan edilmesine rağmen Hollandalı askerlerin Sırplara teslim ettiği ve büyük bir katliamın yaşandığı şehir neresidir?",
+          "options": [
+            "Saraybosna",
+            "Mostar",
+            "Srebrenitsa",
+            "Gorajde",
+            "Tuzla"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "1961 Anayasası ile kurulan ve \"İkinci Meclis\" işlevi gören yasama organının adı nedir? (1980 darbesi ile kaldırılmıştır).",
+          "options": [
+            "Kurucu Meclis",
+            "Cumhuriyet Senatosu",
+            "Ayan Meclisi",
+            "Danışma Meclisi",
+            "Halk Meclisi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "1982 Anayasası halkoylamasında (Referandum) yüzde kaç \"Evet\" oyu ile kabul edilmiştir?",
+          "options": [
+            "%60",
+            "%82",
+            "%91.37",
+            "%51",
+            "%98"
+          ],
+          "correctOption": "C",
+          "solution": "(Çok yüksek bir oranla kabul edilmiştir.)"
+        },
+        {
+          "text": "2006 yılında Nobel Edebiyat Ödülü'nü kazanarak bu ödülü alan ilk Türk vatandaşı olan yazar kimdir?",
+          "options": [
+            "Yaşar Kemal",
+            "Orhan Pamuk",
+            "Aziz Nesin",
+            "Elif Şafak",
+            "Yahya Kemal"
+          ],
+          "correctOption": "B",
+          "solution": "(Kar, Benim Adım Kırmızı gibi eserleriyle.)"
+        },
+        {
+          "text": "Dünya halter tarihine adını altın harflerle yazdıran, \"Cep Herkülü\" lakaplı milli sporcumuz Naim Süleymanoğlu, Türkiye'ye iltica ettikten sonra ilk altın madalyasını hangi olimpiyatta kazanmıştır?",
+          "options": [
+            "1996 Atlanta",
+            "1988 Seul",
+            "1992 Barselona",
+            "1984 Los Angeles",
+            "2000 Sidney"
+          ],
+          "correctOption": "E",
+          "solution": "(Kendi ağırlığının 3 katını kaldıran efsane.)"
+        },
+        {
+          "text": "1996 yılında Ege Denizi'nde bir geminin karaya oturmasıyla başlayan ve Türkiye ile Yunanistan'ı savaşın eşiğine getiren kriz hangisidir?",
+          "options": [
+            "Kıta Sahanlığı Krizi",
+            "Kardak Kayalıkları Krizi",
+            "Kıbrıs Krizi",
+            "12 Mil Krizi",
+            "FIR Hattı Krizi"
+          ],
+          "correctOption": "B",
+          "solution": "(SAT komandolarının kayalıklara çıkmasıyla çözülmüştür.)"
+        },
+        {
+          "text": "I. Körfez Savaşı sonrasında Kuzey Irak'ta oluşan otorite boşluğunu denetlemek ve Kürtleri korumak için kurulan, merkezi Türkiye'de olan askeri gücün adı nedir?",
+          "options": [
+            "NATO Gücü",
+            "Çekiç Güç (Poised Hammer)",
+            "Barış Gücü",
+            "ISAF",
+            "Peşmerge"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye'de kamu hizmetlerinin elektronik ortamda vatandaşa sunulmasını sağlayan ve bürokrasiyi azaltan sistemin adı nedir?",
+          "options": [
+            "MERNİS",
+            "E-Devlet (Türkiye.gov.tr)",
+            "UYAP",
+            "MHRS",
+            "EBA"
+          ],
+          "correctOption": "A",
+          "solution": "(Dijital dönüşümün en büyük adımı.)"
+        },
+        {
+          "text": "Türk Lirası'ndan 6 sıfırın atılması ve \"Yeni Türk Lirası\"na (YTL) geçiş hangi yıl gerçekleşmiştir?",
+          "options": [
+            "2010",
+            "2000",
+            "2001",
+            "2002",
+            "2005"
+          ],
+          "correctOption": "E",
+          "solution": "(Enflasyonla mücadelenin sembolü.)"
+        },
+        {
+          "text": "15 Temmuz 2016 darbe girişimi sırasında, darbeci generali vurarak direnişin seyrini değiştiren ve şehit düşen kahraman astsubayımız kimdir?",
+          "options": [
+            "Cengiz Topel",
+            "Ömer Halisdemir",
+            "Fethi Sekin",
+            "Yasin Börü",
+            "Eren Bülbül"
+          ],
+          "correctOption": "D",
+          "solution": "(Özel Kuvvetler Komutanlığı'nda.)"
+        },
+        {
+          "text": "Türkiye'nin yerli ve milli imkanlarla ürettiği, 2023 yılında yollara çıkan elektrikli otomobilin markası nedir?",
+          "options": [
+            "Toros",
+            "Anadol",
+            "TOGG (Türkiye'nin Otomobili Girişim Grubu)",
+            "Şahin",
+            "Devrim"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "BÜYÜK FİNAL SORUSU:\nTürk tarihi, Orta Asya bozkırlarından başlayıp Anadolu'da kök salan, Osmanlı ile cihan imparatorluğuna dönüşen ve Milli Mücadele ile küllerinden doğarak modern Türkiye Cumhuriyeti'ni kuran bir süreçtir.Aşağıdakilerden hangisi, Türkiye Cumhuriyeti'nin 100. yılında (2023) vizyon hedefi olarak belirlediği ve savunma sanayii, teknoloji, enerji gibi alanlarda tam bağımsızlığı vurgulayan kavramdır?",
+          "options": [
+            "Muasır Medeniyetler",
+            "Büyük Türkiye",
+            "Türkiye Yüzyılı",
+            "Yurtta Sulh Cihanda Sulh",
+            "Nizam-ı Alem"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        }
+      ]
+    }
+]}

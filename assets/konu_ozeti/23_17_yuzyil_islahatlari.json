@@ -1,0 +1,64 @@
+{
+  "konu_adi": "23- 17’NCİ YÜZYIL ISLAHATLARI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "17’NCİ YÜZYIL ISLAHATLARI"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "1. Islahatların Genel Özellikleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Amaç: Duraklamayı durdurmak, eski ihtişama dönmek.",
+        "Yöntem: Genellikle kılıç zoruyla ve baskıyla (şiddet) uygulanmıştır.",
+        "Kapsam: Askeri ve mali alanlarda kalmış, sorunların kökenine inilememiştir.",
+        "Model: Avrupa'yı değil, Kanuni Dönemi'ni örnek alma çabası hakimdir.",
+        "Sonuç: Kişilere bağlı kalmış ve kalıcı başarı sağlanamamıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "2. Önemli Islahatçılar ve Başlıca Çalışmaları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kuyucu Murat Paşa: Celali İsyanlarını büyük bir şiddetle bastırmıştır. (Merkezi Otorite)"
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "II. Osman (Genç Osman): En radikal reform denemesi. Yeniçeri Ocağı'nı kaldırmayı planlamış, Saray dışından evlenmiştir. Yeniçeriler tarafından öldürülen ilk padişahtır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "IV. Murat: Merkezi otoriteyi yeniden sağladı. İçki, tütün ve kahveyi yasakladı. Devlet raporu olarak Koçi Bey Risalesi'ni hazırlattı. (Baskı ve Merkeziyetçilik)"
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Tarhuncu Ahmet Paşa: İlk modern denk bütçeyi (Tarhuncu Bütçesi) hazırladı. Mali reform çabaları nedeniyle idam edildi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Köprülüler Dönemi (Mehmet ve Fazıl Ahmet Paşa): Sadrazamlık makamına şartlar sürerek geldiler. Bu, Duraklama döneminde geçici bir yükseliş sağlamıştır. Fazıl Ahmet Paşa Girit'i tamamen fethetti."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "3. Islahatların Başarısız Olma Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kişilere Bağlı Kalması: Sistem değil, şahsi otorite ön plandaydı.",
+        "Köken Sorununa İnmeme: Avrupa'daki bilimsel gelişmelere uyum hedeflenmemiştir.",
+        "Çıkar Çevrelerinin Direnişi: Saray, Yeniçeri ve ulema sınıfları reformlara karşı çıktı."
+      ]
+    }
+  ]
+}

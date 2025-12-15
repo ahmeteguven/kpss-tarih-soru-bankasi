@@ -1,0 +1,95 @@
+{
+  "konu_adi": "15- OSMANLIDA BİLİM VE SANAT",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLIDA BİLİM VE SANAT"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🔬 Bilim Hayatı ve Eğitim Kurumları"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Bilim Kurumları ve Gelişimi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Medreseler: Bilim ve eğitimin merkezi kurumlarıdır. Sahn-ı Seman ve Süleymaniye medreselerinde pozitif bilimler de okutulmuştur.",
+        "Şifahane (Darüşşifa): Hastaneler ve tıp eğitimi veren kurumlardır. Cerrahname (Şerafeddin Sabuncuoğlu), önemli bir resimli cerrahi kitabıdır.",
+        "Rasathaneler (Gözlemevleri): Astronomi bilimine verilen önemin göstergesidir. En önemlisi Takiyüddin Mehmet tarafından kurulan İstanbul Rasathanesi'dir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Önemli Bilim İnsanları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Ali Kuşçu: Fatih döneminde İstanbul’a gelmiş, matematik ve astronomi bilginidir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Akşemseddin: Fatih Sultan Mehmet’in hocası ve tıp alanında mikrobiyolojinin temellerini atan bilim insanıdır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Duraklama ve Gerileme"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "17. yüzyıldan itibaren medreselerde pozitif bilimlerin ihmal edilmesi ve Batı'daki bilimsel gelişmelere ayak uydurulamaması, Osmanlı'nın bilimde geri kalmasının ana nedenlerinden biri olmuştur."
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🖼️ Osmanlı Sanatının Zirvesi"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Mimari Dönemler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Erken Dönem (Bursa/İznik): Tek kubbeli, sade camiler.",
+        "Klasik Dönem (İstanbul): Mimar Sinan bu dönemin en büyük temsilcisidir. Merkezi kubbeli, dengeye dayalı yapılar öne çıkar.",
+        "Mimar Sinan’ın Şaheserleri: Çıraklık eseri: Şehzade Camii, Kalfalık eseri: Süleymaniye Camii, Ustalık eseri: Selimiye Camii."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Sanat Dalları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Hattatlık (Hüsn-ü Hat): Güzel yazı sanatıdır. En prestijli sanat dalı kabul edilmiştir (Şeyh Hamdullah, Hafız Osman)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Minyatür (Nakkaşlık): Kitapları süsleme ve olayları resimleme sanatıdır. Perspektif ve gölgelendirme kullanılmazdı (Nakkaş Osman)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Tezhip: Kitapları altın ve renkli boyalar kullanarak süsleme sanatıdır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Çinicilik: Duvar ve cephe süslemelerinde kullanılan, İznik'te en parlak dönemini yaşayan sanat dalıdır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Müzik: Şifahanelerde tedavi yöntemi olarak da kullanılmıştır."
+        }
+      ]
+    }
+  ]
+}

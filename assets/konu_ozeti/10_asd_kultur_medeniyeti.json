@@ -1,0 +1,135 @@
+{
+  "konu_adi": "10- ANADOLU SELÇUKLU DEVLETİ KÜLTÜR VE MEDENİYETİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ANADOLU SELÇUKLU DEVLETİ KÜLTÜR VE MEDENİYETİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🏰 Devlet Yönetimi ve Merkezi Otorite"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Yönetim Anlayışı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hükümdar: Ülkenin tek hakimi Sultan'dır. Farsça unvanlar (Keykubat, Keykavus) kullanılmıştır.",
+        "Kut Anlayışı ve Veraset: Eski Türk geleneği devam etmiştir. Ülkenin hanedanın ortak malı olması taht kavgalarına neden olmuştur.",
+        "Melikler ve Atabeyler: Melikler eyaletlere atanır, yanlarına Atabeyler verilirdi. Kösedağ sonrası bu sistem bağımsız beylikler kurulmasına yol açmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Divan Teşkilatı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Pervane Divanı: Toprak (İkta ve Has) kayıtlarını tutar, başkanı Pervaneci'dir.",
+        "Maliye Divanı: Hazine ve mali işlerden sorumludur, başkanı Müstevfi'dir.",
+        "Arz Divanı: Askeri işler ve ordunun ihtiyaçlarıyla ilgilenir, başkanı Emir-i Arz'dır.",
+        "İşraf Divanı: Mali ve idari teftiş yapardı (Hukuk hariç), başkanı Müşrif'tir.",
+        "Niyabet-i Saltanat: Sultan başkentte yokken onun adına devlet işlerini yürüten divandır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚖️ Hukuk, Toprak ve Sosyal Yapı"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Hukuk Sistemi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Şer'i Hukuk: İslam kurallarına dayalıdır, Kadılar tarafından uygulanır.",
+        "Örfi Hukuk: Türk örf ve adetlerine dayalıdır, siyasi ve idari davalara bakar, başında Emir-i Dâd bulunur.",
+        "Divan-ı Mezalim: Sultan'ın başkanlık ettiği, ağır suçlara bakan yüksek mahkemeydi."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Toprak Yönetimi (Mirî Arazi)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Has Topraklar: Geliri doğrudan Sultan'a aittir.",
+        "İkta Toprakları: Gelirleri hizmet karşılığı devlet memurlarına ve askerlere verilen topraklardır.",
+        "Vakıf Topraklar: Gelirleri cami, medrese, hastane gibi sosyal kurumlara ayrılan topraklardır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Sosyal ve Ekonomik Hayat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Ahilik Teşkilatı: Esnaf ve zanaatkârların hem mesleki hem de ahlaki eğitimini üstlenir, ekonomik dayanışmayı sağlar. Osmanlı'nın kuruluşunda destek olmuştur."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Ticaret: Antalya ve Sinop gibi limanların fethi, Kervansaray inşası ve devlet sigortası ile ticaret geliştirilmiştir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ Ordu Sistemi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hassa Askerleri (Gulam Sistemi): Doğrudan Sultan'a bağlı, maaşlı profesyonel askerlerdir.",
+        "İkta (Tımarlı) Sipahiler: İkta sistemi sayesinde yetişen, sayıca en kalabalık ve en önemli kuvvetlerdir.",
+        "Türkmenler: Gaza ve Cihat amacıyla sınır bölgelerinde (Uçlarda) savaşan gönüllü birliklerdir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🧠 İlim, Dil ve Edebiyat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Medreseler: Eğitim ve öğretimin temel kurumlarıydı. Karatay Medresesi (Konya) ve Sırçalı Medrese önemli merkezlerdir.",
+        "Tıp Eğitimi: Kayseri'deki Gevher Nesibe Darüşşifası, hem hastane hem de tıp eğitimi verilen ilk tıp medresesidir.",
+        "İlim Adamları: Mevlana Celaleddin-i Rumi, Yunus Emre, Hacı Bektaş-ı Veli gibi önemli mutasavvıflar bu dönemde yaşamıştır.",
+        "Dil Sorunu: Yönetimde Farsça, dinde Arapça, halk arasında Türkçe kullanılmıştır. Türkçe'nin gelişimi yavaşlamıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🖼️ Sanat ve Mimari"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Mimari Türler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Cami, Medrese, Kümbet (Anıt mezar), Kervansaraylar (Han)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Sanat ve Süsleme"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Taş İşçiliği: Abartılı ve heybetli taç kapı (portal) girişlerinde ustalık görülür.",
+        "Çini: Mozaik çini ve tek renkli çini kullanımı yaygındır.",
+        "Süsleme Motifleri: Geometrik motifler, bitkisel süslemeler ve çift başlı kartal gibi hayvan figürleri kullanılmıştır."
+      ]
+    }
+  ]
+}

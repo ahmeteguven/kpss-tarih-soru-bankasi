@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 36",
+  "examCode": "deneme_36",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 34)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı, Hayvan Üslubu sanatının gelişmesine neden olmuştur. Orhun Abideleri'nin yazarının Yollug Tigin olduğu kabul edilir. Büyük Selçuklu Devleti'nde Vezir Nizamülmülk tarafından kurulan Nizamiye Medreseleri, dönemin en büyük bilim merkezidir. Anadolu'da kurulan ilk medrese Danişmentliler'e ait Yağıbasan Medresesi'dir. Anadolu Selçuklu Devleti'nde Ahilik teşkilatı, esnaf ve zanaatkarların mesleki ve ahlaki eğitimini sağlamıştır.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde Pençik Sistemi uygulanmış, Fatih döneminde 'Kardeş Katli' yasallaşmıştır. Yavuz Sultan Selim'in Mısır Seferi ile Halifelik Osmanlı'ya geçmiştir. Lale Devri'ni bitiren Patrona Halil İsyanı'dır (1730). II. Mahmut döneminde (1838) Balta Limanı Ticaret Antlaşması ile Osmanlı, İngiltere'nin açık pazarı haline gelmiştir. İlk yazılı anayasa Kanun-i Esasi (1876)'dir.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, bölgesel amaçlı, düzensiz birliklerdir. Amasya Genelgesi, Milli Mücadele'nin gerekçesini ve yöntemini belirlemiştir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiş, Moskova ve Londra Konferansları toplanmıştır. Medeni Kanun ile kadınlara siyasi haklar verilmemiştir. Montrö Boğazlar Sözleşmesi (1936) ile Türkiye, boğazlar üzerindeki tam egemenliğini sağlamıştır.\n\n**Çağdaş Dünya:** Truman Doktrini (1947), Soğuk Savaş'ın başlangıcı sayılır. Türkiye, SSCB tehdidine karşı Batı Bloğu'na dahil olmuştur.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk tarihinde 'Türk' adını siyasi olarak ilk kez kullanan devlet hangisidir?",
+      "options": [
+        "Asya Hunları",
+        "Uygurlar",
+        "Kök Türkler (I. Göktürk)",
+        "Hazarlar",
+        "Avarlar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Orhun Yazıtları (Bengü Taşlar) hangi Türk alfabesiyle yazılmıştır?",
+      "options": [
+        "Uygur Alfabesi",
+        "Soğd Alfabesi",
+        "Köktürk (Orhun) Alfabesi",
+        "Kiril Alfabesi",
+        "Mani Alfabesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Büyük Selçuklu Devleti'nde, Meliklerin (şehzadelerin) eyalet yönetiminde tecrübe kazanması ve onların eğitiminden sorumlu olan görevlilere ne ad verilirdi?",
+      "options": [
+        "Lala",
+        "Ataman",
+        "Atabey",
+        "Vezir",
+        "Tuğrul"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti döneminde, Kayseri'de bulunan ve 'dünyanın ilk tıp fakültesi' kabul edilen tıp merkezi (darüşşifa) hangisidir?",
+      "options": [
+        "Yağıbasan Medresesi",
+        "Gevher Nesibe Darüşşifası",
+        "Cacabey Medresesi",
+        "Karatay Medresesi",
+        "İnce Minareli Medrese"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde Kapıkulu askerlerine verilen maaşın (Ulufe) üç ayda bir düzenli olarak dağıtıldığı hazineye ne ad verilir?",
+      "options": [
+        "Hazine-i Hassa",
+        "Hazine-i Âmire",
+        "İrad-ı Cedid",
+        "Ceyb-i Hümayun",
+        "Vakıf Hazinesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde ilk kez 'Müsadere' (Devletin mala el koyması) sistemini kaldıran ve özel mülkiyet hakkını güvence altına alan padişah kimdir?",
+      "options": [
+        "Fatih Sultan Mehmet",
+        "Yavuz Sultan Selim",
+        "II. Mahmut",
+        "Sultan Abdülmecit",
+        "II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde Divan-ı Hümayun'da, fethedilen toprakların kaydını tutan ve fermanlara Padişahın tuğrasını çeken Divan üyesi kimdir?",
+      "options": [
+        "Sadrazam",
+        "Kazasker",
+        "Defterdar",
+        "Nişancı",
+        "Reisülküttab"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Lale Devri'nde (1718-1730) Avrupa'yı yakından tanımak amacıyla kurulan ilk geçici elçilik hangi şehirdedir?",
+      "options": [
+        "Viyana",
+        "Londra",
+        "Paris",
+        "Moskova",
+        "Berlin"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde ilk kağıt para (Kaime) hangi padişah döneminde bastırılmıştır?",
+      "options": [
+        "II. Mahmut",
+        "Sultan Abdülmecit",
+        "Sultan Abdülaziz",
+        "V. Mehmet Reşat",
+        "III. Selim"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "II. Abdülhamit döneminde, Alman İmparatoru II. Wilhelm'in de desteğiyle yapımına başlanan ve Osmanlı'nın İslamcılık politikasını destekleyen demiryolu hattı hangisidir?",
+      "options": [
+        "İzmir-Aydın Demiryolu",
+        "Haydarpaşa-İzmit Hattı",
+        "Bağdat Demiryolu",
+        "Hicaz Demiryolu",
+        "Şam-Halep Demiryolu"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde Tanzimat Fermanı'nın (1839) ilan edilmesindeki temel amaç nedir?",
+      "options": [
+        "Yönetimde Meşrutiyet'e geçmek",
+        "Gayrimüslim isyanlarını durdurmak ve Avrupalı devletlerin iç işlerine karışmasını önlemek",
+        "Ekonomide serbest piyasayı uygulamak",
+        "Padişahın mutlak otoritesini pekiştirmek",
+        "Türkmenlerin Anadolu'daki isyanlarını sona erdirmek"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Balkan Savaşı'nda Osmanlı Devleti'nden ayrılarak bağımsızlığını ilan eden son Balkan ulusu hangisidir?",
+      "options": [
+        "Sırbistan",
+        "Bulgaristan",
+        "Karadağ",
+        "Arnavutluk",
+        "Yunanistan"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması'nın 'İtilaf Devletleri, güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal edebilecektir' maddesinin numarası kaçtır?",
+      "options": [
+        "3. Madde",
+        "7. Madde",
+        "10. Madde",
+        "12. Madde",
+        "24. Madde"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Milli Mücadele'nin gerekçesi, amacı ve yönteminin belirlendiği, 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır' maddesiyle ulusal egemenliğe ilk kez vurgu yapılan belge hangisidir?",
+      "options": [
+        "Havza Genelgesi",
+        "Amasya Genelgesi",
+        "Erzurum Kongresi",
+        "Sivas Kongresi",
+        "Misak-ı Milli"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Manda ve himaye fikrinin ilk kez gündeme geldiği ve reddedildiği, milli sınırların ilk kez belirlendiği kongre hangisidir?",
+      "options": [
+        "Amasya Genelgesi",
+        "Sivas Kongresi",
+        "Balıkesir Kongresi",
+        "Erzurum Kongresi",
+        "Nazilli Kongresi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Başkomutanlık Meydan Muharebesi'nin (Büyük Taarruz) kazanılmasından sonra, TBMM tarafından Mareşal rütbesi verilen komutan kimdir?",
+      "options": [
+        "Mustafa Kemal Paşa",
+        "İsmet İnönü",
+        "Kazım Karabekir",
+        "Fevzi Çakmak",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Kurtuluş Savaşı'nın askeri safhasını sona erdiren ve Osmanlı Devleti'ni hukuken sona erdiren antlaşma hangisidir?",
+      "options": [
+        "Mondros Ateşkesi",
+        "Gümrü Antlaşması",
+        "Mudanya Ateşkes Antlaşması",
+        "Lozan Barış Antlaşması",
+        "Ankara Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda Türkiye'nin egemenlik haklarını kısıtlayan, ancak 1936'da Montrö Sözleşmesi ile çözülen madde hangi konuyla ilgilidir?",
+      "options": [
+        "Kapitülasyonlar",
+        "Dış Borçlar",
+        "Boğazlar Komisyonu'nun varlığı ve Boğazların askersizleştirilmesi",
+        "Musul Sorunu",
+        "Patrikhanenin durumu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "3 Mart 1924'te Halifeliğin kaldırılmasıyla aynı gün kabul edilen ve ordunun siyasetten ayrılmasını sağlayan kanun hangisidir?",
+      "options": [
+        "Tevhid-i Tedrisat Kanunu",
+        "Erkan-ı Harbiye-i Umumiye Vekaleti'nin kaldırılması",
+        "Şeriye ve Evkaf Vekaleti'nin kaldırılması",
+        "Tekke ve Zaviyelerin kapatılması",
+        "Soyadı Kanunu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "1925 yılında çıkarılan ve rejim karşıtı faaliyetlerin önlenmesi amacıyla hükümete olağanüstü yetkiler veren kanun hangisidir?",
+      "options": [
+        "Hıyanet-i Vataniye Kanunu",
+        "Firariler Kanunu",
+        "Takrir-i Sükun Kanunu",
+        "Menemen Kanunu",
+        "Milli Korunma Kanunu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Türk kadınına siyasi haklar verilirken, bu hakların edinilmesindeki kronolojik sıra aşağıdakilerden hangisidir?",
+      "options": [
+        "Milletvekili - Belediye - Muhtar",
+        "Muhtar - Belediye - Milletvekili",
+        "Belediye - Muhtar - Milletvekili",
+        "Vekil - Muhtar - Belediye",
+        "Belediye - Milletvekili - Muhtar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "İkinci kez çok partili hayata geçiş denemesi olan Serbest Cumhuriyet Fırkası'nın (SCF) kurulmasında etkili olan en temel ekonomik gelişme hangisidir?",
+      "options": [
+        "I. Dünya Savaşı'nın yarattığı ekonomik yük",
+        "1929 Dünya Ekonomik Buhranı",
+        "Teşvik-i Sanayi Kanunu'nun başarısızlığı",
+        "Aşar vergisinin kaldırılması",
+        "Merkez Bankası'nın kurulması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin dış politikada 'Yurtta Sulh, Cihanda Sulh' ilkesini benimsemesi, Türkiye'nin hangi karaktere sahip olmadığını gösterir?",
+      "options": [
+        "Bağımsız",
+        "Barışçı",
+        "Gerçekçi",
+        "Yayılmacı (İrredantist)",
+        "Statükocu"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne üye olmak için davet edilmesinde (1932), en büyük diplomatik desteği veren ve Nüfus Mübadelesi sorununu çözen komşu ülke hangisidir?",
+      "options": [
+        "Sovyet Rusya",
+        "Fransa",
+        "İngiltere",
+        "Yunanistan",
+        "İtalya"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sonrasında, Batı Avrupa'yı ekonomik olarak ayağa kaldırmak ve komünizmin yayılmasını engellemek amacıyla ABD'nin başlattığı yardım programı hangisidir?",
+      "options": [
+        "Truman Doktrini",
+        "Marshall Planı",
+        "COMECON",
+        "Eisenhower Doktrini",
+        "Monroe Doktrini"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "Hindistan'ın bağımsızlık lideri Mahatma Gandhi'nin İngiliz yönetimine karşı uyguladığı şiddet içermeyen direniş yöntemine ne ad verilir?",
+      "options": [
+        "Cihad",
+        "Pasif Direniş (Satyagraha)",
+        "Kamikaze",
+        "Devrimci Halk Savaşı",
+        "Kültürel Restorasyon"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1974 Kıbrıs Barış Harekatı'nın Başbakanı Bülent Ecevit iken, Harekat sırasında Dışişleri Bakanı olarak görev yapan ve 'Ayşe tatile çıksın' parolasını veren kişi kimdir?",
+      "options": [
+        "Necmettin Erbakan",
+        "Turan Güneş",
+        "Rauf Denktaş",
+        "Dr. Fazıl Küçük",
+        "Süleyman Demirel"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    }
+  ]
+}

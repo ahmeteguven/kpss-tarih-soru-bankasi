@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 45",
+  "examCode": "deneme_45",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 43)\n\n**İlk Çağdan Günümüze:** Türklerde cenaze törenine 'Yuğ', bağımsızlığa 'Oksızlık' denir. Türk-İslam mimarisinde anıt mezarlara 'Kümbet' adı verilir. Pasinler Savaşı (1048), Büyük Selçuklu'nun Bizans'a karşı kazandığı ilk büyük zaferdir.\n\n**Osmanlı ve Islahatlar:** III. Mehmet, Sancak sistemini kaldırıp 'Kafes Usulü'nü getirmiştir. Turnadağ Savaşı ile Anadolu Türk siyasi birliği kesinleşmiştir. Takiyüddin Mehmet ilk rasathaneyi kurmuştur. Bucaş Antlaşması, Batı'da en geniş sınırlara ulaşılan antlaşmadır. 'Esham' iç borçlanma senetleridir. İlk özel gazete Tercüman-ı Ahval'dir. Reval Görüşmeleri II. Meşrutiyet'in ilanını hızlandırmıştır.\n\n**Milli Mücadele ve Cumhuriyet:** St. Jean de Maurienne ile İtalya'ya vaat edilen yerler Yunanistan'a verilmiştir. Fahrettin Paşa 'Çöl Kaplanı'dır. İstanbul'un işgali, TBMM'nin açılmasına zemin hazırlamıştır. Mustafa Kemal'in katıldığı son kongre Pozantı'dır. Maarif Kongresi savaş sırasında toplanmıştır. Afganistan ile Dostluk Antlaşması imzalanmıştır. Yabancı Okullar konusu Lozan'da iç mesele sayılmıştır. İzmir İktisat Kongresi'nde 'Misak-ı İktisadi' kararları alınmıştır. Özsoy, ilk Türk operasıdır.\n\n**Çağdaş Dünya:** Vagon-Li Olayı, Türkçe konuşma hassasiyetinden doğmuştur. Keşmir Sorunu Hindistan ve Pakistan arasındadır. Berlin Duvarı (Utanç Duvarı) 1961'de inşa edilmiştir. TİKA, Türk dünyası ile işbirliği için 1992'de kurulmuştur.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "İslamiyet öncesi Türklerde ölen kişinin ardından yapılan, \"Sagu\" adı verilen ağıtların yakıldığı ve yemeklerin verildiği cenaze törenine ne ad verilir?",
+      "options": [
+        "Toy",
+        "Şölen",
+        "Yuğ",
+        "Kurultay",
+        "Kengeş"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Orta Asya Türk devletlerinde \"Oksızlık\" kavramı, devletin ve milletin varlığı için vazgeçilmez olan hangi unsuru ifade eder?",
+      "options": [
+        "Bağımsızlık",
+        "Halk",
+        "Toprak (Yurt)",
+        "Kanun (Töre)",
+        "Hükümet (Ayukı)"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Türk-İslam mimarisinde, genellikle devlet büyükleri veya din alimleri için yapılan, silindirik veya çokgen gövdeli, üzeri konik bir çatıyla örtülü anıt mezarlara ne ad verilir?",
+      "options": [
+        "Külliye",
+        "Bedesten",
+        "Kümbet",
+        "Arasta",
+        "Bimarhane"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "1048 yılında Büyük Selçuklu Devleti ile Bizans-Gürcü ittifakı arasında yapılan ve Selçukluların Bizans'a karşı kazandığı ilk büyük savaş hangisidir?",
+      "options": [
+        "Malazgirt Savaşı",
+        "Pasinler Savaşı",
+        "Dandanakan Savaşı",
+        "Miryokefalon Savaşı",
+        "Yassıçemen Savaşı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde şehzadelerin devlet yönetiminde tecrübe kazanmaları amacıyla sancaklara vali olarak gönderilmesi uygulamasına (Sancak Sistemi) son veren ve \"Kafes Usulü\"nü getiren padişah kimdir?",
+      "options": [
+        "I. Ahmet",
+        "III. Mehmet",
+        "II. Osman",
+        "IV. Murat",
+        "I. Mustafa"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Yavuz Sultan Selim döneminde (1515) Dulkadiroğulları Beyliği ile yapılan ve Anadolu Türk siyasi birliğinin kesin olarak sağlanmasıyla sonuçlanan savaş hangisidir?",
+      "options": [
+        "Çaldıran Savaşı",
+        "Otlukbeli Savaşı",
+        "Mercidabık Savaşı",
+        "Ridaniye Savaşı",
+        "Turnadağ Savaşı"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde III. Murat döneminde İstanbul'da ilk rasathaneyi kuran ancak daha sonra rasathanesi yıktırılan ünlü bilim insanı kimdir?",
+      "options": [
+        "Ali Kuşçu",
+        "Takiyüddin Mehmet",
+        "Matrakçı Nasuh",
+        "Akşemseddin",
+        "Sabuncuoğlu Şerefeddin"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nin 1672 yılında Lehistan ile imzaladığı ve Batı'da en geniş sınırlara ulaştığı son kazançlı antlaşma hangisidir?",
+      "options": [
+        "Vasvar Antlaşması",
+        "Bucaş Antlaşması",
+        "Zitvatorok Antlaşması",
+        "Bahçesaray Antlaşması",
+        "Karlofça Antlaşması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde hazinenin nakit ihtiyacını karşılamak amacıyla I. Abdülhamit döneminde uygulamaya konulan \"Esham\" (İç Borçlanma) sisteminin temel mantığı nedir?",
+      "options": [
+        "Yabancı devletlerden borç almak",
+        "Hazine bonosu ve pay senedi satmak",
+        "Yeni vergiler koymak",
+        "Paranın değerini düşürmek (Tağşiş)",
+        "Müsadere uygulamak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde Şinasi ve Agah Efendi tarafından çıkarılan ilk özel gazete hangisidir?",
+      "options": [
+        "Takvim-i Vekayi",
+        "Ceride-i Havadis",
+        "Tercüman-ı Ahval",
+        "Tasvir-i Efkar",
+        "İkdam"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "1908 yılında İngiltere ve Rusya arasında yapılan, Makedonya sorununun görüşüldüğü ve Osmanlı'nın parçalanması konusunda anlaşıldığı için İttihatçıların II. Meşrutiyet'i ilan etmesini hızlandıran görüşme hangisidir?",
+      "options": [
+        "Tersane Konferansı",
+        "Reval Görüşmeleri",
+        "Paris Konferansı",
+        "Londra Konferansı",
+        "Berlin Görüşmeleri"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı sırasında imzalanan gizli antlaşmalardan \"Saint Jean de Maurienne\" Antlaşması ile İtalya'ya vaat edilen ancak Paris Barış Konferansı'nda Yunanistan'a verilen bölge neresidir?",
+      "options": [
+        "Antalya",
+        "Rodos",
+        "İzmir ve çevresi",
+        "Adana",
+        "Konya"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "I. Dünya Savaşı'nda Hicaz-Yemen Cephesi'nde İngilizlere ve isyancı Araplara karşı Medine'yi kahramanca savunan ve \"Çöl Kaplanı\" unvanıyla bilinen komutan kimdir?",
+      "options": [
+        "Enver Paşa",
+        "Cemal Paşa",
+        "Fahrettin Paşa",
+        "Halil Paşa",
+        "Kazım Karabekir"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "16 Mart 1920'de İstanbul'un İtilaf Devletleri tarafından resmen işgal edilmesi ve Mebusan Meclisi'nin dağıtılması, doğrudan hangi gelişmeye zemin hazırlamıştır?",
+      "options": [
+        "Sivas Kongresi'nin toplanmasına",
+        "Amasya Görüşmeleri'nin yapılmasına",
+        "Ankara'da TBMM'nin açılmasına",
+        "Kuvayi Milliye'nin kurulmasına",
+        "Misak-ı Milli'nin ilanına"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Kurtuluş Savaşı hazırlık sürecinde toplanan ve Mustafa Kemal'in katıldığı \"son\" kongre olma özelliği taşıyan kongre hangisidir?",
+      "options": [
+        "Sivas Kongresi",
+        "Erzurum Kongresi",
+        "Afyon Kongresi",
+        "Pozantı Kongresi",
+        "Alaşehir Kongresi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kütahya-Eskişehir Savaşları devam ederken, Ankara'da toplanan ve Mustafa Kemal'in eğitime verdiği önemi gösteren kongre hangisidir?",
+      "options": [
+        "İktisat Kongresi",
+        "Maarif Kongresi",
+        "Sanayi Kongresi",
+        "Dil Kurultayı",
+        "Tarih Kurultayı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "I. İnönü Savaşı'ndan sonra TBMM ile Afganistan arasında imzalanan Dostluk Antlaşması'nın diplomatik açıdan en önemli sonucu nedir?",
+      "options": [
+        "Afganistan'dan silah yardımı alınması",
+        "TBMM'yi tanıyan ilk Müslüman devletin Afganistan olması",
+        "Doğu sınırının kesinleşmesi",
+        "Halifeliğin kaldırılmasına zemin hazırlaması",
+        "Sovyet Rusya ile ilişkilerin bozulması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Konferansı'nda Türkiye'nin \"Bu konu bizim iç meselemizdir, uluslararası platformda tartışmayız\" diyerek görüşmeyi reddettiği konu hangisidir?",
+      "options": [
+        "Dış Borçlar",
+        "Boğazlar",
+        "Yabancı Okullar",
+        "Musul Sorunu",
+        "Adalar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "1923 yılında toplanan İzmir İktisat Kongresi'nde alınan ve \"Ekonomik bağımsızlık esastır, yerli malı kullanılmalıdır\" anlayışını içeren kararlara ne ad verilir?",
+      "options": [
+        "Teşvik-i Sanayi",
+        "Misak-ı İktisadi",
+        "I. Beş Yıllık Sanayi Planı",
+        "Kabotaj Hakkı",
+        "Tekalif-i Milliye"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Atatürk döneminde, halkın kültürel gelişimini sağlamak ve devrimleri halka benimsetmek amacıyla 1932 yılında kurulan kurum hangisidir?",
+      "options": [
+        "Türk Ocakları",
+        "Köy Enstitüleri",
+        "Halkevleri",
+        "Millet Mektepleri",
+        "Türk Dil Kurumu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "1934 yılında İran Şahı Rıza Pehlevi'nin Türkiye ziyareti onuruna bestelenen ve sahnelenen \"İlk Türk Operası\" hangisidir?",
+      "options": [
+        "Lüküs Hayat",
+        "Özsoy Operası",
+        "Kerem ile Aslı",
+        "Taş Bebek",
+        "Köroğlu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "1933 yılında İstanbul'da bir Fransız şirketinde çalışan Türk memurun Türkçe konuştuğu için işten çıkarılması üzerine başlayan ve \"Vatandaş Türkçe konuş!\" kampanyasına dönüşen olay hangisidir?",
+      "options": [
+        "Razgrad Olayı",
+        "Bozkurt-Lotus Olayı",
+        "Vagon-Li (Wagons-Lits) Olayı",
+        "6-7 Eylül Olayları",
+        "Menemen Olayı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin 1929 yılında SSCB ile imzaladığı ve dünya barışını korumayı amaçlayan, savaşı ulusal politika aracı olarak reddeden bölgesel protokol hangisidir?",
+      "options": [
+        "Briand-Kellogg Paktı",
+        "Litvinov Protokolü",
+        "Sadabat Paktı",
+        "Locarno Antlaşması",
+        "Akdeniz Paktı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "1937 yılında İtalya'nın Akdeniz'deki korsanlık faaliyetlerine karşı İngiltere ve Fransa öncülüğünde imzalanan ve Türkiye'nin de katıldığı antlaşma hangisidir?",
+      "options": [
+        "Montrö Sözleşmesi",
+        "Nyon Antlaşması",
+        "Akdeniz Paktı",
+        "Sadabat Paktı",
+        "Balkan Antantı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "Soğuk Savaş döneminde Hindistan ve Pakistan arasında bağımsızlıklarından itibaren (1947) devam eden ve günümüzde de çözülememiş olan en büyük sınır sorunu nedir?",
+      "options": [
+        "Keşmir Sorunu",
+        "Tibet Sorunu",
+        "Bengal Sorunu",
+        "Pencap Sorunu",
+        "Haydarabad Sorunu"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1961 yılında Doğu Almanya ile Batı Almanya arasındaki kaçışları önlemek amacıyla inşa edilen ve \"Utanç Duvarı\" olarak da bilinen yapı hangisidir?",
+      "options": [
+        "Demir Perde",
+        "Maginot Hattı",
+        "Berlin Duvarı",
+        "Siegfried Hattı",
+        "38. Paralel"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1992 yılında Türkiye öncülüğünde kurulan, amacı Türk dili konuşan ülkeler ve komşu ülkelerle ekonomik, ticari, teknik, sosyal, kültürel ve eğitim alanlarında işbirliğini geliştirmek olan kuruluş hangisidir?",
+      "options": [
+        "TÜRKSOY",
+        "TİKA (Türk İşbirliği ve Koordinasyon Ajansı)",
+        "KEİ (Karadeniz Ekonomik İşbirliği)",
+        "D-8",
+        "İİT"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    }
+  ]
+}

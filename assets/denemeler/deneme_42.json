@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 42",
+  "examCode": "deneme_42",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 40)\n\n**İlk Çağdan Günümüze:** Uygurlar Maniheizm ile yerleşik hayata geçmiş ancak savaşçılık özelliklerini kısmen kaybetmiştir; veraset sistemi ise bu dinden etkilenmemiştir. Türklerde ülke yönetimi 'İkili Teşkilat' (Doğu-Batı) esasına dayanır. Farabi 'Muallim-i Sani' (İkinci Öğretmen) olarak bilinir. Yassıçemen Savaşı (1230), Anadolu Selçuklu ile Harzemşahlar arasında yapılmıştır.\n\n**Osmanlı ve Islahatlar:** Rumeli'deki ilk üs Çimpe Kalesi'dir. Mohaç Meydan Muharebesi (2 saat) tarihin en kısa zaferidir. Mimar Sinan'ın ustalık eseri Selimiye Camii'dir. Karlofça Antlaşması (1699) ile gerileme dönemi başlamıştır. II. Mahmut nüfus sayımını askeri ve vergi amaçlı yapmıştır. Muharrem Kararnamesi, Düyun-u Umumiye'nin kurulmasına zemin hazırlamıştır. Rejime karşı çıkan ilk isyan 31 Mart Vakası'dır.\n\n**Milli Mücadele ve Cumhuriyet:** Mustafa Kemal, Trablusgarp'a 'Gazeteci Şerif Bey' olarak gitmiştir. Rauf Orbay 'Hamidiye Kahramanı'dır. Misak-ı Milli, son Osmanlı Mebusan Meclisi'nde kabul edilmiştir. Temsil Heyeti atama yaparak 'Yürütme' yetkisini kullanmıştır. Başkomutanlık Yasası, Kütahya-Eskişehir yenilgisinden sonra çıkarılmıştır. Ankara Antlaşması (1921) ile Hatay hariç güney sınırı çizilmiştir. Menemen Olayı, çok partili hayata geçişi engellemiştir.\n\n**Çağdaş Dünya:** Maginot Hattı, Fransa'nın Almanya'ya karşı kurduğu savunma hattıdır. Kore Savaşı'nda Türk ordusu Kunuri'de destan yazmıştır. EOKA, Kıbrıs'ı Yunanistan'a bağlamak isteyen Rum terör örgütüdür.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Uygurların Maniheizm dinini kabul etmesi, Türklerin yaşam tarzında önemli değişikliklere yol açmıştır. Aşağıdakilerden hangisi bu dinin etkisiyle ortaya çıkan durumlardan biri değildir?",
+      "options": [
+        "Yerleşik hayata geçilmesi",
+        "Savaşçılık özelliklerinin zayıflaması",
+        "Et yemenin yasaklanmasıyla tarımın gelişmesi",
+        "Tapınak mimarisinin ortaya çıkması",
+        "Veraset sisteminin değişmesi"
+      ],
+      "correctOption": "E",
+      "solution": "Veraset sistemi (ülkenin hanedanın ortak malı olması) din değiştirmekle değişmemiştir."
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde ülkenin yönetim kolaylığı açısından \"Doğu\" ve \"Batı\" olarak ikiye ayrılarak yönetilmesine ne ad verilir?",
+      "options": [
+        "İkili Teşkilat",
+        "Ülüş Sistemi",
+        "Boy Teşkilatı",
+        "Kurultay",
+        "Atabeylik"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Türk-İslam tarihinde, Aristo'nun fikirlerini en iyi yorumlayan kişi olduğu için \"Muallim-i Sani\" (İkinci Öğretmen) unvanıyla bilinen ünlü Türk düşünürü ve bilim insanı kimdir?",
+      "options": [
+        "İbn-i Sina",
+        "Farabi",
+        "Biruni",
+        "Harezmi",
+        "Gazali"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti ile Harzemşahlar arasında 1230 yılında yapılan ve Harzemşahların yıkılış sürecine girmesine, Anadolu'nun ise Moğol istilasına açık hale gelmesine neden olan savaş hangisidir?",
+      "options": [
+        "Dandanakan Savaşı",
+        "Pasinler Savaşı",
+        "Yassıçemen Savaşı",
+        "Kösedağ Savaşı",
+        "Katvan Savaşı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nin Rumeli'ye geçişini kolaylaştıran ve Balkan fetihlerinde üs olarak kullanılan, Orhan Bey döneminde Bizans'tan alınan ilk kale hangisidir?",
+      "options": [
+        "Gelibolu Kalesi",
+        "Çimpe Kalesi",
+        "Edirne Kalesi",
+        "Belgrad Kalesi",
+        "Vidin Kalesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Kanuni Sultan Süleyman döneminde Macar ordusuna karşı yapılan ve sadece 2 saat sürerek \"tarihin en kısa süren meydan muharebesi\" olarak bilinen zafer hangisidir?",
+      "options": [
+        "Niğbolu Savaşı",
+        "Varna Savaşı",
+        "Mohaç Meydan Muharebesi",
+        "Zigetvar Seferi",
+        "Haçova Meydan Muharebesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde Mimar Sinan'ın \"Ustalık Eserim\" dediği ve UNESCO Dünya Mirası listesinde yer alan Edirne'deki cami hangisidir?",
+      "options": [
+        "Süleymaniye Camii",
+        "Şehzade Camii",
+        "Selimiye Camii",
+        "Sultanahmet Camii",
+        "Fatih Camii"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nin Batı karşısında toprak kaybettiği ilk büyük antlaşma olan ve \"Gerileme Dönemi\"nin başlangıcı sayılan 1699 tarihli antlaşma hangisidir?",
+      "options": [
+        "Vasvar Antlaşması",
+        "Zitvatorok Antlaşması",
+        "Karlofça Antlaşması",
+        "Pasarofça Antlaşması",
+        "Küçük Kaynarca Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "II. Mahmut döneminde yapılan \"Nüfus Sayımı\"nın temel amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Kadın ve erkek nüfusunu eşitlemek",
+        "Okuma yazma oranını belirlemek",
+        "Mülk sahiplerini tespit etmek",
+        "Askeri potansiyeli ve vergi yükümlülerini belirlemek",
+        "Seçmen sayısını belirlemek"
+      ],
+      "correctOption": "D",
+      "solution": "Bu nedenle sadece erkekler sayılmıştır."
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nin dış borçlarını ödeyememesi üzerine, alacaklı devletlerin (Düyun-u Umumiye İdaresi) Osmanlı gelirlerine el koymasına zemin hazırlayan 1881 tarihli kararname hangisidir?",
+      "options": [
+        "Ramazan Kararnamesi",
+        "Muharrem Kararnamesi",
+        "Vilayet Nizamnamesi",
+        "Sened-i İttifak",
+        "Tanzimat Fermanı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı tarihinde mevcut rejime (Meşrutiyet'e) karşı çıkan ilk isyan olma özelliği taşıyan ve Hareket Ordusu tarafından bastırılan olay hangisidir?",
+      "options": [
+        "Kabakçı Mustafa İsyanı",
+        "Patrona Halil İsyanı",
+        "Şeyh Bedrettin İsyanı",
+        "31 Mart Vakası",
+        "Babıali Baskını"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Mustafa Kemal'in \"Gazeteci Şerif Bey\" takma adıyla ve gizlice giderek yerel halkı İtalyanlara karşı örgütlediği savaş hangisidir?",
+      "options": [
+        "I. Balkan Savaşı",
+        "Trablusgarp Savaşı",
+        "Çanakkale Savaşı",
+        "II. Balkan Savaşı",
+        "I. Dünya Savaşı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Balkan Savaşları sırasında \"Hamidiye\" kruvazörü ile Yunan donanmasına karşı gösterdiği başarılardan dolayı \"Hamidiye Kahramanı\" olarak tanınan komutan kimdir?",
+      "options": [
+        "Enver Paşa",
+        "Rauf (Orbay) Bey",
+        "Refet Bele",
+        "Cemal Paşa",
+        "Cevat Çobanlı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Son Osmanlı Mebusan Meclisi'nin gizli oturumunda kabul edilen ve Türk vatanının sınırlarını çizerek Milli Mücadele'nin temel hedefini belirleyen belge hangisidir?",
+      "options": [
+        "Amasya Protokolü",
+        "Misak-ı Milli (Milli Yemin)",
+        "Tekalif-i Milliye",
+        "Teşkilat-ı Esasiye",
+        "Takrir-i Sükun"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Sivas Kongresi'nde oluşturulan Temsil Heyeti, Batı Cephesi Komutanlığı'na Ali Fuat Paşa'yı atayarak ilk kez hangi yetkisini kullanmıştır?",
+      "options": [
+        "Yasama",
+        "Yargı",
+        "Yürütme",
+        "Denetleme",
+        "Diplomatik"
+      ],
+      "correctOption": "C",
+      "solution": "Atama yapmak yürütme yetkisidir."
+    },
+    {
+      "id": 16,
+      "text": "Kütahya-Eskişehir Savaşları'ndaki yenilginin ardından, TBMM tarafından Mustafa Kemal Paşa'ya 3 ay süreyle meclisin tüm yetkilerini devreden kanun hangisidir?",
+      "options": [
+        "Hıyanet-i Vataniye Kanunu",
+        "Başkomutanlık Yasası",
+        "Firariler Kanunu",
+        "Teşkilat-ı Esasiye Kanunu",
+        "Takrir-i Sükun Kanunu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Sakarya Zaferi'nden sonra Fransa ile imzalanan ve Hatay hariç bugünkü Türkiye-Suriye sınırını belirleyen antlaşma hangisidir?",
+      "options": [
+        "Moskova Antlaşması",
+        "Kars Antlaşması",
+        "Gümrü Antlaşması",
+        "1921 Ankara Antlaşması",
+        "Lozan Antlaşması"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Mudanya Ateşkes Antlaşması'ndan sonra \"Doğu Trakya Yüksek Komiseri\" sıfatıyla Trakya'yı İtilaf Devletleri'nden teslim alan komutan kimdir?",
+      "options": [
+        "İsmet İnönü",
+        "Kazım Karabekir",
+        "Refet Bele",
+        "Fevzi Çakmak",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Yeni Türk Devleti'nin ekonomi politikasını belirlemek, yerli malı kullanımını teşvik etmek ve ekonomik bağımsızlığı sağlamak amacıyla 1923'te İzmir'de toplanan kongre hangisidir?",
+      "options": [
+        "Maarif Kongresi",
+        "İzmir İktisat Kongresi",
+        "Sivas Kongresi",
+        "Sanayi Kongresi",
+        "Tarım Kongresi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Çok partili hayata geçişin ikinci denemesi olan Serbest Cumhuriyet Fırkası'nın kapatılmasından kısa bir süre sonra, İzmir'de rejim karşıtı gericilerin çıkardığı ve Öğretmen Kubilay'ın şehit edildiği olay hangisidir?",
+      "options": [
+        "Şeyh Said İsyanı",
+        "Menemen Olayı (Kubilay Olayı)",
+        "İzmir Suikastı",
+        "Dersim Olayları",
+        "Çerkez Ethem İsyanı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Hicri ve Rumi takvimlerin kaldırılarak Miladi Takvimin kabul edilmesi, ölçü ve tartı birimlerinin değiştirilmesi gibi inkılapların ortak amacı nedir?",
+      "options": [
+        "Eğitimi laikleştirmek",
+        "Hukuk birliğini sağlamak",
+        "Batı dünyası ile ekonomik ve ticari ilişkileri kolaylaştırmak (Uyum sağlamak)",
+        "Türk tarihini araştırmak",
+        "Ordunun modernleşmesini sağlamak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Türkiye Cumhuriyeti'nin ilk muhalefet partisi olan ve \"Partimiz dini inançlara saygılıdır\" ilkesini tüzüğünde bulunduran parti hangisidir?",
+      "options": [
+        "Serbest Cumhuriyet Fırkası",
+        "Demokrat Parti",
+        "Terakkiperver Cumhuriyet Fırkası",
+        "Ahali Fırkası",
+        "Milli Kalkınma Partisi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye, 1932 yılında Milletler Cemiyeti'ne üye olurken hangi ülkenin daveti ve Yunanistan'ın desteği ile cemiyete katılmıştır?",
+      "options": [
+        "İngiltere",
+        "Fransa",
+        "İspanya",
+        "ABD",
+        "İtalya"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "1936 yılında Montrö Boğazlar Sözleşmesi'nin imzalanmasıyla, Boğazlar Komisyonu kaldırılmış ve yönetim tamamen Türkiye'ye geçmiştir. Bu sözleşmenin imzalanmasına neden olan (dünya barışını tehdit eden) temel gelişme nedir?",
+      "options": [
+        "Rusya'nın sıcak denizlere inme isteği",
+        "Almanya ve İtalya'nın yayılmacı politikaları",
+        "Hatay sorununun çözülememesi",
+        "Sadabat Paktı'nın kurulması",
+        "II. Dünya Savaşı'nın başlamış olması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı öncesinde Fransa'nın, Almanya sınırına inşa ettiği ve geçilemez denilen ancak Almanların etrafından dolaşarak etkisiz hale getirdiği ünlü savunma hattı hangisidir?",
+      "options": [
+        "Siegfried Hattı",
+        "Maginot Hattı",
+        "Mannerheim Hattı",
+        "Berlin Duvarı",
+        "Demir Perde"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "Soğuk Savaş döneminde, Kuzey Kore'nin Güney Kore'ye saldırmasıyla başlayan Kore Savaşı'nda, Türk askerinin büyük bir kahramanlık göstererek BM ordusunu yok olmaktan kurtardığı muharebe hangisidir?",
+      "options": [
+        "Pusan Savunması",
+        "Seul Muharebesi",
+        "Kunuri Muharebesi",
+        "İnçon Çıkarması",
+        "Yalu Nehri Savaşı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Kıbrıs'ta Rumların, Kıbrıs'ı Yunanistan'a bağlamak (Enosis) amacıyla kurdukları terör örgütünün adı nedir?",
+      "options": [
+        "ASALA",
+        "EOKA",
+        "Taşnak",
+        "Hınçak",
+        "İntifada"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    }
+  ]
+}

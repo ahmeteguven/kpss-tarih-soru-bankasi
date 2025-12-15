@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 43",
+  "examCode": "deneme_43",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 41)\n\n**İlk Çağdan Günümüze:** Kavimler Göçü, Avrupa Hun Devleti'nin kurulmasına ve feodalitenin doğmasına yol açmıştır ancak skolastik düşünceyi zayıflatmamış, aksine güçlendirmiştir. Toygun, kurultaya katılma hakkı olanlara verilen addır. Artuklulara ait Malabadi Köprüsü, dünyanın en geniş taş kemerli köprüsüdür. Malazgirt Zaferi ile Anadolu'nun kapıları Türklere açılmıştır.\n\n**Osmanlı ve Islahatlar:** İlk vergi (Bac-ı Pazar) Osman Bey dönemindedir. İlmiye sınıfının başı Şeyhülislam'dır. Koçi Bey, IV. Murat'a rapor sunmuştur. Küçük Kaynarca ile Halifelik ilk kez siyasi amaçla kullanılmıştır. İlk banka Bank-ı Dersaadet'tir. Ertuğrul Fırkateyni Japonya dönüşü batmıştır. Mustafa Kemal tarih sahnesine 31 Mart Vakası ile çıkmıştır.\n\n**Milli Mücadele ve Cumhuriyet:** Trablusgarp Uşi Antlaşması ile kaybedilmiştir. Arnavutluk, I. Balkan Savaşı sonunda bağımsız olmuştur. Milne Hattı, Türk kuvvetlerini oyalamak amacıyla çizilmiştir. 'Ya istiklal ya ölüm' parolası Sivas Kongresi'nde söylenmiştir. İstiklal Marşı I. İnönü Savaşı'ndan sonra kabul edilmiştir. Kars Antlaşması doğu sınırını kesinleştirmiştir. Tekalif-i Milliye, Yasama yetkisinin kullanıldığını gösterir.\n\n**Çağdaş Dünya:** Pearl Harbor baskını ABD'yi II. Dünya Savaşı'na sokmuştur. Varşova Paktı, Doğu Bloğu'nun askeri örgütüdür. Bağlantısızlar Hareketi Bandung Konferansı ile temellendirilmiştir.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Kavimler Göçü (375), dünya tarihini derinden etkileyen sonuçlar doğurmuştur. Aşağıdakilerden hangisi Kavimler Göçü'nün sonuçlarından biri değildir?",
+      "options": [
+        "Roma İmparatorluğu'nun ikiye ayrılması",
+        "Avrupa'da feodalite (derebeylik) rejiminin ortaya çıkması",
+        "Skolastik düşüncenin zayıflayarak yerini pozitif bilimlere bırakması",
+        "Avrupa'nın etnik yapısının değişmesi ve bugünkü Avrupa milletlerinin temellerinin atılması",
+        "Avrupa Hun Devleti'nin kurulması"
+      ],
+      "correctOption": "C",
+      "solution": "Kavimler Göçü sonrası Avrupa'da kilise güçlenmiş ve skolastik düşünce egemen olmuştur; pozitif bilimler gerilemiştir."
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde, devlet işlerinin görüşüldüğü Kurultay'a (Toy) katılma hakkına sahip olan hanedan üyeleri, boy beyleri ve devlet görevlilerine genel olarak ne ad verilir?",
+      "options": [
+        "Toygun",
+        "Yabgu",
+        "Şad",
+        "Tigin",
+        "Bitikçi"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Anadolu'da kurulan ilk Türk beyliklerinden biri olan Artuklular döneminde inşa edilen, dünyanın en geniş taş kemerli köprüsü olma özelliğine sahip eser hangisidir?",
+      "options": [
+        "Mama Hatun Köprüsü",
+        "Malabadi Köprüsü",
+        "Çobandede Köprüsü",
+        "Taş Köprü",
+        "Kesik Köprü"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "1071 Malazgirt Zaferi'nin Türk tarihi açısından en önemli sonucu aşağıdakilerden hangisidir?",
+      "options": [
+        "İslam dünyası üzerindeki Bizans baskısının sona ermesi",
+        "Haçlı Seferleri'nin başlamasına neden olması",
+        "Anadolu'nun kapılarının Türklere açılması ve Türkiye Tarihi'nin başlaması",
+        "Büyük Selçuklu Devleti'nin en geniş sınırlarına ulaşması",
+        "Abbasi Halifesi'nin Tuğrul Bey'e unvan vermesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde alınan ilk vergi olan \"Bac-ı Pazar\" (Pazar Vergisi) hangi padişah döneminde uygulamaya konulmuştur?",
+      "options": [
+        "Orhan Bey",
+        "Osman Bey",
+        "I. Murat",
+        "Yıldırım Bayezid",
+        "Çelebi Mehmet"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde İlmiye sınıfının başı olan, fetva verme yetkisine sahip ve protokolde Sadrazam'a denk sayılan devlet görevlisi kimdir?",
+      "options": [
+        "Kazasker",
+        "Nişancı",
+        "Şeyhülislam",
+        "Reisülküttab",
+        "Defterdar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "IV. Murat döneminde devletin kötü gidişatını analiz eden ve padişaha rapor (risale) sunarak ilk kez köklü reform önerilerinde bulunan devlet adamı kimdir?",
+      "options": [
+        "Katip Çelebi",
+        "Koçi Bey",
+        "Evliya Çelebi",
+        "Tarhuncu Ahmet Paşa",
+        "Köprülü Mehmet Paşa"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "1774 Küçük Kaynarca Antlaşması'nın \"Kırım bağımsız olacak, ancak dini bakımdan Osmanlı Halifesi'ne bağlı kalacaktır\" maddesiyle Osmanlı Devleti ilk kez neyi amaçlamıştır?",
+      "options": [
+        "Kırım'ı tekrar ele geçirmeyi",
+        "Rusya'dan tazminat almayı",
+        "Halifeliğin siyasi gücünü kullanarak bölge halkıyla kültürel bağları korumayı",
+        "Karadeniz'i Türk gölü haline getirmeyi",
+        "Rusya'nın iç işlerine karışmasını"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde kurulan ilk banka olma özelliğini taşıyan ve Galata bankerleri tarafından kurulan banka hangisidir?",
+      "options": [
+        "Bank-ı Osmani (Osmanlı Bankası)",
+        "Ziraat Bankası",
+        "Bank-ı Dersaadet",
+        "İtibar-ı Milli Bankası",
+        "Memleket Sandıkları"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "II. Abdülhamit döneminde Japonya'ya dostluk mesajı götürmek üzere gönderilen, ancak dönüş yolunda batan gemimiz hangisidir?",
+      "options": [
+        "Hamidiye Zırhlısı",
+        "Yavuz Zırhlısı",
+        "Nusret Mayın Gemisi",
+        "Ertuğrul Fırkateyni",
+        "Midilli Gemisi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Mustafa Kemal'in tarih sahnesine ilk kez çıktığı, Hareket Ordusu'nun Kurmay Başkanı olarak görev aldığı ve rejime (Meşrutiyet) karşı çıkan isyanı bastırdığı olay hangisidir?",
+      "options": [
+        "Babıali Baskını",
+        "31 Mart Vakası",
+        "Trablusgarp Savaşı",
+        "Çanakkale Savaşı",
+        "Menemen Olayı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Osmanlı Devleti'nin Kuzey Afrika'daki son toprak parçası olan Trablusgarp'ı İtalya'ya kaybettiği antlaşma hangisidir?",
+      "options": [
+        "Londra Antlaşması",
+        "Atina Antlaşması",
+        "İstanbul Antlaşması",
+        "Uşi Antlaşması",
+        "Paris Antlaşması"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "I. Balkan Savaşı sonucunda Osmanlı Devleti ile kara bağlantısı kalmadığı için bağımsızlığını ilan eden Balkan devleti hangisidir?",
+      "options": [
+        "Bulgaristan",
+        "Sırbistan",
+        "Yunanistan",
+        "Arnavutluk",
+        "Karadağ"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Kurtuluş Savaşı hazırlık döneminde, İngiliz General Milne tarafından belirlenen ve Yunan işgal hattının (Milne Hattı) sınırlarını çizen raporun Türkler tarafından reddedilmesinin temel nedeni nedir?",
+      "options": [
+        "Hattın çok dar olması",
+        "Yunanlıların hattı geçmesi",
+        "Hattın Türk kuvvetlerini oyalama ve Yunanlılara zaman kazandırma amacı taşıması",
+        "İngilizlerin taraflı davranması",
+        "İstanbul Hükümeti'nin hattı kabul etmesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Mustafa Kemal'in \"Ya istiklal ya ölüm!\" sözünü ilk kez söylediği ve Milli Mücadele'nin parolasını belirlediği kongre hangisidir?",
+      "options": [
+        "Erzurum Kongresi",
+        "Sivas Kongresi",
+        "Amasya Genelgesi",
+        "Alaşehir Kongresi",
+        "Afyon Kongresi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "12 Mart 1921'de kabul edilen İstiklal Marşı, hangi savaşın kazanılmasının ardından yaşanan coşku ve moral ihtiyacı üzerine yazılmıştır?",
+      "options": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Sakarya Meydan Muharebesi",
+        "Kütahya-Eskişehir Savaşları",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Sakarya Zaferi'nden sonra Kafkas Cumhuriyetleri (Azerbaycan, Ermenistan, Gürcistan) ile imzalanan ve Türkiye'nin doğu sınırına kesin şeklini veren antlaşma hangisidir?",
+      "options": [
+        "Gümrü Antlaşması",
+        "Moskova Antlaşması",
+        "Kars Antlaşması",
+        "Ankara Antlaşması",
+        "Batum Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Mustafa Kemal Paşa'nın, Başkomutanlık yetkisine dayanarak ordunun ihtiyaçlarını karşılamak için çıkardığı Tekalif-i Milliye Emirleri, hangi yetkinin kullanıldığını gösterir?",
+      "options": [
+        "Yargı",
+        "Yasama",
+        "Yürütme",
+        "Denetim",
+        "Diplomatik"
+      ],
+      "correctOption": "B",
+      "solution": "Kanun çıkarma yetkisi yasama yetkisidir."
+    },
+    {
+      "id": 19,
+      "text": "Atatürk döneminde, halkın kültürel seviyesini artırmak, devrimleri halka anlatmak ve okuma-yazma oranını yükseltmek amacıyla 1932'de kurulan ve yayın organı \"Ülkü Dergisi\" olan kurum hangisidir?",
+      "options": [
+        "Türk Ocakları",
+        "Millet Mektepleri",
+        "Halkevleri",
+        "Köy Enstitüleri",
+        "Türk Dil Kurumu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "1935 yılında kurulan Maden Tetkik ve Arama Enstitüsü (MTA) ve Etibank, Atatürk'ün hangi ilkesi doğrultusunda ekonomiyi geliştirmek için faaliyete geçmiştir?",
+      "options": [
+        "Cumhuriyetçilik",
+        "Laiklik",
+        "Devletçilik",
+        "İnkılapçılık",
+        "Halkçılık"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Türkiye Cumhuriyeti'nin ilk muhalefet partisi olan Terakkiperver Cumhuriyet Fırkası'nın kapatılmasına neden olan gerekçe aşağıdakilerden hangisidir?",
+      "options": [
+        "Menemen Olayı'na karışması",
+        "İzmir Suikastı'nı planlaması",
+        "Şeyh Said İsyanı'nda rolü olduğu iddiası",
+        "Ekonomik politikalarının başarısızlığı",
+        "Serbest Cumhuriyet Fırkası ile birleşmesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Atatürk, Hatay sorununun çözümü için Milletler Cemiyeti'ne başvurduğunda, Milletler Cemiyeti tarafından bölgeye gönderilen ve Hatay'ın nüfus yapısı ile ilgili Türk tezlerini doğrulayan raporu hazırlayan raportör kimdir?",
+      "options": [
+        "General Harbord",
+        "Amiral Bristol",
+        "Sandler",
+        "General Milne",
+        "Lord Curzon"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "1934 yılında imzalanan Balkan Antantı'na, bölgedeki revizyonist (yayılmacı) politikaları ve komşularıyla yaşadığı sınır sorunları (özellikle Makedonya sorunu) nedeniyle katılmayan devlet hangisidir?",
+      "options": [
+        "Yunanistan",
+        "Yugoslavya",
+        "Romanya",
+        "Bulgaristan",
+        "Türkiye"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Atatürk'ün vefatından hemen önce, \"Bu benim şahsi meselemdir\" diyerek üzerine titrediği ve anavatana katılması için büyük çaba sarf ettiği toprak parçası neresidir?",
+      "options": [
+        "Musul",
+        "Batum",
+        "Hatay",
+        "Batı Trakya",
+        "On İki Ada"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı'nda ABD'nin savaşa resmen girmesine neden olan ve Japonya tarafından düzenlenen hava saldırısı hangisidir?",
+      "options": [
+        "Normandiya Çıkarması",
+        "Pearl Harbor Baskını",
+        "Midway Savaşı",
+        "Stalingrad Kuşatması",
+        "El-Alameyn Savaşı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "Soğuk Savaş döneminde, Doğu Bloğu (Sovyet) ülkelerinin Batı Bloğu'na (NATO) karşı kurduğu askeri ittifak örgütü hangisidir?",
+      "options": [
+        "Avrupa Birliği",
+        "Varşova Paktı",
+        "Birleşmiş Milletler",
+        "COMECON",
+        "Bağlantısızlar Hareketi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1955 yılında Endonezya'da toplanan ve ne Doğu ne de Batı bloğuna dahil olmak istemeyen ülkelerin oluşturduğu \"Bağlantısızlar Hareketi\"nin temellerinin atıldığı konferans hangisidir?",
+      "options": [
+        "Yalta Konferansı",
+        "Helsinki Konferansı",
+        "Bandung Konferansı",
+        "Kahire Konferansı",
+        "Potsdam Konferansı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

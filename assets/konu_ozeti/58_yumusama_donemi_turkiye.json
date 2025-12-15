@@ -1,0 +1,60 @@
+{
+  "konu_adi": "58- YUMUŞAMA DÖNEMİNDE TÜRKİYE (1961 – 1990)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "YUMUŞAMA DÖNEMİNDE TÜRKİYE"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Yumuşama Döneminde Türkiye"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Siyasi Gelişmeler ve Askeri Müdahaleler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "1961 Anayasası: Türkiye Cumhuriyeti'nin en demokratik ve özgürlükçü anayasasıdır (27 Mayıs sonrası).",
+        "12 Mart Muhtırası (1971): Ordu'nun artan toplumsal olaylar nedeniyle hükümete muhtıra vermesi.",
+        "12 Eylül Darbesi (1980): Artan siyasi istikrarsızlık ve terör nedeniyle TSK'nın yönetime el koyması (En kapsamlı askeri müdahale).",
+        "1982 Anayasası: 12 Eylül rejiminin hazırladığı otoriter anayasa."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. ABD ile İlişkilerde Güven Bunalımı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Küba Krizi ve Jüpiter Füzeleri (1962): ABD'nin Türkiye'deki füzeleri SSCB'ye sormadan sökme taahhüdü, ilk büyük güven bunalımına yol açmıştır.",
+        "Johnson Mektubu (1964): ABD Başkanı Johnson'ın Kıbrıs'a müdahale etmemesi yönünde tehdit içerikli mektubu (İlişkilerin en gergin olduğu olaylardan biri)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🗺️ Kıbrıs Sorunu ve Barış Harekatı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Durum: Kıbrıs'taki Rumların, Enosis (Kıbrıs'ı Yunanistan'a bağlama) hedefine ulaşmak amacıyla Türk azınlığa yönelik saldırıları.",
+        "Kıbrıs Barış Harekatı (1974): Rum darbesi ve Enosis tehlikesi üzerine Türkiye, Garanti Anlaşması'ndan doğan hakkını kullanarak müdahalede bulunmuştur.",
+        "Sonuç: Ada, Türk ve Rum bölgesi olarak ikiye ayrılmıştır. Daha sonra Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) kurulmuştur.",
+        "ABD Ambargosu: Harekat nedeniyle ABD, Türkiye'ye askeri ambargo uygulamıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇪🇺 Avrupa ve Türkiye İlişkileri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "AET (AB): Türkiye, 1963'te Ankara Antlaşması ile AET'ye (şimdiki AB) üyelik için ilk adımı atmıştır."
+      ]
+    }
+  ]
+}

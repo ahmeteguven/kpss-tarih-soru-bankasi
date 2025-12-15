@@ -1,0 +1,206 @@
+{
+  "konu_adi": "05- SELÇUKLU DEVLETİ KÜLTÜR VE MEDENİYETİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "SELÇUKLU DEVLETİ KÜLTÜR VE MEDENİYETİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🏰 Devlet Yönetimi ve Egemenlik Anlayışı"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Büyük Selçuklu Devleti, hem eski Türk devlet geleneğini hem de İslamiyet’in getirdiği yeni yönetim ve hukuk anlayışlarını sentezleyerek benzersiz bir idari yapı oluşturmuştur."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Yönetim Yapısı ve Hükümdar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kut Anlayışı: Yönetme yetkisine Halife’nin onayı da eklenmiştir. Tuğrul Bey, Halife’den \"Doğu’nun ve Batı’nın Sultanı\" unvanını almıştır.",
+        "Saltanat: Hükümdarlık babadan oğula geçerdi, bu durum taht kavgalarına yol açmıştır.",
+        "Hükümdar Unvanları: Sultan, Şah, Melik (Hükümdar çocukları), Emir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Saray ve Divan Teşkilatı"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Büyük Divan, devletin en büyük yönetim organıydı ve tüm siyasi, mali ve askeri işler burada görüşülürdü."
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Divan-ı İstifa (Maliye): Mali işlerden sorumludur, başkanı Müstevfi’dir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Divan-ı Arz (Askerlik): Ordunun ihtiyaçları ve maaşları ile ilgilenir, başkanı Emir-i Arz’dır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Divan-ı Tuğra (Yazışma): Resmi yazışmaları ve fermanları hazırlardı, başkanı Tuğrai’dir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Divan-ı İşraf (Teftiş): Devletin mali ve idari işlerini teftiş ederdi, başkanı Müşrif’tir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Niyabet-i Saltanat Divanı: Sultan başkentte olmadığında devlet işlerini yürüten divandır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Taşra (Eyalet) Yönetimi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Melikler: Deneyim kazanmaları için eyaletlere yönetici olarak gönderilen hükümdar çocuklarıydı."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Atabeylik Sistemi: Meliklerin yanına tecrübeli Atabeyler görevlendirilirdi. Merkezi otorite zayıflayınca Atabeyler bağımsız devletler kurarak yıkılışı hızlandırmıştır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ Ordu ve İkta Sistemi"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Ordu Yapısı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hassa Askerleri: Doğrudan Sultana bağlı, Gulam sistemiyle yetiştirilen profesyonel maaşlı askerlerdir.",
+        "İkta Askerleri (Sipahiler): İkta sisteminden yetişen, sayıca en kalabalık ve en güçlü askerlerdir.",
+        "Türkmenler: Uç beyliklerinde sınır güvenliğini sağlayan gönüllü kuvvetlerdir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "İkta Sistemi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanımı: Mülkiyeti devlete ait olan arazilerin, asker ve devlet görevlilerine hizmet ve maaş karşılığında tahsis edilmesidir.",
+        "Faydaları: Hazineye yük azalır, üretimde süreklilik sağlanır, bölge güvenliği sağlanır, hazır ordu oluşumu sağlanır.",
+        "Önemi: Osmanlı Devleti'ndeki Tımar Sistemi'ne temel oluşturmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚖️ Hukuk Sistemi ve Maliye"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Hukuk"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Şer’i Hukuk: İslam kurallarına dayalıdır. Başkanı Kadıü'l-Kudat'tır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Örfi Hukuk: Türk örf ve adetlerine dayalıdır. Devlet işlerini kapsar, başında Emir-i Dâd bulunur."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Divan-ı Mezalim: Sultan'ın başkanlık ettiği, ağır siyasi suçlara bakan yüksek mahkemedir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Maliye ve Ekonomi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Şer'i Vergiler: Öşür (Müslüman), Haraç ve Cizye (Gayrimüslim).",
+        "Ahilik Teşkilatı: Esnaf ve zanaatkârların sosyal, ekonomik ve ahlaki yönden gelişimini sağlayan kurumdur.",
+        "Ticari Gelişmeler: Kervansaraylar (Ribatlar) inşa edilmiştir. Ticaret yollarının güvenliği sağlanmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🧠 İlim, Eğitim ve Kültür"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Nizamiye Medreseleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kuruluş: Vezir Nizamülmülk tarafından kurulmuştur. En önemlisi Bağdat Nizamiye Medresesi’dir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Amaçları: Devlet memuru ihtiyacını karşılamak, Sünni inancını yaymak ve Şii-Bâtınî (Haşhaşilik) faaliyetlerine karşı fikri mücadele yürütmek."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Dil ve Edebiyat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Resmi Dil (Devlet ve Bilim Dili): Farsça (Türk dilinin gelişimini yavaşlatmıştır).",
+        "Halk Dili: Türkçe.",
+        "Din Dili: Arapça."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🖼️ Sanat ve Mimari"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Mimari Eserler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kümbet: Silindirik veya çokgen gövdeli, konik çatılı anıt mezarlardır (Türk çadırının mimariye yansımasıdır)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kervansaray (Ribat): Ticaret yollarının güvenliğini sağlamak için inşa edilmiştir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Şifahane (Darüşşifa): Hastanelerdir."
+        }
+      ]
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Selçuklu sanatında Taş İşçiliği, Çini (mozaik çini) ve Hat (Hüsn-ü Hat) sanatları öne çıkmıştır."
+    }
+  ]
+}

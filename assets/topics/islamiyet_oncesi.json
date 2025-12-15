@@ -1,0 +1,1235 @@
+{
+  "topicName": "İslamiyet Öncesi Türk Tarihi",
+  "testSets": [
+    {
+      "testName": "Mini Test - 1",
+      "preTestNote": "Türk Adı: Çin kaynaklarında \"Miğfer\", Kaşgarlı Mahmut'ta \"Olgunluk Çağı\", Ziya Gökalp'te \"Töreli\", Wambery'de \"Türemek\" anlamına gelir.\n\nCoğrafya: Orta Asya'nın en eski kültürü Anav, Türklerin en eski kültürü Afanasyevo, en gelişmiş kültür Tagar'dır. Karasuk'ta demir ilk kez işlenmiştir.\n\nİskitler (Sakalar): Bilinen ilk Türk topluluğudur. \"Bozkırın Kuyumcuları\" olarak bilinirler. En ünlü hükümdarları Alper Tunga, bilinen ilk kadın hükümdarları Tomris Hatun'dur.\n\nAsya Hun Devleti: Tarihte bilinen ilk teşkilatlı Türk devletidir. Kurucusu Teoman, en parlak dönemi Mete Han'dır.\n\nMete Han: Orduda Onlu Sistemi kurmuştur (MÖ 209 - KKK kuruluş tarihi). Türk boylarını ilk kez tek bayrak altında toplamıştır. Çin'i vergiye bağlamış ama asimile olmamak için yerleşmemiştir.\n\nKavimler Göçü: Kuzey Hunlarının Balamir önderliğinde batıya göçüyle başlar. Roma ikiye ayrılmış, feodalite ortaya çıkmış, skolastik düşünce yayılmıştır.\n\nAvrupa Hunları: Avrupa'da kurulan ilk Türk devletidir. Kurucusu Balamir, en parlak dönemi Attila (Tanrı'nın Kırbacı / Cesur Kavimlerin Efendisi)'dır. Bizans ile Margus ve Anatolius antlaşmaları imzalanmıştır.",
+      "questions": [
+        {
+          "text": "Türk adı, tarihi süreçte farklı kaynaklarda farklı anlamlarda kullanılmıştır. \"Miğfer\" anlamı, Türklerin ürettiği başlıkların şeklinden dolayı verilmiştir. Bu benzetmeyi yaparak Türk adını \"Miğfer\" olarak tanımlayan kaynak aşağıdakilerden hangisidir?",
+          "options": [
+            "Arap Kaynakları",
+            "Bizans Kaynakları",
+            "Çin Kaynakları",
+            "İran Kaynakları",
+            "Hint Kaynakları"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Orta Asya kültür merkezleri ile ilgili yapılan eşleştirmelerden hangisi yanlıştır?",
+          "options": [
+            "Andronova - Yerleşik hayata geçen ilk kültür",
+            "Anav - Orta Asya'nın bilinen en eski kültürü",
+            "Tagar - Günümüze en yakın ve en gelişmiş kültür",
+            "Karasuk - Demirin ilk kez işlendiği kültür",
+            "Afanasyevo - Türklerin en eski kültürü"
+          ],
+          "correctOption": "A",
+          "solution": "Andronova Türklerin atalarıdır ve yayılma alanı en geniştir. Yerleşik hayat Kelteminar'da başlar, Uygurlar ile kesinleşir."
+        },
+        {
+          "text": "Bilinen ilk Türk topluluğu olan İskitler (Sakalar), maden işlemeciliğindeki ustalıkları nedeniyle tarihçiler tarafından özel bir unvanla anılmışlardır. İskitler için kullanılan bu unvan aşağıdakilerden hangisidir?",
+          "options": [
+            "Dünyanın Efendileri",
+            "Savaşın Kartalları",
+            "Barışın Elçileri",
+            "Bozkırın Kuyumcuları",
+            "Altın Elbiseli Adamlar"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Tarihte bilinen ilk Türk devleti olan Asya Hun Devleti'nin kurucusu aşağıdakilerden hangisidir?",
+          "options": [
+            "Mete Han",
+            "Ki-ok",
+            "Balamir",
+            "Çi-çi",
+            "Teoman"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Türk tarihinde \"Vatan\" sevgisinden bahseden ve toprak milletindir diyerek toprağın kutsallığını vurgulayan ilk hükümdar kimdir?",
+          "options": [
+            "Bilge Kağan",
+            "Attila",
+            "Mete Han",
+            "İlteriş Kağan",
+            "Bumin Kağan"
+          ],
+          "correctOption": "C",
+          "solution": "Tunguzların toprak isteğini reddederken bu vurguyu yapmıştır."
+        },
+        {
+          "text": "Asya Hun Hükümdarı Mete Han, Çin'i askeri olarak mağlup etmesine rağmen Çin topraklarına yerleşmemiş, sadece vergiye bağlamakla yetinmiştir. Mete Han'ın bu politikasının temel amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "Çin'in askeri gücünden çekinmesi",
+            "Türk nüfusunun asimile olmasını engellemek",
+            "Çin topraklarının tarıma elverişsiz olması",
+            "Çin ile dostluk ilişkileri kurmak",
+            "Farklı seferlere hazırlık yapmak"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türk ordusunun temelini oluşturan \"Onlu Sistem\" ilk kez hangi hükümdar döneminde oluşturulmuştur?",
+          "options": [
+            "Mete Han",
+            "Teoman",
+            "Bumin Kağan",
+            "Satuk Buğra Han",
+            "Attila"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Tarihte Türkler ile Çinliler arasında imzalanan bilinen ilk yazılı antlaşma aşağıdakilerden hangisidir?",
+          "options": [
+            "Kadeş Antlaşması",
+            "Margus Antlaşması",
+            "Anatolius Antlaşması",
+            "Zitvatorok Antlaşması",
+            "Kuzey Şansi Antlaşması"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "I. Avrupa’da feodalite rejiminin ortaya çıkması\nII. Roma İmparatorluğu’nun ikiye ayrılması\nIII. Hristiyanlığın yayılması ve skolastik düşüncenin güçlenmesi\nYukarıdakilerden hangileri Kavimler Göçü’nün sonuçları arasında yer alır?",
+          "options": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "I ve III",
+            "I, II ve III"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Avrupa Hun Devleti’nin en parlak dönemini yaşatan, Hristiyan dünyasında \"Tanrı’nın Kırbacı\" (Flagellum Dei) olarak nitelendirilen hükümdar kimdir?",
+          "options": [
+            "Balamir",
+            "Uldız",
+            "Attila",
+            "Rua",
+            "İlek"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Bizans İmparatorluğu ile \"Margus\" ve \"Anatolius\" antlaşmalarını imzalayarak Bizans'ı vergiye bağlayan Türk devleti hangisidir?",
+          "options": [
+            "Avarlar",
+            "Peçenekler",
+            "Asya Hun Devleti",
+            "Hazarlar",
+            "Avrupa Hun Devleti"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Alp Er Tunga ve Şu destanları aşağıdaki Türk topluluklarından hangisine aittir?",
+          "options": [
+            "Hunlar",
+            "Göktürkler",
+            "Uygurlar",
+            "İskitler",
+            "Kırgızlar"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "İskitlerin (Sakalar) Perslerle yaptıkları savaşlarda öne çıkan ve tarihteki ilk kadın hükümdar olarak bilinen liderleri kimdir?",
+          "options": [
+            "Ay Hatun",
+            "Tomris Hatun",
+            "Altuncan Hatun",
+            "Terken Hatun",
+            "Sümbül Hatun"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türk devletlerinde hükümdarın erkek çocuklarına \"Tigin\" denirdi. Tiginler deneyim kazanmaları için boylara yönetici olarak gönderildiklerinde hangi unvanı alırlardı?",
+          "options": [
+            "Ataman (İnal/İnanç)",
+            "Yabgu",
+            "Subaşı",
+            "Tudun",
+            "Şad"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde devlet işlerinin görüşülüp karara bağlandığı meclise \"Kurultay\" (Toy) denirdi. Aşağıdakilerden hangisi Kurultay'ın üyelerinden (Toygun) biri değildir?",
+          "options": [
+            "Hakan",
+            "Hatun",
+            "Boy Beyleri",
+            "Hanedan Üyeleri",
+            "Din Adamları (Kam/Baksı)"
+          ],
+          "correctOption": "B",
+          "solution": "Din adamlarının Kurultay'da yer alması söz konusu değildir, bu durum teokratik olmadıklarını gösterir."
+        },
+        {
+          "text": "\"Güneşin bayrağımız, gökyüzünün çadırımız olduğu\" fikrini benimseyerek Türk Cihan Hakimiyeti ülküsünü savunan Asya Hun hükümdarı kimdir?",
+          "options": [
+            "Teoman",
+            "Ki-ok",
+            "Ho-han-yeh",
+            "Çi-çi",
+            "Mete Han"
+          ],
+          "correctOption": "E",
+          "solution": "Oğuz Kağan Destanı'nda geçen ifadedir, Oğuz Kağan'ın Mete Han olduğu kabul edilir."
+        },
+        {
+          "text": "Asya Hun Devleti'nin yıkılma sürecinde, kardeşi Ho-han-yeh'in Çin egemenliğine girmesini \"utanç verici\" bularak reddeden ve bağımsızlığı savunan Türk lider kimdir?",
+          "options": [
+            "Teoman",
+            "Balamir",
+            "Kürşat",
+            "Bumin",
+            "Çi-çi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Orta Asya Türk devletlerinde ölülerin eşyalarıyla birlikte gömüldüğü mezarlara ne ad verilir?",
+          "options": [
+            "Balbal",
+            "Uçmağ",
+            "Tamu",
+            "Kurgan",
+            "Yuğ"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Türklerin, Çinliler ile mücadele etmelerindeki temel ekonomik sebep aşağıdakilerden hangisidir?",
+          "options": [
+            "Kürk Yolu'nu ele geçirmek",
+            "Baharat Yolu'nu kontrol etmek",
+            "Tarım arazilerini genişletmek",
+            "Su kaynaklarına ulaşmak",
+            "İpek Yolu'na hakim olmak"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Kavimler Göçü'nü başlatan Hun lideridir?",
+          "options": [
+            "Attila",
+            "Uldız",
+            "Karaton",
+            "Rua",
+            "Balamir"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 2",
+      "preTestNote": "I. Göktürk Devleti: Tarihte \"Türk\" adını siyasi olarak ilk kez kullanan devlettir. Kurucusu Bumin Kağan, merkezi Ötüken'dir. En parlak dönemi Mukan Kağan'dır.\n\nİpek Yolu için Sasanilerle anlaşıp Akhunları yıkmış, sonra Bizans ile anlaşıp Sasanileri zayıflatmıştır (Denge Politikası).\n\nKürşad Ayaklanması: Türk tarihinin ilk bağımsızlık (istiklal) ayaklanmasıdır.\n\nII. Göktürk (Kutluk) Devleti: Kurucusu Kutluk Kağan'dır (Devleti derleyip toplayan anlamında İlteriş unvanını almıştır). Vezir Tonyukuk (Türklerin Bismarck'ı) bu dönemdedir.\n\nOrhun Abideleri: Türk tarihinin ilk yazılı eserleridir. II. Göktürk döneminde; Tonyukuk, Kül Tigin ve Bilge Kağan adına dikilmiştir. Yazar: Yollug Tigin. Siyasetname özelliği taşır.\n\nUygurlar: Kurucusu Kutluk Bilge Kül Kağan, merkezi Ötüken sonra Karabalgasun'dur. Bögü Kağan döneminde Manihaizm dinini kabul etmişlerdir.\n\nUygurlarda İlkler: Yerleşik hayata geçiş, ilk şehirler (Balıg), ilk mimari eserler, matbaa ve kağıt kullanımı, törelerin yazılı hale gelmesi, bankacılık, kütüphane, tiyatro.",
+      "questions": [
+        {
+          "text": "Tarihte \"Türk\" adını ilk kez bir devlet adı olarak kullanan ve Orta Asya'daki dağınık Türk boylarını ikinci kez tek bayrak altında toplayan devlet aşağıdakilerden hangisidir?",
+          "options": [
+            "Asya Hun Devleti",
+            "Uygur Devleti",
+            "I. Göktürk Devleti",
+            "Kutluk Devleti",
+            "Avarlar"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "I. Göktürk Devleti'nin Batı kanadını yöneten, İpek Yolu hakimiyeti için Sasanilerle iş birliği yapıp Akhunları yıkan, daha sonra Bizans'a elçi göndererek Bizans ile ittifak kuran ünlü Türk hükümdarı (Yabgu) kimdir?",
+          "options": [
+            "İstemi Yabgu",
+            "Bumin Kağan",
+            "Mukan Kağan",
+            "Tapo Kağan",
+            "Tardu"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Türk tarihinin bilinen ilk veziri olan, I. Göktürk, II. Göktürk devletlerinde görev yapan ve kendi adına anıt diktiren \"Türklerin Bismarck'ı\" lakaplı devlet adamı kimdir?",
+          "options": [
+            "Yuluğ Tigin",
+            "Kültigin",
+            "Bilge Kağan",
+            "Tonyukuk",
+            "Baga Tarkan"
+          ],
+          "correctOption": "D",
+          "solution": "Dikkat: I. Göktürk'ün son zamanları ve II. Göktürk'ün kuruluşunda etkilidir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi II. Göktürk (Kutluk) Devleti'nin kurucusu olup, devleti derleyip toparladığı için kendisine \"İlteriş\" unvanı verilen hükümdardır?",
+          "options": [
+            "Kapgan Kağan",
+            "Bilge Kağan",
+            "Bumin Kağan",
+            "Mukan Kağan",
+            "Kutluk Kağan"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Türk edebiyatının ve tarihinin ilk yazılı örnekleri olan Orhun Abideleri; I. Tonyukuk II. Kül Tigin III. Bilge Kağan IV. İlteriş Kağan kişilerinden hangileri adına dikilmiştir?",
+          "options": [
+            "I ve II",
+            "I ve III",
+            "II ve III",
+            "I, II ve III",
+            "I, II, III ve IV"
+          ],
+          "correctOption": "B",
+          "solution": "İlteriş Kağan adına anıt dikilmemiştir."
+        },
+        {
+          "text": "Orhun Abideleri’nin yazarı olarak bilinen ve aynı zamanda hanedan üyesi olan kişi aşağıdakilerden hangisidir?",
+          "options": [
+            "Tonyukuk",
+            "Bilge Kağan",
+            "Kül Tigin",
+            "Bögü Kağan",
+            "Yollug Tigin"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Uygur Devleti'nde Manihaizm dininin kabul edilmesiyle birlikte Türklerin yaşam tarzında köklü değişiklikler olmuştur. Aşağıdakilerden hangisi bu değişikliklerden biri değildir?",
+          "options": [
+            "Et yemenin yasaklanmasıyla hayvancılığın zayıflaması",
+            "Savaşçılık özelliklerinin zayıflaması",
+            "Yerleşik hayata geçilmesi",
+            "Veraset sisteminin değişmesi",
+            "Tapınak mimarisinin gelişmesi"
+          ],
+          "correctOption": "C",
+          "solution": "Din değişikliği veraset sistemini -kut anlayışını- değiştirmemiştir."
+        },
+        {
+          "text": "Uygurlar döneminde inşa edilen şehirlere ne ad verilirdi?",
+          "options": [
+            "Yurt",
+            "Kurgan",
+            "Otağ",
+            "Ribat",
+            "Balıg"
+          ],
+          "correctOption": "A",
+          "solution": "Örn: Beşbalıg, Karabalgasun"
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Türk tarihinde yerleşik hayata geçildiğinin kesin kanıtlarından biridir?",
+          "options": [
+            "Çadırlarda yaşamak",
+            "Hayvancılıkla uğraşmak",
+            "Dokumacılık yapmak",
+            "Sulama kanalları açmak ve tohumluk buğday ambarları kurmak",
+            "Tahıl öğütme taşları kullanmak"
+          ],
+          "correctOption": "D",
+          "solution": "Tahıl öğütme taşı göçebelerde de olabilir -taşınabilir-, ancak sulama kanalı ve tohumluk ambarı yerleşikliği kanıtlar."
+        },
+        {
+          "text": "Türk tarihinde; Törelerin yazılı hale getirilmesi, İlk kütüphanelerin kurulması, Orta oyunu ile tiyatronun temelinin atılması gibi gelişmeler ilk kez hangi devlet döneminde görülmüştür?",
+          "options": [
+            "Göktürkler",
+            "Hazarlar",
+            "Karahanlılar",
+            "Türgişler",
+            "Uygurlar"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Orhun Abideleri günümüzde hangi ülkenin sınırları içerisinde yer almaktadır?",
+          "options": [
+            "Türkiye",
+            "Çin",
+            "Rusya",
+            "Kazakistan",
+            "Moğolistan"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "I. Göktürk Devleti hükümdarlarından hangisi Budizm'i benimseyip halkına da kabul ettirmek isteyince Kurultay tarafından tepkiyle karşılanmış ve reddedilmiştir?",
+          "options": [
+            "Bumin Kağan",
+            "Mukan Kağan",
+            "İşbara Kağan",
+            "Kapgan Kağan",
+            "Tapo Kağan"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Uygurlar, Manihaizm dininin terimlerinin Türkçe karşılıklarını kullanmaya özen göstermişlerdir. Bu durum Uygurların aşağıdakilerden hangisine önem verdiğini gösterir?",
+          "options": [
+            "Ulusal benliklerini korumaya",
+            "Dini yaymaya",
+            "Savaşçı özelliklerini sürdürmeye",
+            "Çin ile iyi ilişkiler kurmaya",
+            "Ticareti geliştirmeye"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Türk tarihinde parayı değişim aracı olarak kullanan ilk devlet Göktürkler olsa da, kendi adına para bastıran (Yarmak) ilk Türk devleti aşağıdakilerden hangisidir?",
+          "options": [
+            "Asya Hun",
+            "II. Göktürk",
+            "Uygurlar",
+            "Hazarlar",
+            "Türgişler"
+          ],
+          "correctOption": "E",
+          "solution": "Türgişler - Baga Tarkan. Not: MEB kaynaklarında bazen Göktürk parası tartışmalı olsa da, Baga Tarkan kendi adına para bastıran ilk hükümdar olarak net bilgidir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Uygur sanatına ait terimlerden biri değildir?",
+          "options": [
+            "Fresko (Duvar resmi)",
+            "Minyatür",
+            "Stupa (Tapınak)",
+            "Bedizci (Ressam)",
+            "Balbal (Mezar Taşı)"
+          ],
+          "correctOption": "B",
+          "solution": "Balbal, İslamiyet öncesi genel Türk kültüründe vardır ancak Uygur sanatına özgü bir yerleşik sanat terimi değildir, göçebe geleneğidir. Fresko ve Stupa direkt Uygur mimarisiyle ilgilidir."
+        },
+        {
+          "text": "Çin entrikaları sonucu I. Göktürk Devleti'nin yıkılmasından sonra Türklerin 50 yıl süren Çin esaretine girdiği döneme \"Matem Devresi\" denir. Bu dönemde Çin sarayını basarak bağımsızlık ateşini yakan Türk kahramanı kimdir?",
+          "options": [
+            "Bumin",
+            "Kutluk",
+            "Tonyukuk",
+            "Bilge Kağan",
+            "Kürşad"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Orhun Abideleri'nin çözümlenen ilk kelimesi \"Tengri\" olmuştur. Abideleri okuyan ilk filolog kimdir?",
+          "options": [
+            "W. Radloff",
+            "V. Thomsen",
+            "Strabon",
+            "Barthold",
+            "Zeki Velidi Togan"
+          ],
+          "correctOption": "D",
+          "solution": "Danimarkalı William Thomsen"
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Türklerin kullandığı alfabelerden biri olan Sogd alfabesinden türetilmiştir?",
+          "options": [
+            "Uygur Alfabesi",
+            "Göktürk Alfabesi",
+            "Kiril Alfabesi",
+            "Latin Alfabesi",
+            "Arap Alfabesi"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Moğolların devlet teşkilatında etkili olan, onlara devlet yönetimi ve yazı dilini öğreterek \"Moğolların Hocası\" olarak bilinen Türk topluluğu hangisidir?",
+          "options": [
+            "Kırgızlar",
+            "Karluklar",
+            "Hazarlar",
+            "Oğuzlar",
+            "Uygurlar"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "I. Halka hesap verme anlayışı vardır.\nII. Sosyal devlet anlayışı görülür (Açları doyurdum, çıplakları giydirdim).\nIII. Çin entrikalarına karşı uyarılar içerir.\nOrhun Abideleri'nin içeriğiyle ilgili yukarıdakilerden hangileri doğrudur?",
+          "options": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 3",
+      "preTestNote": "Hem Asya Hem Avrupa'da Devlet Kuranlar: Hunlar ve Avarlar.\n\nAvarlar (Juan Juanlar): İstanbul'u kuşatan ilk Türk devletidir (iki kez kuşattılar). Slavları askeri teşkilatlanma konusunda etkilediler.\n\nHazarlar: Museviliği kabul eden ilk ve tek Türk devletidir. Ticaretle zenginleşmişler, \"Kürk Yolu\"nu kullanmışlar ve hoşgörülü bir ortam yaratarak \"Hazar Barış Çağı\"nı (Pax Hazaria) yaşatmışlardır. Ordularında paralı asker kullanan tek Türk devletidir.\n\nTürgişler: Emevilerle mücadele ederek İslamiyet'in Orta Asya'da yayılmasını bir süre engellemişlerdir (Hükümdar: Sulu Kağan). Baga Tarkan döneminde kendi adına para bastıran ilk devlettir.\n\nBulgarlar: İtil (Volga) Bulgarları: İslamiyet'i kabul eden ilk Türk devletidir. (Almış Han dönemi). Ünlü seyyah İbni Fadlan burayı ziyaret etmiştir. Tuna Bulgarları: Hristiyanlığı kabul edip asimile olmuşlardır (Boris Han). \"Çar\" unvanını kullanan ilk Türk devleti (Simon).\n\nPeçenekler & Kıpçaklar (Kumanlar): Devlet kuramayıp boy halinde kalmışlardır. Bizans ordusunda paralı askerlik yapmışlar, Malazgirt Savaşı'nda taraf değiştirerek zaferde rol oynamışlardır.\n\nKırgızlar: Ötüken'i ele geçiren son Türk kavmidir. Dünyanın en uzun destanı olan Manas Destanı onlara aittir.\n\nDevlet Yönetimi: Kut: Hükümdarlık yetkisinin Tanrı'dan alındığına inanılması. İkili Teşkilat: Doğu-Batı yönetimi. Doğu kutsaldır (Hakan oturur), Batı'yı Yabgu (Kardeş) yönetir.",
+      "questions": [
+        {
+          "text": "Hem Asya'da hem de Avrupa'da devlet kurma özelliğine sahip olan Türk toplulukları aşağıdakilerin hangisinde birlikte verilmiştir?",
+          "options": [
+            "Hunlar - Göktürkler",
+            "Avarlar - Uygurlar",
+            "Göktürkler - Avarlar",
+            "Uygurlar - Hazarlar",
+            "Hunlar - Avarlar"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki Türk devletlerinden hangisi İstanbul'u kuşatan ilk Türk devleti olma özelliğine sahiptir?",
+          "options": [
+            "Avarlar",
+            "Peçenekler",
+            "Tuna Bulgarları",
+            "Macarlar",
+            "Çaka Beyliği"
+          ],
+          "correctOption": "A",
+          "solution": "Sasanilerle iş birliği yaparak kuşatmışlardır."
+        },
+        {
+          "text": "Museviliği benimseyen ilk ve tek Türk devleti olup, ülkelerinde farklı dinlere mensup insanların davalarına bakmak için her dinden temsilcilerin bulunduğu mahkemeler kurarak \"Barış Çağı\" (Pax Hazaria) yaşatan devlet hangisidir?",
+          "options": [
+            "Türgişler",
+            "Macarlar",
+            "Hazarlar",
+            "Kıpçaklar",
+            "Peçenekler"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Türk tarihinde ordusuna ücretli asker alan ilk ve tek Türk devleti aşağıdakilerden hangisidir?",
+          "options": [
+            "Büyük Selçuklu",
+            "Gazneliler",
+            "Osmanlılar",
+            "Hazarlar",
+            "Uygurlar"
+          ],
+          "correctOption": "D",
+          "solution": "Normalde Türklerde ordu-millet anlayışı vardır, Hazarlar zengin oldukları için bu yola başvurmuştur."
+        },
+        {
+          "text": "Emevilerle şiddetli mücadelelere girerek (\"Haristan Savaşı\" vb.) İslamiyet'in Orta Asya'da yayılmasını bir süre geciktiren Türk devleti aşağıdakilerden hangisidir?",
+          "options": [
+            "Karluklar",
+            "Karahanlılar",
+            "Gazneliler",
+            "Oğuzlar",
+            "Türgişler"
+          ],
+          "correctOption": "E",
+          "solution": "Aynı durum Kafkaslarda İslam'ın yayılmasını engelleyen Hazarlar için de geçerlidir."
+        },
+        {
+          "text": "Abbasiler döneminde gönderilen elçiler aracılığıyla İslamiyet ile tanışan ve İslamiyet’i kabul eden \"ilk Türk Devleti\" aşağıdakilerden hangisidir?",
+          "options": [
+            "İtil (Volga) Bulgarları",
+            "Karahanlılar",
+            "Tuna Bulgarları",
+            "Gazneliler",
+            "Tolunoğulları"
+          ],
+          "correctOption": "A",
+          "solution": "Not: İslam'ı kabul eden ilk \"boy\" Karluklar, ilk \"devlet\" İtil Bulgarları, Orta Asya'da kurulan ilk Müslüman Türk devleti Karahanlılar'dır."
+        },
+        {
+          "text": "Bizans ordusunda paralı askerlik yaparken 1071 Malazgirt Savaşı sırasında saf değiştirerek Büyük Selçuklu ordusuna katılan ve savaşın kazanılmasında etkili olan Türk boyları hangileridir?",
+          "options": [
+            "Kıpçaklar ve Macarlar",
+            "Avarlar ve Bulgarlar",
+            "Hazarlar ve Türgişler",
+            "Karluklar ve Yağmalar",
+            "Uzlar ve Peçenekler"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Rusların meşhur \"İgor Destanı\"na konu olan ve Altın Orda Devleti’nin Türkleşmesinde etkili olan Türk topluluğu hangisidir?",
+          "options": [
+            "Peçenekler",
+            "Hazarlar",
+            "Avarlar",
+            "Oğuzlar",
+            "Kıpçaklar (Kumanlar)"
+          ],
+          "correctOption": "E",
+          "solution": "Ayrıca Dede Korkut hikayelerinde de Oğuzlarla mücadeleleri anlatılır."
+        },
+        {
+          "text": "Aşağıdaki Türk devletlerinden hangisi Hristiyanlığı kabul ederek zamanla slavlaşmış ve Türk kimliğini kaybetmiştir?",
+          "options": [
+            "İtil Bulgarları",
+            "Hazarlar",
+            "Karluklar",
+            "Kırgızlar",
+            "Tuna Bulgarları"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Dünyanın en uzun destanı olarak bilinen \"Manas Destanı\" aşağıdaki Türk topluluklarından hangisine aittir?",
+          "options": [
+            "Kazaklar",
+            "Oğuzlar",
+            "İskitler",
+            "Uygurlar",
+            "Kırgızlar"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Tarihte \"Çar\" unvanını kullanan ilk Türk hükümdarı kimdir?",
+          "options": [
+            "Boris Han",
+            "Almış Han",
+            "Arpad",
+            "Asparuh",
+            "Simon"
+          ],
+          "correctOption": "A",
+          "solution": "Tuna Bulgarları hükümdarı"
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde, devletin \"Doğu\" ve \"Batı\" olarak iki koldan yönetilmesine \"İkili Teşkilat\" denir. İkili teşkilat uygulamasının temel nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Taht kavgalarını önlemek",
+            "Farklı kültürleri bir arada tutmak",
+            "Demokrasiyi geliştirmek",
+            "Ordunun gücünü artırmak",
+            "Ülke yönetimini kolaylaştırmak"
+          ],
+          "correctOption": "D",
+          "solution": "Ancak bu sistem federal bir yapı oluşturduğu için devletin parçalanmasını da hızlandırmıştır."
+        },
+        {
+          "text": "Türklerde hükümdarlık alametleri arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Otağ (Çadır)",
+            "Örgin (Taht)",
+            "Tuğ (Sancak)",
+            "Kotuz (Sorguç)",
+            "Hutbe okutmak"
+          ],
+          "correctOption": "B",
+          "solution": "Hutbe okutmak İslamiyet ile gelen bir hükümdarlık alametidir."
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde hükümdara devleti yönetme yetkisinin Tanrı tarafından verildiğine inanılırdı. \"Kut\" adı verilen bu anlayışa göre ülke hanedanın ortak malı sayılırdı. Aşağıdakilerden hangisi Kut anlayışının sonuçlarından biri değildir?",
+          "options": [
+            "Hanedan üyelerinin tahta geçme hakkının olması",
+            "Taht kavgalarının yaşanması",
+            "Devletlerin kısa ömürlü olması",
+            "Hükümdarın yetkilerinin sınırsız olması",
+            "Kanın kutsal sayılıp hanedan üyelerinin kanının akıtılmaması"
+          ],
+          "correctOption": "D",
+          "solution": "Türklerde hükümdarın yetkileri Töre ile sınırlıdır, mutlak monarşi tam anlamıyla yoktur."
+        },
+        {
+          "text": "2008 yılında kurulan \"Türk Dünyası Araştırmaları Enstitüsü\"ne (Türkoloji) ev sahipliği yapan ve kökenlerini Atilla'ya dayandıran Türk topluluğu/devleti hangisidir?",
+          "options": [
+            "Macaristan",
+            "Bulgaristan",
+            "Türkmenistan",
+            "Azerbaycan",
+            "Özbekistan"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde \"Yabgu\" unvanını taşıyan kişi, devlet yönetiminde hangi görevi üstlenirdi?",
+          "options": [
+            "Orduların başkomutanı",
+            "Dini törenlerin yöneticisi",
+            "Ülkenin batı kanadının yöneticisi",
+            "Veliaht prens",
+            "Hükümet başkanı (Başbakan)"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi, Türklerin tarih boyunca en kalabalık boyu olan ve hem Büyük Selçuklu hem de Osmanlı gibi büyük devletlerin kurucusu olan boydur?",
+          "options": [
+            "Karluklar",
+            "Kıpçaklar",
+            "Peçenekler",
+            "Avarlar",
+            "Oğuzlar (Uzlar)"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Kodeks Kumanikus (Codex Cumanicus) adlı sözlük, hangi Türk topluluğunun dilini ve kültürünü yansıtan önemli bir eserdir?",
+          "options": [
+            "Peçenekler",
+            "Hazarlar",
+            "Bulgarlar",
+            "Avarlar",
+            "Kıpçaklar"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde hükümet (bakanlar kurulu) karşılığında kullanılan kavram aşağıdakilerden hangisidir?",
+          "options": [
+            "Kurultay",
+            "Ayukı",
+            "Aygucı",
+            "Toygun",
+            "Yarlıg"
+          ],
+          "correctOption": "D",
+          "solution": "Aygucı: Başbakan, Ayukı: Hükümet"
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Türk devletlerinde \"Devlet\"i (İl) oluşturan unsurlardan biri değildir?",
+          "options": [
+            "Kün (Halk)",
+            "Oksızlık (Bağımsızlık)",
+            "Yurt (Toprak)",
+            "Töre (Kanun)",
+            "Ülüş (Ekonomi/Paylaşım)"
+          ],
+          "correctOption": "B",
+          "solution": "Devletin 4 temel unsuru vardır: Halk (Kün), Toprak (Yurt), Bağımsızlık (Oksızlık) ve Teşkilat/Kanun (Töre). Ülüş, ekonomik bir ilkedir, devletin kurucu unsuru olarak sayılmaz."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 4",
+      "preTestNote": "Toplum Yapısı (Hiyerarşi): Oguş (Aile) → Urug (Sülale) → Boy (Kabile) → Budun (Millet) → İl (Devlet). En küçük yapı taşı Oguş tur.\n\nSosyal Hayat: Göçebe yaşamdan dolayı sınıf ayrımı yoktur (Kölelik yok). Toprak mülkiyeti devlete aittir (Miri Arazi).\n\nOrdu: \"Ordu-Millet\" anlayışı vardır (Her Türk asker doğar). Ücretli askerlik (Hazarlar hariç) yoktur. Savaş taktiği: Turan / Hilal / Sahte Ricat (Geri Çekilme) taktiğidir.\n\nHukuk: Hukuk kurallarına Töre denir. Töre; gelenek, kurultay kararları ve hakanın emirlerinden oluşur. Hakan bile töreye uymak zorundadır (Kanun üstünlüğü). Kavramlar: Yargu (Siyasi mahkeme), Yargan/Yargucı (Yargıç).\n\nTörenin Değişmez İlkeleri: Könilik (Adalet), Uzluk (İyilik/Faydalı olma), Tüzlük (Eşitlik), Kişilik (İnsanlık).\n\nDin ve İnanış: En yaygın inanç Gök Tanrı inancıdır. Kavramlar: Uçmağ (Cennet), Tamu (Cehennem), Kurgan (Mezar), Balbal (Mezar Taşı), Yuğ (Cenaze Töreni), Kam/Baksı (Din Adamı), Ongun (Kutsal sembol/Totem).\n\nAhiret İnancı Kanıtları: Kurganlara eşya ile gömülmek, Balbal dikmek, Uçmağ/Tamu inancı, Mumyalama sanatı.\n\nBilim ve Sanat: 12 Hayvanlı Türk Takvimi (Güneş yılı esaslıdır, Türklerin oluşturduğu tek takvimdir). Sanatta Hayvan Üslubu (kılıç, kemer tokası vb. süslemeler) hakimdir.",
+      "questions": [
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde toplumsal yapıyı oluşturan unsurların küçükten büyüğe doğru sıralanışı aşağıdakilerden hangisinde doğrudur?",
+          "options": [
+            "Oguş - Boy - Urug - Budun - İl",
+            "Oguş - Urug - Boy - Budun - İl",
+            "Urug - Oguş - Boy - İl - Budun",
+            "Boy - Oguş - Urug - Budun - İl",
+            "Oguş - Urug - Budun - Boy - İl"
+          ],
+          "correctOption": "B",
+          "solution": "Aile - Sülale - Boy - Millet - Devlet"
+        },
+        {
+          "text": "Türklerin savaş meydanlarında uyguladıkları, düşmanı çember içine alarak yok etmeyi amaçlayan, \"Sahte Ricat\" (Geri çekilme) ve pusuya dayalı dünyaca ünlü savaş taktiği aşağıdakilerden hangisidir?",
+          "options": [
+            "Turan Taktiği (Hilal)",
+            "Siper Taktiği",
+            "Gerilla Savaşı",
+            "Meydan Savaşı",
+            "Yıldırım Taktiği"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde aşağıdakilerden hangisi ahiret inancının (ölümden sonra yaşam) varlığına bir kanıt olarak gösterilemez?",
+          "options": [
+            "Ölülerin eşyalarıyla birlikte gömülmesi",
+            "Mezarların (Kurgan) oda şeklinde yapılması",
+            "Uçmağ (Cennet) ve Tamu (Cehennem) kavramlarının olması",
+            "Ölülerin arkasından \"Yuğ\" adı verilen cenaze töreni yapılması",
+            "Mezar başlarına Balbal dikilmesi"
+          ],
+          "correctOption": "D",
+          "solution": "Cenaze töreni yapmak bir saygı göstergesidir, ahiret inancını doğrudan kanıtlamaz. Ancak diğer şıklar ikinci bir yaşam inancıyla ilgilidir."
+        },
+        {
+          "text": "Türk töresinin (hukukunun) değişmez dört temel ilkesi vardır. Aşağıdakilerden hangisi bu ilkelerden biri olan \"Könilik\" kavramının karşılığıdır?",
+          "options": [
+            "Eşitlik",
+            "İyilik",
+            "Adalet",
+            "İnsanlık",
+            "Bağımsızlık"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde siyasi suçlara bakan yüksek mahkemeye \"Yargu\" denirdi. Bu mahkemenin başkanlığını kim yapardı?",
+          "options": [
+            "Yargan",
+            "Kağan",
+            "Ayguci",
+            "Şaman",
+            "Tudun"
+          ],
+          "correctOption": "B",
+          "solution": "Yüksek mahkeme olduğu için Kağan başkanlık eder, normal davalara Yargan bakar."
+        },
+        {
+          "text": "Türklerin kullandığı takvimler arasında, Türklerin bizzat kendi oluşturduğu ve \"Güneş Yılı\" esasına dayanan takvim hangisidir?",
+          "options": [
+            "Hicri Takvim",
+            "Celali Takvim",
+            "Rumi Takvim",
+            "12 Hayvanlı Türk Takvimi",
+            "Miladi Takvim"
+          ],
+          "correctOption": "D",
+          "solution": "Hicri Ay yılı esaslıdır, diğerleri Güneş yılı esaslıdır ancak 12 Hayvanlı Takvim Türklerin milli takvimidir."
+        },
+        {
+          "text": "İslamiyet öncesi Türk toplumunda sınıf ayrımı (kölelik-soyluluk) görülmemesinin temel nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Din adamlarının yetkilerinin sınırlı olması",
+            "Hükümdarın yetkilerinin Töre ile kısıtlanması",
+            "Konar-göçer yaşam tarzı ve toprağın devlete ait olması",
+            "Çok geniş coğrafyalara yayılmaları",
+            "Savaşçı bir toplum olmaları"
+          ],
+          "correctOption": "C",
+          "solution": "Toprak mülkiyeti şahısta olmadığı için feodal bir sınıf oluşmamıştır."
+        },
+        {
+          "text": "Eski Türklerde din adamlarına Kam, Baksı veya Şaman denilirdi. Din adamlarının toplumda siyasi bir yetkisi veya ayrıcalığı yoktu. Bu durum Türk devletleri ile ilgili aşağıdakilerden hangisinin göstergesidir?",
+          "options": [
+            "Teokratik bir devlet yapısının olmadığının",
+            "Dini inançların zayıf olduğunun",
+            "Laik bir sistemin tam olarak uygulandığının",
+            "Din adamlarına saygı duyulmadığının",
+            "Yerleşik hayata geçilmediğinin"
+          ],
+          "correctOption": "A",
+          "solution": "Devlet yönetiminin dine dayandırılmaması teokrasinin olmadığını gösterir."
+        },
+        {
+          "text": "Türklerde baharın gelişinin kutlandığı, tabiatın canlanmasını simgeleyen ve \"Ergenekon'dan Çıkış\" olarak da kabul edilen bayram hangisidir?",
+          "options": [
+            "Nevruz",
+            "Hıdırellez",
+            "Ramazan",
+            "Paskalya",
+            "Mihrican"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi İslamiyet öncesi Türk edebiyatının sözlü ürünleri arasında yer almaz?",
+          "options": [
+            "Sav (Atasözü)",
+            "Sagu (Ağıt)",
+            "Koşuk (Şiir)",
+            "Destan",
+            "Kitabe (Yazıt)"
+          ],
+          "correctOption": "E",
+          "solution": "Kitabeler yazılı edebiyat ürünüdür."
+        },
+        {
+          "text": "Türk sanatında, taşınabilir malzemeler üzerine (kemer tokası, kılıç kabzası vb.) hayvan figürlerinin işlenmesiyle oluşturulan sanat tarzına ne ad verilir?",
+          "options": [
+            "Bitki Üslubu",
+            "Geometrik Üslup",
+            "Hayvan Üslubu",
+            "Arabesk Üslup",
+            "Barok Üslup"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde hükümdarın emretme yetkisine, yasama gücüne ne ad verilir?",
+          "options": [
+            "Töre",
+            "Yarlıg",
+            "Kut",
+            "Güç",
+            "Ülüş"
+          ],
+          "correctOption": "B",
+          "solution": "Hakanın emirlerine/fermanlarına Yarlıg denir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Türklerin kullandığı müzik aletlerinden biridir?",
+          "options": [
+            "Kopuz",
+            "Ney",
+            "Keman",
+            "Ud",
+            "Kanun"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "İslamiyet öncesi Türklerde, ölen kişinin ardından yapılan ve \"Sagu\" adı verilen ağıtların okunduğu, yemeklerin verildiği cenaze törenine ne ad verilir?",
+          "options": [
+            "Toy",
+            "Şölen",
+            "Yuğ",
+            "Kurultay",
+            "Kengeş"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Türk tarihinde \"Ordu-Millet\" anlayışı hakimdir. Aşağıdakilerden hangisi bu anlayışın bir sonucudur?",
+          "options": [
+            "Askerliğin özel bir meslek sayılmaması ve halkın savaşa her an hazır olması",
+            "Orduda sadece soyluların görev alması",
+            "Ordunun paralı askerlerden oluşması",
+            "Savaş kararının sadece askerler tarafından verilmesi",
+            "Kadınların orduya alınmaması"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Göçebe yaşam tarzının bir sonucu olarak Türklerde hapis cezaları genellikle kısa süreli olmuştur. Türklerde hapis cezalarının süresi genellikle ne kadardır?",
+          "options": [
+            "10 günü geçmez",
+            "10 gün",
+            "Ömür boyu",
+            "3 ay",
+            "1 yıl"
+          ],
+          "correctOption": "B",
+          "solution": "Genellikle 10 günü geçmez, çünkü göç zamanı geldiğinde mahkumu taşımak veya bırakmak sorundur."
+        },
+        {
+          "text": "İslamiyet öncesi Türklerde \"Oksızlık\" kavramı neyi ifade eder?",
+          "options": [
+            "Bağımsızlık",
+            "Adalet",
+            "Eşitlik",
+            "Ekonomi",
+            "Aile"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki destan - devlet eşleştirmelerinden hangisi yanlıştır?",
+          "options": [
+            "Oğuz Kağan Destanı - Asya Hun",
+            "Ergenekon Destanı - Göktürkler",
+            "Türeyiş Destanı - Uygurlar",
+            "Manas Destanı - Kırgızlar",
+            "Bozkurt Destanı - İskitler"
+          ],
+          "correctOption": "E",
+          "solution": "Bozkurt Destanı Göktürkler'e aittir. İskitlerin destanları Alp Er Tunga ve Şu'dur."
+        },
+        {
+          "text": "Uygur ressamlarına verilen ad aşağıdakilerden hangisidir?",
+          "options": [
+            "Nakkaş",
+            "Bedizci",
+            "Hattat",
+            "Müzehhip",
+            "Ozan"
+          ],
+          "correctOption": "B",
+          "solution": "Nakkaş İslam sonrası minyatür sanatçısıdır."
+        },
+        {
+          "text": "Türklerde devleti yönetme yetkisinin (Kut), kan yoluyla babadan oğula geçtiğine inanılırdı. Ancak bu yetkinin Tanrı tarafından geri alınabileceği inancı da vardı. Bir hükümdarın Kut'u kaybettiğinin (Tanrı desteğini yitirdiğinin) en büyük göstergesi ne sayılırdı?",
+          "options": [
+            "Savaşların kaybedilmesi ve kıtlık yaşanması",
+            "Hükümdarın hastalanması",
+            "Kurultay'ın toplanmaması",
+            "Başka bir dine geçilmesi",
+            "Vergi gelirlerinin artması"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 5",
+      "preTestNote": "Alfabeler: Türklerin tarih boyunca kullandığı alfabe sırası: Göktürk (Milli) -> Uygur (Milli) -> Sogd -> Brahmi -> Süryani -> İbrani -> Kiril -> Arap (İslamiyetle) -> Latin (Cumhuriyetle). Dikkat: Arap alfabesi İslamiyet öncesi kullanılmamıştır.\n\nKanıt Soruları (ÖSYM Sever): Yerleşik Hayat Kanıtları: Sulama kanalı, orak-saban (tarım aleti), tohumluk ambarı, mimari eser, fresko, tapınak. (Tahıl saklama kabı veya tahıl öğütme taşı kesin kanıt değildir, ticaretle alınmış olabilir).\n\nAhiret İnancı Kanıtları: Kurgan (mezar), Balbal, Uçmağ/Tamu, Mumyalama. (Cenaze namazı veya Yuğ töreni kanıt değildir).\n\nDevlet Görevlileri: Tudun: Vergi memuru / Vali. Subaşı: Ordu komutanı. Bitikçi/Tamgacı: Yazışma ve mühür işleri (Dışişleri). Aygucı: Başbakan (Üge). Otacı: Hekim/Doktor.\n\nİpek Yolu Mücadelesi: Türkler İpek Yolu için en çok Çin ile mücadele etmiştir. Göktürkler bu yola hakim olmak için Sasaniler ve Bizans ile ittifaklar kurmuştur.",
+      "questions": [
+        {
+          "text": "Türk tarihinin araştırılmasını zorlaştıran en temel etken aşağıdakilerden hangisidir?",
+          "options": [
+            "Yazılı kaynakların az olması",
+            "Farklı alfabeler kullanmaları",
+            "Türklerin çok geniş bir coğrafyaya yayılmaları ve göçebe yaşamaları",
+            "Çinlilerle sürekli savaşmaları",
+            "Arkeolojik kazıların yetersiz olması"
+          ],
+          "correctOption": "C",
+          "solution": "Farklı coğrafyalar, tarihin bir bütün halinde incelenmesini zorlaştırır."
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde devlet memurları ve görevleri ile ilgili yapılan eşleştirmelerden hangisi yanlıştır?",
+          "options": [
+            "Tudun - Vergi Memuru",
+            "Subaşı - Ordu Komutanı",
+            "Tamgacı - Yazışma ve Diploması",
+            "Otacı - Hekim",
+            "Apa - Din Adamı"
+          ],
+          "correctOption": "E",
+          "solution": "Apa: Saray görevlisi/Sivil yönetici demektir. Din adamı Kam/Baksı'dır."
+        },
+        {
+          "text": "Uygurların yerleşik hayata geçmesiyle birlikte Türk kültüründe aşağıdakilerden hangisinde bir değişim yaşandığı söylenemez?",
+          "options": [
+            "Veraset sistemi ve Kut anlayışı",
+            "Askeri stratejiler ve savunma anlayışı",
+            "Sanat anlayışı ve uğraş alanları",
+            "Hukuk kuralları ve cezaların süresi",
+            "Dini inanış ve tapınak mimarisi"
+          ],
+          "correctOption": "A",
+          "solution": "Yerleşik hayata geçmek veya din değiştirmek, hükümdarın yönetme yetkisini Tanrı'dan aldığı \"Kut\" inancını ve veraset sistemini değiştirmemiştir."
+        },
+        {
+          "text": "I. Göktürk II. Uygur III. Arap IV. Sogd V. Kiril Yukarıdakilerden hangileri İslamiyet öncesi Türk devletlerinin kullandığı \"Milli\" alfabelerdir?",
+          "options": [
+            "I ve II",
+            "I ve III",
+            "I, II ve IV",
+            "II ve V",
+            "I, II, IV ve V"
+          ],
+          "correctOption": "D",
+          "solution": "Türklerin kendisine ait milli alfabeleri sadece Göktürk ve Uygur alfabeleridir. Diğerleri başka milletlerden alınmıştır."
+        },
+        {
+          "text": "Orta Asya Türk devletlerinde, Kurultay’a katılma hakkına sahip olan üyelere ne ad verilir?",
+          "options": [
+            "Toygun",
+            "Aygucı",
+            "Şad",
+            "Tigin",
+            "Yabgu"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türk devletlerinde \"Hapis\" cezalarının uzun süreli olmamasının ve taşınabilir sanat eserlerinin (kılıç, kemer, koşum takımı) gelişmesinin ortak nedeni nedir?",
+          "options": [
+            "Savaşçı özellikler",
+            "Konar-göçer yaşam tarzı",
+            "Dini inançlar",
+            "Ekonomik yetersizlik",
+            "Töre kuralları"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki destanlardan hangisi Türklerin \"Ergenekon\" adı verilen bir dağın arkasına sığınarak orada 400 yıl çoğalıp, demir bir dağı eriterek dışarı çıktıklarını ve tekrar dünyaya hakim olduklarını anlatır?",
+          "options": [
+            "Türeyiş Destanı",
+            "Göç Destanı",
+            "Ergenekon Destanı",
+            "Bozkurt Destanı",
+            "Şu Destanı"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türklerin İslamiyet’i kabul etmelerinden önce, tek tanrılı semavi bir din olan Museviliği kabul eden tek Türk topluluğu/devleti hangisidir?",
+          "options": [
+            "Hazarlar",
+            "Peçenekler",
+            "Kumanlar",
+            "Macarlar",
+            "Bulgarlar"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinin ekonomisi temel olarak hayvancılığa dayanıyordu. Buna göre Türkler ticaret yaparken genellikle aşağıdakilerden hangisini \"ithal\" ederlerdi (dışarıdan alırlardı)?",
+          "options": [
+            "Canlı Hayvan",
+            "Deri ve Kürk",
+            "Et ve Süt ürünleri",
+            "Hububat (Tahıl) ve İpek",
+            "Silah ve At koşum takımları"
+          ],
+          "correctOption": "C",
+          "solution": "Hayvansal ürünleri satar, tarım ürünlerini ve lüks tüketim olan ipeği alırlardı."
+        },
+        {
+          "text": "Asya Hun Devleti'nin yıkılmasının ardından Balamir önderliğinde batıya göç eden Hunların başlattığı \"Kavimler Göçü\"nün sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Roma İmparatorluğu'nun ikiye ayrılması",
+            "Avrupa'nın etnik yapısının değişmesi (Bugünkü Avrupalı milletlerin temellerinin atılması)",
+            "Skolastik düşüncenin yıkılarak yerini Pozitif düşünceye bırakması",
+            "Feodalite (Derebeylik) rejiminin ortaya çıkması",
+            "İlk Çağ'ın kapanıp Orta Çağ'ın başlaması"
+          ],
+          "correctOption": "A",
+          "solution": "Tam tersine, Kavimler Göçü ile kilise güçlenmiş ve Skolastik düşünce egemen olmuştur. Skolastik düşüncenin yıkılması Rönesans ile olacaktır."
+        },
+        {
+          "text": "Türklerde \"Töre\"nin oluşumunda aşağıdakilerden hangisinin etkisi yoktur?",
+          "options": [
+            "Halkın gelenek ve görenekleri (Yosun)",
+            "Kurultay kararları",
+            "Hakanın emirleri (Yarlıg)",
+            "İlahi (Dini) kitapların kuralları",
+            "Hukuk anlayışının nesilden nesile aktarılması"
+          ],
+          "correctOption": "E",
+          "solution": "İslamiyet öncesi Töre, şer'i (dini kitap kökenli) değil, örf ve adete dayalıdır."
+        },
+        {
+          "text": "Aşağıdaki Türk hükümdarlarından hangisi \"Kendi adına para bastıran\" ilk hükümdar olarak kabul edilir?",
+          "options": [
+            "Bilge Kağan",
+            "Baga Tarkan (Türgişler)",
+            "Teoman",
+            "Mete Han",
+            "Satuk Buğra Han"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "İslamiyet öncesi Türk devletlerinde aşağıdakilerden hangisi \"sosyal devlet\" anlayışının varlığına kanıt olarak gösterilebilir?",
+          "options": [
+            "Hükümdarın töreye uymak zorunda olması",
+            "Kurultay'da boy beylerinin söz hakkının olması",
+            "Hükümdarın açları doyurup, çıplakları giydirmesi",
+            "Ülkenin Doğu-Batı olarak yönetilmesi",
+            "Ordunun onlu sisteme göre düzenlenmesi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Orhun Abideleri'nin özelliklerinden biri değildir?",
+          "options": [
+            "Türk tarihinin ve edebiyatının ilk yazılı örnekleridir.",
+            "Siyasetname özelliği taşır.",
+            "Devlet ve halkın karşılıklı görevlerinden bahseder.",
+            "Uygur Alfabesi ile yazılmıştır.",
+            "Bir yüzü Türkçe, diğer yüzü Çincedir."
+          ],
+          "correctOption": "E",
+          "solution": "Uygur değil, Göktürk alfabesi ile yazılmıştır."
+        },
+        {
+          "text": "I. Pazırık Kurganı - Dünyanın en eski halısı (Pazırık Halısı) II. Esik Kurganı - Altın Elbiseli Adam Zırhı Yukarıdaki eserler hangi Türk devleti/topluluğu dönemine ait kabul edilmektedir?",
+          "options": [
+            "Göktürkler",
+            "Uygurlar",
+            "Asya Hunları / İskitler",
+            "Avarlar",
+            "Kırgızlar"
+          ],
+          "correctOption": "C",
+          "solution": "Genellikle Asya Hunları ile ilişkilendirilse de sanat tarzı İskit geleneğini de yansıtır. Şıklarda genellikle Hun/İskit ayrımı net verilir veya Hun kabul edilir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Kavimler Göçü sonucunda Avrupa'da kurulan Türk devletlerinden biri değildir?",
+          "options": [
+            "Avrupa Hun Devleti",
+            "Avarlar",
+            "Macarlar",
+            "Bulgarlar",
+            "Akhunlar (Eftalitler)"
+          ],
+          "correctOption": "D",
+          "solution": "Akhunlar Avrupa'da değil, Afganistan/İran bölgesinde kurulmuştur."
+        },
+        {
+          "text": "Eski Türk inancında \"Doğa ruhlarına\" ve \"kutsal güçlere\" inanılırdı. Dağ, tepe, su, ağaç gibi unsurların ruhu olduğuna inanılan bu inanç sistemine ne ad verilir?",
+          "options": [
+            "Totemizm (Ongun)",
+            "Yer-Su İnancı (Kültü)",
+            "Şamanizm",
+            "Atalar Kültü",
+            "Manihaizm"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Uygur Dönemi'ne ait eserlerden biridir?",
+          "options": [
+            "Orhun Abideleri",
+            "Yenisey Yazıtları",
+            "Karabalgasun Yazıtları",
+            "Bugut Yazıtları",
+            "Manas Destanı"
+          ],
+          "correctOption": "C",
+          "solution": "Orhun ve Bugut: Göktürk, Yenisey ve Manas: Kırgız, Karabalgasun: Uygur"
+        },
+        {
+          "text": "Türk devletlerinde hükümdarın erkek çocuklarına \"Tigin\" denir. Tiginlerin eğitiminden sorumlu olan hocalara ne ad verilir?",
+          "options": [
+            "Atabey",
+            "Lala",
+            "Ataman (İnal/İnanç)",
+            "Melik",
+            "Hacip"
+          ],
+          "correctOption": "C",
+          "solution": "Atabey: Selçuklu, Lala: Osmanlı, Ataman: İslam Öncesi"
+        },
+        {
+          "text": "İslamiyet öncesi Türk tarihinde; Çar unvanını kullanan ilk devlet: Tuna Bulgarları\nMuseviliği kabul eden ilk devlet: Hazarlar\nKağıt ve Matbaayı kullanan ilk devlet: Uygurlar\nYukarıdaki eşleştirmelerden hangileri doğrudur?",
+          "options": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        }
+      ]
+    }
+  ]
+}

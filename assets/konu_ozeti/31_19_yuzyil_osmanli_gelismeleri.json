@@ -1,0 +1,96 @@
+{
+  "konu_adi": "31- 19’UNCU YÜZYIL OSMANLI SİYASİ GELİŞMELERİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "19’UNCU YÜZYIL OSMANLI SİYASİ GELİŞMELERİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🤯 Asrın Özeti: Dağılma, Denge ve Milliyetçilik"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Dönemin Temel Politikaları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Milliyetçilik ve Balkanlar: Fransız İhtilali'nin etkisiyle azınlıklar isyan etmiştir (Sırplar ilk isyan eden, Yunanlar ilk bağımsız olan).",
+        "Denge Politikası: Osmanlı, büyük tehditlere karşı diğer Avrupa devletlerinden destek alarak varlığını sürdürmeye çalışmıştır.",
+        "Islahat ve Modernleşme: Avrupalıların iç işlerine karışmasını önlemek ve azınlıkları devlete bağlı tutmak amacıyla Tanzimat, Islahat Fermanları ve Meşrutiyet ilan edilmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Rusya ve Azınlıklar ile Yapılan Mücadeleler (1800-1850)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Sırp İsyanı (1804): Osmanlı'da isyan eden ilk azınlıktır. Bükreş Antlaşması (1812) ile ilk kez özel ayrıcalık (imtiyaz) kazanmışlardır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Navarin Olayı (1827): Avrupa birleşik donanması, Navarin'de Osmanlı donanmasını yakmıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Edirne Antlaşması (1829): Yunanistan bağımsızlığını kazanmıştır. Osmanlı'dan ayrılarak devlet kuran ilk azınlık Yunanlar olmuştur."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Mehmet Ali Paşa Sorunu ve Boğazlar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kavalalı Mehmet Ali Paşa İsyanı (1831): Mısır Valisi'nin isyanı, Osmanlı'nın Rusya'dan yardım istemesine neden olmuştur.",
+        "Hünkâr İskelesi Antlaşması (1833): Rusya ile imzalanmıştır. Bu, Boğazlar üzerinde Osmanlı'nın tek başına hükmettiği son antlaşmadır.",
+        "Londra Konferansı (1840): Mısır valiliği, babadan oğula geçmek şartıyla Mehmet Ali Paşa'ya bırakılmıştır (Mısır özerkleşmiştir)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Kırım Savaşı ve Berlin Antlaşması (1850-1878)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kırım Savaşı (1853-1856): Rusya'ya karşı İngiltere ve Fransa'nın desteğiyle kazanılmıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Paris Antlaşması (1856): Osmanlı'nın toprak bütünlüğü, Avrupalı devletlerin garantisi altına alınmıştır (Osmanlı Avrupa devleti sayılmıştır)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "93 Harbi (1877-1878): Rusya'nın Panslavizm politikası nedeniyle savaş çıkmıştır. II. Abdülhamit savaşı bahane ederek I. Meşrutiyet'i kapatmıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Berlin Antlaşması (1878): Sırbistan, Karadağ ve Romanya tamamen bağımsız olmuştur. Kars, Ardahan, Batum Rusya'ya bırakılmıştır. Ermeni Sorunu uluslararası bir sorun haline gelmiştir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Hukuki ve İdari Gelişmeler (19. Yüzyıl Belgeleri)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Sened-i İttifak (1808): Padişah yetkilerinin ilk kez kısıtlandığı belgedir.",
+        "Tanzimat Fermanı (1839): Kanun gücünün padişahın üstünde olduğu (Hukuk Üstünlüğü) ilkesi getirilmiştir.",
+        "Islahat Fermanı (1856): Gayrimüslimlere yönelik hakları genişletmiştir.",
+        "I. Meşrutiyet (1876): Osmanlı'nın ilk anayasası (Kanun-i Esasi) ilan edilmiş, halk kısıtlı da olsa yönetime katılmıştır."
+      ]
+    }
+  ]
+}

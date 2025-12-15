@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 21",
+  "examCode": "deneme_21",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 21)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı nedeniyle toplumsal sınıf ayrımı (kölelik) görülmemiştir. Uygurlar, Budizm ve Maniheizm dinlerinin etkisiyle yerleşik hayata geçen ilk Türk devletidir. Büyük Selçuklu Devleti'nde Vezir Nizamülmülk tarafından kurulan Nizamiye Medreseleri, dönemin en büyük bilim merkezidir. Anadolu'da kurulan ilk medrese Danişmentliler'e ait Yağıbasan Medresesi'dir. Anadolu Selçuklu Devleti'nde Ahilik teşkilatı, esnaf ve zanaatkarların mesleki ve ahlaki eğitimini sağlamıştır.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde Pençik Sistemi uygulanmıştır. Fatih Sultan Mehmet döneminde ilk altın para (Sultani) basılmıştır. II. Mahmut döneminde (1838) Balta Limanı Ticaret Antlaşması ile Osmanlı, İngiltere'nin açık pazarı haline gelmiştir. Tanzimat Fermanı'nın ilanında 'Osmanlıcılık' fikri etkili olmuştur.\n\n**Milli Mücadele ve Cumhuriyet:** I. Dünya Savaşı'nda Osmanlı'nın taarruz cepheleri Kafkas ve Kanal'dır. Amasya Genelgesi, Milli Mücadele'nin gerekçesini 'Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir' maddesiyle açıklamıştır. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiştir. Medeni Kanun, İsviçre'den alınmıştır. Hatay, Atatürk'ün 'Şahsi Meselem' dediği topraktır.\n\n**Çağdaş Dünya:** Truman Doktrini (1947), Soğuk Savaş'ın başlangıcı sayılır. Türkiye, SSCB tehdidine karşı Batı Bloğu'na dahil olmuştur.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk tarihinde parayı değişim aracı olarak kullanan ilk devlet Göktürkler olsa da, kendi adına para bastıran (Yarmak) ilk Türk devleti aşağıdakilerden hangisidir?",
+      "options": [
+        "Asya Hun",
+        "II. Göktürk",
+        "Uygurlar",
+        "Hazarlar",
+        "Türgişler"
+      ],
+      "correctOption": "E",
+      "solution": "Türgişler - Baga Tarkan. Not: MEB kaynaklarında bazen Göktürk parası tartışmalı olsa da, Baga Tarkan kendi adına para bastıran ilk hükümdar olarak net bilgidir."
+    },
+    {
+      "id": 2,
+      "text": "Türklerde devleti yönetme yetkisinin (Kut), kan yoluyla babadan oğula geçtiğine inanılırdı. Kut anlayışının sonuçlarından biri değildir?",
+      "options": [
+        "Hanedan üyelerinin tahta geçme hakkının olması",
+        "Taht kavgalarının yaşanması",
+        "Devletlerin kısa ömürlü olması",
+        "Hükümdarın yetkilerinin sınırsız olması",
+        "Kanın kutsal sayılıp hanedan üyelerinin kanının akıtılmaması"
+      ],
+      "correctOption": "D",
+      "solution": "Türklerde hükümdarın yetkileri Töre ile sınırlıdır, mutlak monarşi tam anlamıyla yoktur."
+    },
+    {
+      "id": 3,
+      "text": "Kutsal topraklar olan Hicaz Bölgesi’ne (Mekke-Medine) hakim olan ilk Türk devleti aşağıdakilerden hangisidir?",
+      "options": [
+        "Tolunoğulları",
+        "Memlükler",
+        "Osmanlılar",
+        "Eyyubiler",
+        "İhşidiler (Akşitler)"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti’nde donanma komutanlarına ne ad verilirdi?",
+      "options": [
+        "Subaşı",
+        "Atabey",
+        "Pervaneci",
+        "Emir-i Dad",
+        "Melikü's-Sevahil (Sahillerin Meliki)"
+      ],
+      "correctOption": "E",
+      "solution": "Veya Reisü'l-Bahr"
+    },
+    {
+      "id": 5,
+      "text": "Yavuz Sultan Selim döneminde Halifeliğin Osmanlı’ya geçmesiyle birlikte devlet yönetiminde hangi özelliğin güçlendiği söylenebilir?",
+      "options": [
+        "Demokratik",
+        "Laik",
+        "Teokratik",
+        "Federal",
+        "Meşruti"
+      ],
+      "correctOption": "C",
+      "solution": "Din ve devlet işlerinin tek elde toplanması."
+    },
+    {
+      "id": 6,
+      "text": "Kanuni Sultan Süleyman’ın Hint Okyanusu’ndaki faaliyetlerini engellemek ve Müslüman tüccarlara yardım etmek amacıyla Hint Deniz Seferlerini düzenlemiştir. Bu seferlerin başarısız olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Portekiz donanmasının çok zayıf olması",
+        "Hint Müslümanlarının Osmanlı’ya ihanet etmesi",
+        "Seferlerin çok kısa sürmesi",
+        "Osmanlı donanmasının okyanus şartlarına uygun olmaması (Kadırgaların dayanıksızlığı)",
+        "Komutanların yetersizliği"
+      ],
+      "correctOption": "D",
+      "solution": "İç deniz -Akdeniz- gemileri okyanus dalgalarına dayanamamıştır."
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan ilk belge (Sened-i İttifak) ile halkın yönetime katıldığı ilk belge (Kanun-i Esasi) sırasıyla hangi padişahlar döneminde gerçekleşmiştir?",
+      "options": [
+        "III. Selim - II. Abdülhamit",
+        "II. Mahmut - Abdülmecit",
+        "II. Mahmut - II. Abdülhamit",
+        "Abdülmecit - V. Mehmet Reşat",
+        "Abdülaziz - II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": "Sened-i İttifak 1808 (II. Mahmut), Kanun-i Esasi 1876 (II. Abdülhamit)."
+    },
+    {
+      "id": 8,
+      "text": "Divan-ı Hümayun’da eğitim ve adalet işlerinden sorumlu olan, Kadı ve Müderrislerin atamasını yapan divan üyesi kimdir?",
+      "options": [
+        "Nişancı",
+        "Defterdar",
+        "Kazasker (Kadıasker)",
+        "Şeyhülislam",
+        "Reisülküttab"
+      ],
+      "correctOption": "C",
+      "solution": "Günümüzün Adalet ve Milli Eğitim Bakanı gibidir."
+    },
+    {
+      "id": 9,
+      "text": "II. Abdülhamit’in İstibdat döneminde devleti dağılmaktan kurtarmak için uyguladığı resmi devlet politikası (Fikir Akımı) hangisidir?",
+      "options": [
+        "Osmanlıcılık",
+        "Batıcılık",
+        "İslamcılık (Ümmetçilik)",
+        "Türkçülük",
+        "Turancılık"
+      ],
+      "correctOption": "C",
+      "solution": "Halifelik gücünü kullanarak Müslümanları bir arada tutma çabası."
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti’nde ilk resmi gazete olan ve II. Mahmut döneminde yayımlanmaya başlayan gazete hangisidir?",
+      "options": [
+        "Ceride-i Havadis",
+        "Tercüman-ı Ahval",
+        "Tasvir-i Efkar",
+        "İrade-i Milliye",
+        "Takvim-i Vekayi"
+      ],
+      "correctOption": "E",
+      "solution": "1831"
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti’nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+      "options": [
+        "Dil birliği",
+        "Irk birliği",
+        "Din ve mezhep birliği",
+        "Toprak bütünlüğü",
+        "Ekonomik işbirliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Mondros Ateşkes Antlaşması’ndan sonra işgal edilen ilk Osmanlı toprağı neresidir?",
+      "options": [
+        "İzmir",
+        "İstanbul",
+        "Musul",
+        "İskenderun",
+        "Antalya"
+      ],
+      "correctOption": "C",
+      "solution": "İngiltere tarafından işgal edilmiştir."
+    },
+    {
+      "id": 13,
+      "text": "Kafkas Cephesi’nde Ruslarla işbirliği yapan Ermenilerin, bölgedeki Türk halkına zarar vermesini önlemek amacıyla 1915 yılında çıkarılan kanun hangisidir?",
+      "options": [
+        "Hıyanet-i Vataniye Kanunu",
+        "Tehcir Kanunu (Sevk ve İskan)",
+        "Takrir-i Sükun Kanunu",
+        "Teşkilat-ı Esasiye",
+        "İskan Kanunu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Mustafa Kemal’in Amasya Genelgesi’ni \"tek başına\" değil de Rauf Orbay, Ali Fuat Cebesoy ve Refet Bele gibi komutanlara da imzalatarak yayımlamasının temel amacı nedir?",
+      "options": [
+        "İstanbul Hükümeti ile anlaşmak",
+        "Padişahın onayını almak",
+        "Milli Mücadele’yi kişisellikten çıkarıp halka mal etmek ve ordu desteğini göstermek",
+        "Sorumluluktan kaçmak",
+        "İtilaf Devletleri’ni korkutmak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Toplanış şekli, amacı ve aldığı kararlar bakımından \"Her yönüyle ulusal\" olan tek kongre hangisidir?",
+      "options": [
+        "Sivas Kongresi",
+        "Alaşehir Kongresi",
+        "Pozantı Kongresi",
+        "Balıkesir Kongresi",
+        "Erzurum Kongresi"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı’nda TBMM’nin açtığı ilk cephe ve kazandığı ilk askeri başarı aşağıdakilerden hangisidir?",
+      "options": [
+        "Batı Cephesi - I. İnönü",
+        "Güney Cephesi - Maraş Savunması",
+        "Doğu Cephesi - Ermenilere karşı zafer",
+        "Irak Cephesi - Kut'ül Amare",
+        "Galiçya Cephesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Sakarya Zaferi’nden sonra Fransa ile imzalanan ve Güney Cephesi’ni resmen kapatan antlaşma hangisidir?",
+      "options": [
+        "1921 Ankara Antlaşması",
+        "1926 Ankara Antlaşması",
+        "Gümrü Antlaşması",
+        "Lozan Antlaşması",
+        "İstanbul Antlaşması"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Antlaşması’nda Türkiye’nin savaş tazminatı olarak Yunanistan’dan aldığı yer neresidir?",
+      "options": [
+        "Batı Trakya",
+        "Selanik",
+        "Karaağaç",
+        "Girit",
+        "Midilli"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Türkiye Cumhuriyeti’nin ilk açılan yükseköğretim kurumu (fakültesi) hangisidir?",
+      "options": [
+        "Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi",
+        "İstanbul Üniversitesi",
+        "Ankara Hukuk Mektebi",
+        "Gazi Eğitim Enstitüsü",
+        "Yüksek Ziraat Enstitüsü"
+      ],
+      "correctOption": "C",
+      "solution": "1925 yılında, hukuk devrimini yapacak savcı ve hakim yetiştirmek için açılmıştır."
+    },
+    {
+      "id": 20,
+      "text": "1924 Anayasası'nda 1928 yılında yapılan değişiklikle anayasadan çıkarılan madde hangisidir?",
+      "options": [
+        "\"Devletin dini İslam'dır.\"",
+        "\"Türkçe resmi dildir.\"",
+        "\"Türkiye Devleti bir Cumhuriyettir.\"",
+        "\"Başkent Ankara'dır.\"",
+        "\"Egemenlik kayıtsız şartsız milletindir.\""
+      ],
+      "correctOption": "A",
+      "solution": "Laikleşme yolunda atılan önemli bir adımdır."
+    },
+    {
+      "id": 21,
+      "text": "Cumhuriyetin ilanıyla birlikte \"Meclis Hükümeti\" sistemi terk edilerek hangi hükümet modeline geçilmiştir?",
+      "options": [
+        "Kabine Sistemi",
+        "Başkanlık Sistemi",
+        "Federatif Sistem",
+        "Mutlakiyet",
+        "Karma Sistem"
+      ],
+      "correctOption": "A",
+      "solution": "Hükümet kurmak kolaylaşmıştır."
+    },
+    {
+      "id": 22,
+      "text": "Türkiye'nin dış borçlar konusunda en çok sorun yaşadığı ülke Fransa'dır. Borçların ödenmesi sırasında çıkan krizde Türkiye'nin \"Borçları ödeyeceğiz ancak bu bizim paramızla (TL) veya sizin paranızla (Frank) olur\" diyerek reddettiği para birimi hangisidir?",
+      "options": [
+        "Sterlin",
+        "Riyal",
+        "Dolar",
+        "Mark",
+        "Altın"
+      ],
+      "correctOption": "E",
+      "solution": "Veya Altın/Sterlin gibi değerli maden/döviz talepleri reddedilmiş, kağıt para üzerinden ödeme kabul ettirilmiştir."
+    },
+    {
+      "id": 23,
+      "text": "Atatürk'ün sağlığında gerçekleşen ancak sonucunu (Türkiye'ye katıldığını) göremediği dış politika olayı hangisidir?",
+      "options": [
+        "Montrö",
+        "Sadabat Paktı",
+        "Hatay'ın Anavatana Katılması",
+        "Balkan Antantı",
+        "Milletler Cemiyeti üyeliği"
+      ],
+      "correctOption": "C",
+      "solution": "Bağımsız Hatay Cumhuriyeti'ni görmüş, ancak ilhakı görememiştir."
+    },
+    {
+      "id": 24,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne girişi (1932) hangi sorunun çözümünden sonra gerçekleşmiştir?",
+      "options": [
+        "Musul",
+        "Kıbrıs",
+        "Boğazlar",
+        "Nüfus Mübadelesi (ve genel olarak Yunanistan ile barış)",
+        "Hatay"
+      ],
+      "correctOption": "D",
+      "solution": "Yunanistan ile barış sağlanınca, Yunanistan Türkiye'nin üyeliğini desteklemiştir."
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sırasında İngiltere Başbakanı olan ve \"Demir Perde\" tabirini kullanarak Soğuk Savaş'ın sinyalini veren lider kimdir?",
+      "options": [
+        "Chamberlain",
+        "Winston Churchill",
+        "Tony Blair",
+        "Thatcher",
+        "Clement Attlee"
+      ],
+      "correctOption": "B",
+      "solution": "Savaşın başında Chamberlain vardı, sonra efsanevi lider Churchill geldi, savaşın sonunda seçimle Attlee geldi."
+    },
+    {
+      "id": 26,
+      "text": "1948 yılında SSCB'nin Batı Berlin'i abluka altına alması üzerine, Batılı devletlerin şehri havadan beslemek için kurdukları lojistik operasyona ne ad verilir?",
+      "options": [
+        "Normandiya Çıkarması",
+        "Berlin Hava Köprüsü",
+        "Özgürlük Yolu",
+        "Barbarossa Harekatı",
+        "Demir Perde Operasyonu"
+      ],
+      "correctOption": "B",
+      "solution": "(Berlin Buhranı.)"
+    },
+    {
+      "id": 27,
+      "text": "1949 yılında ABD öncülüğünde kurulan ve \"Bir üyeye yapılan saldırı hepsine yapılmış sayılır\" ilkesine dayanan Batı Bloğu askeri ittifakı hangisidir?",
+      "options": [
+        "Avrupa Konseyi",
+        "CENTO",
+        "NATO (Kuzey Atlantik Paktı)",
+        "Birleşmiş Milletler",
+        "SEATO"
+      ],
+      "correctOption": "C",
+      "solution": "(Türkiye 1952'de üye olmuştur.)"
+    }
+  ]
+}

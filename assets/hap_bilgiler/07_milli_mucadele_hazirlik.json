@@ -1,0 +1,505 @@
+{
+  "categoryName": "MİLLİ MÜCADELE HAZIRLIK DÖNEMİ",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Mustafa Kemal’in 19 Mayıs 1919’da Samsun’a çıktığı geminin adı nedir?",
+      "answer": "Bandırma Vapuru"
+    },
+    {
+      "id": 2,
+      "question": "Mustafa Kemal’in Samsun’a gönderilirkenki resmi görevi nedir?",
+      "answer": "9. Ordu Müfettişliği"
+    },
+    {
+      "id": 3,
+      "question": "Mustafa Kemal’in Samsun’daki görevinin asıl (resmi) amacı neydi?",
+      "answer": "Bölgedeki Türk-Rum çatışmasını önlemek ve Türklerin elindeki silahları toplamak"
+    },
+    {
+      "id": 4,
+      "question": "Mustafa Kemal’in İstanbul Hükümeti’ne gönderdiği ilk rapor hangisidir?",
+      "answer": "Samsun Raporu"
+    },
+    {
+      "id": 5,
+      "question": "Milli Mücadele’nin \"ilk kıvılcımı\" sayılan ve İzmir’in işgalinin ilk kez protesto edildiği belge hangisidir?",
+      "answer": "Havza Genelgesi"
+    },
+    {
+      "id": 6,
+      "question": "Mustafa Kemal’in Havza Genelgesi’nde halktan istediği iki temel eylem nedir?",
+      "answer": "İşgallerin mitinglerle protesto edilmesi ve İtilaf devletlerine telgraf çekilmesi"
+    },
+    {
+      "id": 7,
+      "question": "Mustafa Kemal’in İstanbul Hükümeti tarafından ilk kez \"Geri dön\" çağrısı aldığı olay hangisidir?",
+      "answer": "Havza Genelgesi sonrası"
+    },
+    {
+      "id": 8,
+      "question": "Milli Mücadele’nin \"Amacı, Yöntemi ve Gerekçesi\"nin belirlendiği belge hangisidir?",
+      "answer": "Amasya Genelgesi (Tamimi)"
+    },
+    {
+      "id": 9,
+      "question": "Amasya Genelgesi’ni imzalayan komutanlar kimlerdir?",
+      "answer": "Mustafa Kemal, Rauf Orbay, Refet Bele, Ali Fuat Cebesoy"
+    },
+    {
+      "id": 10,
+      "question": "Amasya Genelgesi’ni telgraf yoluyla onaylayan komutanlar kimlerdir?",
+      "answer": "Kazım Karabekir (Erzurum) ve Cemal Paşa (Konya)"
+    },
+    {
+      "id": 11,
+      "question": "\"Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir\" maddesi Milli Mücadele’nin nesidir?",
+      "answer": "Gerekçesi"
+    },
+    {
+      "id": 12,
+      "question": "\"Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır\" maddesi Milli Mücadele’nin nesidir?",
+      "answer": "Amacı ve Yöntemi"
+    },
+    {
+      "id": 13,
+      "question": "Milli Egemenlikten (Üstü kapalı da olsa) ilk kez bahsedilen belge hangisidir?",
+      "answer": "Amasya Genelgesi (\"Milletin kararı\" ifadesiyle)"
+    },
+    {
+      "id": 14,
+      "question": "Temsil Heyeti’nin kurulması fikri ilk kez nerede gündeme gelmiştir?",
+      "answer": "Amasya Genelgesi"
+    },
+    {
+      "id": 15,
+      "question": "Sivas Kongresi’nin toplanma kararı nerede alınmıştır?",
+      "answer": "Amasya Genelgesi"
+    },
+    {
+      "id": 16,
+      "question": "Mustafa Kemal’in \"Artık İstanbul Anadolu’ya hakim değil, tabi olmak zorundadır\" sözünü nerede söylemiştir?",
+      "answer": "Amasya Genelgesi sonrasında"
+    },
+    {
+      "id": 17,
+      "question": "Mustafa Kemal’in askerlik mesleğinden ve resmi görevlerinden istifa ettiği yer neresidir?",
+      "answer": "Erzurum (Amasya Genelgesi’nden sonra, Erzurum Kongresi’nden önce)"
+    },
+    {
+      "id": 18,
+      "question": "Mustafa Kemal istifa ettikten sonra ona \"Ben ve kolordum emrinizdeyim Paşam\" diyerek destek veren komutan kimdir?",
+      "answer": "Kazım Karabekir (15. Kolordu Komutanı)"
+    },
+    {
+      "id": 19,
+      "question": "Mustafa Kemal’in sivil olarak katıldığı ilk çalışma hangisidir?",
+      "answer": "Erzurum Kongresi"
+    },
+    {
+      "id": 20,
+      "question": "Erzurum Kongresi’ni düzenleyen cemiyetler hangileridir?",
+      "answer": "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti ve Trabzon Muhafaza-i Hukuk Cemiyeti"
+    },
+    {
+      "id": 21,
+      "question": "Toplanış şekli bakımından \"Bölgesel\", aldığı kararlar bakımından \"Ulusal\" olan kongre hangisidir?",
+      "answer": "Erzurum Kongresi"
+    },
+    {
+      "id": 22,
+      "question": "\"Milli sınırlar içinde vatan bir bütündür, bölünemez\" kararı ilk kez nerede alınmıştır?",
+      "answer": "Erzurum Kongresi"
+    },
+    {
+      "id": 23,
+      "question": "Manda ve Himaye fikri ilk kez nerede reddedilmiştir?",
+      "answer": "Erzurum Kongresi"
+    },
+    {
+      "id": 24,
+      "question": "Temsil Heyeti ilk kez nerede oluşturulmuştur?",
+      "answer": "Erzurum Kongresi"
+    },
+    {
+      "id": 25,
+      "question": "Temsil Heyeti’nin başkanı kim seçilmiştir?",
+      "answer": "Mustafa Kemal"
+    },
+    {
+      "id": 26,
+      "question": "Kuvayi Milliye’yi tek kuvvet tanımak ve milli iradeyi hakim kılmak esastır kararı nerede alınmıştır?",
+      "answer": "Erzurum Kongresi"
+    },
+    {
+      "id": 27,
+      "question": "Erzurum Kongresi’ne delege gönderemeyen (engellenen) iller hangileridir?",
+      "answer": "Elazığ, Mardin, Diyarbakır"
+    },
+    {
+      "id": 28,
+      "question": "Mustafa Kemal ve Rauf Orbay’ın Erzurum Kongresi’ne katılabilmesi için istifa eden delegeler kimlerdir?",
+      "answer": "Kazım Yurdalan ve Cevat Dursunoğlu"
+    },
+    {
+      "id": 29,
+      "question": "Hem toplanış şekli hem de aldığı kararlar bakımından \"Ulusal\" olan tek kongre hangisidir?",
+      "answer": "Sivas Kongresi"
+    },
+    {
+      "id": 30,
+      "question": "Sivas Kongresi’ni engellemek için Damat Ferit Paşa tarafından görevlendirilen Elazığ Valisi kimdir?",
+      "answer": "Ali Galip"
+    },
+    {
+      "id": 31,
+      "question": "Sivas Kongresi’nde en çok tartışılan konu ne olmuştur?",
+      "answer": "ABD Mandası"
+    },
+    {
+      "id": 32,
+      "question": "Manda ve Himaye fikri \"kesin olarak\" nerede reddedilmiştir?",
+      "answer": "Sivas Kongresi (\"Ya istiklal ya ölüm!\")"
+    },
+    {
+      "id": 33,
+      "question": "Tüm yararlı cemiyetler hangi isim altında birleştirilmiştir?",
+      "answer": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti (ARMHC)"
+    },
+    {
+      "id": 34,
+      "question": "Cemiyetlerin birleştirilmesi kararı nerede alınmıştır?",
+      "answer": "Sivas Kongresi"
+    },
+    {
+      "id": 35,
+      "question": "Temsil Heyeti, Ali Fuat Paşa’yı Batı Cephesi Komutanlığı’na atayarak ilk kez hangi yetkisini kullanmıştır?",
+      "answer": "Yürütme Yetkisi"
+    },
+    {
+      "id": 36,
+      "question": "Sivas Kongresi kararlarını halka duyurmak için çıkarılan gazete hangisidir?",
+      "answer": "İrade-i Milliye"
+    },
+    {
+      "id": 37,
+      "question": "Temsil Heyeti’nin İstanbul Hükümeti’ne karşı kazandığı \"ilk siyasi başarı\" nedir?",
+      "answer": "Damat Ferit Paşa Hükümeti’nin istifa ettirilmesi"
+    },
+    {
+      "id": 38,
+      "question": "Damat Ferit’in istifası üzerine kurulan ve Milli Mücadele’ye daha ılımlı yaklaşan hükümet hangisidir?",
+      "answer": "Ali Rıza Paşa Hükümeti"
+    },
+    {
+      "id": 39,
+      "question": "İstanbul Hükümeti’nin Temsil Heyeti’ni ve Milli Mücadele’yi resmen tanıdığı olay hangisidir?",
+      "answer": "Amasya Görüşmeleri (Protokolü)"
+    },
+    {
+      "id": 40,
+      "question": "Amasya Görüşmeleri’ne İstanbul Hükümeti adına kim katılmıştır?",
+      "answer": "Salih Paşa"
+    },
+    {
+      "id": 41,
+      "question": "Amasya Görüşmeleri’nde İstanbul Hükümeti’ne kabul ettirilen ancak uygulanmayan madde nedir?",
+      "answer": "Meclis-i Mebusan’ın İstanbul dışında toplanması"
+    },
+    {
+      "id": 42,
+      "question": "Amasya Görüşmeleri sonucunda İstanbul Hükümeti neyi kabul etmiştir?",
+      "answer": "Mebusan Meclisi’nin açılmasını (Seçimlerin yapılmasını)"
+    },
+    {
+      "id": 43,
+      "question": "Temsil Heyeti neden Ankara’yı merkez seçmiştir?",
+      "answer": "Ulaşım ve haberleşme imkanları, Batı cephesine yakınlığı, işgal edilmemiş olması ve halkın desteği"
+    },
+    {
+      "id": 44,
+      "question": "Temsil Heyeti Ankara’ya ne zaman gelmiştir?",
+      "answer": "27 Aralık 1919"
+    },
+    {
+      "id": 45,
+      "question": "Son Osmanlı Mebusan Meclisi’nde Milli Mücadele yanlısı milletvekillerinin kurduğu grubun adı nedir?",
+      "answer": "Felah-ı Vatan Grubu"
+    },
+    {
+      "id": 46,
+      "question": "Felah-ı Vatan Grubu’nun başkanı kimdir?",
+      "answer": "Rauf Orbay"
+    },
+    {
+      "id": 47,
+      "question": "Mustafa Kemal, Son Osmanlı Mebusan Meclisi’ne hangi ilden milletvekili seçilmiştir?",
+      "answer": "Erzurum"
+    },
+    {
+      "id": 48,
+      "question": "Mustafa Kemal İstanbul’a gidecek vekillerden kendisinin ne seçilmesini istemiştir?",
+      "answer": "Meclis Başkanı (Ancak seçilememiştir)"
+    },
+    {
+      "id": 49,
+      "question": "Son Osmanlı Mebusan Meclisi’nde kabul edilen ve Milli Mücadele’nin siyasi programı olan kararlar hangisidir?",
+      "answer": "Misak-ı Milli (Milli Yemin)"
+    },
+    {
+      "id": 50,
+      "question": "Misak-ı Milli kararları neyi temel alır?",
+      "answer": "Erzurum ve Sivas Kongresi kararlarını"
+    },
+    {
+      "id": 51,
+      "question": "Misak-ı Milli’de sınırların belirlenmesinde ölçü alınan tarih ve olay nedir?",
+      "answer": "30 Ekim 1918 (Mondros Ateşkesi) imzalandığı andaki sınırlar"
+    },
+    {
+      "id": 52,
+      "question": "Misak-ı Milli’de halk oylaması (Referandum) istenen bölgeler nerelerdir?",
+      "answer": "Kars, Ardahan, Batum (Elviye-i Selase), Batı Trakya ve Arap toprakları"
+    },
+    {
+      "id": 53,
+      "question": "Misak-ı Milli’de \"Kapitülasyonlar kabul edilemez\" maddesi neyin hedeflendiğini gösterir?",
+      "answer": "Tam Bağımsızlık (Ekonomik Bağımsızlık)"
+    },
+    {
+      "id": 54,
+      "question": "İstanbul’un İtilaf Devletleri tarafından resmen işgal edilmesinin (16 Mart 1920) temel nedeni nedir?",
+      "answer": "Misak-ı Milli’nin kabul edilmesi"
+    },
+    {
+      "id": 55,
+      "question": "İstanbul’un işgalini Mustafa Kemal’e haber veren telgrafçı kimdir?",
+      "answer": "Manastırlı Hamdi Bey"
+    },
+    {
+      "id": 56,
+      "question": "İstanbul’un işgali üzerine Mustafa Kemal’in \"Ankara’da olağanüstü yetkilere sahip bir meclis toplanacaktır\" diyerek yayınladığı genelge nedir?",
+      "answer": "1920 Seçim Genelgesi"
+    },
+    {
+      "id": 57,
+      "question": "I. TBMM ne zaman açılmıştır?",
+      "answer": "23 Nisan 1920"
+    },
+    {
+      "id": 58,
+      "question": "I. TBMM’nin en yaşlı üye sıfatıyla açılış konuşmasını yapan başkanı kimdir?",
+      "answer": "Sinop Mebusu Şerif Bey"
+    },
+    {
+      "id": 59,
+      "question": "Milli varlığa düşman (Zararlı) cemiyetlerden, Rumların kurduğu ve \"Büyük Bizans\"ı (Megali İdea) amaçlayan cemiyet hangisidir?",
+      "answer": "Mavri Mira"
+    },
+    {
+      "id": 60,
+      "question": "Karadeniz’de bir Rum devleti kurmayı amaçlayan zararlı cemiyet hangisidir?",
+      "answer": "Pontus Rum Cemiyeti"
+    },
+    {
+      "id": 61,
+      "question": "Ermenilerin Doğu Anadolu’da devlet kurmak için oluşturduğu zararlı cemiyetler hangileridir?",
+      "answer": "Hınçak ve Taşnak"
+    },
+    {
+      "id": 62,
+      "question": "Yahudilerin kurduğu ve Filistin’de devlet kurmayı amaçlayan zararlı cemiyet hangisidir?",
+      "answer": "Alyans İsrailit ve Makabi"
+    },
+    {
+      "id": 63,
+      "question": "Türkler tarafından kurulan ancak Milli Mücadele’ye karşı olan (Milli Varlığa Düşman) cemiyetlerden, İngiliz mandasını savunan hangisidir?",
+      "answer": "İngiliz Muhipleri Cemiyeti"
+    },
+    {
+      "id": 64,
+      "question": "ABD mandasını savunan zararlı cemiyet hangisidir?",
+      "answer": "Wilson Prensipleri Cemiyeti"
+    },
+    {
+      "id": 65,
+      "question": "Padişah ve Halifeye bağlılığı savunan, Milli Mücadele’ye karşı fetva yayınlatan cemiyet hangisidir?",
+      "answer": "Teali İslam Cemiyeti"
+    },
+    {
+      "id": 66,
+      "question": "Kürt devleti kurmayı amaçlayan zararlı cemiyet hangisidir?",
+      "answer": "Kürt Teali Cemiyeti"
+    },
+    {
+      "id": 67,
+      "question": "Yararlı (Milli) cemiyetlerden, İzmir ve çevresinin Yunanlılara verilmesini önlemek için kurulan hangisidir?",
+      "answer": "İzmir Müdafaa-i Hukuk-u Osmaniye Cemiyeti (ve Reddi İlhak)"
+    },
+    {
+      "id": 68,
+      "question": "Adana ve Çukurova bölgesini Fransız ve Ermenilere karşı savunan yararlı cemiyet hangisidir?",
+      "answer": "Kilikyalılar Cemiyeti"
+    },
+    {
+      "id": 69,
+      "question": "Doğu Anadolu’nun Ermenilere verilmesini önlemek için kurulan yararlı cemiyet hangisidir?",
+      "answer": "Şark Vilayetleri (Doğu Anadolu) Müdafaa-i Hukuk Cemiyeti"
+    },
+    {
+      "id": 70,
+      "question": "Basın ve yayın yoluyla Milli Mücadele’yi savunan ve \"Kuvayi Milliye\" tabirini ilk kez kullanan cemiyet hangisidir?",
+      "answer": "Milli Kongre Cemiyeti (Dr. Esat Işık)"
+    },
+    {
+      "id": 71,
+      "question": "Trakya’nın Yunanistan’a verilmesini önlemek için kurulan cemiyet hangisidir?",
+      "answer": "Trakya Paşaeli Cemiyeti"
+    },
+    {
+      "id": 72,
+      "question": "Milli Mücadele’nin haklılığını dünyaya duyuran ilk yayın organı (Sivas Kongresi’nde çıkarılan) hangisidir?",
+      "answer": "İrade-i Milliye Gazetesi"
+    },
+    {
+      "id": 73,
+      "question": "TBMM açıldıktan sonra Ankara’da çıkarılan yarı resmi gazete hangisidir?",
+      "answer": "Hakimiyet-i Milliye"
+    },
+    {
+      "id": 74,
+      "question": "Mustafa Kemal’in \"Benim Gazetem\" dediği gazete hangisidir?",
+      "answer": "Hakimiyet-i Milliye"
+    },
+    {
+      "id": 75,
+      "question": "Mehmet Akif Ersoy’un başyazarlığını yaptığı ve İstiklal Marşı’nı ilk yayınlayan dergi hangisidir?",
+      "answer": "Sebilürreşad"
+    },
+    {
+      "id": 76,
+      "question": "Milli Mücadele’yi destekleyen ve Halide Edip Adıvar ile Yunus Nadi’nin kurduğu ajans hangisidir?",
+      "answer": "Anadolu Ajansı (AA)"
+    },
+    {
+      "id": 77,
+      "question": "Kuvayi Milliye nedir?",
+      "answer": "İşgallere karşı halkın oluşturduğu silahlı direniş birlikleri (Milis güçler)"
+    },
+    {
+      "id": 78,
+      "question": "Kuvayi Milliye’nin ortaya çıkma nedeni nedir?",
+      "answer": "Osmanlı ordusunun terhis edilmesi ve devletin işgallere sessiz kalması"
+    },
+    {
+      "id": 79,
+      "question": "İlk Kuvayi Milliye direnişi (silahlı çatışma olarak) nerede başlamıştır?",
+      "answer": "Hatay - Dörtyol (Fransızlara karşı)"
+    },
+    {
+      "id": 80,
+      "question": "Batı Cephesi’nde ilk Kuvayi Milliye direnişi nerede başlamıştır?",
+      "answer": "Ayvalık (Ali Çetinkaya)"
+    },
+    {
+      "id": 81,
+      "question": "Balıkesir ve Alaşehir Kongreleri’nin toplanma amacı nedir?",
+      "answer": "Batı Anadolu’da Yunan işgaline karşı direnişi örgütlemek"
+    },
+    {
+      "id": 82,
+      "question": "Balıkesir ve Alaşehir Kongreleri’nin, Erzurum ve Sivas’tan farkı nedir?",
+      "answer": "Padişaha bağlılık bildirmeleri (Saltanatçı olmaları)"
+    },
+    {
+      "id": 83,
+      "question": "Milli Mücadele’ye karşı çıkan isyanlardan \"Doğrudan İstanbul Hükümeti’nin çıkardığı\" isyanlar hangileridir?",
+      "answer": "Ahmet Anzavur ve Kuvayi İnzibatiye (Halifelik Ordusu)"
+    },
+    {
+      "id": 84,
+      "question": "Milli Mücadele’ye karşı çıkan isyanları bastırmak için TBMM’nin çıkardığı kanun hangisidir?",
+      "answer": "Hıyanet-i Vataniye Kanunu"
+    },
+    {
+      "id": 85,
+      "question": "Hıyanet-i Vataniye Kanunu’nu uygulamak için kurulan mahkemeler hangisidir?",
+      "answer": "İstiklal Mahkemeleri"
+    },
+    {
+      "id": 86,
+      "question": "İstiklal Mahkemeleri’nin üyeleri kimlerden oluşur?",
+      "answer": "TBMM içinden seçilen milletvekillerinden"
+    },
+    {
+      "id": 87,
+      "question": "İstanbul Hükümeti ile İtilaf Devletleri arasında imzalanan ancak ölü doğmuş bir antlaşma olan barış antlaşması hangisidir?",
+      "answer": "Sevr Antlaşması (10 Ağustos 1920)"
+    },
+    {
+      "id": 88,
+      "question": "Sevr Antlaşması neden hukuken geçersizdir?",
+      "answer": "Mebusan Meclisi tarafından onaylanmadığı için"
+    },
+    {
+      "id": 89,
+      "question": "Sevr Antlaşması’nı imzalayan heyete ne ad verilir?",
+      "answer": "Saltanat Şurası"
+    },
+    {
+      "id": 90,
+      "question": "TBMM, Sevr Antlaşması’nı imzalayanlar hakkında ne kararı almıştır?",
+      "answer": "Vatan haini ilan etmiştir."
+    },
+    {
+      "id": 91,
+      "question": "Bilecik Görüşmeleri kimler arasında yapılmıştır?",
+      "answer": "Mustafa Kemal (TBMM) ve Ahmet İzzet Paşa (İstanbul Hükümeti)"
+    },
+    {
+      "id": 92,
+      "question": "Bilecik Görüşmeleri’nin önemi nedir?",
+      "answer": "İstanbul Hükümeti, TBMM’yi resmen tanımıştır (Ancak sonuç alınamamıştır)."
+    },
+    {
+      "id": 93,
+      "question": "Mustafa Kemal’e \"İstanbul’un işgal edileceğini\" önceden haber veren ve Nutuk’ta ismi geçen devlet adamı kimdir?",
+      "answer": "Rauf Orbay (Felah-ı Vatan başkanı olarak İstanbul’daydı)"
+    },
+    {
+      "id": 94,
+      "question": "Anadolu’ya silah ve cephane kaçırmak için kurulan gizli gruplar hangileridir?",
+      "answer": "Karakol Cemiyeti, Mim Mim Grubu"
+    },
+    {
+      "id": 95,
+      "question": "Milli Mücadele’de kadın kahramanlarımızdan \"Kara Fatma\" lakaplı kişi kimdir?",
+      "answer": "Fatma Seher Erden"
+    },
+    {
+      "id": 96,
+      "question": "İnebolu’dan Ankara’ya cephane taşınan yola ne ad verilir?",
+      "answer": "İstiklal Yolu"
+    },
+    {
+      "id": 97,
+      "question": "İstiklal Yolu hangi illeri kapsar?",
+      "answer": "Kastamonu (İnebolu) - Çankırı - Ankara"
+    },
+    {
+      "id": 98,
+      "question": "Antep ve Maraş savunmalarının sembol isimleri kimlerdir?",
+      "answer": "Şahin Bey (Antep) - Sütçü İmam (Maraş)"
+    },
+    {
+      "id": 99,
+      "question": "Pozantı Kongresi’ne katılan devlet adamları kimlerdir?",
+      "answer": "Mustafa Kemal ve Fevzi Çakmak"
+    },
+    {
+      "id": 100,
+      "question": "Mustafa Kemal’in katıldığı son kongre hangisidir?",
+      "answer": "Pozantı Kongresi"
+    }
+  ]
+}

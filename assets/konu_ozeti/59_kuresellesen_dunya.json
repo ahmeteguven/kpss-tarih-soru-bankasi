@@ -1,0 +1,65 @@
+{
+  "konu_adi": "59- KÜRESELLEŞEN DÜNYA (1990 Sonrası)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "KÜRESELLEŞEN DÜNYA (1990 Sonrası)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🌎 Küreselleşme Döneminin Başlangıcı ve Karakteristikleri"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Dönemin Başlangıcı ve Temel Özellikleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tek Kutuplu Dünya: SSCB'nin dağılmasıyla ABD, dünyanın tek süper gücü haline gelmiştir.",
+        "Teknoloji ve İletişim: İnternet ve mobil teknolojilerin yaygınlaşması, sermayenin ve kültürün sınırlar olmadan hızla dolaşımını sağlamıştır.",
+        "Ekonomi: Serbest piyasa ekonomisi (neoliberalizm) ve özelleştirme yaygınlaşmıştır.",
+        "Kültürel Etki: Batı kültürünün (özellikle Amerikan kültürü) küresel çapta baskın hale gelmesi."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🚨 Önemli Siyasi Gelişmeler ve Çatışma Alanları"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Sovyet Sonrası Gelişmeler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yeni Devletler: SSCB'den ayrılan Türk Cumhuriyetleri bağımsızlıklarını kazanmıştır (Azerbaycan, Kazakistan, Özbekistan vb.).",
+        "Yugoslavya'nın Dağılması: Etnik ve dini çatışmalar nedeniyle bölge parçalanmış ve Bosna Savaşı yaşanmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Terör ve Bölgesel Çatışmalar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Körfez Savaşları (1990-1991): Irak'ın Kuveyt'i işgali üzerine ABD'nin müdahalesi, Ortadoğu'da ABD'nin hakimiyetini artırmıştır.",
+        "9/11 Saldırıları (2001): ABD'de düzenlenen terör saldırıları, \"Teröre Karşı Küresel Savaş\" adı verilen dönemi başlatmıştır (Afganistan ve Irak işgalleri).",
+        "Arap Baharı (2010-2011): Tunus'ta başlayıp Ortadoğu'ya yayılan halk hareketleri, bölgede siyasi istikrarsızlığa neden olmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Küreselleşme Döneminde Türkiye"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Türk Cumhuriyetleri ile İlişkiler: Türkiye, bağımsızlığını kazanan Türk Cumhuriyetleri ile güçlü bağlar kurmuş ve Türk Konseyi'nin kurulmasına öncülük etmiştir.",
+        "Avrupa Birliği İlişkileri: Türkiye, tam üyelik yolunda reformlar yapmış ve 1999'da aday ülke statüsü almıştır.",
+        "Ortadoğu Politikası: Körfez Savaşları ve terör tehdidi nedeniyle Türkiye'nin Ortadoğu'daki rolü karmaşık hale gelmiştir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 35",
+  "examCode": "deneme_35",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 33)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı, Hayvan Üslubu sanatının gelişmesine neden olmuştur. Orhun Abideleri'nin yazarının Yollug Tigin olduğu kabul edilir. Büyük Selçuklu Devleti'nde Vezir Nizamülmülk tarafından kurulan Nizamiye Medreseleri, dönemin en büyük bilim merkezidir. Anadolu'da kurulan ilk medrese Danişmentliler'e ait Yağıbasan Medresesi'dir. Anadolu Selçuklu Devleti'nde Ahilik teşkilatı, esnaf ve zanaatkarların mesleki ve ahlaki eğitimini sağlamıştır.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde Pençik Sistemi uygulanmış, Fatih döneminde 'Kardeş Katli' yasallaşmıştır. Yavuz Sultan Selim'in Mısır Seferi ile Halifelik Osmanlı'ya geçmiştir. Lale Devri'ni bitiren Patrona Halil İsyanı'dır (1730). II. Mahmut döneminde (1838) Balta Limanı Ticaret Antlaşması ile Osmanlı, İngiltere'nin açık pazarı haline gelmiştir. İlk yazılı anayasa Kanun-i Esasi (1876)'dir.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, bölgesel amaçlı, düzensiz birliklerdir. Amasya Genelgesi, Milli Mücadele'nin gerekçesini ve yöntemini belirlemiştir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiş, Moskova ve Londra Konferansları toplanmıştır. Medeni Kanun ile kadınlara siyasi haklar verilmemiştir. Montrö Boğazlar Sözleşmesi (1936) ile Türkiye, boğazlar üzerindeki tam egemenliğini sağlamıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk ordusunda 'Turan Taktiği'nin (Hilal Taktiği) kökeni hangi döneme dayanır?",
+      "options": [
+        "Uygurlar",
+        "Göktürkler",
+        "Asya Hun Devleti (Mete Han)",
+        "Avarlar",
+        "Kıpçaklar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türklerde hapis cezalarının genellikle 10 günü geçmeyecek kadar kısa tutulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Hukukun çok gelişmiş olması",
+        "Töre'nin esnek olması",
+        "Göçebe yaşam tarzının cezaevi kurmayı engellemesi ve göç sırasında mahkumu taşıma zorluğu",
+        "Savaşçı özelliklerin kaybedilmesi",
+        "Yargı yetkisinin sadece Kağan'da olması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Anadolu Selçuklu Devleti'nde, yüksek rütbeli devlet görevlilerine maaş karşılığı verilen toprakların kayıtlarını tutan ve dağıtımını düzenleyen 'Pervaneci' adlı görevli hangi merkezin (Divan'ın) üyesidir?",
+      "options": [
+        "Divan-ı Tuğra",
+        "Divan-ı İstifa",
+        "Divan-ı Arz",
+        "Divan-ı İşraf",
+        "Divan-ı Pervane"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Büyük Selçuklu Devleti'nde, hükümdar çocuklarını (Melik) eğitmek ve onlara eyalet yönetiminde yardımcı olmakla görevli olan, ancak merkezi otorite zayıflayınca bağımsızlıklarını ilan eden yöneticilere ne ad verilirdi?",
+      "options": [
+        "Lala",
+        "Ataman",
+        "İnal",
+        "Atabey",
+        "Bitikçi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nin Kuruluş Dönemi'nde gerçekleşen, Haçlılara karşı kazanılan ilk zafer hangisidir?",
+      "options": [
+        "I. Kosova Savaşı",
+        "Sırpsındığı Savaşı",
+        "Niğbolu Savaşı",
+        "Varna Savaşı",
+        "Koyunhisar Savaşı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde Fatih Sultan Mehmet döneminde Divan-ı Hümayun'da, padişahın mutlak otoritesini artırmak için getirilen yenilik nedir?",
+      "options": [
+        "Sadrazamın Divan'a başkanlık etmesi ve padişahın toplantıya katılmaması",
+        "Reisülküttab'ın Divan'a üye yapılması",
+        "Nişancı'nın Divan'daki yetkilerinin kısıtlanması",
+        "Şeyhülislam'ın Divan'a daimi üye olması",
+        "Kapıkulu askerlerinin Divan'a girmesi"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde Batı tarzı ıslahatların yapılması gerektiğini anlatan ve III. Selim döneminde uygulanan yenilik hareketinin genel adı nedir?",
+      "options": [
+        "Lale Devri",
+        "Tanzimat",
+        "Islahat",
+        "Nizam-ı Cedid",
+        "Sekbân-ı Cedid"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "II. Mahmut döneminde ordu ihtiyacını karşılamak için kurulan ve Tımar sisteminin kaldırılmasıyla oluşan boşluğu dolduran, terhis edilmiş askerlerden oluşan yedek orduya ne ad verilir?",
+      "options": [
+        "Kapıkulu Ordusu",
+        "Nizam-ı Cedid",
+        "Redif Birlikleri",
+        "Hamidiye Alayları",
+        "Cebeci Ocağı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde Tanzimat Fermanı'nın (1839) ilan edilmesindeki temel amaç nedir?",
+      "options": [
+        "Yönetimde Meşrutiyet'e geçmek",
+        "Gayrimüslim isyanlarını durdurmak ve Avrupalı devletlerin iç işlerine karışmasını önlemek",
+        "Dış borçların ödenmesini garanti altına almak",
+        "Ekonomide serbest piyasayı uygulamak",
+        "Yeniçeri Ocağı'nı tekrar kurmak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde ilk kez 'Mecelle' (İslam Hukuku'na dayalı Medeni Kanun) hangi padişah döneminde Ahmet Cevdet Paşa başkanlığındaki komisyon tarafından hazırlanmıştır?",
+      "options": [
+        "II. Mahmut",
+        "Abdülmecit",
+        "Abdülaziz",
+        "II. Abdülhamit",
+        "V. Mehmet Reşat"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde Tımar sisteminin bozulmasıyla birlikte ortaya çıkan 'Büyük Kaçgun' olayında, köylülerin topraklarını bırakıp şehirlere kaçmasının temel nedeni nedir?",
+      "options": [
+        "Ekonomik refahın artması",
+        "İltizam sisteminin yaygınlaşması ve ağır vergi baskısı",
+        "Dini isyanlar",
+        "Yeniçerilerin otoritesinin artması",
+        "Sancağa çıkma usulünün kaldırılması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Balkan Savaşı'nda Osmanlı Devleti'nden ayrılarak bağımsızlığını ilan eden son Balkan ulusu hangisidir?",
+      "options": [
+        "Sırbistan",
+        "Bulgaristan",
+        "Karadağ",
+        "Arnavutluk",
+        "Yunanistan"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "I. Dünya Savaşı'nın genel nedenlerinden olan ve zenginliğin kaynağını değerli maden birikiminde gören ekonomik teori hangisidir?",
+      "options": [
+        "Liberalizm",
+        "Sosyalizm",
+        "Merkantilizm",
+        "Kapitalizm",
+        "Feodalizm"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Mustafa Kemal'in Havza Genelgesi'nde halktan istediği 'İşgaller protesto edilmeli, mitingler düzenlenmeli, ancak azınlıklara zarar verilmemeli' çağrısının temel amacı nedir?",
+      "options": [
+        "İstanbul Hükümeti'ne bağlılık bildirmek",
+        "Milli bilinci uyandırmak ve Mondros'un 7. maddesinin uygulanmasına zemin hazırlamamak",
+        "Kuvayi Milliye'yi kurmak",
+        "Orduyu terhis etmek",
+        "Manda ve himayeyi kabul etmek"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Temsil Heyeti'nin Sivas Kongresi'nden sonra Ali Fuat Paşa'yı Batı Cephesi Komutanlığı'na ataması, aşağıdakilerden hangisinin göstergesidir?",
+      "options": [
+        "Temsil Heyeti'nin yasama yetkisini kullandığının",
+        "Hükümet gibi yürütme yetkisini kullandığının",
+        "İstanbul Hükümeti'ni tanıdığının",
+        "Meclis-i Mebusan'ı açtığının",
+        "İtilaf Devletleri'yle barış yaptığının"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı'nda, Kazım Karabekir Paşa komutasındaki 15. Kolordu'nun Ermenilere karşı kazandığı zafer sonrası imzalanan Gümrü Antlaşması'nın en önemli siyasi sonucu nedir?",
+      "options": [
+        "Misak-ı Milli'den ilk taviz verilmesi",
+        "TBMM'yi ve Sevr'in geçersizliğini kabul eden ilk devletin Ermenistan olması",
+        "Doğu sınırının kesinleşmesi",
+        "Güney Cephesi'nin kapanması",
+        "Kapitülasyonların kaldırılması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Başkomutanlık Meydan Muharebesi'nin (Büyük Taarruz) kazanılmasından sonra, TBMM tarafından Mareşal rütbesi verilen komutan kimdir?",
+      "options": [
+        "Mustafa Kemal Paşa",
+        "İsmet İnönü",
+        "Kazım Karabekir",
+        "Fevzi Çakmak",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda, 'Boğazlar' konusunda tam egemenliği zedeleyen ve uluslararası bir komisyon kurulmasını öngören kararın, Türkiye lehine çözümü hangi antlaşma ile sağlanmıştır?",
+      "options": [
+        "Kars Antlaşması",
+        "1930 Ahali Antlaşması",
+        "Balkan Antantı",
+        "Montrö Boğazlar Sözleşmesi",
+        "Sadabat Paktı"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "3 Mart 1924'te Halifeliğin kaldırılmasıyla aynı gün kabul edilen ve ordunun siyasetten ayrılmasını sağlayan kanun hangisidir?",
+      "options": [
+        "Tevhid-i Tedrisat Kanunu",
+        "Erkan-ı Harbiye-i Umumiye Vekaleti'nin kaldırılması",
+        "Şeriye ve Evkaf Vekaleti'nin kaldırılması",
+        "Tekke ve Zaviyelerin kapatılması",
+        "Soyadı Kanunu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "1925 yılında çıkarılan ve rejim karşıtı faaliyetlerin önlenmesi amacıyla hükümete olağanüstü yetkiler veren kanun hangisidir?",
+      "options": [
+        "Hıyanet-i Vataniye Kanunu",
+        "Firariler Kanunu",
+        "Takrir-i Sükun Kanunu",
+        "Menemen Kanunu",
+        "Milli Korunma Kanunu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Türk kadınına siyasi haklar verilirken, bu hakların edinilmesindeki kronolojik sıra aşağıdakilerden hangisidir?",
+      "options": [
+        "Milletvekili - Belediye - Muhtar",
+        "Muhtar - Belediye - Milletvekili",
+        "Belediye - Muhtar - Milletvekili",
+        "Vekil - Muhtar - Belediye",
+        "Belediye - Milletvekili - Muhtar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "İkinci kez çok partili hayata geçiş denemesi olan Serbest Cumhuriyet Fırkası'nın (SCF) kurulmasında etkili olan en temel ekonomik gelişme hangisidir?",
+      "options": [
+        "I. Dünya Savaşı'nın yarattığı ekonomik yük",
+        "1929 Dünya Ekonomik Buhranı",
+        "Teşvik-i Sanayi Kanunu'nun başarısızlığı",
+        "Aşar vergisinin kaldırılması",
+        "Merkez Bankası'nın kurulması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin dış politikada 'Yurtta Sulh, Cihanda Sulh' ilkesini benimsemesi, Türkiye'nin hangi karaktere sahip olmadığını gösterir?",
+      "options": [
+        "Bağımsız",
+        "Barışçı",
+        "Gerçekçi",
+        "Yayılmacı (İrredantist)",
+        "Statükocu"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Türkiye'nin II. Dünya Savaşı öncesinde Batı sınırını güvence altına almak için Yunanistan, Yugoslavya ve Romanya ile kurduğu bölgesel pakt hangisidir?",
+      "options": [
+        "Sadabat Paktı",
+        "Akdeniz Paktı",
+        "Balkan Antantı",
+        "Briand-Kellogg Paktı",
+        "NATO"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sonrasında, Batı Avrupa'yı ekonomik olarak ayağa kaldırmak ve komünizmin yayılmasını engellemek amacıyla ABD'nin başlattığı yardım programı hangisidir?",
+      "options": [
+        "Truman Doktrini",
+        "Marshall Planı",
+        "COMECON",
+        "Eisenhower Doktrini",
+        "Monroe Doktrini"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "Hindistan'ın bağımsızlık lideri Mahatma Gandhi'nin İngiliz yönetimine karşı uyguladığı şiddet içermeyen direniş yöntemine ne ad verilir?",
+      "options": [
+        "Cihad",
+        "Pasif Direniş (Satyagraha)",
+        "Kamikaze",
+        "Devrimci Halk Savaşı",
+        "Kültürel Restorasyon"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1960 darbesinden sonra kurulan ve Demokrat Parti yöneticilerinin yargılandığı mahkeme süreci hangi adada gerçekleştirilmiştir?",
+      "options": [
+        "Büyükada",
+        "Heybeliada",
+        "Yassıada",
+        "Kınalıada",
+        "İmralı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

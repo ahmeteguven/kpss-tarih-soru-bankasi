@@ -1,0 +1,4445 @@
+{
+  "topicName": "Osmanlı Devleti Tarihi",
+  "testSets": [
+    {
+      "testName": "Mini Test - 1",
+      "preTestNote": "Osman Bey (Fahrüddin): \"Aşiretten Beyliğe\" geçiş. İlk vergi (Bac), ilk para (Bakır-Mangır), ilk kadı (Dursun Fakih). Koyunhisar (Bafeus) Savaşı (1302): Bizans ile yapılan ilk savaştır.\n\nOrhan Bey (İhtiyareddin): \"Beylikten Devlete\" geçiş. Bursa alındı, başkent oldu. Palekanon (Maltepe) Savaşı: Bizans ordusu yenildi. Çimpe Kalesi: Rumeli'deki ilk toprak parçasıdır. İlkler: Gümüş para (Akçe), Divan, Vezirlik, Yaya ve Müsellem, Medrese (İznik), Tersane.\n\nI. Murat (Hüdavendigar): Sazlıdere Savaşı: Edirne alındı. Sırpsındığı Savaşı: Haçlılarla yapılan ilk savaştır. I. Kosova Savaşı: İlk kez top kullanıldı. I. Murat savaş alanında şehit düşen ilk ve tek padişahtır. Sistem: Veraset sistemi değişti (\"Ülke padişah ve oğullarınındır\"). Pençik Sistemi uygulandı.\n\nYıldırım Bayezid: İstanbul'u kuşatan ilk padişahtır. Anadolu Hisarı'nı yaptırdı. Niğbolu Savaşı (1396): Haçlıları yendi, \"Sultan-ı İklim-i Rum\" unvanını aldı. Ankara Savaşı (1402): Timur'a yenildi, Fetret Devri başladı.\n\nÇelebi Mehmet: Fetret Devri'ni bitirdiği için devletin \"İkinci Kurucusu\" sayılır. İlk deniz savaşı Venedik ile yapıldı. Şeyh Bedrettin İsyanı çıktı.\n\nII. Murat (Ebu'l Hayr): Edirne-Segedin Antlaşması imzalandı. II. Kosova Savaşı (1448): Balkanların Türk yurdu olduğu kesinleşti.",
+      "questions": [
+        {
+          "text": "Osmanlı Devleti ile Bizans İmparatorluğu (Tekfurlar) arasında yapılan ilk savaş aşağıdakilerden hangisidir?",
+          "options": [
+            "Sırpsındığı",
+            "Koyunhisar (Bafeus)",
+            "Palekanon (Maltepe)",
+            "Sazlıdere",
+            "Çirmen"
+          ],
+          "correctOption": "B",
+          "solution": "Osman Bey dönemi - 1302"
+        },
+        {
+          "text": "Osmanlı Devleti’nde \"Beylikten Devlete\" geçişin mimarı sayılan, Bursa’yı alarak başkent yapan ve ilk düzenli orduyu (Yaya ve Müsellem) kuran padişah kimdir?",
+          "options": [
+            "Orhan Bey",
+            "I. Murat",
+            "Osman Bey",
+            "Yıldırım Bayezid",
+            "Çelebi Mehmet"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin Rumeli’ye geçişini sağlayan ve Rumeli’de ele geçirilen ilk toprak parçası olan yer neresidir?",
+          "options": [
+            "Gelibolu",
+            "Çimpe Kalesi",
+            "Edirne",
+            "Selanik",
+            "Varna"
+          ],
+          "correctOption": "E",
+          "solution": "Kantakuzen'e yapılan yardım karşılığı hediye edilmiştir."
+        },
+        {
+          "text": "Osmanlı Devleti’nde Haçlı ittifakına karşı kazanılan ilk zafer aşağıdakilerden hangisidir?",
+          "options": [
+            "I. Kosova",
+            "Varna",
+            "Niğbolu",
+            "Sırpsındığı",
+            "Çirmen"
+          ],
+          "correctOption": "D",
+          "solution": "I. Murat dönemi."
+        },
+        {
+          "text": "I. Murat döneminde savaş alanını gezerken bir Sırp askeri tarafından şehit edilen ve savaş alanında şehit düşen ilk ve tek Osmanlı padişahı kimdir?",
+          "options": [
+            "I. Mehmet",
+            "II. Murat",
+            "I. Murat (Hüdavendigar)",
+            "Osman Bey",
+            "Orhan Bey"
+          ],
+          "correctOption": "C",
+          "solution": "I. Kosova Savaşı sonrası."
+        },
+        {
+          "text": "I. Kosova Savaşı’nın Türk tarihi açısından en önemli sonucu aşağıdakilerden hangisidir?",
+          "options": [
+            "İlk kez top kullanılması",
+            "İstanbul’un fethinin kolaylaşması",
+            "Bizans’ın yıkılması",
+            "Anadolu Türk birliğinin sağlanması",
+            "Fetret Devri’nin başlaması"
+          ],
+          "correctOption": "A",
+          "solution": "Ses çıkarıp düşmanı korkutmak amacıyla ilk top burada kullanıldı."
+        },
+        {
+          "text": "Osmanlı tarihinde İstanbul’u kuşatan ilk padişah kimdir?",
+          "options": [
+            "Fatih Sultan Mehmet",
+            "II. Murat",
+            "Musa Çelebi",
+            "Orhan Bey",
+            "Yıldırım Bayezid"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "1396 yılında Niğbolu Savaşı’nda Haçlı ordusunu büyük bir bozguna uğrattığı için Abbasi Halifesi tarafından kendisine \"Sultan-ı İklim-i Rum\" (Anadolu Diyarının Sultanı) unvanı verilen padişah kimdir?",
+          "options": [
+            "I. Murat",
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "Yıldırım Bayezid",
+            "II. Murat"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin Timur ile yaptığı 1402 Ankara Savaşı’nın sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Anadolu Türk siyasi birliğinin bozulması (Beyliklerin tekrar kurulması)",
+            "İstanbul’un fethinin 50 yıl gecikmesi",
+            "Osmanlı Devleti’nin Fetret Devri’ne girmesi",
+            "Balkanlarda büyük toprak kayıplarının yaşanması",
+            "Akkoyunlu Devleti’nin güçlenerek Osmanlı’yı tehdit etmesi"
+          ],
+          "correctOption": "C",
+          "solution": "İlginç bir şekilde Osmanlı, Ankara Savaşı'nda yenilmesine rağmen Balkanlarda uyguladığı \"İstimalet\" (Hoşgörü) politikası sayesinde Balkanlarda büyük bir toprak kaybı yaşamamıştır."
+        },
+        {
+          "text": "Ankara Savaşı’ndan sonra Yıldırım Bayezid’in oğulları arasında yaşanan taht kavgaları nedeniyle devletin başsız kaldığı 11 yıllık döneme (1402-1413) ne ad verilir?",
+          "options": [
+            "Lale Devri",
+            "Fetret Devri",
+            "Duraklama Devri",
+            "Meşrutiyet Devri",
+            "Tanzimat Devri"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Fetret Devri’ne son vererek devletin düzenini yeniden sağladığı için Osmanlı Devleti’nin \"İkinci Kurucusu\" kabul edilen padişah kimdir?",
+          "options": [
+            "II. Murat",
+            "Çelebi Mehmet (I. Mehmet)",
+            "Orhan Bey",
+            "Musa Çelebi",
+            "Süleyman Çelebi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nde çıkan ilk dini ve sosyal nitelikli isyan aşağıdakilerden hangisidir?",
+          "options": [
+            "Şeyh Bedrettin İsyanı",
+            "Şeyh Said İsyanı",
+            "Baba İshak İsyanı",
+            "Buçuktepe İsyanı",
+            "Celali İsyanları"
+          ],
+          "correctOption": "A",
+          "solution": "Çelebi Mehmet döneminde çıkmıştır. Baba İshak Selçuklu dönemindedir."
+        },
+        {
+          "text": "Osmanlı Devleti’nin Venediklilerle yaptığı ilk deniz savaşı hangi padişah döneminde gerçekleşmiştir?",
+          "options": [
+            "Fatih Sultan Mehmet",
+            "Kanuni Sultan Süleyman",
+            "Yıldırım Bayezid",
+            "II. Murat",
+            "Çelebi Mehmet"
+          ],
+          "correctOption": "E",
+          "solution": "Çalı Bey Savaşı olarak bilinir ve Osmanlı kaybetmiştir."
+        },
+        {
+          "text": "Tahtı kendi isteğiyle oğlu II. Mehmet’e (Fatih) bırakan, ancak Haçlı tehlikesi üzerine tekrar tahta geçen ve II. Kosova Savaşı ile Balkanları kesin Türk yurdu haline getiren padişah kimdir?",
+          "options": [
+            "I. Murat",
+            "Yıldırım Bayezid",
+            "Çelebi Mehmet",
+            "Yavuz Sultan Selim",
+            "II. Murat"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "1448 yılında yapılan II. Kosova Savaşı’nın Türk tarihindeki önemi nedir?",
+          "options": [
+            "Bizans ile yapılan ilk savaştır.",
+            "Rumeli’ye geçiş sağlanmıştır.",
+            "Avrupalıların Türkleri Balkanlardan atma ümidi sona ermiş, Balkanlar kesin Türk yurdu olmuştur.",
+            "Osmanlı Devleti yıkılma tehlikesi geçirmiştir.",
+            "İstanbul fethedilmiştir."
+          ],
+          "correctOption": "C",
+          "solution": "Anadolu için Miryokefalon neyse, Balkanlar için II. Kosova odur."
+        },
+        {
+          "text": "Osmanlı Devleti’nde ilk bakır para (Mangır) hangi padişah döneminde bastırılmıştır?",
+          "options": [
+            "Osman Bey",
+            "Orhan Bey",
+            "I. Murat",
+            "Yıldırım Bayezid",
+            "Fatih Sultan Mehmet"
+          ],
+          "correctOption": "A",
+          "solution": "Osman Bey bağımsızlık sembolü olarak hutbe okutmuş ve bakır para bastırmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti’nin, fethettiği Balkan topraklarında kalıcılığı sağlamak amacıyla Anadolu’daki göçebe Türkmenleri o bölgelere yerleştirmesi politikasına ne ad verilir?",
+          "options": [
+            "Devşirme",
+            "İstimalet",
+            "İltizam",
+            "İskan",
+            "Müsadere"
+          ],
+          "correctOption": "D",
+          "solution": "Yerleştirme politikası."
+        },
+        {
+          "text": "Osmanlı Devleti’nin Balkanlardaki gayrimüslim halka uyguladığı \"Hoşgörü ve Gönül Alma\" politikasına ne ad verilir?",
+          "options": [
+            "İskan",
+            "Millet Sistemi",
+            "Pençik",
+            "Dirlik",
+            "İstimalet"
+          ],
+          "correctOption": "B",
+          "solution": "İstimalet: Meylettirme, gönül alma. Bu sayede Fetret Devri'nde Balkanlar kopmadı."
+        },
+        {
+          "text": "Osmanlı Devleti’ne \"Kendi isteğiyle\" katılan ilk beylik hangisidir?",
+          "options": [
+            "Germiyanoğulları",
+            "Aydınoğulları",
+            "Karesioğulları",
+            "Hamitoğulları",
+            "Candaroğulları"
+          ],
+          "correctOption": "C",
+          "solution": "Orhan Bey dönemi. Böylece Osmanlı donanmaya sahip oldu."
+        },
+        {
+          "text": "Osmanlı Devleti’nde \"Ülke hanedanın ortak malıdır\" anlayışını değiştirerek \"Ülke padişah ve oğullarınındır\" kuralını getiren ve merkezi otoriteyi güçlendirmeyi amaçlayan ilk padişah kimdir?",
+          "options": [
+            "I. Murat",
+            "Fatih Sultan Mehmet",
+            "Osman Bey",
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman"
+          ],
+          "correctOption": "A",
+          "solution": "Daha sonra Fatih, \"Ülke sadece Padişahındır\" diyecektir."
+        },
+        {
+          "text": "Yıldırım Bayezid döneminde İstanbul kuşatmalarına yardımcı olmak ve Boğaz geçişlerini kontrol etmek amacıyla yaptırılan hisarın adı nedir?",
+          "options": [
+            "Rumeli Hisarı (Boğazkesen)",
+            "Anadolu Hisarı (Güzelce)",
+            "Kilitbahir Kalesi",
+            "Seddülbahir Kalesi",
+            "Çimpe Kalesi"
+          ],
+          "correctOption": "B",
+          "solution": "Rumeli Hisarı'nı Fatih yaptırmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti’nde \"Vergi\" (Bac) toplayan, \"Kadı\" atayan ve \"Pazar yerlerini\" denetleyen ilk padişah kimdir?",
+          "options": [
+            "Orhan Bey",
+            "I. Murat",
+            "Çelebi Mehmet",
+            "II. Murat",
+            "Osman Bey"
+          ],
+          "correctOption": "E",
+          "solution": "Devletin yarı-bağımsız temellerini Osman Bey atmıştır."
+        },
+        {
+          "text": "Orhan Bey döneminde kurulan, vezirlik makamının oluşturulduğu ve devlet işlerinin görüşüldüğü meclise ne ad verilir?",
+          "options": [
+            "Kurultay",
+            "Meclis-i Mebusan",
+            "Pankuş",
+            "Toy",
+            "Divan-ı Hümayun"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı padişahları arasında \"Hayır Babası\" (Ebu'l Hayr) olarak bilinen padişah kimdir?",
+          "options": [
+            "II. Murat",
+            "I. Murat",
+            "Orhan Bey",
+            "Çelebi Mehmet",
+            "Yıldırım Bayezid"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı ordusunun asker ihtiyacını karşılamak amacıyla I. Murat döneminde savaş esirlerinin 1/5’inin asker olarak alınması sistemine ne ad verilir?",
+          "options": [
+            "Devşirme",
+            "İltizam",
+            "Tımar",
+            "Gulam",
+            "Pençik"
+          ],
+          "correctOption": "C",
+          "solution": "Pençik \"Beşte bir\" demektir. Bu sistem daha sonra yetersiz kalınca Devşirme sistemine dönüştürülmüştür."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 2",
+      "preTestNote": "II. Mehmet (Fatih): \"Avni\" mahlasıyla şiirler yazmıştır.\nİstanbul'un Fethi (1453): Rumeli Hisarı yapıldı, Şahi topları döküldü. Sonuçlar: Orta Çağ bitti, Yeni Çağ başladı. Bizans yıkıldı. Fatih, \"Kayser-i Rum\" unvanını aldı.\nBizans'ı Diriltme Umutlarını Yok Etmek İçin: Mora Despotluğu alındı. Trabzon Rum İmparatorluğu'na son verildi.\nAnadolu ve Denizler: Otlukbeli Savaşı (1473): Akkoyunlu (Uzun Hasan) mağlup edildi. Kırım'ın Fethi (1475): Karadeniz Türk Gölü oldu. Amasra, Sinop, Trabzon alındı.\nTeşkilatlanma: Topkapı Sarayı inşa edildi. Kanunname-i Ali Osman: Kardeş katli yasallaştı (\"Nizam-ı Alem\"). Sahn-ı Seman Medreseleri kuruldu. Divan Başkanlığı Sadrazama verildi. İlk Altın Para (Sultani) bastırıldı.",
+      "questions": [
+        {
+          "text": "Osmanlı Devleti’nde II. Mehmet’e \"Fatih\" unvanının verilmesine ve Orta Çağ’ın kapanıp Yeni Çağ’ın başlamasına neden olan olay hangisidir?",
+          "options": [
+            "İstanbul’un Fethi",
+            "Roma’nın Fethi",
+            "Belgrad’ın Fethi",
+            "Viyana Kuşatması",
+            "Mısır’ın Fethi"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "İstanbul’un fethi için yapılan hazırlıklar kapsamında, Yıldırım Bayezid’in yaptırdığı Anadolu Hisarı’nın karşısına Fatih Sultan Mehmet tarafından yaptırılan hisar hangisidir?",
+          "options": [
+            "Çimenlik Kalesi",
+            "Kilitbahir Kalesi",
+            "Rumeli Hisarı (Boğazkesen)",
+            "Seddülbahir",
+            "Yedikule Zindanları"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Fatih Sultan Mehmet, İstanbul’u fethettikten sonra Roma İmparatorluğu’nun tek varisi olduğu iddiasıyla hangi unvanı kullanmıştır?",
+          "options": [
+            "Halife",
+            "Hüdavendigar",
+            "Kayser-i Rum",
+            "Sultan-ı İklim-i Rum",
+            "Hadimü'l Haremeyn"
+          ],
+          "correctOption": "C",
+          "solution": "Rum Kayseri / Roma İmparatoru demektir."
+        },
+        {
+          "text": "Bizans İmparatorluğu’nun yıkılmasından sonra, Bizans hanedan üyelerinin sığındığı ve Bizans’ı yeniden diriltme potansiyeli olan Mora Despotluğu ve Trabzon Rum İmparatorluğu'na Fatih tarafından son verilmesinin temel amacı nedir?",
+          "options": [
+            "Haçlı seferlerini başlatmak",
+            "Deniz ticaretini geliştirmek",
+            "Anadolu Türk birliğine zarar vermek",
+            "Rusya'nın güneye inmesini engellemek",
+            "Bizans’ı diriltme umutlarını tamamen yok etmek"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde Cenevizlilerden Amasra, İsfendiyaroğullarından Sinop ve Rumlardan Trabzon’un alınmasının ortak amacı nedir?",
+          "options": [
+            "Anadolu Türk siyasi birliğini sağlamak",
+            "Karadeniz ticaret yoluna hakim olmak",
+            "Balkan fetihlerini tamamlamak",
+            "Akkoyunlu Devleti'ni yıkmak",
+            "Memlüklerle sınır komşusu olmak"
+          ],
+          "correctOption": "B",
+          "solution": "Karadeniz kıyı şeridi hakimiyeti."
+        },
+        {
+          "text": "Karadeniz’in bir \"Türk Gölü\" haline gelmesi aşağıdaki yerlerden hangisinin Fatih Sultan Mehmet döneminde fethedilmesiyle sağlanmıştır?",
+          "options": [
+            "İstanbul",
+            "Sinop",
+            "Trabzon",
+            "Rodos",
+            "Kırım"
+          ],
+          "correctOption": "E",
+          "solution": "Kırım'ın alınmasıyla Karadeniz'in kuzeyi de kontrol altına alınmış, deniz tamamen Türk hakimiyetine girmiştir."
+        },
+        {
+          "text": "1473 yılında Akkoyunlu hükümdarı Uzun Hasan’ı Otlukbeli Savaşı’nda mağlup ederek Doğu Anadolu’nun güvenliğini sağlayan padişah kimdir?",
+          "options": [
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman",
+            "II. Bayezid",
+            "IV. Murat",
+            "Fatih Sultan Mehmet"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı tarihinde \"Kardeş Katli\"ni, \"Nizam-ı Alem\" (Devletin düzeni) için yasal hale getiren belge aşağıdakilerden hangisidir?",
+          "options": [
+            "Sened-i İttifak",
+            "Kanunname-i Ali Osman (Fatih Kanunnamesi)",
+            "Tanzimat Fermanı",
+            "Islahat Fermanı",
+            "Kanun-i Esasi"
+          ],
+          "correctOption": "A",
+          "solution": "\"Her kime saltanat müyesser ola, karındaşların nizam-ı alem içün katletmek münasiptir.\""
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde devlet adamı yetiştirmek amacıyla saray içinde kurulan okulun adı nedir?",
+          "options": [
+            "Enderun",
+            "Nizamiye",
+            "Sahn-ı Seman",
+            "Darülfünun",
+            "Süleymaniye"
+          ],
+          "correctOption": "A",
+          "solution": "Enderun Mektebi daha önce temelleri atılsa da Fatih döneminde Topkapı Sarayı'nda kurumsallaşmıştır."
+        },
+        {
+          "text": "Fatih Sultan Mehmet’in, Divan-ı Hümayun başkanlığını sadrazama bırakarak divan toplantılarını \"Kasr-ı Adl\" denilen pencereden izlemeye başlamasının temel amacı nedir?",
+          "options": [
+            "İş yükünü hafifletmek",
+            "Sadrazamın yetkilerini kısıtlamak",
+            "Padişahın otoritesini ve ulaşılmazlığını artırmak (Mutlakiyet)",
+            "Divan üyeleriyle yüz yüze gelmekten kaçınmak",
+            "Devlet işlerinden çekilmek"
+          ],
+          "correctOption": "C",
+          "solution": "Divan üyeleri padişahın yanında çekinerek konuşmasın diye de yapılmıştır, son karar yine padişahındır."
+        },
+        {
+          "text": "Venediklilere ilk kez ticari ayrıcalıkların (imtiyaz) verildiği ve İstanbul’da \"Balyos\" adı verilen elçi bulundurma hakkının tanındığı padişah dönemi hangisidir?",
+          "options": [
+            "Kanuni Sultan Süleyman",
+            "Fatih Sultan Mehmet",
+            "Orhan Bey",
+            "II. Bayezid",
+            "Yavuz Sultan Selim"
+          ],
+          "correctOption": "B",
+          "solution": "Hristiyan birliğini parçalamak ve ticareti canlandırmak için verilmiştir."
+        },
+        {
+          "text": "Fatih döneminde basılan ve Osmanlı ekonomisinin güçlendiğini gösteren ilk altın paraya ne ad verilir?",
+          "options": [
+            "Akçe",
+            "Mangır",
+            "Kaime",
+            "Mecidiye",
+            "Sikke-i Hasene (Sultani)"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "İtalyan ressam Gentile Bellini’ye kendi portresini yaptıran Osmanlı padişahı kimdir?",
+          "options": [
+            "Kanuni Sultan Süleyman",
+            "Yavuz Sultan Selim",
+            "III. Ahmet",
+            "II. Mahmut",
+            "Fatih Sultan Mehmet"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Fatih Sultan Mehmet’in son seferi nereye olmuştur? (Ölümü üzerine yarım kalmıştır).",
+          "options": [
+            "Viyana",
+            "Mısır",
+            "Belgrad",
+            "Rodos",
+            "Otranto (İtalya)"
+          ],
+          "correctOption": "C",
+          "solution": "Roma'yı fethetmek amacıyla İtalya'nın topuğuna çıkılmıştır."
+        },
+        {
+          "text": "Akkoyunlu Devleti’nden İstanbul’a davet edilen, Ayasofya Medresesi’nde müderrislik yapan ve İstanbul’un enlem-boylamını hesaplayan ünlü matematik ve astronomi bilgini kimdir?",
+          "options": [
+            "Ali Kuşçu",
+            "Takiyüddin",
+            "Akşemseddin",
+            "Uluğ Bey",
+            "Kadızade-i Rumi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde, devlet memurlarının haksız kazançla elde ettikleri mallara devlet tarafından el konulması usulüne ne ad verilir?",
+          "options": [
+            "İltizam",
+            "Müsadere",
+            "Devşirme",
+            "Dirlik",
+            "Vakıf"
+          ],
+          "correctOption": "D",
+          "solution": "İlk kez Çandarlı ailesine uygulanmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti’nde, padişah değişikliklerinde Kapıkulu askerlerine dağıtılması gelenek haline gelen ve Fatih Kanunnamesi ile yasallaşan bahşişe ne ad verilir?",
+          "options": [
+            "Ulufe",
+            "Cülus Bahşişi",
+            "İaşecilik",
+            "Sefer Bahşişi",
+            "Gedik"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde günümüzdeki üniversite seviyesinde eğitim veren ve pozitif ilimlerin okutulduğu ünlü eğitim kurumu hangisidir?",
+          "options": [
+            "Süleymaniye Medreseleri",
+            "Sahn-ı Seman Medreseleri",
+            "Nizamiye Medreseleri",
+            "Yağıbasan Medresesi",
+            "Galatasaray Sultanisi"
+          ],
+          "correctOption": "E",
+          "solution": "Sahn-ı Seman: Sekizli Medrese."
+        },
+        {
+          "text": "İstanbul’un fethinden sonra Fatih’in Ortodoks Kilisesi’ni himaye etmesi ve başına Gennadios’u getirmesinin temel siyasi amacı nedir?",
+          "options": [
+            "Hristiyan birliğini oluşmasını engellemek",
+            "Ortodoksları Müslüman yapmak",
+            "Papa ile iyi ilişkiler kurmak",
+            "Rusya’dan yardım almak",
+            "Katolik Kilisesi’ni güçlendirmek"
+          ],
+          "correctOption": "A",
+          "solution": "Katolik ve Ortodoks dünyasının birleşmesini önlemek."
+        },
+        {
+          "text": "Osmanlı Devleti’nin yönetim merkezi olarak 400 yıla yakın süre kullanılan Topkapı Sarayı hangi padişah döneminde inşa edilmiştir?",
+          "options": [
+            "Kanuni Sultan Süleyman",
+            "Yavuz Sultan Selim",
+            "Fatih Sultan Mehmet",
+            "III. Selim",
+            "I. Ahmet"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Fatih Sultan Mehmet, Hicaz Su Yolları meselesinden dolayı hangi İslam devleti ile gerginlik yaşamıştır?",
+          "options": [
+            "Safeviler",
+            "Memlükler",
+            "Abbasiler",
+            "Eyyubiler",
+            "Akkoyunlular"
+          ],
+          "correctOption": "C",
+          "solution": "Bu gerginlik Yavuz döneminde savaşa dönüşecektir."
+        },
+        {
+          "text": "Fatih döneminde fethedilemeyen iki önemli yer aşağıdakilerden hangisidir? (Biri karada, biri denizde).",
+          "options": [
+            "Belgrad - Rodos",
+            "Viyana - Girit",
+            "Mora - Trabzon",
+            "Kırım - Sinop",
+            "Budin - Kıbrıs"
+          ],
+          "correctOption": "B",
+          "solution": "Fatih'in kuşatıp da alamadığı yerler: Karada Belgrad, denizde Rodos. İkisini de Kanuni alacaktır."
+        },
+        {
+          "text": "Fatih Sultan Mehmet şiirlerinde hangi mahlası kullanmıştır?",
+          "options": [
+            "Muhibbi",
+            "Avni",
+            "Adli",
+            "İlhami",
+            "Bahti"
+          ],
+          "correctOption": "E",
+          "solution": "Muhibbi: Kanuni, Adli: II. Bayezid, İlhami: III. Selim, Bahti: I. Ahmet"
+        },
+        {
+          "text": "Aşağıdakilerden hangisi İstanbul’un Fethi’nin Türk tarihi açısından sonuçlarından biridir?",
+          "options": [
+            "Feodalitenin (Derebeylik) yıkılışının hızlanması",
+            "Coğrafi Keşiflere zemin hazırlaması",
+            "Rönesans hareketlerinin başlamasına etki etmesi",
+            "Osmanlı Devleti’nin Yükselme Dönemi’ne girmesi ve başkentin İstanbul olması",
+            "Orta Çağ’ın kapanıp Yeni Çağ’ın başlaması"
+          ],
+          "correctOption": "D",
+          "solution": "Diğer şıklar Dünya tarihi açısından sonuçlarıdır."
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde Karamanoğulları’ndan Konya ve Karaman alınmıştır.Bu durum aşağıdakilerden hangisine yöneliktir?",
+          "options": [
+            "Karadeniz ticaretini geliştirmeye",
+            "Anadolu Türk siyasi birliğini sağlamaya",
+            "Balkan fetihlerini hızlandırmaya",
+            "Haçlı ittifakını parçalamaya",
+            "Şii tehlikesini önlemeye"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 3",
+      "preTestNote": "II. Bayezid (Sofu/Veli): Fatih'in oğludur. Cem Sultan Olayı: İç sorunken dış sorun haline gelmiş, fetihler duraklamıştır (\"Yükselme İçinde Duraklama\"). Şahkulu İsyanı (1511): Safevi kışkırtmasıyla çıktı. Bayezid pasif kalınca oğlu Selim tarafından tahttan indirildi.\n\nYavuz Sultan Selim (I. Selim): Yönünü Doğu'ya çevirdi (İttihad-ı İslam). Çaldıran Savaşı (1514): Safevi (Şah İsmail) yenildi. Turnadağ Savaşı (1515): Dulkadiroğulları yıkıldı, Anadolu Türk Birliği kesinleşti. Mısır Seferi (1516-1517): Mercidabık ve Ridaniye ile Memlükler yıkıldı. Halifelik alındı, Baharat Yolu hakimiyeti sağlandı, Hazine doldu.",
+      "questions": [
+        {
+          "text": "Osmanlı tarihinde bir \"İç sorun iken Dış sorun\" haline gelen, II. Bayezid döneminde fetihlerin yavaşlamasına ve Avrupa karşısında pasif kalınmasına neden olan olay hangisidir?",
+          "options": [
+            "Şeyh Bedrettin İsyanı",
+            "Cem Sultan Olayı",
+            "Düzmece Mustafa Olayı",
+            "Şahkulu İsyanı",
+            "Kavalalı Mehmet Ali Paşa İsyanı"
+          ],
+          "correctOption": "B",
+          "solution": "Cem Sultan Avrupa'nın elinde rehin olduğu için Osmanlı rahat hareket edememiştir."
+        },
+        {
+          "text": "Yükselme Dönemi’nde yaşanmasına rağmen fetihlerin duraklaması nedeniyle \"Yükselme içinde Duraklama\" olarak adlandırılan dönem hangi padişaha aittir?",
+          "options": [
+            "II. Bayezid",
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman",
+            "III. Murat"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "II. Bayezid döneminde Safevi Devleti’nin (Şah İsmail) kışkırtmasıyla Antalya ve çevresinde çıkan Şii nitelikli büyük isyan hangisidir?",
+          "options": [
+            "Babailer İsyanı",
+            "Celali İsyanları",
+            "Kalender Çelebi İsyanı",
+            "Şahkulu İsyanı",
+            "Canberdi Gazali İsyanı"
+          ],
+          "correctOption": "D",
+          "solution": "Bu isyan II. Bayezid'in otoritesini sarsmış ve Yavuz'un tahta geçişini hızlandırmıştır."
+        },
+        {
+          "text": "Babası II. Bayezid’i, \"Devleti kötü yönettiği ve Şii tehlikesine karşı pasif kaldığı\" gerekçesiyle Yeniçerilerin desteğini alarak tahttan indiren padişah kimdir?",
+          "options": [
+            "Kanuni Sultan Süleyman",
+            "Şehzade Mustafa",
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "I. Ahmet"
+          ],
+          "correctOption": "C",
+          "solution": "Karıştıran Savaşı ile babasının ordusunu karşılamıştır."
+        },
+        {
+          "text": "1514 yılında Safevi hükümdarı Şah İsmail’i Çaldıran Savaşı’nda mağlup ederek Doğu Anadolu’nun güvenliğini sağlayan Osmanlı padişahı kimdir?",
+          "options": [
+            "II. Bayezid",
+            "Kanuni Sultan Süleyman",
+            "IV. Murat",
+            "Genç Osman",
+            "Yavuz Sultan Selim"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Yavuz Sultan Selim döneminde, ünlü bilim insanı ve tarihçi İdris-i Bitlisi'nin gayretleriyle Doğu ve Güneydoğu Anadolu'daki aşiretlerin Osmanlı'ya bağlanması sağlanmıştır. Bu durum hangi savaşın kazanılmasının ardından gerçekleşmiştir?",
+          "options": [
+            "Otlukbeli",
+            "Turnadağ",
+            "Mercidabık",
+            "Ridaniye",
+            "Çaldıran"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "1515 yılında yapılan Turnadağ Savaşı ile Dulkadiroğulları Beyliği’ne son verilmesinin Türk tarihindeki en önemli sonucu nedir?",
+          "options": [
+            "Anadolu Türk siyasi birliğinin KESİN olarak sağlanması",
+            "Halifeliğin Osmanlı'ya geçmesi",
+            "Baharat Yolu'nun denetim altına alınması",
+            "Memlük Devleti ile komşu olunması",
+            "Safevi tehlikesinin sona ermesi"
+          ],
+          "correctOption": "A",
+          "solution": "Osmanlı'ya katılan son beyliklerden biridir -Ramazanoğulları ile birlikte- ve birlik tamamlanmıştır."
+        },
+        {
+          "text": "Yavuz Sultan Selim’in Mısır Seferi sırasında (1516) Memlük hükümdarı Kansu Gavri’yi mağlup ettiği ve Suriye-Filistin topraklarının Osmanlı’ya katıldığı savaş hangisidir?",
+          "options": [
+            "Ridaniye",
+            "Mercidabık",
+            "Çaldıran",
+            "Mohaç",
+            "Preveze"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "1517 yılında yapılan Ridaniye Savaşı’nın sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Memlük Devleti yıkıldı.",
+            "Mısır Osmanlı topraklarına katıldı.",
+            "Halifelik Osmanlı Devleti'ne geçti.",
+            "Baharat Yolu'nun denetimi Osmanlı'ya geçti.",
+            "Akdeniz bir Türk Gölü haline geldi."
+          ],
+          "correctOption": "B",
+          "solution": "Akdeniz'in Türk Gölü olması Preveze Deniz Savaşı ile -Kanuni dönemi- olacaktır."
+        },
+        {
+          "text": "Yavuz Sultan Selim döneminde Halifeliğin Osmanlı’ya geçmesiyle birlikte devlet yönetiminde hangi özelliğin güçlendiği söylenebilir?",
+          "options": [
+            "Demokratik",
+            "Laik",
+            "Teokratik",
+            "Federal",
+            "Meşruti"
+          ],
+          "correctOption": "A",
+          "solution": "Din ve devlet işlerinin tek elde toplanması."
+        },
+        {
+          "text": "Mısır Seferi sonucunda Osmanlı hazinesi ağzına kadar dolmuş ve Yavuz Sultan Selim: \"Benim altınla doldurduğum hazineyi torunlarımdan kim doldurabilirse kendi mührüyle, dolduramazsa benim mührümle mühürlesin\" demiştir.Osmanlı tarihinde hazine kapısı daima kimin mührüyle mühürlü kalmıştır?",
+          "options": [
+            "Fatih Sultan Mehmet",
+            "Kanuni Sultan Süleyman",
+            "Yavuz Sultan Selim",
+            "II. Abdülhamit",
+            "IV. Murat"
+          ],
+          "correctOption": "A",
+          "solution": "Çünkü ondan sonra hazineyi o kadar dolduran olmamıştır."
+        },
+        {
+          "text": "Ünlü denizci Piri Reis, çizdiği ilk dünya haritasını Mısır'da hangi padişaha sunmuştur?",
+          "options": [
+            "Kanuni Sultan Süleyman",
+            "Yavuz Sultan Selim",
+            "Fatih Sultan Mehmet",
+            "II. Bayezid",
+            "III. Murat"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Yavuz Sultan Selim döneminde Bozoklu Celal tarafından çıkarılan ve daha sonraki yıllarda Anadolu'daki tüm isyanlara genel adını veren isyan türü hangisidir?",
+          "options": [
+            "Canberdi Gazali",
+            "Ahmet Paşa",
+            "Celali İsyanları",
+            "Suhte İsyanları",
+            "Babailer"
+          ],
+          "correctOption": "E",
+          "solution": "Ekonomik ve sosyal kökenli isyanlardır."
+        },
+        {
+          "text": "Yavuz Sultan Selim'in, Doğu siyaseti izlemesi ve İslam dünyasını tek çatı altında toplama idealine ne ad verilir?",
+          "options": [
+            "İttihad-ı İslam (İslam Birliği)",
+            "Turancılık",
+            "Osmanlıcılık",
+            "Batıcılık",
+            "Adem-i Merkeziyetçilik"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mısır Seferi sonucunda Osmanlı hazinesi ağzına kadar dolmuş ve Yavuz Sultan Selim: \"Benim altınla doldurduğum hazineyi torunlarımdan kim doldurabilirse kendi mührüyle, dolduramazsa benim mührümle mühürlesin\" demiştir.Osmanlı tarihinde hazine kapısı daima kimin mührüyle mühürlü kalmıştır?",
+          "options": [
+            "Ganimet",
+            "Kutsal Emanetler",
+            "Hazine-i Hümayun",
+            "Cülus",
+            "Surre Alayı"
+          ],
+          "correctOption": "C",
+          "solution": "Hırka-i Şerif, Sancak-ı Şerif vb."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Yavuz Sultan Selim döneminde Baharat Yolu'nun Osmanlı denetimine girmesine rağmen, Osmanlı'nın beklediği ekonomik kazancı elde edememesinin temel nedenidir?",
+          "options": [
+            "Gümrük vergilerinin düşük tutulması",
+            "Coğrafi Keşifler ile ticaret yollarının okyanuslara kayması",
+            "Avrupalıların baharat tüketmeyi bırakması",
+            "Osmanlı'nın ticarete önem vermemesi",
+            "Denizlerde yeterli güce sahip olunmaması"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "İspanya'da Katolik zulmüne uğrayan Yahudileri (Sefarad) ve Müslümanları (Beni Ahmer) kurtararak Osmanlı topraklarına getiren padişah kimdir?",
+          "options": [
+            "Fatih Sultan Mehmet",
+            "II. Bayezid",
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman",
+            "I. Ahmet"
+          ],
+          "correctOption": "E",
+          "solution": "Kemal Reis komutasındaki gemilerle getirilmişlerdir."
+        },
+        {
+          "text": "Yavuz Sultan Selim'in Mısır Seferi sırasında Sina Çölü'nü geçerken ordunun önünde yürüdüğüne inanılan manevi lider kimdir?",
+          "options": [
+            "Akşemseddin",
+            "Hacı Bayram Veli",
+            "Hz. Muhammed (S.A.V.)",
+            "Veysel Karani",
+            "Ebu Eyyub El Ensari"
+          ],
+          "correctOption": "D",
+          "solution": "Bu bir rivayet sorusudur."
+        },
+        {
+          "text": "Yavuz Sultan Selim'in Ridaniye Savaşı'nda Memlük ordusunu çölün ortasında arkadan kuşatması ve ateşli silahları (Topları) etkin kullanması savaşın kazanılmasında etkili olmuştur.Ridaniye Savaşı hangi ülkenin başkenti önlerinde yapılmıştır?",
+          "options": [
+            "Suriye (Şam)",
+            "İran (Tebriz)",
+            "Mısır (Kahire)",
+            "Irak (Bağdat)",
+            "Hicaz (Mekke)"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Yavuz Sultan Selim'in \"8 yıla 80 yıllık iş sığdıran padişah\" olarak anılmasının nedenlerinden biri değildir?",
+          "options": [
+            "Devlet hazinesini tamamen doldurması",
+            "Halifeliği alması",
+            "Kutsal toprakları (Mekke-Medine) Osmanlı'ya katması",
+            "Batı'ya (Avrupa'ya) çok sayıda sefer düzenleyerek Viyana'yı kuşatması",
+            "Anadolu Türk birliğini kesin olarak sağlaması"
+          ],
+          "correctOption": "D",
+          "solution": "Yavuz Batı'ya hiç sefer yapmamıştır, yönü hep Doğu olmuştur. Viyana'yı Kanuni kuşatmıştır."
+        },
+        {
+          "text": "II. Bayezid döneminde Haliç'e bir köprü yapılması için proje sunan ancak projesi kabul edilmeyen dünyaca ünlü Rönesans sanatçısı kimdir?",
+          "options": [
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Rafael",
+            "Donatello",
+            "Bellini"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mısır Seferi dönüşünde Yavuz Sultan Selim'e \"Hadimü'l Haremeyn\" (Mekke ve Medine'nin Hizmetkarı) unvanı verilmiştir.Bu unvan daha önce hangi devlete aitti?",
+          "options": [
+            "Eyyubiler",
+            "Abbasiler",
+            "Selçuklular",
+            "Memlükler",
+            "Fatımiler"
+          ],
+          "correctOption": "E",
+          "solution": "İlk kullanan Selahaddin Eyyubi'dir, sonra Memlükler kullanmış, onlardan Osmanlı'ya geçmiştir. Soruda \"Yavuz'un kimden aldığı\" soruluyor, Memlüklerden almıştır."
+        },
+        {
+          "text": "Yavuz Sultan Selim'in, Şah İsmail'e karşı Çaldıran Savaşı'nda ordusunun düzenini bozmadan ve ateş gücünü (Tüfekli Yeniçeriler) kullanarak kazandığı zafer, Osmanlı ordusunun hangi alandaki üstünlüğünü kanıtlamıştır?",
+          "options": [
+            "Denizcilik",
+            "Teknoloji ve Ateşli Silahlar",
+            "Süvari Birliği",
+            "Casusluk",
+            "Diploması"
+          ],
+          "correctOption": "D",
+          "solution": "Safevi ordusunda ateşli silah yoktu."
+        },
+        {
+          "text": "Muhyiddin Arabi'nin Şam'daki kayıp mezarını bularak üzerine türbe yaptıran Osmanlı padişahı kimdir?",
+          "options": [
+            "II. Bayezid",
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman",
+            "Fatih Sultan Mehmet",
+            "II. Murat"
+          ],
+          "correctOption": "B",
+          "solution": "Mısır seferi sırasında Şam'da bulmuştur."
+        },
+        {
+          "text": "\"Şirpençe\" (Aslan Pençesi) adı verilen bir çıban yüzünden henüz 50 yaşındayken vefat eden Osmanlı padişahı kimdir?",
+          "options": [
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman",
+            "II. Bayezid",
+            "IV. Murat"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 4",
+      "preTestNote": "I. Süleyman (Kanuni): Babası Yavuz hazineyi doldurup tek çocuk bıraktığı için taht kavgası yaşamadan başa geçmiştir. Mahlası \"Muhibbi\"dir.\n\nBatı Seferleri:\nBelgrad (1521): Fatih'in alamadığı \"Orta Avrupa'nın Kapısı\" alındı.\nMohaç Meydan Muharebesi (1526): Macaristan 2 saatte fethedildi.\nI. Viyana Kuşatması (1529): Kış şartları nedeniyle başarısız oldu.\nİstanbul Antlaşması (1533): Avusturya Arşidükü (Kralı), protokolde Osmanlı Sadrazamına denk sayıldı.\nZigetvar Seferi (1566): Kanuni'nin son seferidir.\n\nDoğu Seferleri:\nAmasya Antlaşması (1555): İran (Safeviler) ile yapılan ilk resmi antlaşmadır.\n\nDenizler:\nRodos (1522): Şövalyelerden alındı.\nPreveze Deniz Savaşı (1538): Barbaros Hayrettin Paşa, Haçlı donanmasını yendi. Akdeniz bir Türk Gölü oldu.\nHint Deniz Seferleri: Portekiz'e karşı 4 sefer düzenlendi.\nKapitülasyonlar: Fransa'ya 1535'te ticari ve siyasi ayrıcalıklar verildi.",
+      "questions": [
+        {
+          "text": "Osmanlı tahtında 46 yıl kalarak \"En uzun süre hüküm süren padişah\" unvanına sahip olan ve Batı dünyasında \"Muhteşem\" (Magnificent) olarak bilinen padişah kimdir?",
+          "options": [
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman",
+            "II. Abdülhamit",
+            "IV. Mehmet"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Fatih Sultan Mehmet’in kuşatıp alamadığı, Kanuni Sultan Süleyman’ın 1521 yılında fethederek Orta Avrupa seferleri için bir üs (Darü'l Cihad) haline getirdiği stratejik şehir hangisidir?",
+          "options": [
+            "Viyana",
+            "Budin",
+            "Belgrad",
+            "Zigetvar",
+            "Estergon"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "1526 yılında Macar ordusunu sadece 2 saatte yok ederek \"Dünyanın en kısa süren meydan muharebesi\" rekorunu kıran ve Macaristan’ın Osmanlı hakimiyetine girmesini sağlayan savaş hangisidir?",
+          "options": [
+            "Niğbolu",
+            "Mohaç",
+            "Varna",
+            "Çaldıran",
+            "Haçova"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Kanuni Sultan Süleyman döneminde Avusturya ile imzalanan 1533 İstanbul (İbrahim Paşa) Antlaşması’nın en önemli maddesi şudur: \"Avusturya Arşidükü (Kralı), protokol bakımından Osmanlı Sadrazamına denk sayılacaktır.\"Bu madde Osmanlı Devleti ile ilgili aşağıdakilerden hangisinin göstergesidir?",
+          "options": [
+            "Avusturya’yı vergiye bağladığının",
+            "Avusturya ile eşit şartlarda barış yaptığının",
+            "Ekonomik yaptırımlar uyguladığının",
+            "Halifelik gücünü kullandığının",
+            "Orta Avrupa’daki siyasi üstünlüğünü Avusturya’ya kabul ettirdiğinin"
+          ],
+          "correctOption": "B",
+          "solution": "Kralın Vezire denk olması, Padişahın Kraldan üstün -İmparator- olduğunu gösterir."
+        },
+        {
+          "text": "Osmanlı Devleti tarihinde İran (Safeviler) ile imzalanan ilk resmi antlaşma aşağıdakilerden hangisidir?",
+          "options": [
+            "Kasr-ı Şirin",
+            "Ferhat Paşa",
+            "Nasuh Paşa",
+            "Serav",
+            "Amasya"
+          ],
+          "correctOption": "E",
+          "solution": "1555 yılında imzalanmıştır. Doğu sınırındaki ilk diplomatik belgedir."
+        },
+        {
+          "text": "1538 yılında Barbaros Hayrettin Paşa komutasındaki Osmanlı donanmasının, Andrea Doria komutasındaki Haçlı donanmasını mağlup ederek Akdeniz’i bir Türk Gölü haline getirdiği zafer hangisidir?",
+          "options": [
+            "Preveze",
+            "Cerbe",
+            "İnebahtı",
+            "Navarin",
+            "Çeşme"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Kanuni Sultan Süleyman’ın Hristiyan birliğini parçalamak ve Akdeniz ticaretini canlandırmak amacıyla 1535 yılında kapitülasyon (ticari ayrıcalık) verdiği devlet hangisidir?",
+          "options": [
+            "İngiltere",
+            "Hollanda",
+            "Venedik",
+            "Rusya",
+            "Fransa"
+          ],
+          "correctOption": "D",
+          "solution": "Venedik'e Fatih vermişti, Fransa'ya Kanuni verdi. Fransa kapitülasyonları daha kapsamlı ve politiktir."
+        },
+        {
+          "text": "Osmanlı Devleti, Kanuni döneminde Portekiz’in Hint Okyanusu’ndaki faaliyetlerini engellemek ve Müslüman tüccarlara yardım etmek amacıyla Hint Deniz Seferlerini düzenlemiştir.Bu seferlerin başarısız olmasının temel nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Portekiz donanmasının çok zayıf olması",
+            "Hint Müslümanlarının Osmanlı’ya ihanet etmesi",
+            "Seferlerin çok kısa sürmesi",
+            "Osmanlı donanmasının okyanus şartlarına uygun olmaması (Kadırgaların dayanıksızlığı)",
+            "Komutanların yetersizliği"
+          ],
+          "correctOption": "C",
+          "solution": "İç deniz -Akdeniz- gemileri okyanus dalgalarına dayanamamıştır."
+        },
+        {
+          "text": "Hint Deniz Seferleri’ne katılan, \"Kitab-ı Bahriye\" adlı eseri ve çizdiği Dünya Haritası ile ünlü denizci Piri Reis, seferdeki başarısızlığı nedeniyle hangi padişah döneminde idam edilmiştir?",
+          "options": [
+            "Yavuz Sultan Selim",
+            "II. Selim",
+            "III. Murat",
+            "Fatih Sultan Mehmet",
+            "Kanuni Sultan Süleyman"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Kanuni Sultan Süleyman’ın son seferi olan ve kale kuşatması devam ederken vefat ettiği sefer hangisidir?",
+          "options": [
+            "Viyana",
+            "Belgrad",
+            "Rodos",
+            "Bağdat",
+            "Zigetvar"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Kanuni Sultan Süleyman şiirlerinde hangi mahlası kullanmıştır?",
+          "options": [
+            "Muhibbi",
+            "Avni",
+            "Adli",
+            "Selimi",
+            "Muradi"
+          ],
+          "correctOption": "A",
+          "solution": "Muhibbi: Seven, dost demektir."
+        },
+        {
+          "text": "Osmanlı tarihinin en ünlü mimarı olan Mimar Sinan’ın \"Kalfalık Eserim\" dediği ve İstanbul’un silüetini oluşturan cami hangisidir?",
+          "options": [
+            "Şehzade Camii",
+            "Selimiye Camii",
+            "Süleymaniye Camii",
+            "Sultanahmet Camii",
+            "Mihrimah Sultan Camii"
+          ],
+          "correctOption": "C",
+          "solution": "Çıraklık: Şehzadebaşı, Kalfalık: Süleymaniye, Ustalık: Selimiye."
+        },
+        {
+          "text": "Kanuni Sultan Süleyman, II. Selim ve III. Murat dönemlerinde sadrazamlık yaparak devlet yönetiminde büyük bir istikrar sağlayan, projeleriyle (Don-Volga, Süveyş Kanalı) ünlü devlet adamı kimdir?",
+          "options": [
+            "Pargalı İbrahim Paşa",
+            "Rüstem Paşa",
+            "Lütfi Paşa",
+            "Piyale Paşa",
+            "Sokullu Mehmet Paşa"
+          ],
+          "correctOption": "D",
+          "solution": "Bu döneme Sokullu Dönemi de denir."
+        },
+        {
+          "text": "1529 yılında I. Viyana Kuşatması’nın başarısız olmasının temel nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Avusturya ordusunun çok güçlü olması",
+            "Şah İsmail’in doğudan saldırması",
+            "Yeniçerilerin isyan etmesi",
+            "Lehistan ordusunun yardıma gelmesi",
+            "Kış mevsiminin yaklaşması ve büyük kuşatma toplarının getirilememesi"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Kanuni döneminde Akdeniz’de Haçlı donanmasına karşı kazanılan Preveze Deniz Zaferi’nin yıl dönümü (28 Eylül), günümüzde ülkemizde ne olarak kutlanmaktadır?",
+          "options": [
+            "Denizcilik ve Kabotaj Bayramı",
+            "Donanma Günü",
+            "Zafer Bayramı",
+            "Barış Günü",
+            "Türk Denizcilik Günü"
+          ],
+          "correctOption": "B",
+          "solution": "Kabotaj Bayramı 1 Temmuz'dur."
+        },
+        {
+          "text": "Cezayir’in hakimi iken Barbaros Hayrettin Paşa’nın Osmanlı hizmetine girmesiyle Osmanlı topraklarına katılan Kuzey Afrika ülkesi hangisidir?",
+          "options": [
+            "Tunus",
+            "Trablusgarp",
+            "Mısır",
+            "Fas",
+            "Cezayir"
+          ],
+          "correctOption": "E",
+          "solution": "Savaş yapılmadan, itaat yoluyla katılmıştır."
+        },
+        {
+          "text": "Turgut Reis’in şehit düştüğü, Osmanlı’nın kuşatıp da alamadığı (Kanuni dönemi) ada hangisidir?",
+          "options": [
+            "Sakız",
+            "Rodos",
+            "Malta",
+            "Cerbe",
+            "Girit"
+          ],
+          "correctOption": "E",
+          "solution": "Malta kuşatması sırasında Turgut Reis şehit olunca kuşatma kaldırılmıştır."
+        },
+        {
+          "text": "Kanuni döneminde çıkan; Canberdi Gazali ve Ahmet Paşa isyanlarının ortak özelliği nedir?",
+          "options": [
+            "Dini nitelikli olmaları",
+            "Anadolu’da ekonomik sıkıntılardan çıkmaları",
+            "Safevi kışkırtmasıyla çıkmaları",
+            "Medrese öğrencilerinin çıkarması",
+            "Mısır’da Memlük Devleti’ni yeniden kurma amacı taşımaları"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Kanuni Sultan Süleyman’ın ünlü Şeyhülislamı olup, verdiği fetvalarla tanınan ve Osmanlı hukuk sisteminin şekillenmesinde etkili olan alim kimdir?",
+          "options": [
+            "Molla Fenari",
+            "Zenbilli Ali Efendi",
+            "İbni Kemal",
+            "Akşemseddin",
+            "Ebussuud Efendi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Sokullu Mehmet Paşa’nın, Karadeniz ile Hazar Denizi’ni birleştirerek Rusya’nın güneye inmesini engellemek ve Orta Asya Türkleri ile bağlantı kurmak amacıyla hazırladığı proje hangisidir?",
+          "options": [
+            "Süveyş Kanalı Projesi",
+            "Marmara-Karadeniz Projesi",
+            "GAP Projesi",
+            "İznik-Sapanca Kanalı Projesi",
+            "Don-Volga Kanalı Projesi"
+          ],
+          "correctOption": "D",
+          "solution": "Maalesef gerçekleştirilememiştir."
+        },
+        {
+          "text": "\"Muhteşem Yüzyıl\" olarak bilinen 16. yüzyılda, Osmanlı edebiyatının en büyük şairi kabul edilen ve \"Sultanü'ş Şuara\" (Şairler Sultanı) unvanını alan sanatçı kimdir?",
+          "options": [
+            "Fuzuli",
+            "Baki",
+            "Nedim",
+            "Nefi",
+            "Nabi"
+          ],
+          "correctOption": "A",
+          "solution": "Fuzuli de bu dönemdedir ancak Şairler Sultanı unvanı Baki'ye aittir."
+        },
+        {
+          "text": "Aşağıdaki yerlerden hangisi Kanuni Sultan Süleyman döneminde fethedilmemiştir?",
+          "options": [
+            "Belgrad",
+            "Rodos",
+            "Kıbrıs",
+            "Trablusgarp",
+            "Cezayir"
+          ],
+          "correctOption": "C",
+          "solution": "Kıbrıs, II. Selim döneminde Sokullu Mehmet Paşa'nın gayretleriyle Lala Mustafa Paşa tarafından alınacaktır."
+        },
+        {
+          "text": "1560 yılında Haçlı donanmasına karşı kazanılan ve Kuzey Afrika egemenliğini pekiştiren, Preveze’den sonraki en büyük deniz zaferi hangisidir?",
+          "options": [
+            "İnebahtı",
+            "Cerbe Deniz Savaşı",
+            "Navarin",
+            "Çeşme",
+            "Sinop"
+          ],
+          "correctOption": "B",
+          "solution": "Piyale Paşa komutasında kazanılmıştır."
+        },
+        {
+          "text": "Kanuni Sultan Süleyman’ın \"Benim vezirim, Avrupa’nın krallarından üstündür\" diyerek diplomatik zafer kazandığı devlet hangisidir?",
+          "options": [
+            "Fransa",
+            "İngiltere",
+            "Avusturya",
+            "Rusya",
+            "Venedik"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Sokullu Mehmet Paşa’nın Akdeniz ile Kızıldeniz’i birleştirerek Baharat Yolu’nu canlandırmak ve Portekiz’in Hint Okyanusu’ndaki etkinliğini kırmak için hazırladığı proje hangisidir?",
+          "options": [
+            "Don-Volga Kanalı",
+            "Süveyş Kanalı Projesi",
+            "Panama Kanalı",
+            "Hazar Projesi",
+            "Tuna Projesi"
+          ],
+          "correctOption": "D",
+          "solution": "Bu proje ancak 1869'da gerçekleşebilmiştir."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 5",
+      "preTestNote": "Veraset Sistemi Değişiklikleri:\nOsman & Orhan Bey: \"Ülke hanedanın ortak malıdır\" (Geleneksel Türk anlayışı - Taht kavgası çok).\nI. Murat: \"Ülke hükümdar ve oğullarınındır\" (Otorite güçlendi).\nFatih (II. Mehmet): \"Ülke padişahın malıdır\" (Mutlak otorite - Kardeş katli yasallaştı).\nI. Ahmet: \"Ekber ve Erşed\" sistemi (En yaşlı ve en akıllı başa geçer).\nSonuç: Taht kavgası bitti ama Sancak Sistemi kaldırılıp Kafes Usulü geldi.\n\nSaray Yapısı (Topkapı):\nBirun (Dış Saray): Devlet işlerinin görüşüldüğü yer. Divan burada toplanır (Kubbealtı).\nEnderun (İç Saray): Devlet adamı yetiştiren okul.\nHarem: Padişahın özel hayatı + Kadınlar için okul.\n\nDivan-ı Hümayun Üyeleri:\nSadrazam (Vezir-i Azam): Padişahın mutlak vekili. Mührü taşır.\nKazasker: Adalet ve Eğitim bakanı.\nDefterdar: Maliye bakanı.\nNişancı: Tapu-Kadastro ve Dışişleri (Önceleri).\nReisülküttab: Dışişleri Bakanı. (17. yy'da ayrıldı).\nŞeyhülislam: Dini konularda Fetva verir.\nKaptan-ı Derya: Donanma komutanı.",
+      "questions": [
+        {
+          "text": "Osmanlı Devleti’nde veraset sisteminde (Tahta geçiş usulü) ilk değişikliği yaparak \"Ülke hükümdar ve oğullarınındır\" kuralını getiren padişah kimdir?",
+          "options": [
+            "Fatih Sultan Mehmet",
+            "I. Murat",
+            "Orhan Bey",
+            "Osman Bey",
+            "Yavuz Sultan Selim"
+          ],
+          "correctOption": "B",
+          "solution": "Amaç: Taht kavgalarını azaltmak ve merkezi otoriteyi güçlendirmektir."
+        },
+        {
+          "text": "Osmanlı Devleti’nde \"Ekber ve Erşed\" (En yaşlı ve en olgun kişinin tahta geçmesi) sistemini getirerek taht kavgalarını hukuken sona erdiren padişah kimdir?",
+          "options": [
+            "IV. Murat",
+            "Genç Osman",
+            "III. Mehmet",
+            "IV. Mehmet",
+            "I. Ahmet"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "I. Ahmet döneminde Ekber ve Erşed sistemine geçilmesiyle birlikte, şehzadelerin sancaklara vali olarak gönderilmesi uygulaması (Sancak Sistemi) kaldırılmış ve yerine hangi sistem getirilmiştir?",
+          "options": [
+            "Devşirme Sistemi",
+            "Müsadere Sistemi",
+            "İltizam Sistemi",
+            "Kafes (Şimşirlik) Usulü",
+            "Millet Sistemi"
+          ],
+          "correctOption": "D",
+          "solution": "Şehzadeler sarayda gözetim altında tutulmuş, bu da tecrübesiz padişahların yetişmesine neden olmuştur."
+        },
+        {
+          "text": "Sancak sistemini kaldırarak şehzadelerin sarayda eğitim görmesi uygulamasını başlatan (Sancağa çıkmayan ilk padişah) ve \"Kafes Usulü\"nü fiilen başlatan padişah kimdir?",
+          "options": [
+            "III. Mehmet",
+            "I. Ahmet",
+            "II. Osman",
+            "Fatih Sultan Mehmet",
+            "II. Selim"
+          ],
+          "correctOption": "C",
+          "solution": "Dikkat: III. Mehmet sancağa çıkan son padişahtır. Sancak sistemini kaldıran da odur ancak sancağa çıkmadan tahta geçen ilk kişi oğlu I. Ahmet'tir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Osmanlı şehzadelerinin yönetim tecrübesi kazanmak amacıyla gönderildikleri sancaklardan (Şehzade Şehirleri) biri değildir?",
+          "options": [
+            "Adana",
+            "Manisa (Darü'l Mülk)",
+            "Trabzon",
+            "Kütahya",
+            "Amasya"
+          ],
+          "correctOption": "A",
+          "solution": "Adana -Ramazanoğulları bölgesi- şehzade sancağı değildir. Manisa, Amasya, Trabzon, Kütahya, Konya, Kefe önemli sancaklardır."
+        },
+        {
+          "text": "Şehzadelerin sancaklarda devlet yönetimi, askerlik ve siyaset konularında eğitim almasından sorumlu olan tecrübeli devlet adamlarına (Hocalara) ne ad verilir?",
+          "options": [
+            "Atabey",
+            "Müderris",
+            "Nişancı",
+            "Hace",
+            "Lala"
+          ],
+          "correctOption": "C",
+          "solution": "Selçuklu'da Atabey, Osmanlı'da Lala."
+        },
+        {
+          "text": "Osmanlı devlet yönetiminde Padişahın mutlak vekili olan ve padişahın mührünü (Mühr-ü Hümayun) taşıyan divan üyesi kimdir?",
+          "options": [
+            "Nişancı",
+            "Kazasker",
+            "Sadrazam (Vezir-i Azam)",
+            "Defterdar",
+            "Reisülküttab"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Sadrazam, padişah adına orduya komuta ederek sefere çıktığında hangi unvanı kullanır?",
+          "options": [
+            "Kaptan-ı Derya",
+            "Serdar-ı Ekrem",
+            "Serasker",
+            "Yeniçeri Ağası",
+            "Beylerbeyi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Divan-ı Hümayun’da eğitim ve adalet işlerinden sorumlu olan, Kadı ve Müderrislerin atamasını yapan divan üyesi kimdir?",
+          "options": [
+            "Nişancı",
+            "Defterdar",
+            "Kazasker (Kadıasker)",
+            "Şeyhülislam",
+            "Reisülküttab"
+          ],
+          "correctOption": "B",
+          "solution": "Günümüzün Adalet ve Milli Eğitim Bakanı gibidir."
+        },
+        {
+          "text": "Osmanlı Devleti’nde mali işlerden sorumlu olan ve devletin bütçesini hazırlayan divan üyesi kimdir?",
+          "options": [
+            "Kazasker",
+            "Defterdar",
+            "Nişancı",
+            "Sadrazam",
+            "Yeniçeri Ağası"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Divan-ı Hümayun’da fethedilen arazilerin kaydını tutan (Tapu-Kadastro), dirliklerin (Tımar) dağıtımını yapan ve fermanlara padişahın tuğrasını çeken görevli kimdir?",
+          "options": [
+            "Reisülküttab",
+            "Defterdar",
+            "Nişancı",
+            "Kazasker",
+            "Şeyhülislam"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "17. yüzyıla kadar Nişancı’ya bağlı bir bürokrat iken, bu yüzyıldan itibaren dış ilişkilerin (Diplomasi) önem kazanmasıyla ayrılarak \"Dışişleri Bakanı\" statüsüne yükselen divan üyesi kimdir?",
+          "options": [
+            "Kaptan-ı Derya",
+            "Sadaret Kethüdası",
+            "Defter Emini",
+            "Çavuşbaşı",
+            "Reisülküttab"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Divan-ı Hümayun’un doğal üyesi olmayan, ancak gerekli görüldüğünde toplantılara katılarak alınan kararların İslam dinine uygun olup olmadığına dair \"Fetva\" veren görevli kimdir?",
+          "options": [
+            "Şeyhülislam (Müftü)",
+            "Kadı",
+            "Kazasker",
+            "Nişancı",
+            "İmam-ı Sultani"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "İlmiye sınıfının başı olan Şeyhülislam, protokolde kime denk sayılmıştır? (Kanuni dönemi düzenlemesi).",
+          "options": [
+            "Padişah",
+            "Kazasker",
+            "Şehzade",
+            "Defterdar",
+            "Sadrazam"
+          ],
+          "correctOption": "D",
+          "solution": "Bu durum, ulemanın devlet yönetimindeki ağırlığını gösterir."
+        },
+        {
+          "text": "Divan-ı Hümayun’a katılan ilk Kaptan-ı Derya kimdir? (Yükselme Dönemi).",
+          "options": [
+            "Piri Reis",
+            "Piyale Paşa",
+            "Kılıç Ali Paşa",
+            "Turgut Reis",
+            "Barbaros Hayrettin Paşa"
+          ],
+          "correctOption": "E",
+          "solution": "Kanuni Sultan Süleyman döneminde Divan üyesi olmuştur."
+        },
+        {
+          "text": "Topkapı Sarayı’nın bölümleri düşünüldüğünde; devlet işlerinin görüşüldüğü, Divan toplantılarının yapıldığı ve Cülus törenlerinin düzenlendiği bölüm hangisidir?",
+          "options": [
+            "Enderun",
+            "Harem",
+            "Hırka-i Saadet Dairesi",
+            "Şimşirlik",
+            "Birun"
+          ],
+          "correctOption": "C",
+          "solution": "Dış Saray. Divan-ı Hümayun burada, Kubbealtı denilen yerde toplanır."
+        },
+        {
+          "text": "Topkapı Sarayı’nda devlet adamı yetiştirmek amacıyla kurulan ve devşirme kökenli çocukların eğitim gördüğü okulun adı nedir?",
+          "options": [
+            "Sahn-ı Seman",
+            "Süleymaniye",
+            "Darülfünun",
+            "Hendesehane",
+            "Enderun Mektebi"
+          ],
+          "correctOption": "B",
+          "solution": "İç Saray'dadır."
+        },
+        {
+          "text": "Osmanlı Devleti’nde alınan kararların kaydedildiği defterlere \"Mühimme Defteri\", bu defterlere kayıt düşen görevlilere ise ne ad verilir?",
+          "options": [
+            "Beylikçi",
+            "Nişancı",
+            "Tevki",
+            "Müneccim",
+            "Divan Katipleri"
+          ],
+          "correctOption": "B",
+          "solution": "Beylikçi Kalemi bu işe bakar."
+        },
+        {
+          "text": "Padişahın yazılı emirlerine \"Ferman\", bir kişiyi göreve atama veya maaş bağlama belgesine \"Berat\", padişahın herhangi bir konuda bizzat kendi el yazısıyla yazdığı emirlere ne ad verilir?",
+          "options": [
+            "Hatt-ı Hümayun",
+            "Kanunname",
+            "Yasakname",
+            "Adaletname",
+            "Tevki"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde Divan-ı Hümayun’un \"Karar Organı\" olmaktan çıkıp \"Danışma Organı\" haline gelmesinin temel nedeni nedir?",
+          "options": [
+            "Sadrazamın divana başkanlık etmeye başlaması",
+            "Divan toplantılarının azalması",
+            "Üye sayısının artırılması",
+            "Şeyhülislamın divana katılması",
+            "Toplantı yerinin değişmesi"
+          ],
+          "correctOption": "A",
+          "solution": "Son sözün padişaha ait olduğu vurgulanmıştır. Önceden padişah başkanlık ederken kararlar o an alınırdı, sadrazam başkanlık edince kararlar padişaha sunulur oldu."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Seyfiye (Yönetim ve Askeriye - Kılıç ehli) sınıfı üyelerinden biridir?",
+          "options": [
+            "Kazasker (İlmiye)",
+            "Şeyhülislam (İlmiye)",
+            "Nişancı (Kalemiye)",
+            "Defterdar (Kalemiye)",
+            "Sadrazam"
+          ],
+          "correctOption": "D",
+          "solution": "Sadrazam, Vezirler, Yeniçeri Ağası, Kaptan-ı Derya Seyfiye sınıfındandır."
+        },
+        {
+          "text": "Divan üyelerinden Nişancı ve Defterdar, bürokrasi ve yazışma işlerini yürüttükleri için hangi meslek sınıfına mensup sayılırlar?",
+          "options": [
+            "Seyfiye",
+            "İlmiye",
+            "Kalemiye",
+            "Reaya",
+            "Askeri"
+          ],
+          "correctOption": "E",
+          "solution": "Kalem ehli."
+        },
+        {
+          "text": "Osmanlı Devleti’nde, padişahın yetkilerini sınırlandıran (kendi isteğiyle veya zorla) belgelerden biri olan ve ilk kez padişahın kendi kanun gücünün üstünde bir kanun gücü olduğunu kabul ettiği belge hangisidir?",
+          "options": [
+            "Sened-i İttifak",
+            "Tanzimat Fermanı",
+            "Kanun-i Esasi",
+            "Islahat Fermanı",
+            "Fatih Kanunnamesi"
+          ],
+          "correctOption": "C",
+          "solution": "Tanzimat Fermanı ile padişah -Abdülmecit- \"Kanun üstünlüğünü\" kabul etmiştir. Sened-i İttifak'ta padişah yetkisi kısıtlanmıştır ama kanun üstünlüğü değil, ayanlarla sözleşme vardır."
+        },
+        {
+          "text": "Osmanlı taşra teşkilatında \"Kaza\" adı verilen idari birimlerin hem yönetiminden hem de adalet işlerinden sorumlu olan görevli kimdir?",
+          "options": [
+            "Subaşı",
+            "Beylerbeyi",
+            "Sancakbeyi",
+            "Kadı",
+            "Yiğitbaşı"
+          ],
+          "correctOption": "E",
+          "solution": "Kadı, kazalarda hem belediye başkanı, hem kaymakam hem de hakim gibidir."
+        },
+        {
+          "text": "Osmanlı veraset sisteminde \"Sancağa çıkan son padişah\" ve \"Sancağa çıkmadan tahta geçen ilk padişah\" ikilisi hangi şıkta doğru verilmiştir?",
+          "options": [
+            "II. Selim - III. Murat",
+            "III. Mehmet - I. Ahmet",
+            "I. Ahmet - II. Osman",
+            "III. Murat - III. Mehmet",
+            "Kanuni - II. Selim"
+          ],
+          "correctOption": "D",
+          "solution": "III. Mehmet sancağa çıkan son kişidir. Oğlu I. Ahmet ise Kafes usulüyle yetişip sancağa çıkmadan tahta geçen ilk kişidir."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 6",
+      "preTestNote": "Eyalet Sistemi:\nSalyanesiz (Yıllıksız): Tımar uygulanır, maaş yoktur (Anadolu, Rumeli).\nSalyaneli (Yıllıklı): Tımar yok, İltizam vardır. Vergi nakit alınır (Mısır, Bağdat).\nİmtiyazlı: İç işlerinde serbest (Hicaz, Kırım, Eflak-Boğdan).\n\nToprak Yönetimi (Miri Arazi):\nDirlik: Geliri memura verilir (Has, Zeamet, Tımar).\nMukataa: Geliri Hazineye gider.\nPaşmaklık: Padişahın kadınlarına ayrılır.\n\nOrdu:\nKapıkulu (Merkez): Devşirmedirler, Ulufe alırlar.\nEyalet (Taşra): Türklerden oluşur, Tımarlı Sipahilerdir, maaş almazlar.",
+      "questions": [
+        {
+          "text": "Osmanlı taşra teşkilatında idari birimler ve yöneticileri eşleştirmelerinden hangisi yanlıştır?",
+          "options": [
+            "Eyalet - Beylerbeyi",
+            "Sancak - Sancakbeyi",
+            "Kaza - Kadı",
+            "Köy - Kethüda",
+            "Kasaba - Muhtesip"
+          ],
+          "correctOption": "E",
+          "solution": "Kasaba diye ayrı bir idari birim yöneticisi yoktur, kazaya bağlıdır. Muhtesip çarşı-pazar denetçisidir, idari yönetici değildir."
+        },
+        {
+          "text": "Osmanlı Devleti’nde Tımar sisteminin uygulandığı, vergilerin doğrudan asker beslemek için kullanıldığı ve merkeze yakın olan eyaletlere ne ad verilir?",
+          "options": [
+            "Salyaneli (Yıllıklı) Eyaletler",
+            "Salyanesiz (Yıllıksız) Eyaletler",
+            "İmtiyazlı Eyaletler",
+            "Yurtluk",
+            "Ocaklık"
+          ],
+          "correctOption": "B",
+          "solution": "Salyane \"Yıllık Maaş\" demektir. Salyanesiz demek, memura maaş yok, toprak geliri var demektir."
+        },
+        {
+          "text": "Merkeze uzak olan (Mısır, Yemen, Bağdat gibi) eyaletlerde vergilerin açık artırma usulüyle peşin olarak satılması sistemine \"İltizam\", bu işi yapan kişiye ise ne ad verilir?",
+          "options": [
+            "Mütevelli",
+            "Mütevelli",
+            "Muhtesip",
+            "Voyvoda",
+            "Mültezim"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "İltizam sisteminin uygulanmasındaki temel amaç aşağıdakilerden hangisidir?",
+          "options": [
+            "Taşrada güvenliği sağlamak",
+            "Ordunun asker ihtiyacını karşılamak",
+            "Hazinenin nakit para ihtiyacını karşılamak",
+            "Üretimi artırmak",
+            "Türkmenleri yerleşik hayata geçirmek"
+          ],
+          "correctOption": "C",
+          "solution": "Uzak eyaletlerden verginin gelmesi aylar sürer, devlet bunu beklememek için vergiyi ihaleyle peşin satar."
+        },
+        {
+          "text": "Aşağıdaki eyaletlerden hangisi İmtiyazlı Eyaletler statüsünde olup, Osmanlı’ya vergi vermez ve asker göndermez?",
+          "options": [
+            "Kırım",
+            "Eflak",
+            "Boğdan",
+            "Erdel",
+            "Hicaz"
+          ],
+          "correctOption": "A",
+          "solution": "Mekke ve Medine'nin kutsallığından dolayı ayrıcalıklıdır."
+        },
+        {
+          "text": "Kırım Hanlığı, Osmanlı’ya vergi vermez ancak savaş zamanı asker gönderirdi. Kırım yöneticilerine ne ad verilirdi?",
+          "options": [
+            "Voyvoda",
+            "Hidiv",
+            "Tekfur",
+            "Dayı",
+            "Giray (Han)"
+          ],
+          "correctOption": "E",
+          "solution": "Hidiv Mısır, Voyvoda Eflak-Boğdan yöneticisidir."
+        },
+        {
+          "text": "Osmanlı toprak sisteminde geliri doğrudan devlet hazinesine aktarılan (İltizam uygulanan) topraklara ne ad verilir?",
+          "options": [
+            "Dirlik",
+            "Mukataa",
+            "Paşmaklık",
+            "Malikane",
+            "Yurtluk"
+          ],
+          "correctOption": "B",
+          "solution": "Doğrudan gelir kaynağı."
+        },
+        {
+          "text": "Dirlik arazileri gelirlerine göre üçe ayrılır. Geliri 100.000 akçeden fazla olan ve Padişah, Sadrazam gibi üst düzey yöneticilere verilen en değerli toprak hangisidir?",
+          "options": [
+            "Tımar",
+            "Zeamet",
+            "Has",
+            "Vakıf",
+            "Ocaklık"
+          ],
+          "correctOption": "C",
+          "solution": "Has > Zeamet > Tımar"
+        },
+        {
+          "text": "Tımar sisteminde, Tımarlı Sipahi’nin kendisine verilen toprağın geliri karşılığında beslemek zorunda olduğu atlı askere ne ad verilir?",
+          "options": [
+            "Yeniçeri",
+            "Akıncı",
+            "Azap",
+            "Cebelü",
+            "Levent"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Tımar sisteminin (Dirlik) bozulmasının nedenlerinden biri değildir?",
+          "options": [
+            "Nüfusun artması ve toprakların yetersiz kalması",
+            "Devşirme sisteminin kaldırılması",
+            "Dirliklerin askerlikle ilgisi olmayanlara (Rüşvetle) verilmesi",
+            "Enflasyon nedeniyle paranın değer kaybetmesi (Sipahinin geçinememesi)",
+            "Ateşli silahların önem kazanması ve atlı askerin değerini yitirmesi"
+          ],
+          "correctOption": "B",
+          "solution": "Devşirme sisteminin Tımar'la doğrudan ilgisi yoktur; biri merkez, diğeri taşra ordusudur. Ayrıca Devşirme sistemi bozulmuş ama hemen kaldırılmamıştır."
+        },
+        {
+          "text": "Geliri padişahın annesi, eşleri ve kızlarına (Saray kadınlarına) ayrılan topraklara ne ad verilir?",
+          "options": [
+            "Paşmaklık",
+            "Arpalık",
+            "Malikane",
+            "Yurtluk",
+            "Ocaklık"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Sınır boylarındaki askerlere ve kale muhafızlarına verilen, geliri sınır güvenliği için kullanılan topraklara ne ad verilir?",
+          "options": [
+            "Ocaklık",
+            "Mukataa",
+            "Paşmaklık",
+            "Has",
+            "Yurtluk"
+          ],
+          "correctOption": "D",
+          "solution": "Yurt tutmak, sınır beklemek."
+        },
+        {
+          "text": "Osmanlı ordusunun merkezini oluşturan Kapıkulu Ocaklarının asker ihtiyacını karşılamak için I. Murat döneminde \"Pençik\", daha sonra ise hangi sistem uygulanmıştır?",
+          "options": [
+            "İltizam",
+            "Müsadere",
+            "Devşirme",
+            "Tımar",
+            "İskan"
+          ],
+          "correctOption": "B",
+          "solution": "Gayrimüslim çocukların Türk-İslam kültürüyle yetiştirilmesi."
+        },
+        {
+          "text": "Kapıkulu askerleri (Yeniçeriler vb.) üç ayda bir Ulufe adlı maaş alırlar. Padişah tahta çıktığında ise bir defaya mahsus hangi bahşişi alırlar?",
+          "options": [
+            "İaşecilik",
+            "Cülus",
+            "Sefer",
+            "Bayram",
+            "Hediye"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki askeri birliklerden hangisi Kapıkulu (Merkez) ordusuna ait değildir?",
+          "options": [
+            "Yeniçeriler",
+            "Cebeciler (Silah bakım)",
+            "Topçular",
+            "Humbaracılar",
+            "Tımarlı Sipahiler"
+          ],
+          "correctOption": "A",
+          "solution": "Tımarlı Sipahiler Eyalet ordusundadır, Türklerden oluşur, maaş almazlar."
+        },
+        {
+          "text": "Ordunun silahlarını yapan, tamir eden ve bakımını üstlenen Kapıkulu birliği hangisidir?",
+          "options": [
+            "Lağımcılar",
+            "Bostancılar",
+            "Sakalar",
+            "Turnalar",
+            "Cebeciler"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Savaş sırasında tünel kazarak kalelerin surlarını çökerten teknik sınıf hangisidir?",
+          "options": [
+            "Lağımcılar",
+            "Humbaracılar",
+            "Top arabacıları",
+            "Solaklar",
+            "Akıncılar"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Eyalet ordusunda, düşman topraklarına akınlar düzenleyen, keşif yapan ve ordunun önünden giden hafif süvari birliklerine ne ad verilir?",
+          "options": [
+            "Azaplar",
+            "Akıncılar",
+            "Deliler",
+            "Beşliler",
+            "Sakalar"
+          ],
+          "correctOption": "B",
+          "solution": "Malkoçoğulları en ünlüleridir."
+        },
+        {
+          "text": "Ordunun su ihtiyacını karşılayan yardımcı birlik hangisidir?",
+          "options": [
+            "Sakalar",
+            "Turnalar",
+            "Cerahorlar",
+            "Martoloslar",
+            "Voynuklar"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nde olağanüstü durumlarda (Savaş, afet vb.) halktan toplanan vergiye ne ad verilir?",
+          "options": [
+            "Öşür",
+            "Haraç",
+            "Cizye",
+            "Avarız",
+            "Ağnam"
+          ],
+          "correctOption": "E",
+          "solution": "Duraklama döneminde hazine açığını kapatmak için sürekli hale gelmiştir."
+        },
+        {
+          "text": "Müslüman olmayan erkeklerden, askerlik yapmadıkları gerekçesiyle (Koruma karşılığı) alınan vergi hangisidir?",
+          "options": [
+            "Cizye",
+            "Haraç",
+            "Öşür",
+            "İspenç",
+            "Çiftbozan"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Tımar sahibi, toprağını mazeretsiz olarak üç yıl üst üste ekmezse toprağı elinden alınır ve ceza vergisi öderdi. Üretimde sürekliliği sağlamayı amaçlayan bu vergi hangisidir?",
+          "options": [
+            "Çiftbozan",
+            "Resm-i Çift",
+            "Bennak",
+            "Mücerret",
+            "Avarız"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı'da \"Mülk Arazi\" sahiplerinden Müslümanların ödediği ürün vergisine Öşür, gayrimüslimlerin ödediği ürün vergisine ne ad verilir?",
+          "options": [
+            "Cizye",
+            "Haraç",
+            "Ağnam",
+            "Bac",
+            "Anam"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Duraklama döneminden itibaren İltizam sisteminin yaygınlaşması ve devletin nakit para ihtiyacının artmasıyla, İltizamın \"ömür boyu\" (kişi ölene kadar) verilmesi sistemine geçilmiştir. Bu sisteme ne ad verilir?",
+          "options": [
+            "Malikane Sistemi",
+            "Esham Sistemi",
+            "Müsadere",
+            "Gedik",
+            "Vakıf"
+          ],
+          "correctOption": "B",
+          "solution": "Bu durum Ayanların güçlenmesine yol açmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti'nde Lonca teşkilatında üretilen malların kalite ve fiyatlarını (Narh) denetleyen, çarşı düzenini sağlayan görevli kimdir?",
+          "options": [
+            "Muhtesip",
+            "Kapan Emini",
+            "Beytülmal Emini",
+            "Gümrük Emini",
+            "Bac Emini"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 7",
+      "preTestNote": "Genel Özellikler:\nFetihler yavaşlasa da devam etmiştir. Avrupa örnek alınmamıştır. Beşik Ulemalığı ile eğitim bozulmuştur.\n\nSiyasi Olaylar (Kodlama: VARİL):\nVenedik: Girit Adası 24 yılda alındı.\nAvusturya: Haçova Savaşı (1596): Kazanılan son büyük meydan savaşıdır. Zitvatorok Antlaşması (1606): Siyasi üstünlük kaybedildi, eşitlik geldi. Vasvar Antlaşması: Son toprak kazancı.\nRusya: Bahçesaray Antlaşması.\nİran: Ferhat Paşa (Doğuda en geniş), Kasr-ı Şirin (Sınır).\nLehistan: Bucaş (Batıda en geniş).\nKarlofça (1699): İlk büyük toprak kaybı. Gerileme başladı.\n\nIslahatçılar (Kodlama: TOKMAK):\nTarhuncu: İlk denk bütçe.\nGenç Osman: İlk sosyal ıslahat.\nKuyucu Murat: Celali isyanlarını bastırdı.\nIV. Murat: Bağdat Fatihi, yasaklar.\nI. Ahmet: Ekber ve Erşed.\nKöprülüler: Yükselme dönemi yaşattılar.",
+      "questions": [
+        {
+          "text": "Osmanlı Devleti’nin Duraklama Dönemi’nde (17. Yüzyıl) Avrupa’daki gelişmeleri takip etmemesinin ve Batı tarzı ıslahat yapmamasının temel nedeni nedir?",
+          "options": [
+            "Avrupa ile diplomatik ilişkilerin kesilmesi",
+            "Ekonomik yetersizlikler",
+            "Rusya’nın engellemesi",
+            "Avrupa’nın Osmanlı’dan geride olduğunu düşünmesi (Üstünlük psikolojisi)",
+            "Din adamlarının yasaklaması"
+          ],
+          "correctOption": "D",
+          "solution": "Osmanlı hala kendisini \"Muhteşem\" sanmaktadır."
+        },
+        {
+          "text": "1590 yılında İran ile imzalanan ve Osmanlı Devleti’nin Doğuda en geniş sınırlara ulaşmasını sağlayan antlaşma hangisidir?",
+          "options": [
+            "Amasya",
+            "Ferhat Paşa",
+            "Nasuh Paşa",
+            "Serav",
+            "Kasr-ı Şirin"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "1639 yılında İran ile imzalanan ve günümüz Türkiye-İran sınırını büyük ölçüde belirleyen antlaşma hangisidir?",
+          "options": [
+            "Ferhat Paşa",
+            "Kerden",
+            "Nasuh Paşa",
+            "İstanbul",
+            "Kasr-ı Şirin"
+          ],
+          "correctOption": "E",
+          "solution": "Zağros Dağları sınır kabul edilmiştir."
+        },
+        {
+          "text": "1672 yılında Lehistan (Polonya) ile imzalanan ve Osmanlı Devleti’nin Batıda en geniş sınırlara (Podolya arazisi) ulaşmasını sağlayan antlaşma hangisidir?",
+          "options": [
+            "Vasvar",
+            "Zitvatorok",
+            "Bucaş",
+            "Karlofça",
+            "Hotin"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "1606 yılında Avusturya ile imzalanan Zitvatorok Antlaşması’nda yer alan \"Avusturya Arşidükü (Kralı), protokolde Osmanlı Padişahına denk sayılacaktır\" maddesi neyin göstergesidir?",
+          "options": [
+            "Osmanlı’nın Avusturya karşısındaki siyasi üstünlüğünü kaybettiğinin",
+            "Osmanlı’nın toprak kazandığının",
+            "Avusturya’nın Osmanlı himayesine girdiğinin",
+            "Haçlı birliğinin dağıldığının",
+            "İstanbul Antlaşması’nın aynen devam ettiğinin"
+          ],
+          "correctOption": "A",
+          "solution": "Kanuni dönemindeki \"Kral=Sadrazam\" üstünlüğü bitmiş, \"Kral=Padişah\" eşitliği gelmiştir."
+        },
+        {
+          "text": "Eğri Kalesi’ni fethederek \"Eğri Fatihi\" unvanını alan ve Osmanlı tarihinde ordunun başında sefere çıkan son padişahlardan olan (uzun bir aradan sonra) hükümdar kimdir?",
+          "options": [
+            "II. Osman",
+            "I. Ahmet",
+            "IV. Murat",
+            "II. Mustafa",
+            "III. Mehmet"
+          ],
+          "correctOption": "E",
+          "solution": "Haçova Savaşı'nı kazanmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti’nde, Şeyhülislamın yetkilerini kısıtlayan, saray dışından evlenerek (sosyal ıslahat) sarayı halka açan ve Yeniçeri Ocağı’nı kaldırmayı düşündüğü için öldürülen padişah kimdir?",
+          "options": [
+            "III. Selim",
+            "IV. Murat",
+            "I. İbrahim",
+            "Genç Osman (II. Osman)",
+            "I. Ahmet"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "17. yüzyılda devletin kötü gidişatının nedenlerini araştıran ve IV. Murat’a sunduğu ünlü raporuyla (Risale) tanınan devlet adamı kimdir?",
+          "options": [
+            "Katip Çelebi",
+            "Koçi Bey",
+            "Evliya Çelebi",
+            "Naima",
+            "Sokullu Mehmet Paşa"
+          ],
+          "correctOption": "B",
+          "solution": "Koçi Bey Risalesi."
+        },
+        {
+          "text": "İçki ve tütün yasağı getiren, gece sokağa çıkmayı yasaklayan ve otoriteyi sağlamak için şiddete başvuran, Bağdat Fatihi unvanlı padişah kimdir?",
+          "options": [
+            "IV. Murat",
+            "I. Ahmet",
+            "II. Osman",
+            "IV. Mehmet",
+            "II. Süleyman"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı tarihinde modern anlamda ilk denk bütçeyi hazırlayan ancak çıkarları zedelenenler tarafından idam ettirilen sadrazam kimdir?",
+          "options": [
+            "Köprülü Mehmet Paşa",
+            "Merzifonlu Kara Mustafa Paşa",
+            "Kuyucu Murat Paşa",
+            "Baltacı Mehmet Paşa",
+            "Tarhuncu Ahmet Paşa"
+          ],
+          "correctOption": "C",
+          "solution": "Tarhuncu Bütçesi."
+        },
+        {
+          "text": "Padişaha bazı şartlar öne sürerek sadrazamlık teklifini kabul eden ve bu yönüyle Osmanlı tarihinde bir ilki gerçekleştiren sadrazam kimdir?",
+          "options": [
+            "Sokullu Mehmet Paşa",
+            "Köprülü Fazıl Ahmet Paşa",
+            "Tarhuncu Ahmet Paşa",
+            "Siyavuş Paşa",
+            "Köprülü Mehmet Paşa"
+          ],
+          "correctOption": "D",
+          "solution": "Amacı: Rahat çalışabileceği bir ortam yaratmak ve can güvenliğini sağlamak."
+        },
+        {
+          "text": "24 yıl süren kuşatma sonucunda 1669 yılında Girit Adası’nı Venediklilerden almayı başaran sadrazam kimdir?",
+          "options": [
+            "Merzifonlu Kara Mustafa Paşa",
+            "Köprülü Mehmet Paşa",
+            "Damat İbrahim Paşa",
+            "Cezayirli Gazi Hasan Paşa",
+            "Köprülü Fazıl Ahmet Paşa"
+          ],
+          "correctOption": "C",
+          "solution": "24 yıl sürmesi donanmanın eski gücünde olmadığını göstermiştir."
+        },
+        {
+          "text": "1683 yılında II. Viyana Kuşatması’nı gerçekleştiren ancak başarısız olarak idam edilen Osmanlı sadrazamı kimdir?",
+          "options": [
+            "Baltacı Mehmet Paşa",
+            "Merzifonlu Kara Mustafa Paşa",
+            "Tarhuncu Ahmet Paşa",
+            "Köprülü Fazıl Mustafa Paşa",
+            "Alemdar Mustafa Paşa"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "II. Viyana Kuşatması’ndaki başarısızlıktan sonra Osmanlı’ya karşı Avrupa devletlerinin (Avusturya, Lehistan, Venedik, Rusya, Malta) oluşturduğu ittifaka ne ad verilir?",
+          "options": [
+            "Kutsal İttifak",
+            "Haçlı Birliği",
+            "Bağlaşma Devletleri",
+            "İtilaf Devletleri",
+            "Balkan Birliği"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin \"Batıda ilk kez büyük ölçüde toprak kaybettiği\" ve Gerileme Dönemi’nin başlangıcı sayılan 1699 tarihli antlaşma hangisidir?",
+          "options": [
+            "İstanbul",
+            "Prut",
+            "Karlofça",
+            "Pasarofça",
+            "Belgrad"
+          ],
+          "correctOption": "C",
+          "solution": "Macaristan elden çıkmıştır."
+        },
+        {
+          "text": "Kutsal İttifak’ta yer almasına rağmen Karlofça Antlaşması’na imza atmayan, bir yıl sonra (1700) imzalanan İstanbul Antlaşması ile Azak Kalesi’ni alarak Karadeniz’e inme fırsatı bulan devlet hangisidir?",
+          "options": [
+            "Venedik",
+            "Lehistan",
+            "Avusturya",
+            "Fransa",
+            "Rusya"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "IV. Mehmet döneminde, maaşlarını alamayan Yeniçerilerin isyan ederek 30 kadar devlet adamını Sultanahmet Meydanı’ndaki çınar ağaçlarına asması olayına ne ad verilir?",
+          "options": [
+            "Vaka-i Hayriye",
+            "Edirne Olayı",
+            "Kuleli Olayı",
+            "Babıali Baskını",
+            "Vaka-i Vakvakiye (Çınar Olayı)"
+          ],
+          "correctOption": "E",
+          "solution": "Meyve veren ağaç / Ceset ağacı benzetmesi."
+        },
+        {
+          "text": "Duraklama Dönemi’nde Anadolu’da çıkan, ekonomik sıkıntılar ve tımarların haksız dağıtımı nedeniyle köylülerin ve tımarlı sipahilerin başlattığı isyanlara ne ad verilir?",
+          "options": [
+            "Yeniçeri İsyanları",
+            "Celali İsyanları",
+            "Suhte İsyanları",
+            "Eyalet İsyanları",
+            "Babai İsyanları"
+          ],
+          "correctOption": "B",
+          "solution": "Sonucunda \"Büyük Kaçgun\" yaşanmış, köyler boşalmıştır."
+        },
+        {
+          "text": "17. yüzyıl ıslahatlarının genel karakteri (özelliği) aşağıdakilerden hangisidir?",
+          "options": [
+            "Avrupa örnek alınmıştır.",
+            "Sorunların köküne inilmiştir.",
+            "Halka mal edilmiştir.",
+            "Kişilere bağlı kalmış, devlet politikası olamamış ve baskı/şiddet yoluyla uygulanmıştır.",
+            "Demokratikleşme amacı taşır."
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Medrese öğrencilerinin (Suhte/Danişment) işsizlik ve geçim sıkıntısı nedeniyle çıkardıkları isyanlara ne ad verilir?",
+          "options": [
+            "Celali",
+            "Kapıkulu",
+            "Patrona Halil",
+            "Kabakçı Mustafa",
+            "Suhte İsyanları"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "I. Ahmet tarafından yaptırılan, altı minareli ilk cami olan ve Avrupalıların \"Mavi Cami\" (Blue Mosque) olarak adlandırdığı cami hangisidir?",
+          "options": [
+            "Selimiye",
+            "Süleymaniye",
+            "Sultanahmet",
+            "Fatih",
+            "Ayasofya"
+          ],
+          "correctOption": "C",
+          "solution": "Mimarı: Sedefkar Mehmet Ağa."
+        },
+        {
+          "text": "\"Beşik Ulemalığı\" (Alimin oğlu alimdir) anlayışının ortaya çıkması Osmanlı’da en çok hangi sistemin bozulmasına neden olmuştur?",
+          "options": [
+            "Askeri",
+            "Maliye",
+            "Toprak",
+            "Diploması",
+            "Eğitim (İlmiye)"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nde, henüz çocuk yaşta tahta geçtiği için yönetimin annesi (Kösem Sultan) ve saray ağalarının eline geçtiği, \"Avcı\" lakaplı padişah kimdir?",
+          "options": [
+            "IV. Mehmet",
+            "II. Osman",
+            "I. İbrahim",
+            "I. Mustafa",
+            "III. Osman"
+          ],
+          "correctOption": "D",
+          "solution": "Osmanlı tarihinde en genç yaşta tahta geçen -6 yaşında- ve Kanuni'den sonra en uzun süre tahtta kalan padişahtır."
+        },
+        {
+          "text": "Osmanlı Devleti’nin Rusya ile imzaladığı ilk antlaşma olan Bahçesaray (Çehrin) Antlaşması hangi dönemde yapılmıştır?",
+          "options": [
+            "Yükselme",
+            "Duraklama",
+            "Gerileme",
+            "Dağılma",
+            "Kuruluş"
+          ],
+          "correctOption": "B",
+          "solution": "17. yy sonları."
+        },
+        {
+          "text": "Duraklama döneminde Yeniçeri Ocağı’nın bozulmasında etkili olan \"Ocak, Devlet içindir\" anlayışının yerini hangi anlayış almıştır?",
+          "options": [
+            "Devlet, Ocak içindir.",
+            "Her Türk asker doğar.",
+            "Ordu milletin hizmetindedir.",
+            "Askerlik vatan borcudur.",
+            "Nizam-ı Cedid."
+          ],
+          "correctOption": "A",
+          "solution": "Bu anlayış devleti uçuruma sürüklemiştir."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 8",
+      "preTestNote": "Genel Politika: Pasarofça'dan sonra Batı örnek alındı.\nÖnemli Antlaşmalar:\nPrut (1711): Azak geri alındı, umutlar yeşerdi.\nPasarofça (1718): Batı'nın üstünlüğü kabul edildi, Lale Devri başladı.\nBelgrad (1739): Karadeniz son kez Türk gölü oldu.\nKüçük Kaynarca (1774): Kırım bağımsız oldu (Halkı Müslüman ilk kayıp). Rusya'ya kapitülasyon verildi.\nYaş Antlaşması (1792): Kırım'ın Rusya'ya ait olduğu kabul edildi. Dağılma başladı.\n\nIslahatlar (Kodlama: 31313):\nIII. Ahmet (Lale Devri): Matbaa, Çiçek Aşısı, İtfaiye.\nI. Mahmut: Batı tarzı ilk askeri ıslahat (Hendesehane).\nIII. Selim (Nizam-ı Cedid): İlk Daimi Elçilik, Nizam-ı Cedid ordusu.",
+      "questions": [
+        {
+          "text": "Osmanlı tarihinde 1703 yılında \"Edirne Vakası\" olarak bilinen ayaklanma sonucunda II. Mustafa tahttan indirilmiş ve yerine Lale Devri'nin padişahı olacak olan kişi geçmiştir. Edirne Vakası ile tahta geçen bu padişah kimdir?",
+          "options": [
+            "III. Selim",
+            "I. Mahmut",
+            "III. Ahmet",
+            "I. Abdülhamit",
+            "III. Mustafa"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin 1711 yılında Rusya ile imzaladığı ve Karlofça Antlaşması ile kaybettiği toprakları geri alma ümidini artıran antlaşma hangisidir?",
+          "options": [
+            "Pasarofça",
+            "Prut",
+            "Belgrad",
+            "Ziştovi",
+            "İstanbul"
+          ],
+          "correctOption": "B",
+          "solution": "Baltacı Mehmet Paşa'nın başarısı."
+        },
+        {
+          "text": "1718 yılında Avusturya ile imzalanan, Osmanlı’nın Batı’nın teknik üstünlüğünü ilk kez kabul ettiği ve Lale Devri’nin başlamasına neden olan antlaşma hangisidir?",
+          "options": [
+            "Prut",
+            "Belgrad",
+            "Pasarofça",
+            "Küçük Kaynarca",
+            "Yaş"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Pasarofça Antlaşması (1718) ile Patrona Halil İsyanı (1730) arasında geçen; zevk, sefa ve barış dönemi olarak bilinen, aynı zamanda Avrupa’nın ilk kez örnek alındığı döneme ne ad verilir?",
+          "options": [
+            "Fetret Devri",
+            "Lale Devri",
+            "Tanzimat Devri",
+            "Meşrutiyet Devri",
+            "İstibdat Devri"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Lale Devri’nin ünlü sadrazamı ve ünlü şairi (minyatürcüsü değil) aşağıdaki eşleştirmelerden hangisinde doğru verilmiştir?",
+          "options": [
+            "Nevşehirli Damat İbrahim Paşa - Nedim",
+            "Sokullu Mehmet Paşa - Baki",
+            "Köprülü Mehmet Paşa - Nefi",
+            "Baltacı Mehmet Paşa - Fuzuli",
+            "Merzifonlu Kara Mustafa Paşa - Nabi"
+          ],
+          "correctOption": "D",
+          "solution": "Minyatürcüsü ise Levni'dir."
+        },
+        {
+          "text": "Osmanlı Devleti’ne Lale Devri’nde getirilen \"Matbaa\", Avrupa'dan alınan ilk teknik yenilik kabul edilir. Osmanlı’da ilk özel Türk matbasını kuran kişiler kimlerdir?",
+          "options": [
+            "İbrahim Müteferrika - Sait Efendi",
+            "Katip Çelebi - Evliya Çelebi",
+            "Lagari Hasan - Hazerfen Ahmet",
+            "Humbaracı Ahmet - Baron de Tott",
+            "Levni - Nedim"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Lale Devri yeniliklerinden biri değildir?",
+          "options": [
+            "İlk geçici elçiliklerin açılması",
+            "Tulumbacılar Ocağı’nın (İtfaiye) kurulması",
+            "Çiçek aşısının uygulanması",
+            "Yalova’da kağıt fabrikasının kurulması",
+            "Nizam-ı Cedid ordusunun kurulması"
+          ],
+          "correctOption": "D",
+          "solution": "Lale Devri'nde askeri ıslahat yoktur. Nizam-ı Cedid III. Selim dönemindedir."
+        },
+        {
+          "text": "Lale Devri’nde basılan ilk eser olan \"Vankulu Lügati\" adlı sözlük kime aittir?",
+          "options": [
+            "Vankulu Mehmet Efendi",
+            "Kaşgarlı Mahmut",
+            "İbrahim Müteferrika",
+            "Katip Çelebi",
+            "Naima"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Lale Devri’ni sona erdiren, Nevşehirli Damat İbrahim Paşa’nın idam edilmesine ve III. Ahmet’in tahttan indirilmesine neden olan isyan hangisidir?",
+          "options": [
+            "Kabakçı Mustafa İsyanı",
+            "Patrona Halil İsyanı",
+            "Edirne Vakası",
+            "Şeyh Bedrettin İsyanı",
+            "Kuleli Olayı"
+          ],
+          "correctOption": "A",
+          "solution": "Bu isyanda matbaaya dokunulmamıştır, bu da halkın yeniliğe değil yönetimin zevk ü sefasına karşı olduğunu gösterir."
+        },
+        {
+          "text": "Osmanlı Devleti’nde Batı tarzında ilk askeri ıslahatları yapan, \"Hendesehane\"yi (Kara Mühendishanesi) kuran ve Avrupa'dan askeri uzman (Comte de Bonneval) getiren padişah kimdir?",
+          "options": [
+            "III. Ahmet",
+            "I. Mahmut",
+            "III. Selim",
+            "II. Mahmut",
+            "I. Abdülhamit"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "I. Mahmut döneminde yapılan askeri ıslahatların etkisiyle Avusturya ve Rusya’ya karşı kazanılan ve Osmanlı’nın 18. yüzyılda imzaladığı son kazançlı antlaşma olan belge hangisidir?",
+          "options": [
+            "Prut",
+            "Pasarofça",
+            "Belgrad",
+            "Küçük Kaynarca",
+            "Ziştovi"
+          ],
+          "correctOption": "D",
+          "solution": "Karadeniz son kez Türk gölü olduğu kabul ettirildi."
+        },
+        {
+          "text": "I. Mahmut, Belgrad Antlaşması’ndaki arabuluculuğundan dolayı hangi devlete verilen kapitülasyonları sürekli hale getirmiştir?",
+          "options": [
+            "İngiltere",
+            "Hollanda",
+            "Fransa",
+            "Rusya",
+            "Venedik"
+          ],
+          "correctOption": "C",
+          "solution": "1740 Kapitülasyonları."
+        },
+        {
+          "text": "1770 yılında Rus donanmasının, Osmanlı donanmasını yakarak imha ettiği (Tarihteki ikinci büyük donanma yangını) olay hangisidir?",
+          "options": [
+            "İnebahtı",
+            "Çeşme Baskını",
+            "Navarin",
+            "Sinop Baskını",
+            "Preveze"
+          ],
+          "correctOption": "E",
+          "solution": "İnebahtı - Çeşme - Navarin - Sinop sırasıyla yanmıştır."
+        },
+        {
+          "text": "1774 yılında Rusya ile imzalanan ve Osmanlı tarihinin en ağır antlaşmalarından biri olan Küçük Kaynarca Antlaşması’nın en önemli sonucu nedir?",
+          "options": [
+            "Karadeniz’in Türk gölü olması",
+            "Kırım’ın bağımsız olması",
+            "Sırbistan’a özerklik verilmesi",
+            "Yunanistan’ın bağımsız olması",
+            "Mısır’ın kaybedilmesi"
+          ],
+          "correctOption": "B",
+          "solution": "İlk defa halkı Müslüman olan bir toprak kaybedildi."
+        },
+        {
+          "text": "Küçük Kaynarca Antlaşması’nda yer alan \"Kırım halkı dini bakımdan Osmanlı Halifesine bağlı kalacaktır\" maddesinin amacı nedir?",
+          "options": [
+            "Kırım’ı siyasi olarak geri almak",
+            "Rusya’yı vergiye bağlamak",
+            "Halifeliği kaldırmak",
+            "Kırım’ı Hristiyanlaştırmak",
+            "Kırım ile kültürel ve dini bağları korumak"
+          ],
+          "correctOption": "A",
+          "solution": "Osmanlı Devleti, Halifelik kurumunun siyasi gücünü uluslararası bir antlaşmada ilk kez burada kullanmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti, tarihinde ilk kez hangi antlaşma ile savaş tazminatı ödemek zorunda kalmış ve Rusya’ya kapitülasyon vermiştir?",
+          "options": [
+            "Belgrad",
+            "Küçük Kaynarca",
+            "Yaş",
+            "Bükreş",
+            "Edirne"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Kırım’ın Rusya’ya ait olduğunu resmen kabul eden ve Osmanlı’da Gerileme Dönemi’ni bitirip Dağılma Dönemi’ni başlatan antlaşma hangisidir?",
+          "options": [
+            "Küçük Kaynarca",
+            "Aynalıkavak Tenkihnamesi",
+            "Yaş Antlaşması",
+            "Ziştovi Antlaşması",
+            "Bükreş Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": "1792 - Yaş Antlaşması"
+        },
+        {
+          "text": "Osmanlı Devleti’nde radikal yönde ve planlı/programlı (devlet politikası olarak) ilk ıslahatları yapan padişah kimdir?",
+          "options": [
+            "II. Osman",
+            "IV. Murat",
+            "III. Selim",
+            "I. Abdülhamit",
+            "III. Ahmet"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "III. Selim döneminde yapılan tüm ıslahatlara ve bu dönemde kurulan Batı tarzı orduya ne ad verilir?",
+          "options": [
+            "Sekban-ı Cedid",
+            "Nizam-ı Cedid",
+            "Eşkinci Ocağı",
+            "Asakir-i Mansure-i Muhammediye",
+            "Hamidiye Alayları"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Nizam-ı Cedid ordusunun masraflarını karşılamak için kurulan hazinenin adı nedir?",
+          "options": [
+            "İrad-ı Cedid",
+            "Hazine-i Amire",
+            "Hazine-i Hassa",
+            "Ceyb-i Hümayun",
+            "Maliye Nezareti"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti ilk daimi (sürekli) elçiliği hangi padişah döneminde ve hangi şehirde açmıştır?",
+          "options": [
+            "III. Ahmet - Paris",
+            "III. Selim - Londra",
+            "II. Mahmut - Viyana",
+            "I. Abdülhamit - Berlin",
+            "Abdülmecit - Roma"
+          ],
+          "correctOption": "B",
+          "solution": "İlk daimi elçi Yusuf Agah Efendi'dir."
+        },
+        {
+          "text": "Fransa lideri Napolyon Bonapart’ın \"Osmanlı’nın toprağına göz dikerek\" Mısır’ı işgal etmesi üzerine, Osmanlı Devleti ilk kez hangi politikayı uygulamıştır?",
+          "options": [
+            "Cihat Politikası",
+            "Denge Politikası",
+            "İskan Politikası",
+            "Millet Sistemi",
+            "Ümmetçilik"
+          ],
+          "correctOption": "C",
+          "solution": "İngiltere ve Rusya'dan yardım isteyerek \"Düşmanımın düşmanı dostumdur\" demiştir."
+        },
+        {
+          "text": "Napolyon’un Mısır’ı işgali sırasında Akka Kalesi’ni savunarak Napolyon’a \"Tarih beni bir ihtiyarın elinde oyuncak etti\" dedirten ve Nizam-ı Cedid ordusunun ilk başarısını kazanan komutan kimdir?",
+          "options": [
+            "Kavalalı Mehmet Ali Paşa",
+            "Cezzar Ahmet Paşa",
+            "Köprülü Fazıl Ahmet Paşa",
+            "Alemdar Mustafa Paşa",
+            "Gazi Osman Paşa"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "III. Selim döneminde, devletin askeri okullarında ve dış ilişkilerde ilk resmi yabancı dil olarak hangi dil kabul edilmiştir?",
+          "options": [
+            "İngilizce",
+            "Almanca",
+            "Fransızca",
+            "Rusça",
+            "İtalyanca"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "III. Selim’in tahttan indirilmesine ve Nizam-ı Cedid ıslahatlarının son bulmasına neden olan isyan hangisidir?",
+          "options": [
+            "Patrona Halil İsyanı",
+            "Edirne Vakası",
+            "Kabakçı Mustafa İsyanı",
+            "Kuleli Olayı",
+            "31 Mart Vakası"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 9",
+      "preTestNote": "Sened-i İttifak (1808): Padişahın yetkileri ilk kez kısıtlandı (Ayanlara karşı). Demokratikleşme adımıdır.\nSırp İsyanı: İlk isyan eden azınlıktır.\nYunan (Rum) İsyanı: Navarin Olayı ile donanma yakıldı. Edirne Antlaşması (1829) ile Yunanistan bağımsız oldu (İlk bağımsızlık).\nKuzey Afrika'da İlk Kayıp: Fransa, Cezayir'i işgal etti (1830).\nMısır Sorunu: Kavalalı isyan etti. Hünkar İskelesi Antlaşması (1833) ile Rusya ile ittifak yapıldı (Boğazlar Sorunu çıktı). Balta Limanı (1838) ile İngiltere'ye kapitülasyon verildi (Ekonomi battı). Londra Sözleşmesi (1841) ile Boğazlar uluslararası statü kazandı.",
+      "questions": [
+        {
+          "text": "Osmanlı tarihinde Padişahın yetkilerini ilk kez kısıtlayan ve demokratikleşme yolunda atılan ilk adım olarak kabul edilen belge hangisidir?",
+          "options": [
+            "Tanzimat Fermanı",
+            "Islahat Fermanı",
+            "Kanun-i Esasi",
+            "Sened-i İttifak",
+            "Gülhane Hatt-ı Hümayunu"
+          ],
+          "correctOption": "D",
+          "solution": "II. Mahmut - 1808"
+        },
+        {
+          "text": "II. Mahmut’un Ayanlarla imzaladığı Sened-i İttifak’ın oluşumunda Avrupa’nın etkisi veya baskısı var mıdır?",
+          "options": [
+            "Evet, Fransa’nın baskısı vardır.",
+            "Evet, İngiltere’nin isteğiyle olmuştur.",
+            "Hayır, tamamen iç dinamiklerle (Alemdar Mustafa Paşa’nın etkisiyle) oluşmuştur.",
+            "Evet, Rusya’nın tehdidi etkili olmuştur.",
+            "Evet, Viyana Kongresi kararları uygulanmıştır."
+          ],
+          "correctOption": "C",
+          "solution": "Tanzimat ve Islahat’ta Avrupa etkisi vardır ama Sened-i İttifak tamamen yerlidir."
+        },
+        {
+          "text": "Fransız İhtilali’nin yaydığı milliyetçilik akımının etkisiyle Osmanlı Devleti’ne karşı ilk isyan eden azınlık hangisidir?",
+          "options": [
+            "Yunanlılar (Rumlar)",
+            "Sırplar",
+            "Bulgarlar",
+            "Ermeniler",
+            "Karadağlılar"
+          ],
+          "correctOption": "A",
+          "solution": "İlk isyan eden Sırplar, ilk bağımsız olan Yunanlılardır."
+        },
+        {
+          "text": "1829 yılında imzalanan Edirne Antlaşması ile Osmanlı Devleti’nden ayrılarak bağımsızlığını kazanan ilk azınlık hangisidir?",
+          "options": [
+            "Sırbistan",
+            "Yunanistan",
+            "Romanya",
+            "Bulgaristan",
+            "Karadağ"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Yunan İsyanı sırasında Osmanlı donanmasının İngiltere, Fransa ve Rusya tarafından yakıldığı (Tarihteki 3. büyük donanma yangını) olay hangisidir?",
+          "options": [
+            "İnebahtı",
+            "Navarin",
+            "Çeşme",
+            "Sinop",
+            "Preveze"
+          ],
+          "correctOption": "B",
+          "solution": "1827 - Navarin Baskını."
+        },
+        {
+          "text": "1830 yılında Fransa tarafından işgal edilen ve Osmanlı Devleti’nin Kuzey Afrika’da kaybettiği ilk toprak parçası neresidir?",
+          "options": [
+            "Mısır",
+            "Tunus",
+            "Trablusgarp",
+            "Cezayir",
+            "Fas"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Mısır Valisi Kavalalı Mehmet Ali Paşa’nın, Mora ve Girit valiliklerinin kendisine verilmemesi üzerine başlattığı isyan sonucunda Osmanlı Devleti’nin \"Denize düşen yılana sarılır\" diyerek yardım istediği devlet hangisidir?",
+          "options": [
+            "İngiltere",
+            "Fransa",
+            "Rusya",
+            "Avusturya",
+            "Prusya"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Rusya ile 1833 yılında imzalanan ve Boğazlar Sorunu’nun ortaya çıkmasına neden olan antlaşma hangisidir?",
+          "options": [
+            "Kütahya Antlaşması",
+            "Balta Limanı Antlaşması",
+            "Hünkar İskelesi Antlaşması",
+            "Londra Sözleşmesi",
+            "Edirne Antlaşması"
+          ],
+          "correctOption": "C",
+          "solution": "Bu antlaşma ile Rusya, Boğazlardan serbest geçiş hakkı elde etmiş, bu durum İngiltere ve Fransa'yı rahatsız etmiştir."
+        },
+        {
+          "text": "Osmanlı Devleti’nin İngiltere’nin desteğini almak için 1838 yılında imzaladığı ve Osmanlı ekonomisini dışa bağımlı hale getirerek \"Avrupa’nın açık pazarı\" olmasına neden olan antlaşma hangisidir?",
+          "options": [
+            "Paris Antlaşması",
+            "Balta Limanı Ticaret Antlaşması",
+            "Londra Antlaşması",
+            "Berlin Antlaşması",
+            "Hünkar İskelesi"
+          ],
+          "correctOption": "A",
+          "solution": "Gümrük vergileri düşürülmüş, yerli tüccar yabancı tüccar karşısında rekabet edemez hale gelmiştir."
+        },
+        {
+          "text": "Boğazların, Osmanlı Devleti’nin egemenliğinden çıkarak uluslararası bir statü kazandığı ve Rusya’nın Hünkar İskelesi ile elde ettiği avantajları kaybettiği belge hangisidir?",
+          "options": [
+            "Paris Antlaşması",
+            "1841 Londra Boğazlar Sözleşmesi",
+            "Berlin Antlaşması",
+            "Montrö Boğazlar Sözleşmesi",
+            "Lozan Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": "Boğazlar savaş zamanı tüm savaş gemilerine kapatılmıştır."
+        },
+        {
+          "text": "II. Mahmut döneminde Yeniçeri Ocağı’nın kaldırılılarak yerine Asakir-i Mansure-i Muhammediye ordusunun kurulması olayına (1826) ne ad verilir?",
+          "options": [
+            "Vaka-i Vakvakiye",
+            "Kuleli Olayı",
+            "Edirne Vakası",
+            "Babıali Baskını",
+            "Vaka-i Hayriye (Hayırlı Olay)"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "II. Mahmut döneminde devlet memurlarının kılık kıyafetini düzenlemek amacıyla memurlara fes, ceket ve pantolon giyme zorunluluğu getirilmiştir. Bu durum II. Mahmut’un hangi özelliğini gösterir?",
+          "options": [
+            "Gelenekçi olduğunu",
+            "Demokratikleşmeye çalıştığını",
+            "Askeri ıslahatlara öncelik verdiğini",
+            "Şekilsel batılılaşmaya önem verdiğini",
+            "Ekonomiyi düzeltmeye çalıştığını"
+          ],
+          "correctOption": "D",
+          "solution": "Halk arasında bu yüzden \"Gavur Padişah\" denmiştir."
+        },
+        {
+          "text": "II. Mahmut döneminde \"müsadere\" (devletin mala el koyması) usulünün kaldırılmasıyla aşağıdakilerden hangisi güvence altına alınmıştır?",
+          "options": [
+            "Can güvenliği",
+            "Askerlik hakkı",
+            "Eğitim hakkı",
+            "Seçme ve seçilme hakkı",
+            "Özel mülkiyet hakkı"
+          ],
+          "correctOption": "A",
+          "solution": "Mülkiyet hakkının güvenceye alınması, sermaye birikiminin önünü açmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti’nde çıkan ilk resmi gazete olan ve II. Mahmut döneminde yayımlanmaya başlayan gazete hangisidir?",
+          "options": [
+            "Ceride-i Havadis",
+            "Tercüman-ı Ahval",
+            "Tasvir-i Efkar",
+            "İrade-i Milliye",
+            "Takvim-i Vekayi"
+          ],
+          "correctOption": "B",
+          "solution": "1831"
+        },
+        {
+          "text": "II. Mahmut döneminde, Anadolu’dan İstanbul’a gelecek olanlar için \"Mürur Tezkiresi\" (İç Pasaport/Geçiş Belgesi) alma zorunluluğu getirilmiştir. Bu uygulamanın temel amacı nedir?",
+          "options": [
+            "Vergi gelirlerini artırmak",
+            "Yurtdışına çıkışı engellemek",
+            "Turizmi geliştirmek",
+            "İstanbul’un nüfus artışını ve güvenliğini kontrol altına almak",
+            "Ticareti canlandırmak"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nde ilk nüfus sayımı II. Mahmut döneminde (1831) yapılmıştır. Bu sayımda sadece erkeklerin ve hayvanların sayılmasının temel amacı nedir?",
+          "options": [
+            "Kadın nüfusunun az olması",
+            "Nüfus artış hızını belirlemek",
+            "Okullaşma oranını ölçmek",
+            "Seçmen sayısını belirlemek",
+            "Askeri potansiyeli ve vergi yükümlülerini tespit etmek"
+          ],
+          "correctOption": "E",
+          "solution": "Askeri amaçlıdır."
+        },
+        {
+          "text": "II. Mahmut döneminde Divan-ı Hümayun kaldırılarak yerine bugünkü Bakanlar Kurulu (Kabine) sistemine benzeyen hangi kurum oluşturulmuştur?",
+          "options": [
+            "Heyet-i Vükela (Nazırlıklar)",
+            "Meclis-i Mebusan",
+            "Şura-yı Devlet",
+            "Divan-ı Ahkam-ı Adliye",
+            "Muhassıllık Meclisi"
+          ],
+          "correctOption": "C",
+          "solution": "Sadrazamlık \"Başvekalet\"e dönüşmüştür."
+        },
+        {
+          "text": "Köy ve mahallelerde Muhtarlık teşkilatını kurarak merkezi otoritenin halkın ayağına kadar gitmesini sağlayan padişah kimdir?",
+          "options": [
+            "III. Selim",
+            "II. Mahmut",
+            "Abdülmecit",
+            "II. Abdülhamit",
+            "Abdülaziz"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "II. Mahmut döneminde ilköğretim (Sıbyan mektebi) ile ilgili yapılan düzenleme nedir?",
+          "options": [
+            "İstanbul’da ilköğretimin zorunlu hale getirilmesi",
+            "Karma eğitime geçilmesi",
+            "Yabancı dil eğitiminin başlaması",
+            "Medreselerin kapatılması",
+            "İlköğretimin paralı hale gelmesi"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Tımar sisteminin kaldırılmasıyla eyaletlerde oluşan güvenlik boşluğunu doldurmak amacıyla II. Mahmut döneminde kurulan birlik hangisidir?",
+          "options": [
+            "Redif Birlikleri",
+            "Hamidiye Alayları",
+            "Sekban-ı Cedid",
+            "Eşkinci Ocağı",
+            "Yeniçeriler"
+          ],
+          "correctOption": "B",
+          "solution": "Köy ve kasaba güvenliği için."
+        },
+        {
+          "text": "Osmanlı Devleti’nde ilk posta teşkilatı ve ilk karantina uygulaması hangi padişah döneminde başlamıştır?",
+          "options": [
+            "III. Selim",
+            "Abdülmecit",
+            "Abdülaziz",
+            "II. Abdülhamit",
+            "II. Mahmut"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "II. Mahmut, kendi resmini devlet dairelerine astırarak geleneksel padişah imajını yıkan hükümdardır. Ayrıca, devlet memuru yetiştirmek için kurulan okulun adı nedir?",
+          "options": [
+            "Enderun",
+            "Mülkiye Mektebi",
+            "Harbiye",
+            "Tıbbiye",
+            "Mekteb-i Maarif-i Adliye"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi II. Mahmut döneminde açılan kurumlardan biri değildir?",
+          "options": [
+            "Mekteb-i Tıbbiye (Tıp Fakültesi)",
+            "Mekteb-i Harbiye (Harp Okulu)",
+            "Mızıka-i Hümayun (Bando Okulu)",
+            "Tercüme Odası",
+            "Darülfünun (Üniversite)"
+          ],
+          "correctOption": "C",
+          "solution": "Darülfünun Abdülaziz döneminde kurulmuştur."
+        },
+        {
+          "text": "1826’da Yeniçeri Ocağı’nın kaldırılmasıyla oluşan asker açığını kapatmak için kurulan ordu (Asakir-i Mansure-i Muhammediye) ile ilgili askeri ihtiyaçları karşılamak amacıyla kurulan kurum hangisidir?",
+          "options": [
+            "Seraskerlik (Genelkurmay Başkanlığı)",
+            "Harbiye Nezareti",
+            "Erkan-ı Harbiye",
+            "Bab-ı Ali",
+            "Reisülküttab"
+          ],
+          "correctOption": "A",
+          "solution": "Yeniçeri Ağalığı kaldırılmış, yerine Seraskerlik makamı kurulmuştur."
+        },
+        {
+          "text": "II. Mahmut döneminde yerli malı kullanımını teşvik etmek amacıyla \"Çuha\" (Kumaş) fabrikası nerede kurulmuştur?",
+          "options": [
+            "İstanbul (Feshane)",
+            "Bursa",
+            "İzmir",
+            "Selanik",
+            "Edirne"
+          ],
+          "correctOption": "E",
+          "solution": "Feshane'de fes ve çuha üretimi yapılmıştır."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 10",
+      "preTestNote": "Sultan Abdülmecit (1839-1861):\nTanzimat Fermanı (1839): Mustafa Reşit Paşa. \"Kanun Üstünlüğü\". Müslüman-Gayrimüslim eşitliği. Amaç: Osmanlıcılık.\nIslahat Fermanı (1856): Paris Antlaşması için ilan edildi. Avrupa baskısı var. Gayrimüslimlere ekstra haklar verildi.\nKırım Savaşı (1853-1856): İlk dış borç İngiltere'den alındı. Florence Nightingale. Paris Antlaşması ile Osmanlı bir Avrupa devleti sayıldı.\nİlkler: Banka, Telgraf, Özel Gazete, Dolmabahçe.\n\nSultan Abdülaziz (1861-1876):\nAvrupa'ya seyahat. Donanma. Mecelle (Ahmet Cevdet Paşa). Çırağan ve Beylerbeyi Sarayları. Hilal-i Ahmer, Darüşşafaka.",
+      "questions": [
+        {
+          "text": "1839 yılında Gülhane Parkı’nda Mustafa Reşit Paşa tarafından okunan ve Osmanlı Devleti’nde \"Anayasal Düzene\" geçişin ilk aşaması kabul edilen belge hangisidir?",
+          "options": [
+            "Sened-i İttifak",
+            "Islahat Fermanı",
+            "Tanzimat Fermanı",
+            "Kanun-i Esasi",
+            "Halepa Fermanı"
+          ],
+          "correctOption": "C",
+          "solution": "Gülhane Hatt-ı Hümayunu"
+        },
+        {
+          "text": "Tanzimat Fermanı’nın ilan edilmesinde aşağıdaki fikir akımlarından hangisi etkili olmuştur?",
+          "options": [
+            "Türkçülük",
+            "Batıcılık",
+            "İslamcılık",
+            "Osmanlıcılık",
+            "Adem-i Merkeziyetçilik"
+          ],
+          "correctOption": "D",
+          "solution": "Din, dil, ırk ayrımı gözetmeksizin herkesi \"Osmanlı Vatandaşı\" sayarak devleti dağılmaktan kurtarma fikri."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Tanzimat Fermanı’nın getirdiği yeniliklerden biri değildir?",
+          "options": [
+            "Padişahın kanun üstünlüğünü kabul etmesi",
+            "Vergilerin herkesin gelirine göre alınması",
+            "Askerliğin vatan hizmeti haline gelmesi",
+            "Yargılamanın açık yapılması ve kimsenin yargılanmadan cezalandırılmaması",
+            "Gayrimüslimlere devlet memuru olma hakkının verilmesi"
+          ],
+          "correctOption": "A",
+          "solution": "Gayrimüslimlerin memur olma, banka kurma gibi siyasi/sosyal ayrıcalıkları Islahat Fermanı -1856- ile verilmiştir."
+        },
+        {
+          "text": "Osmanlı Devleti, 1856 yılında Paris Barış Konferansı kararlarında aleyhte bir madde yer almasını engellemek amacıyla, Batılı devletlerin baskısıyla hangi belgeyi ilan etmiştir?",
+          "options": [
+            "Tanzimat Fermanı",
+            "Islahat Fermanı",
+            "Kanun-i Esasi",
+            "Muharrem Kararnamesi",
+            "Vilayet Nizamnamesi"
+          ],
+          "correctOption": "B",
+          "solution": "Tanzimat'ta Avrupa baskısı yoktur, Islahat'ta vardır."
+        },
+        {
+          "text": "Islahat Fermanı ile gayrimüslimlerden alınan \"Cizye\" (Baş vergisi) kaldırılmış, bunun yerine gayrimüslimlerin askerlik yapmaması karşılığında ödeyecekleri yeni bir vergi getirilmiştir. Bu verginin adı nedir?",
+          "options": [
+            "Bedel-i Askeri (Nakdi Bedel)",
+            "Avarız",
+            "Haraç",
+            "İspenç",
+            "Ağnam"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Rus Çarı I. Nikolay’ın Osmanlı Devleti için kullandığı ve literatüre geçen ünlü ifade aşağıdakilerden hangisidir?",
+          "options": [
+            "Doğu'nun İncisi",
+            "Boğazların Bekçisi",
+            "Hasta Adam",
+            "Uyuyan Dev",
+            "Barut Fıçısı"
+          ],
+          "correctOption": "C",
+          "solution": "Sick Man of Europe - Kırım Savaşı öncesi İngiltere elçisine söylemiştir."
+        },
+        {
+          "text": "Osmanlı Devleti, Kırım Savaşı sırasında (1854) mali sıkıntıya düşerek tarihinde ilk kez dış borcu hangi ülkeden almıştır?",
+          "options": [
+            "Fransa",
+            "Rusya",
+            "Almanya",
+            "İngiltere",
+            "Hollanda"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "1856 yılında imzalanan Paris Antlaşması’nın, Osmanlı Devleti açısından en önemli siyasi kazanımı nedir?",
+          "options": [
+            "Karadeniz’in tarafsız deniz olması",
+            "Osmanlı Devleti’nin bir Avrupa devleti sayılması ve toprak bütünlüğünün Avrupa garantisinde olması",
+            "Rusya’nın sıcak denizlere inmesinin engellenmesi",
+            "Eflak ve Boğdan’a özerklik verilmesi",
+            "Boğazların ticarete açılması"
+          ],
+          "correctOption": "A",
+          "solution": "Osmanlı, kendi topraklarını koruyamayacak kadar güçsüz olduğunu da zımnen kabul etmiştir."
+        },
+        {
+          "text": "Kırım Savaşı sırasında İstanbul’a gelerek Selimiye Kışlası’nda yaralı askerleri tedavi eden ve \"Lambalı Kadın\" olarak bilinen modern hemşireliğin kurucusu kimdir?",
+          "options": [
+            "Nene Hatun",
+            "Florence Nightingale",
+            "Halide Edip",
+            "Fatma Aliye",
+            "Sabiha Gökçen"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "1853 yılında Rus donanmasının Sinop Limanı’nda Osmanlı donanmasını yaktığı (Tarihteki 4. ve son büyük donanma yangını) olay hangisidir?",
+          "options": [
+            "Navarin",
+            "Çeşme",
+            "Sinop Baskını",
+            "İnebahtı",
+            "Preveze"
+          ],
+          "correctOption": "B",
+          "solution": "Bu olay Kırım Savaşı'nı tetiklemiştir."
+        },
+        {
+          "text": "Tanzimat Dönemi’nde Şinasi ve Agah Efendi tarafından çıkarılan ilk özel Türk gazetesi hangisidir?",
+          "options": [
+            "Takvim-i Vekayi",
+            "Ceride-i Havadis",
+            "Tercüman-ı Ahval",
+            "Tasvir-i Efkar",
+            "İkdam"
+          ],
+          "correctOption": "C",
+          "solution": "1860"
+        },
+        {
+          "text": "Ahmet Cevdet Paşa başkanlığındaki bir heyet tarafından hazırlanan, İslam hukukuna dayalı Osmanlı medeni kanunu olan (ancak aile ve miras hukukunu kapsamayan) eser hangisidir?",
+          "options": [
+            "Mecelle",
+            "Kanun-i Esasi",
+            "Fatih Kanunnamesi",
+            "Siyasetname",
+            "Düstur"
+          ],
+          "correctOption": "C",
+          "solution": "Mecelle, Cumhuriyet döneminde kaldırılarak yerine İsviçre Medeni Kanunu kabul edilmiştir."
+        },
+        {
+          "text": "Osmanlı Devleti’nde bankacılık faaliyetlerinin başladığı bu dönemde, İngiliz sermayesiyle kurulan ve para basma yetkisine sahip olan banka hangisidir?",
+          "options": [
+            "Bank-ı Dersaadet",
+            "Bank-ı Osmani (Osmanlı Bankası)",
+            "Memleket Sandıkları",
+            "Ziraat Bankası",
+            "İtibar-ı Milli Bankası"
+          ],
+          "correctOption": "A",
+          "solution": "Bank-ı Dersaadet ilk bankadır ama para basma yetkisi Bank-ı Osmani'nindir."
+        },
+        {
+          "text": "Avrupa seyahatine çıkan (Barışçıl amaçla) ilk ve tek Osmanlı padişahı kimdir?",
+          "options": [
+            "II. Mahmut",
+            "Abdülmecit",
+            "Abdülaziz",
+            "II. Abdülhamit",
+            "V. Murat"
+          ],
+          "correctOption": "D",
+          "solution": "Fransa, İngiltere, Belçika, Almanya, Avusturya'yı gezmiştir."
+        },
+        {
+          "text": "Sultan Abdülmecit döneminde inşa edilen, Batı mimarisi (Barok-Rokoko) etkisinin yoğun olduğu ve Osmanlı’nın yönetim merkezinin Topkapı’dan taşındığı saray hangisidir?",
+          "options": [
+            "Yıldız Sarayı",
+            "Çırağan Sarayı",
+            "Dolmabahçe Sarayı",
+            "Beylerbeyi Sarayı",
+            "İshak Paşa Sarayı"
+          ],
+          "correctOption": "B",
+          "solution": "Sarayın yapımı için dış borç alınmıştır."
+        },
+        {
+          "text": "Abdülaziz döneminde Mithat Paşa öncülüğünde kurulan, çiftçiye kredi sağlamayı amaçlayan ve ileride Ziraat Bankası’na dönüşecek olan kurum hangisidir?",
+          "options": [
+            "Duyun-u Umumiye",
+            "Memleket Sandıkları",
+            "İtibar-ı Milli",
+            "Emniyet Sandığı",
+            "İş Bankası"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nde Darülfünun (Üniversite) resmen hangi padişah döneminde kurulmuştur?",
+          "options": [
+            "II. Mahmut",
+            "Abdülmecit",
+            "Abdülaziz",
+            "II. Abdülhamit",
+            "V. Mehmet Reşat"
+          ],
+          "correctOption": "A",
+          "solution": "Binası Abdülmecit döneminde yapılmaya başlansa da kurum olarak faaliyete geçmesi Abdülaziz dönemindedir."
+        },
+        {
+          "text": "Tanzimat Dönemi’nde; Namık Kemal, Şinasi, Ziya Paşa gibi aydınların oluşturduğu, Meşrutiyet’i ilan ettirmeyi ve anayasal düzene geçmeyi savunan gizli cemiyet hangisidir?",
+          "options": [
+            "İttihat ve Terakki",
+            "Jön Türkler (Genç Osmanlılar)",
+            "Hürriyet ve İtilaf",
+            "Ahrar Fırkası",
+            "Halaskar Zabitan"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nde köleliğin ve esir ticaretinin yasaklandığı dönem hangisidir?",
+          "options": [
+            "Lale Devri",
+            "III. Selim",
+            "Sultan Abdülmecit",
+            "II. Abdülhamit",
+            "Cumhuriyet Dönemi"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı'da \"Vatan Şairi\" olarak bilinen, \"Vatan Yahut Silistre\" tiyatro eseriyle halkı galeyana getirdiği için Magosa'ya sürgün edilen Genç Osmanlı aydını kimdir?",
+          "options": [
+            "Şinasi",
+            "Ziya Paşa",
+            "Namık Kemal",
+            "Tevfik Fikret",
+            "Mehmet Akif Ersoy"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Sultan Abdülaziz döneminde \"Kimsesiz çocukların eğitimi\" amacıyla açılan ve günümüzde de varlığını sürdüren okul hangisidir?",
+          "options": [
+            "Darüşşafaka",
+            "Galatasaray Sultanisi",
+            "Darülaceze",
+            "Sanayi-i Nefise Mektebi",
+            "Robert Koleji"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı tarihinde, Beylerbeyi ve Çırağan Sarayları hangi padişah döneminde inşa edilmiştir?",
+          "options": [
+            "Abdülmecit",
+            "Abdülaziz",
+            "II. Abdülhamit",
+            "III. Selim",
+            "V. Murat"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Tanzimat Dönemi’nde açılan eğitim kurumlarından biri değildir?",
+          "options": [
+            "Darülmuallimin (Erkek Öğretmen Okulu)",
+            "Darülmuallimat (Kız Öğretmen Okulu)",
+            "Galatasaray Sultanisi",
+            "Mülkiye Mektebi",
+            "Hendesehane"
+          ],
+          "correctOption": "A",
+          "solution": "Hendesehane I. Mahmut -Gerileme- döneminde açılmıştır."
+        },
+        {
+          "text": "1864 yılında yayımlanan \"Vilayet Nizamnamesi\" ile eyalet sistemi kaldırılmış, yerine vilayet sistemi getirilmiştir. Bu düzenlemeyi yapan devlet adamı ve dönemin padişahı kimdir?",
+          "options": [
+            "Mustafa Reşit Paşa - Abdülmecit",
+            "Mithat Paşa - Abdülaziz",
+            "Ahmet Cevdet Paşa - II. Abdülhamit",
+            "Alemdar Mustafa Paşa - II. Mahmut",
+            "Enver Paşa - V. Mehmet"
+          ],
+          "correctOption": "E",
+          "solution": "Tuna Valisi Mithat Paşa bu sistemi ilk Tuna vilayetinde uygulamış, sonra genele yayılmıştır."
+        },
+        {
+          "text": "Paris Antlaşması'nın \"Karadeniz tarafsız deniz olacak, Osmanlı ve Rusya Karadeniz'de donanma ve tersane bulunduramayacak\" maddesi Osmanlı Devleti açısından ne anlama gelmektedir?",
+          "options": [
+            "Karadeniz'in Türk gölü olduğu onaylanmıştır.",
+            "Rusya'nın Karadeniz'den tamamen çekildiğidir.",
+            "Boğazlar sorununun çözüldüğüdür.",
+            "Donanmanın güçlendiğidir.",
+            "Osmanlı'nın galip devlet iken mağlup devlet muamelesi gördüğüdür."
+          ],
+          "correctOption": "D",
+          "solution": "Savaşı kazanmamıza rağmen donanma bulunduramamak yenik devlet muamelesidir."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 11",
+      "preTestNote": "I. Meşrutiyet (1876): Genç Osmanlılar'ın baskısıyla ilan edildi. Kanun-i Esasi (İlk Anayasa). Padişahın sürgün yetkisi (Madde 113) var.\n\n93 Harbi (1877-78): Plevne (Osman Paşa), Nene Hatun. Sonuç: İstibdat Dönemi başladı.\n\nBerlin Antlaşması (1878): Sırbistan, Karadağ, Romanya bağımsız oldu. Kars, Ardahan, Batum Rusya'ya verildi. Ermeni Sorunu çıktı. Kıbrıs İngiltere'ye kiralandı.\n\nEkonomi: Muharrem Kararnamesi (İflas). Duyun-u Umumiye (Borçlar İdaresi).\n\nKurumlar: Ziraat Bankası, Darülaceze, Sanayi-i Nefise, Arkeoloji Müzesi, Hamidiye Alayları.",
+      "questions": [
+        {
+          "text": "Türk tarihinin ilk anayasası olan ve halkın kısıtlı da olsa ilk kez yönetime katılmasını sağlayan belge hangisidir?",
+          "options": [
+            "Sened-i İttifak",
+            "Tanzimat Fermanı",
+            "Kanun-i Esasi",
+            "Teşkilat-ı Esasiye",
+            "Islahat Fermanı"
+          ],
+          "correctOption": "C",
+          "solution": "1876 Anayasası"
+        },
+        {
+          "text": "1876 yılında Kanun-i Esasi’yi hazırlayan komisyonun başında bulunan ünlü devlet adamı kimdir?",
+          "options": [
+            "Mustafa Reşit Paşa",
+            "Ahmet Cevdet Paşa",
+            "Mithat Paşa",
+            "Alemdar Mustafa Paşa",
+            "Enver Paşa"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "I. Meşrutiyet’in ilan edilmesinde etkili olan ve Avrupa’daki \"Tersane Konferansı\" kararlarının Osmanlı aleyhine çıkmasını engellemeyi amaçlayan aydın grubu hangisidir?",
+          "options": [
+            "İttihat ve Terakki",
+            "Jön Türkler (Genç Osmanlılar)",
+            "Hürriyet ve İtilaf",
+            "Ahrar Fırkası",
+            "Halaskar Zabitan"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Kanun-i Esasi’nin en antidemokratik maddesi kabul edilen ve II. Abdülhamit’in İstibdat döneminde aydınları uzaklaştırmak için sıkça kullandığı yetki nedir?",
+          "options": [
+            "Meclisi feshetme yetkisi",
+            "Sansür yetkisi",
+            "Sürgün yetkisi (Madde 113)",
+            "Para basma yetkisi",
+            "Savaş ilan etme yetkisi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "93 Harbi (1877-78 Osmanlı-Rus Savaşı) sırasında Plevne Kalesi’ni Ruslara karşı aylarca savunan ve \"Şanı büyük Osman Paşa\" marşıyla anılan komutan kimdir?",
+          "options": [
+            "Süleyman Hüsnü Paşa",
+            "Gazi Osman Paşa",
+            "Ahmet Muhtar Paşa",
+            "Enver Paşa",
+            "Fahrettin Paşa"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "93 Harbi sırasında Erzurum’da Aziziye Tabyaları’nda halkı örgütleyerek Ruslara karşı direnişin sembolü haline gelen Türk kadını kimdir?",
+          "options": [
+            "Kara Fatma",
+            "Şerife Bacı",
+            "Nene Hatun",
+            "Halide Edip",
+            "Tayyar Rahmiye"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı tarihinde imzalanmasına rağmen Avrupalı devletlerin (özellikle İngiltere) çıkarlarına ters düştüğü için yürürlüğe girmeyen \"ölü doğmuş\" antlaşma hangisidir?",
+          "options": [
+            "Sevr Antlaşması",
+            "Ayastefanos (Yeşilköy) Antlaşması",
+            "Uşi Antlaşması",
+            "Bükreş Antlaşması",
+            "Edirne Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": "Sevr de ölü doğmuştur ancak kronolojik olarak ilki Ayastefanos'tur."
+        },
+        {
+          "text": "Ayastefanos Antlaşması’nın yerine imzalanan ve Osmanlı Devleti’nin Balkanlarda Sırbistan, Karadağ ve Romanya’yı kaybederek parçalandığı antlaşma hangisidir?",
+          "options": [
+            "Paris",
+            "Berlin",
+            "Londra",
+            "İstanbul",
+            "Atina"
+          ],
+          "correctOption": "E",
+          "solution": "1878 Berlin Antlaşması"
+        },
+        {
+          "text": "Berlin Antlaşması ile Rusya’ya savaş tazminatı yerine verilen ve \"Elviye-i Selase\" (Üç İl) olarak bilinen şehirler hangileridir?",
+          "options": [
+            "Kars - Ardahan - Batum",
+            "Erzurum - Erzincan - Sivas",
+            "Van - Muş - Bitlis",
+            "Edirne - Kırklareli - Tekirdağ",
+            "Musul - Kerkük - Süleymaniye"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "\"Ermeni Sorunu\" ilk kez uluslararası bir belgede hangi antlaşma ile yer almıştır?",
+          "options": [
+            "Paris Antlaşması",
+            "Berlin Antlaşması",
+            "Küçük Kaynarca",
+            "Lozan Antlaşması",
+            "Edirne Antlaşması"
+          ],
+          "correctOption": "C",
+          "solution": "Madde 61: Osmanlı, Ermenilerin yaşadığı yerlerde ıslahat yapacaktır."
+        },
+        {
+          "text": "Osmanlı Devleti, Berlin Konferansı’nda İngiltere’nin desteğini alabilmek amacıyla hangi toprağını İngiltere’ye \"geçici\" olarak üs (kiralık) vermiştir?",
+          "options": [
+            "Mısır",
+            "Girit",
+            "Kıbrıs",
+            "Rodos",
+            "Malta"
+          ],
+          "correctOption": "E",
+          "solution": "Ancak İngiltere bir daha çıkmamıştır."
+        },
+        {
+          "text": "II. Abdülhamit’in, 93 Harbi’ndeki yenilgiyi ve meclis içindeki azınlık milletvekillerinin zararlı faaliyetlerini gerekçe göstererek kapattığı ve 33 yıl süren döneme ne ad verilir?",
+          "options": [
+            "Lale Devri",
+            "İstibdat Dönemi",
+            "Fetret Devri",
+            "Meşrutiyet Dönemi",
+            "Tanzimat Dönemi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "II. Abdülhamit’in İstibdat döneminde devleti dağılmaktan kurtarmak için uyguladığı resmi devlet politikası (Fikir Akımı) hangisidir?",
+          "options": [
+            "Osmanlıcılık",
+            "Batıcılık",
+            "İslamcılık (Ümmetçilik)",
+            "Türkçülük",
+            "Turancılık"
+          ],
+          "correctOption": "B",
+          "solution": "Halifelik gücünü kullanarak Müslümanları bir arada tutma çabası."
+        },
+        {
+          "text": "Osmanlı Devleti’nin dış borçlarını ödeyemeyeceğini açıkladığı (İflas bayrağını çektiği) belgeye ne ad verilir?",
+          "options": [
+            "Muharrem Kararnamesi",
+            "Ramazan Kararnamesi",
+            "Tanzimat Fermanı",
+            "Duyun-u Umumiye",
+            "Vilayet Nizamnamesi"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Muharrem Kararnamesi sonucunda alacaklı devletlerin (İngiltere, Fransa vb.) Osmanlı gelirlerine el koymak için kurdukları teşkilat hangisidir?",
+          "options": [
+            "Bank-ı Osmani",
+            "Duyun-u Umumiye İdaresi (Genel Borçlar İdaresi)",
+            "Kapitülasyonlar",
+            "Reji İdaresi",
+            "İş Bankası"
+          ],
+          "correctOption": "C",
+          "solution": "Devlet içinde devlet gibi çalışmış, ekonomik bağımsızlık tamamen kaybedilmiştir."
+        },
+        {
+          "text": "II. Abdülhamit döneminde Japonya’ya dostluk ziyareti için gönderilen ancak dönüş yolunda fırtınaya yakalanarak batan gemimiz hangisidir?",
+          "options": [
+            "Hamidiye Zırhlısı",
+            "Nusret Mayın Gemisi",
+            "Ertuğrul Fırkateyni",
+            "Yavuz Zırhlısı",
+            "Midilli"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "II. Abdülhamit döneminde Doğu Anadolu’da Ermeni çetelerine karşı bölge halkından (özellikle Kürt aşiretlerinden) oluşturulan askeri birliklere ne ad verilir?",
+          "options": [
+            "Nizam-ı Cedid",
+            "Hamidiye Alayları",
+            "Sekban-ı Cedid",
+            "Eşkinci Ocağı",
+            "Redif Birlikleri"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Berlin Antlaşması’ndan sonra İngiltere’nin Osmanlı’yı koruma politikasından vazgeçmesi üzerine Osmanlı Devleti hangi ülkeye yakınlaşmıştır?",
+          "options": [
+            "Fransa",
+            "Rusya",
+            "Almanya",
+            "İtalya",
+            "ABD"
+          ],
+          "correctOption": "A",
+          "solution": "3B Projesi: Berlin-Bağdat-Basra Demiryolu projesi Almanlara verilmiştir."
+        },
+        {
+          "text": "II. Abdülhamit döneminde kurulan, Türk müzeciliğinin kurucusu sayılan ve \"Kaplumbağa Terbiyecisi\" tablosuyla ünlü ressam/arkeolog kimdir?",
+          "options": [
+            "Şeker Ahmet Paşa",
+            "Osman Hamdi Bey",
+            "İbrahim Çallı",
+            "Abidin Dino",
+            "Fikret Mualla"
+          ],
+          "correctOption": "B",
+          "solution": "Sanayi-i Nefise Mektebi'ni ve İstanbul Arkeoloji Müzesi'ni kurmuştur."
+        },
+        {
+          "text": "\"Ziraat Bankası\" (1888) resmen hangi padişah döneminde kurulmuştur? (Temeli olan Memleket Sandıkları Abdülaziz dönemidir).",
+          "options": [
+            "Abdülmecit",
+            "Abdülaziz",
+            "II. Abdülhamit",
+            "V. Mehmet Reşat",
+            "VI. Mehmet Vahdettin"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "II. Abdülhamit döneminde kimsesizlere, yaşlılara ve engellilere bakmak amacıyla kurulan sosyal yardım kurumu hangisidir?",
+          "options": [
+            "Darüşşafaka",
+            "Darülaceze",
+            "Hilal-i Ahmer",
+            "Himaye-i Etfal",
+            "Yeşilay"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Girit Rumlarına geniş haklar vererek adanın özerk hale gelmesine neden olan 1878 tarihli belge hangisidir?",
+          "options": [
+            "Halepa Fermanı",
+            "Kanun-i Esasi",
+            "Islahat Fermanı",
+            "Dömeke Meydan Muharebesi",
+            "Londra Antlaşması"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "İstibdat Dönemi’nde basın ve yayın organlarına uygulanan sıkı denetim ve yasağa ne ad verilir?",
+          "options": [
+            "Sansür",
+            "Jurnal",
+            "Sürgün",
+            "Tehciri",
+            "Müsadere"
+          ],
+          "correctOption": "E",
+          "solution": "Jurnal ise hafiye teşkilatının istihbarat raporlarına verilen isimdir."
+        },
+        {
+          "text": "II. Abdülhamit’in kurduğu, devletin her kademesinden bilgi toplayan istihbarat teşkilatına ne ad verilir?",
+          "options": [
+            "Teşkilat-ı Mahsusa",
+            "Yıldız İstihbarat Teşkilatı (Hafiye Teşkilatı)",
+            "MİT",
+            "Karakol Cemiyeti",
+            "Mim Mim Grubu"
+          ],
+          "correctOption": "B",
+          "solution": "Merkezi Yıldız Sarayı'dır."
+        },
+        {
+          "text": "Dünyanın en büyük 3. müzesi sayılan \"İstanbul Arkeoloji Müzesi\" (Müze-i Hümayun) hangi padişah döneminde açılmıştır?",
+          "options": [
+            "Abdülmecit",
+            "Abdülaziz",
+            "II. Abdülhamit",
+            "V. Mehmet Reşat",
+            "III. Selim"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 12",
+      "preTestNote": "Fikir Akımları:\nOsmanlıcılık: Tanzimat ve I. Meşrutiyet. Arnavutluk isyanı ile iflas etti. (Namık Kemal).\nİslamcılık: II. Abdülhamit. Arap ihaneti ile iflas etti. (Mehmet Akif).\nTürkçülük: İttihat ve Terakki. Kurtuluş Savaşı'nı kazandırdı. (Ziya Gökalp).\nBatıcılık: Lale Devri'nden beri. İnkılapların temeli.\nAdem-i Merkeziyetçilik: Prens Sabahattin. (Federalizm).\n\nBasın ve Yayın:\nTakvim-i Vekayi (İlk Resmi), Ceride-i Havadis (Yarı Resmi), Tercüman-ı Ahval (İlk Özel).\n\nUlaşım: İlk Demiryolu: İzmir-Aydın (Anadolu'da).\n\nEğitim: Encümen-i Daniş (Bilim Kurulu).",
+      "questions": [
+        {
+          "text": "Osmanlı Devleti'nde Tanzimat Dönemi ve I. Meşrutiyet'in ilanında etkili olan, din ve ırk ayrımı gözetmeksizin herkesi kanun önünde eşit sayarak \"Osmanlı Milleti\" oluşturmayı amaçlayan fikir akımı hangisidir?",
+          "options": [
+            "İslamcılık",
+            "Türkçülük",
+            "Osmanlıcılık",
+            "Batıcılık",
+            "Adem-i Merkeziyetçilik"
+          ],
+          "correctOption": "C",
+          "solution": "Genç Osmanlıların savunduğu fikirdir."
+        },
+        {
+          "text": "\"Osmanlıcılık\" fikri, hangi olayın gerçekleşmesiyle \"tam anlamıyla\" iflas etmiş ve geçerliliğini yitirmiştir?",
+          "options": [
+            "Yunanistan'ın bağımsız olması",
+            "Sırp İsyanı",
+            "93 Harbi",
+            "Arnavutluk'un bağımsız olması",
+            "Trablusgarp Savaşı"
+          ],
+          "correctOption": "E",
+          "solution": "Balkan Savaşları sırasında Arnavutluk'un -Müslüman olmasına rağmen- ayrılması bu fikri bitirmiştir."
+        },
+        {
+          "text": "II. Abdülhamit döneminde devletin resmi politikası haline gelen ve Müslümanları Halife etrafında birleştirmeyi amaçlayan fikir akımı hangisidir?",
+          "options": [
+            "Turancılık",
+            "Osmanlıcılık",
+            "Batıcılık",
+            "Ümmetçilik (İslamcılık)",
+            "Federalizm"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Mehmet Akif Ersoy ve Said Halim Paşa gibi aydınların savunduğu \"İslamcılık\" fikri, hangi gelişme ile geçerliliğini büyük ölçüde yitirmiştir?",
+          "options": [
+            "Balkan Savaşları",
+            "I. Dünya Savaşı'nda Arapların İngilizlerle işbirliği yapması (Şerif Hüseyin)",
+            "31 Mart Vakası",
+            "Cumhuriyetin ilanı",
+            "Kırım Savaşı"
+          ],
+          "correctOption": "D",
+          "solution": "Kanal ve Hicaz-Yemen cephelerindeki Arap ihaneti."
+        },
+        {
+          "text": "İttihat ve Terakki Cemiyeti'nin savunduğu, \"Orta Asya Türkleri ile birleşme\" hayalini (Turan) barındıran ve Kurtuluş Savaşı'nın kazanılmasında etkili olan fikir akımı hangisidir?",
+          "options": [
+            "Osmanlıcılık",
+            "Batıcılık",
+            "Türkçülük",
+            "İslamcılık",
+            "Adem-i Merkeziyetçilik"
+          ],
+          "correctOption": "C",
+          "solution": "Ziya Gökalp bu fikrin babası sayılır."
+        },
+        {
+          "text": "Prens Sabahattin tarafından savunulan, \"Yerel yönetimlerin yetkilerinin artırılmasını ve şahsi teşebbüsü (liberalizm)\" savunan fikir akımı hangisidir?",
+          "options": [
+            "Batıcılık",
+            "Osmanlıcılık",
+            "Türkçülük",
+            "Adem-i Merkeziyetçilik",
+            "İslamcılık"
+          ],
+          "correctOption": "A",
+          "solution": "Merkezi otoriteyi zayıflatacağı düşüncesiyle İttihatçılar tarafından reddedilmiştir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde Teodor Kasap tarafından çıkarılan ilk mizah dergisi hangisidir?",
+          "options": [
+            "Diyojen",
+            "Kalem",
+            "Karagöz",
+            "Hayal",
+            "Letaif-i Asar"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Şinasi ve Agah Efendi tarafından çıkarılan, Osmanlı Devleti'nin ilk özel gazetesi olma özelliğini taşıyan yayın organı hangisidir?",
+          "options": [
+            "Takvim-i Vekayi",
+            "Ceride-i Havadis",
+            "Tercüman-ı Ahval",
+            "Tasvir-i Efkar",
+            "İkdam"
+          ],
+          "correctOption": "C",
+          "solution": "1860"
+        },
+        {
+          "text": "Osmanlı Devleti'nde Sultan Abdülmecit döneminde kurulan, ders kitaplarını hazırlamak ve bilimsel çalışmalar yapmakla görevli olan \"Bilim Akademisi\" niteliğindeki kurum hangisidir?",
+          "options": [
+            "Darülfünun",
+            "Encümen-i Daniş",
+            "Türk Tarih Kurumu",
+            "Maarif Nezareti",
+            "Darülmuallimin"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti sınırları içinde (Anadolu topraklarında) inşa edilen ilk demiryolu hattı hangisidir?",
+          "options": [
+            "İstanbul-Edirne",
+            "İzmir-Aydın",
+            "Haydarpaşa-İzmit",
+            "Ankara-Konya",
+            "Bağdat-Basra"
+          ],
+          "correctOption": "D",
+          "solution": "İngiliz şirketleri tarafından yapılmıştır. Genel olarak Osmanlı sınırlarındaki ilk hat Kahire-İskenderiye'dir, ama Anadolu'da İzmir-Aydın'dır."
+        },
+        {
+          "text": "II. Mahmut döneminde Yeniçeri Ocağı kaldırılmadan önce, bu ocağa alternatif olarak kurulan (ancak Yeniçeri baskısıyla kaldırılan) askeri birlikler hangileridir?",
+          "options": [
+            "Sekban-ı Cedid - Eşkinci Ocağı",
+            "Nizam-ı Cedid - İrad-ı Cedid",
+            "Asakir-i Mansure - Redif",
+            "Hamidiye - Hassa",
+            "Lağımcı - Humbaracı"
+          ],
+          "correctOption": "A",
+          "solution": "Alemdar Mustafa Paşa Sekban-ı Cedid'i, II. Mahmut Eşkinci Ocağı'nı kurmuş, ikisi de Yeniçeriler yüzünden başarısız olmuştur."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Mecelle\" adıyla bilinen Medeni Kanun, hangi hukuk sistemine dayalı olarak hazırlanmıştır?",
+          "options": [
+            "Roma Hukuku",
+            "Fransız Hukuku",
+            "İslam Hukuku (Hanefi Fıkhı)",
+            "İsviçre Hukuku",
+            "Örfi Hukuk (Töre)"
+          ],
+          "correctOption": "E",
+          "solution": "Ahmet Cevdet Paşa hazırlamıştır. Laik değildir ve aile/miras hukukunu kapsamaz."
+        },
+        {
+          "text": "Osmanlı Devleti'nde, gayrimüslimlere devlet memuru olma, il genel meclislerine üye olma ve banka/şirket kurma hakkı hangi belge ile verilmiştir?",
+          "options": [
+            "Sened-i İttifak",
+            "Tanzimat Fermanı",
+            "Islahat Fermanı",
+            "Kanun-i Esasi",
+            "Halepa Fermanı"
+          ],
+          "correctOption": "C",
+          "solution": "Tanzimat ile can güvenliği ve vergi eşitliği, Islahat ile siyasi/sosyal ayrıcalıklar verilmiştir."
+        },
+        {
+          "text": "II. Abdülhamit döneminde, Alman İmparatoru II. Wilhelm'in ziyareti sonrasında yapımına hız verilen ve \"3B Projesi\" (Berlin-Bağdat-Basra) olarak bilinen demiryolu projesi hangi devleti en çok rahatsız etmiştir?",
+          "options": [
+            "Fransa",
+            "Avusturya",
+            "İngiltere",
+            "İtalya",
+            "ABD"
+          ],
+          "correctOption": "D",
+          "solution": "Sömürge yolları (Hindistan) tehlikeye girdiği için."
+        },
+        {
+          "text": "Tanzimat Dönemi'nde, hukuk işlerini düzenlemek ve yeni kanunlar hazırlamak amacıyla kurulan, günümüzdeki \"Danıştay\"ın temeli sayılan kurum hangisidir?",
+          "options": [
+            "Divan-ı Ahkam-ı Adliye",
+            "Şura-yı Devlet",
+            "Meclis-i Vala-yı Ahkam-ı Adliye",
+            "Dar-ı Şura-yı Babıali",
+            "Yargıtay"
+          ],
+          "correctOption": "B",
+          "solution": "Divan-ı Ahkam-ı Adliye ise Yargıtay'ın temelidir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Arazi Kanunnamesi\" (1858) hangi dönemde çıkarılmış ve özel mülkiyetin yaygınlaşmasını sağlamıştır?",
+          "options": [
+            "Lale Devri",
+            "Nizam-ı Cedid",
+            "Tanzimat Dönemi",
+            "İstibdat Dönemi",
+            "Meşrutiyet Dönemi"
+          ],
+          "correctOption": "A",
+          "solution": "Abdülmecit dönemi."
+        },
+        {
+          "text": "Osmanlı Devleti'nde ilk kez \"Karantina\" uygulaması ve \"Pasaport\" zorunluluğu (Mürur Tezkiresi) hangi padişah döneminde getirilmiştir?",
+          "options": [
+            "III. Selim",
+            "II. Mahmut",
+            "Abdülmecit",
+            "Abdülaziz",
+            "II. Abdülhamit"
+          ],
+          "correctOption": "A",
+          "solution": "Sağlık ve iç güvenlik reformları."
+        },
+        {
+          "text": "Tanzimat Fermanı'nın ilan edilmesinde etkili olan ve fermanı Gülhane Parkı'nda okuyan hariciye nazırı (Dışişleri Bakanı) kimdir?",
+          "options": [
+            "Mithat Paşa",
+            "Mustafa Reşit Paşa",
+            "Ali Paşa",
+            "Fuat Paşa",
+            "Ahmet Vefik Paşa"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde kadınların eğitim görmesi için açılan ilk öğretmen okulu hangisidir?",
+          "options": [
+            "Darülmuallimin",
+            "Darülmuallimat",
+            "Rüştiye",
+            "İdadi",
+            "Sultani"
+          ],
+          "correctOption": "D",
+          "solution": "Muallim: Erkek öğretmen, Muallime/Muallimat: Kadın öğretmen."
+        },
+        {
+          "text": "II. Meşrutiyet'in ilanıyla birlikte İttihat ve Terakki'nin baskısıyla tahttan indirilmeyen (yerinde kalan) ancak yetkileri kısıtlanan padişah kimdir?",
+          "options": [
+            "V. Murat",
+            "Abdülaziz",
+            "II. Abdülhamit",
+            "V. Mehmet Reşat",
+            "Vahdettin"
+          ],
+          "correctOption": "C",
+          "solution": "II. Abdülhamit meşrutiyeti ilan etmiş, tahtta kalmış ancak 31 Mart Vakası'ndan sonra tahttan indirilmiştir."
+        },
+        {
+          "text": "19. yüzyılda Osmanlı Devleti'nde azınlıkların kurduğu zararlı cemiyetlerden olan ve \"Büyük Ermenistan\" hayali kuran cemiyetler hangileridir?",
+          "options": [
+            "Mavri Mira - Etnik-i Eterya",
+            "Hınçak - Taşnak",
+            "Alyans İsrailit - Makabi",
+            "Pontus Rum - Kardos",
+            "İngiliz Muhipleri - Wilson Prensipleri"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nin, Kuzey Afrika'daki hakimiyetini kaybettiği süreçte; Cezayir ve Tunus'u Fransa, Mısır'ı İngiltere, Trablusgarp'ı ise İtalya işgal etmiştir. Bu işgallerin temel nedeni nedir?",
+          "options": [
+            "Dini yayılmacılık (Misyonerlik)",
+            "Sanayi İnkılabı sonucu ortaya çıkan hammadde ve pazar arayışı (Sömürgecilik)",
+            "Milliyetçilik akımı",
+            "Osmanlı'nın bu bölgeleri satması",
+            "Haçlı Seferleri'ni canlandırmak"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Konsolosluk Mahkemeleri\"nin kaldırılması hangi gelişme ile gündeme gelmiş ancak Batılı devletler kabul etmemiştir? (Tamamen kaldırılması Lozan iledir).",
+          "options": [
+            "1856 Paris Antlaşması",
+            "1914'te I. Dünya Savaşı'nın başında kapitülasyonların tek taraflı kaldırılmasıyla",
+            "Tanzimat Fermanı",
+            "Islahat Fermanı",
+            "Berlin Antlaşması"
+          ],
+          "correctOption": "C",
+          "solution": "İttihatçılar savaş başlar başlamaz kapitülasyonları kaldırdığını duyurmuş, ancak müttefik Almanya bile itiraz etmiştir."
+        },
+        {
+          "text": "Abdülaziz döneminde \"Dünyanın üçüncü büyük donanması\" oluşturulmuş ancak bu donanma II. Abdülhamit döneminde Haliç'te çürümeye terk edilmiştir. Donanmanın Haliç'te tutulmasının temel nedeni olarak ne gösterilir?",
+          "options": [
+            "Yakıt sıkıntısı",
+            "Darbe korkusu (Donanmanın Sultan Abdülaziz'i tahttan indirmesi olayı)",
+            "Rusya ile yapılan anlaşmalar",
+            "Personel yetersizliği",
+            "Gemilerin eski olması"
+          ],
+          "correctOption": "A",
+          "solution": "Abdülaziz'in tahttan indirilmesinde donanma Haliç'e demirleyip saraya toplarını çevirmişti."
+        },
+        {
+          "text": "Osmanlı Devleti'nde ilk resim sergisini açan Şeker Ahmet Paşa ve \"Silah Tacirleri\" tablosuyla ünlü Kaplumbağa Terbiyecisi Osman Hamdi Bey hangi dönemde yaşamışlardır?",
+          "options": [
+            "Lale Devri",
+            "Tanzimat ve İstibdat Dönemi (19. Yüzyıl)",
+            "Kuruluş Dönemi",
+            "Yükselme Dönemi",
+            "Cumhuriyet Dönemi"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 13",
+      "preTestNote": "Özet Bilgi Yok. Karma Test.",
+      "questions": [
+        {
+          "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan ilk belge (Sened-i İttifak) ile halkın yönetime katıldığı ilk belge (Kanun-i Esasi) sırasıyla hangi padişahlar döneminde gerçekleşmiştir?",
+          "options": [
+            "III. Selim - II. Abdülhamit",
+            "II. Mahmut - Abdülmecit",
+            "II. Mahmut - II. Abdülhamit",
+            "Abdülmecit - V. Mehmet Reşat",
+            "Abdülaziz - II. Abdülhamit"
+          ],
+          "correctOption": "D",
+          "solution": "Sened-i İttifak 1808, Kanun-i Esasi 1876"
+        },
+        {
+          "text": "Aşağıdaki savaşlardan hangisi Osmanlı Devleti'nin Haçlı İttifakı ile yaptığı savaşlardan biri değildir?",
+          "options": [
+            "Sırpsındığı",
+            "Kareb",
+            "Niğbolu",
+            "Varna",
+            "Otlukbeli"
+          ],
+          "correctOption": "A",
+          "solution": "Otlukbeli, Akkoyunlu Devleti (Uzun Hasan) ile yapılmış bir Türk-Türk savaşıdır."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Devletin dini İslam'dır\" maddesi anayasadan (1924 Anayasası) hangi yıl çıkarılmıştır?",
+          "options": [
+            "1921",
+            "1923",
+            "1924",
+            "1928",
+            "1937"
+          ],
+          "correctOption": "B",
+          "solution": "Laikleşme aşamasıdır."
+        },
+        {
+          "text": "Mimar Sinan'ın \"Ustalık Eserim\" dediği Selimiye Camii hangi şehrimizde bulunmaktadır?",
+          "options": [
+            "İstanbul",
+            "Bursa",
+            "Edirne",
+            "Konya",
+            "Kayseri"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Müsadere\" (Devletin mala el koyması) sistemini yasal hale getiren padişah (Fatih) ile bu sistemi kaldıran padişah (II. Mahmut) aşağıdakilerden hangisinde doğru verilmiştir?",
+          "options": [
+            "II. Mehmet - III. Selim",
+            "Yavuz Sultan Selim - Abdülmecit",
+            "Kanuni Sultan Süleyman - II. Mahmut",
+            "II. Mehmet - II. Mahmut",
+            "I. Murat - Abdülaziz"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Osmanlı Devleti'nin Duraklama Dönemi'nde (17. Yüzyıl) savaştığı devletlerden biri değildir? (Kod: VARİL)",
+          "options": [
+            "Venedik",
+            "Avusturya",
+            "Rusya",
+            "İngiltere",
+            "Lehistan"
+          ],
+          "correctOption": "D",
+          "solution": "İngiltere ile savaşlar daha çok 19. ve 20. yüzyılda (Dağılma) yoğunlaşmıştır. 17. yüzyılda İngiltere ile ciddi bir savaş yoktur."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Şehzadelerin sancaklarda eğitim görmesi\" (Sancak Sistemi) usulünü kaldırarak \"Kafes Usulü\"nü getiren padişah kimdir?",
+          "options": [
+            "III. Mehmet",
+            "I. Ahmet",
+            "II. Osman",
+            "IV. Murat",
+            "Fatih Sultan Mehmet"
+          ],
+          "correctOption": "B",
+          "solution": "I. Ahmet, Ekber ve Erşed sistemiyle birlikte bu usulü getirmiştir. Babası III. Mehmet sancağa çıkan son padişahtır."
+        },
+        {
+          "text": "Osmanlı Devleti'nin Kuzey Afrika'da kaybettiği ilk toprak parçası ile son toprak parçası hangisidir?",
+          "options": [
+            "Mısır - Tunus",
+            "Tunus - Mısır",
+            "Trablusgarp - Cezayir",
+            "Mısır - Cezayir",
+            "Cezayir - Trablusgarp"
+          ],
+          "correctOption": "C",
+          "solution": "İlk: Cezayir 1830-Fransa, Son: Trablusgarp 1912-İtalya"
+        },
+        {
+          "text": "Osmanlı donanmasının tarihte yakıldığı yerlerin kronolojik sıralaması nasıldır? (İÇİNİZ diye kodlanır).",
+          "options": [
+            "İnebahtı - Çeşme - Navarin - Sinop",
+            "Çeşme - İnebahtı - Sinop - Navarin",
+            "Navarin - Sinop - Çeşme - İnebahtı",
+            "Sinop - İnebahtı - Navarin - Çeşme",
+            "İnebahtı - Navarin - Çeşme - Sinop"
+          ],
+          "correctOption": "A",
+          "solution": "İnebahtı 1571, Çeşme 1770, Navarin 1827, Sinop 1853"
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"İlk Türk Matbaası\"nın kurulması hangi dönemde ve kimin öncülüğünde gerçekleşmiştir?",
+          "options": [
+            "Tanzimat - Şinasi",
+            "Lale Devri - İbrahim Müteferrika",
+            "Gerileme - Humbaracı Ahmet Paşa",
+            "Yükselme - Fatih Sultan Mehmet",
+            "Meşrutiyet - Namık Kemal"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Osmanlı Devleti'nde \"İlmiye\" (Din, Hukuk, Eğitim) sınıfının üyelerinden biri değildir?",
+          "options": [
+            "Şeyhülislam",
+            "Kazasker",
+            "Kadı",
+            "Müderris",
+            "Nişancı"
+          ],
+          "correctOption": "D",
+          "solution": "Nişancı \"Kalemiye\" -Bürokrasi- sınıfındandır."
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde \"Sahn-ı Seman\", Kanuni Sultan Süleyman döneminde \"Süleymaniye\" medreseleri hangi eğitim düzeyindedir?",
+          "options": [
+            "İlköğretim",
+            "Ortaöğretim",
+            "Yükseköğretim (Üniversite)",
+            "Mesleki Eğitim",
+            "Askeri Eğitim"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nin 1. Dünya Savaşı'nda toprak kazandığı tek cephe hangisidir?",
+          "options": [
+            "Çanakkale",
+            "Irak",
+            "Kafkas",
+            "Kanal",
+            "Suriye"
+          ],
+          "correctOption": "A",
+          "solution": "Kars, Ardahan, Batum -Elviye-i Selase- geri alınmıştır. Çanakkale'de zafer kazanılmış ama yeni toprak alınmamış, mevcut toprak korunmuştur."
+        },
+        {
+          "text": "Osmanlı Devleti'nde padişahın yetkilerini sınırlayan; Sened-i İttifak, Tanzimat Fermanı ve Meşrutiyet'in ortak özelliği nedir?",
+          "options": [
+            "Hepsinde Avrupa baskısı vardır.",
+            "Hepsi demokratikleşme hareketidir.",
+            "Hepsi askeri darbeler sonucudur.",
+            "Hepsi halk oylamasıyla kabul edilmiştir.",
+            "Hepsi II. Mahmut dönemindedir."
+          ],
+          "correctOption": "B",
+          "solution": "Padişahın yetkisi kanun veya başka bir güçle kısıtlanmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Halifelik\" makamını siyasi bir güç olarak ilk kez hangi antlaşmada kullanmıştır?",
+          "options": [
+            "Karlofça",
+            "Pasarofça",
+            "Küçük Kaynarca",
+            "Yaş",
+            "Berlin"
+          ],
+          "correctOption": "D",
+          "solution": "Kırım'ın kaybedilmesi üzerine, halkın dini bağını korumak için."
+        },
+        {
+          "text": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+          "options": [
+            "İlk Osmanlı Parası - Osman Bey",
+            "İlk Altın Para - Fatih Sultan Mehmet",
+            "İlk Kağıt Para - Abdülmecit",
+            "İlk Dış Borç - Kırım Savaşı (Abdülmecit)",
+            "İlk İç Borç - Yavuz Sultan Selim"
+          ],
+          "correctOption": "E",
+          "solution": "İlk iç borçlanma \"Esham\" sistemiyle I. Abdülhamit döneminde yapılmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Vaka-i Hayriye\" (Hayırlı Olay) olarak adlandırılan gelişme nedir?",
+          "options": [
+            "Tanzimat Fermanı'nın ilanı",
+            "Yeniçeri Ocağı'nın kaldırılması",
+            "Cumhuriyetin ilanı",
+            "İstanbul'un fethi",
+            "Duyun-u Umumiye'nin kurulması"
+          ],
+          "correctOption": "C",
+          "solution": "1826 - II. Mahmut"
+        },
+        {
+          "text": "Osmanlı Devleti'nin I. Dünya Savaşı'ndan çekilmesini sağlayan ateşkes antlaşması hangisidir?",
+          "options": [
+            "Mudanya",
+            "Mondros",
+            "Sevr",
+            "Lozan",
+            "Paris"
+          ],
+          "correctOption": "B",
+          "solution": "30 Ekim 1918"
+        },
+        {
+          "text": "Osmanlı'da \"Divan-ı Hümayun\"un bugünkü karşılığı olan \"Bakanlar Kurulu\" (Nazırlıklar) sistemine hangi padişah döneminde geçilmiştir?",
+          "options": [
+            "II. Mahmut",
+            "III. Selim",
+            "Abdülmecit",
+            "Fatih Sultan Mehmet",
+            "Kanuni Sultan Süleyman"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki devlet adamlarından hangisi Osmanlı'da \"Islahat\" (Yenilik) yapan sadrazamlar arasında gösterilemez?",
+          "options": [
+            "Köprülü Mehmet Paşa",
+            "Tarhuncu Ahmet Paşa",
+            "Nevşehirli Damat İbrahim Paşa",
+            "Alemdar Mustafa Paşa",
+            "Pargalı İbrahim Paşa"
+          ],
+          "correctOption": "A",
+          "solution": "Pargalı İbrahim, Kanuni döneminin güçlü sadrazamıdır, ancak Yükselme döneminde olduğu için \"kötü gidişi durdurma\" amaçlı bir ıslahatçı kimliği yoktur. Diğerleri Duraklama, Gerileme ve Dağılma dönemi ıslahatçılarıdır."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Şeyhülislam\"ın atamasını padişah yaparken, \"Kazasker\"in atamasını kim yapar?",
+          "options": [
+            "Sadrazam",
+            "Şeyhülislam",
+            "Padişah",
+            "Nişancı",
+            "Vezirler"
+          ],
+          "correctOption": "C",
+          "solution": "Divan üyelerinin tamamını Padişah atar."
+        },
+        {
+          "text": "19. yüzyılda Osmanlı Devleti'nde \"Ayan\" denilen yerel güçlerin varlığını resmen tanıyan belge hangisidir?",
+          "options": [
+            "Tanzimat Fermanı",
+            "Islahat Fermanı",
+            "Sened-i İttifak",
+            "Kanun-i Esasi",
+            "Halepa Fermanı"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Mecelle\" (Medeni Kanun) hazırlanırken hangi mezhebin hukuk kuralları esas alınmıştır?",
+          "options": [
+            "Şafi",
+            "Hanefi",
+            "Maliki",
+            "Hanbeli",
+            "Caferi"
+          ],
+          "correctOption": "D",
+          "solution": "Osmanlı'nın resmi mezhebi Hanefiliktir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Lale Devri\" hangi olayla başlamış, hangi olayla bitmiştir?",
+          "options": [
+            "Karlofça - Patrona Halil",
+            "Pasarofça - Kabakçı Mustafa",
+            "Pasarofça - Patrona Halil",
+            "Prut - Edirne Vakası",
+            "Belgrad - 31 Mart Vakası"
+          ],
+          "correctOption": "E",
+          "solution": "1718-1730"
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde \"Sahn-ı Seman\" medreselerine öğrenci yetiştirmek amacıyla açılan alt düzeydeki medreselere ne ad verilir?",
+          "options": [
+            "Tetimme",
+            "Süleymaniye",
+            "Darülhadis",
+            "Darülkurra",
+            "İdadi"
+          ],
+          "correctOption": "C",
+          "solution": "Hazırlık okulu gibi."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 14",
+      "preTestNote": "Kritik Ayrımlar - Karıştırılanlar:\n\nSened-i İttifak vs Tanzimat Fermanı:\nSened-i İttifak: Padişahın yetkileri ilk kez kısıtlandı (Ayanlara karşı).\nTanzimat: Padişah Kanun Üstünlüğünü kabul etti. Anayasal düzene ilk adımdır.\n\nIslahat Fermanı vs Tanzimat:\nTanzimat: Herkes eşittir.\nIslahat: Gayrimüslimlere pozitif ayrımcılık (ekstra haklar) verildi.\n\nDivan-ı Hümayun vs Meclis-i Mebusan:\nDivan: Danışma meclisidir, son söz Padişahındır. Üyeleri atanır.\nMebusan: Yasama organıdır. Üyelerini halk seçer (Meşrutiyet).\n\nKapıkulu vs Tımarlı Sipahi:\nKapıkulu: Merkez ordusu, devşirme, maaşlı (Ulufe).\nTımarlı: Eyalet ordusu, Türk, maaşsız (Toprak geliri).",
+      "questions": [
+        {
+          "text": "Osmanlı Devleti'nde \"Seyfiye\" (Kılıç Ehli) sınıfı, yönetim ve askerlik işlerinden sorumludur. Aşağıdakilerden hangisi Seyfiye sınıfına mensup değildir?",
+          "options": [
+            "Sadrazam",
+            "Yeniçeri Ağası",
+            "Kaptan-ı Derya",
+            "Kazasker",
+            "Beylerbeyi"
+          ],
+          "correctOption": "D",
+          "solution": "Kazasker, İlmiye sınıfındandır."
+        },
+        {
+          "text": "Osmanlı Devleti, 1718 Pasarofça Antlaşması ile Batı'nın üstünlüğünü kabul etmiş ve Lale Devri'ne girmiştir. Bu dönemde Avrupa'dan alınan ilk teknik yenilik hangisidir?",
+          "options": [
+            "Matbaa",
+            "Top döküm teknolojisi",
+            "Buharlı gemiler",
+            "Telgraf",
+            "Demiryolu"
+          ],
+          "correctOption": "A",
+          "solution": "Sait Efendi ve İbrahim Müteferrika."
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde yaptırılan Topkapı Sarayı'nın, 19. yüzyılda (Dolmabahçe yapılana kadar) devletin yönetim merkezi olarak kullanılmasının temel nedeni nedir?",
+          "options": [
+            "Güvenli olması",
+            "Geleneklere bağlılık ve devletin simgesi olması",
+            "Ekonomik sıkıntılar",
+            "Padişahların isteği",
+            "Şehrin merkezinde olması"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde padişahın mutlak otoritesini sarsan ve \"Ayan\" denilen yerel güçlerin varlığını resmen tanıyan belge hangisidir?",
+          "options": [
+            "Kanun-i Esasi",
+            "Tanzimat Fermanı",
+            "Sened-i İttifak",
+            "Islahat Fermanı",
+            "Fatih Kanunnamesi"
+          ],
+          "correctOption": "C",
+          "solution": "II. Mahmut döneminde imzalanmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti'nde toprağını mazeretsiz olarak üç yıl üst üste ekmeyen köylüden alınan ceza vergisi hangisidir?",
+          "options": [
+            "Çiftbozan",
+            "Avarız",
+            "İspenç",
+            "Haraç",
+            "Öşür"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki savaş-sonuç eşleştirmelerinden hangisi yanlıştır?",
+          "options": [
+            "Mohaç - Macaristan'ın fethi",
+            "Çaldıran - Doğu Anadolu'nun güvenliği",
+            "Ridaniye - Halifeliğin Osmanlı'ya geçmesi",
+            "Preveze - Akdeniz'in Türk gölü olması",
+            "İnebahtı - Kıbrıs'ın fethi"
+          ],
+          "correctOption": "E",
+          "solution": "Kıbrıs fethedildiği için İnebahtı'da donanmamız yakılmıştır. İnebahtı bir zafer değil, yenilgidir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+          "options": [
+            "Dil birliği",
+            "Irk birliği",
+            "Din ve mezhep birliği",
+            "Toprak bütünlüğü",
+            "Ekonomik işbirliği"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nin I. Dünya Savaşı'nda savaştığı cephelerden hangisi, sınırları dışında müttefiklerine yardım amacıyla açtığı cephelerden biridir?",
+          "options": [
+            "Çanakkale",
+            "Galiçya",
+            "Irak",
+            "Kanal",
+            "Suriye"
+          ],
+          "correctOption": "D",
+          "solution": "Romanya ve Makedonya ile birlikte."
+        },
+        {
+          "text": "19. yüzyılda Osmanlı Devleti'nde \"Kanun Üstünlüğü\" ilkesinin ilk kez kabul edildiği belge hangisidir?",
+          "options": [
+            "Sened-i İttifak",
+            "Tanzimat Fermanı",
+            "Kanun-i Esasi",
+            "Islahat Fermanı",
+            "Mecelle"
+          ],
+          "correctOption": "C",
+          "solution": "Padişah kendi gücünün üstünde kanun gücü olduğunu kabul etmiştir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Duyun-u Umumiye İdaresi\"nin kurulmasına neden olan kararname hangisidir?",
+          "options": [
+            "Muharrem Kararnamesi",
+            "Ramazan Kararnamesi",
+            "Vilayet Nizamnamesi",
+            "Arazi Kanunnamesi",
+            "Teşkilat-ı Esasiye"
+          ],
+          "correctOption": "A",
+          "solution": "Devlet iflasını açıklamıştır."
+        },
+        {
+          "text": "Aşağıdaki padişahlardan hangisi \"Islahatçı\" kimliğiyle tanınmaz?",
+          "options": [
+            "III. Selim",
+            "II. Mahmut",
+            "I. Ahmet",
+            "Abdülmecit",
+            "I. Murat"
+          ],
+          "correctOption": "D",
+          "solution": "I. Murat, Kuruluş dönemi padişahıdır. O dönemde devlet \"ıslah edilecek\" kadar bozulmamıştır, teşkilatlanma ve fetih dönemidir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde ilk resmi gazete olan \"Takvim-i Vekayi\" hangi padişah döneminde çıkarılmıştır?",
+          "options": [
+            "II. Mahmut",
+            "III. Selim",
+            "Abdülmecit",
+            "Abdülaziz",
+            "II. Abdülhamit"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mimar Sinan'ın \"Kalfalık Eserim\" dediği Süleymaniye Camii'nin inşasında kullanılan akustik sistemi (kubbedeki küpler) hangi amaçla yapılmıştır?",
+          "options": [
+            "Sesi her yere eşit dağıtmak",
+            "Yapıyı hafifletmek",
+            "Estetik görünüm sağlamak",
+            "Isı yalıtımı yapmak",
+            "Depreme dayanıklılık sağlamak"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Vakanüvis\"lik kurumundan önce tarih yazıcılığı yapan görevlilere ne ad verilirdi?",
+          "options": [
+            "Şehnameci",
+            "Reisülküttab",
+            "Nişancı",
+            "Müneccim",
+            "Kazasker"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nin Rusya ile imzaladığı ve Kırım'ın bağımsız olmasını kabul ettiği antlaşma hangisidir?",
+          "options": [
+            "Yaş",
+            "Küçük Kaynarca",
+            "Berlin",
+            "Edirne",
+            "Prut"
+          ],
+          "correctOption": "C",
+          "solution": "1774 - Küçük Kaynarca. Kırım'ın Rusya'ya ait olduğunun kabulü ise 1792 Yaş Antlaşması iledir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Beşik Ulemalığı\" sisteminin ortaya çıkması en çok hangi kurumu bozmuştur?",
+          "options": [
+            "Ordu (Yeniçeri)",
+            "Maliye",
+            "Eğitim (Medrese)",
+            "Toprak (Tımar)",
+            "Adalet (Kadılık)"
+          ],
+          "correctOption": "B",
+          "solution": "Alimin oğlu alimdir anlayışı liyakati bitirmiştir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Osmanlı Devleti'nin I. Dünya Savaşı'na girme nedenlerinden biri değildir?",
+          "options": [
+            "Siyasi yalnızlıktan kurtulmak",
+            "Kaybedilen toprakları geri almak",
+            "Kapitülasyonlardan kurtulmak",
+            "Turancılık ideali",
+            "ABD ile yakınlaşmak"
+          ],
+          "correctOption": "E",
+          "solution": "ABD o sırada savaşta tarafsızdı ve İtilaf bloğuna yakındı."
+        },
+        {
+          "text": "Mondros Ateşkes Antlaşması'ndan sonra işgal edilen ilk yer (Musul) ile Anadolu'da işgal edilen ilk yer (Dörtyol) hangi devletler tarafından işgal edilmiştir?",
+          "options": [
+            "İngiltere - Fransa",
+            "Fransa - İngiltere",
+            "İtalya - Yunanistan",
+            "İngiltere - İtalya",
+            "Fransa - Yunanistan"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Şeyhülislam\"ın divandaki protokolde Sadrazama denk sayılması hangi padişah döneminde gerçekleşmiştir?",
+          "options": [
+            "Fatih Sultan Mehmet",
+            "Yavuz Sultan Selim",
+            "Kanuni Sultan Süleyman",
+            "II. Mahmut",
+            "I. Ahmet"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Osmanlı'da \"Esnaf Teşkilatı\" (Lonca) ile ilgili bir terim değildir?",
+          "options": [
+            "Gedik",
+            "Narh",
+            "Kethüda",
+            "Yiğitbaşı",
+            "Mültezim"
+          ],
+          "correctOption": "D",
+          "solution": "Mültezim, İltizam sisteminde vergi toplayan kişidir, esnaf teşkilatıyla ilgisi yoktur."
+        },
+        {
+          "text": "17. yüzyılda (Duraklama) \"Bağdat Fatihi\" olarak bilinen ve sert tedbirlerle otoriteyi sağlayan padişah kimdir?",
+          "options": [
+            "IV. Murat",
+            "Genç Osman",
+            "I. Ahmet",
+            "IV. Mehmet",
+            "I. İbrahim"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"İlk Dış Borç\" hangi savaş sırasında ve hangi ülkeden alınmıştır?",
+          "options": [
+            "93 Harbi - Rusya",
+            "Kırım Savaşı - İngiltere",
+            "Trablusgarp Savaşı - İtalya",
+            "Balkan Savaşları - Almanya",
+            "I. Dünya Savaşı - Almanya"
+          ],
+          "correctOption": "B",
+          "solution": "1854 - Abdülmecit dönemi."
+        },
+        {
+          "text": "Osmanlı Devleti'nin Kuzey Afrika'daki varlığına son veren antlaşma hangisidir?",
+          "options": [
+            "Uşi",
+            "Londra",
+            "İstanbul",
+            "Atina",
+            "Paris"
+          ],
+          "correctOption": "E",
+          "solution": "Trablusgarp'ın İtalya'ya verilmesiyle."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Osmanlı Devleti'nde \"Kapıkulu Ordusu\"nun özelliklerinden biri değildir?",
+          "options": [
+            "Başkentte bulunurlar.",
+            "Üç ayda bir Ulufe alırlar.",
+            "Devşirme kökenlidirler.",
+            "Türklerden oluşurlar.",
+            "Padişahın hassa ordusudurlar."
+          ],
+          "correctOption": "D",
+          "solution": "Türklerden oluşan ordu Eyalet Ordusu - Tımarlı Sipahilerdir. Kapıkulu devşirmedir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Lale Devri\"nin ünlü şairi ve minyatür sanatçısı ikilisi kimdir?",
+          "options": [
+            "Baki - Matrakçı Nasuh",
+            "Nedim - Levni",
+            "Fuzuli - Nigari",
+            "Nefi - Nakkaş Osman",
+            "Şeyh Galip - Bihzad"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 15",
+      "preTestNote": "Nokta Atışı \"İlkler ve Enler\":\n\nİlkler:\nİlk Bakır Para: Osman Bey / İlk Gümüş Para: Orhan Bey / İlk Altın Para: Fatih / İlk Kağıt Para: Abdülmecit.\nİlk Vergi: Osman Bey (Bac).\nİlk Düzenli Ordu: Orhan Bey (Yaya ve Müsellem).\nİlk Donanma: Orhan Bey (Karesioğulları'nın alınmasıyla).\nİlk Medrese: Orhan Bey (İznik Orhaniyesi).\nİlk Müderris: Davud-u Kayseri.\nİlk Şeyhülislam: Molla Fenari.\nİlk Rasathane: Takiyüddin (III. Murat).\nİlk Resmi Gazete: Takvim-i Vekayi (II. Mahmut).\nİlk Özel Gazete: Tercüman-ı Ahval (Şinasi & Agah Efendi).\nİlk Dış Borç: Kırım Savaşı (İngiltere).\n\nEnler:\nEn Uzun Süre Tahtta Kalan: Kanuni Sultan Süleyman (46 Yıl).\nEn Kısa Süre Tahtta Kalan: V. Murat (93 Gün).\nEn Geniş Sınırlar (Batıda): Bucaş Antlaşması.\nEn Geniş Sınırlar (Doğuda): Ferhat Paşa Antlaşması.\nEn Ağır Antlaşma (18. yy): Küçük Kaynarca.\nEn Ağır Antlaşma (Genel - Uygulanmayan): Sevr.",
+      "questions": [
+        {
+          "text": "Osmanlı Devleti'nde \"Şehzadelerin sancağa çıkma usulünü\" kaldırarak \"Kafes Usulü\"nü getiren ve \"Ekber ve Erşed\" sistemini uygulayan padişah kimdir?",
+          "options": ["I. Ahmet", "III. Mehmet", "IV. Murat", "II. Osman", "Fatih Sultan Mehmet"],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nin Batı'da imzaladığı son kazançlı antlaşma hangisidir?",
+          "options": ["Prut", "Belgrad", "Pasarofça", "Ziştovi", "Bucaş"],
+          "correctOption": "B",
+          "solution": "1739 - Karadeniz son kez Türk gölü oldu, Belgrad geri alındı."
+        },
+        {
+          "text": "Osmanlı Devleti'nde, İstanbul'un fethinden sonra Fatih Sultan Mehmet tarafından yaptırılan ve 19. yüzyıla kadar devletin yönetim merkezi olan saray hangisidir?",
+          "options": ["Dolmabahçe Sarayı", "Yıldız Sarayı", "Topkapı Sarayı", "Beylerbeyi Sarayı", "Çırağan Sarayı"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki Osmanlı padişahlarından hangisi \"Halife\" unvanını kullanan ilk padişahtır?",
+          "options": ["Fatih Sultan Mehmet", "II. Bayezid", "Yavuz Sultan Selim", "Kanuni Sultan Süleyman", "I. Murat"],
+          "correctOption": "C",
+          "solution": "Mısır Seferi sonucunda."
+        },
+        {
+          "text": "Osmanlı Devleti'nde ilk kez \"Bütçe Açığı\" hangi dönemde verilmiştir?",
+          "options": ["Kuruluş Dönemi", "Yükselme Dönemi", "Duraklama Dönemi", "Gerileme Dönemi", "Dağılma Dönemi"],
+          "correctOption": "C",
+          "solution": "Saray masrafları ve savaşların uzaması nedeniyle 17. yüzyılda başlamıştır."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Osmanlı Devleti'nde \"Kalemiye\" (Bürokrasi) sınıfının üyelerinden biridir?",
+          "options": ["Sadrazam", "Şeyhülislam", "Kazasker", "Nişancı", "Sancakbeyi"],
+          "correctOption": "D",
+          "solution": "Reisülküttab ve Defterdar da bu sınıftandır."
+        },
+        {
+          "text": "Osmanlı Devleti'nin Kuzey Afrika'da egemenliğini pekiştiren, Turgut Reis'in şehit düştüğü ancak alınamayan yer neresidir?",
+          "options": ["Cerbe", "Trablusgarp", "Malta", "Tunus", "Cezayir"],
+          "correctOption": "C",
+          "solution": "Malta Kuşatması başarısız olmuştur."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Devletin dini İslam'dır\" ibaresi ilk kez hangi anayasada yer almıştır?",
+          "options": ["Sened-i İttifak", "Kanun-i Esasi (1876)", "1921 Anayasası", "1924 Anayasası", "Tanzimat Fermanı"],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde demiryolu yapımına ağırlık veren ve \"Hicaz Demiryolu\"nu yaptıran padişah kimdir?",
+          "options": ["Abdülmecit", "Abdülaziz", "II. Abdülhamit", "V. Mehmet Reşat", "II. Mahmut"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Vatan Şairi\" olarak bilinen ve \"İntibah\", \"Cezmi\" gibi eserlerin yazarı olan Tanzimat dönemi aydını kimdir?",
+          "options": ["Şinasi", "Namık Kemal", "Ziya Paşa", "Recaizade Mahmut Ekrem", "Tevfik Fikret"],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Lale Devri\"nin ünlü sadrazamı kimdir?",
+          "options": ["Sokullu Mehmet Paşa", "Köprülü Fazıl Ahmet Paşa", "Nevşehirli Damat İbrahim Paşa", "Baltacı Mehmet Paşa", "Merzifonlu Kara Mustafa Paşa"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde ilk kez \"Rejime (Yönetim Biçimine)\" karşı çıkan isyan hangisidir?",
+          "options": ["Şeyh Bedrettin İsyanı", "Celali İsyanları", "31 Mart Vakası", "Babıali Baskını", "Kabakçı Mustafa İsyanı"],
+          "correctOption": "C",
+          "solution": "Meşrutiyeti yıkıp Mutlakiyeti geri getirmek istemişlerdir."
+        },
+        {
+          "text": "Osmanlı Devleti'nin I. Dünya Savaşı'nda savaştığı cephelerden hangisi, Taarruz (Saldırı) cephesidir?",
+          "options": ["Çanakkale", "Irak", "Suriye", "Kanal (Süveyş)", "Hicaz"],
+          "correctOption": "D",
+          "solution": "Kafkas ile birlikte iki taarruz cephesinden biridir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Mecelle\"yi hazırlayan komisyonun başkanı olan devlet adamı ve tarihçi kimdir?",
+          "options": ["Mustafa Reşit Paşa", "Ahmet Cevdet Paşa", "Mithat Paşa", "Ali Paşa", "Fuat Paşa"],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nin Rusya ile imzaladığı ve Kırım'ın Rusya'ya ait olduğunu kabul ettiği antlaşma hangisidir?",
+          "options": ["Küçük Kaynarca", "Aynalıkavak", "Yaş", "Bükreş", "Edirne"],
+          "correctOption": "C",
+          "solution": "1792 - Bu antlaşma ile Dağılma dönemi başlamıştır."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Tımar Sistemi\"nin bozulması, aşağıdaki alanlardan hangisinde aksamalara neden olmamıştır?",
+          "options": ["Askeri (Tımarlı Sipahiler)", "Tarım (Üretim)", "Güvenlik (Taşra güvenliği)", "Maliye (Vergi toplama)", "Diplomasi (Dış ilişkiler)"],
+          "correctOption": "E",
+          "solution": "Tımar bir iç sistemdir, bozulması doğrudan dış ilişkileri etkilemez."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"İltizam\" sisteminin yaygınlaşmasıyla ortaya çıkan ve taşrada güçlenen nüfuzlu kişilere ne ad verilir?",
+          "options": ["Ayan", "Mültezim", "Sipahi", "Kadı", "Voyvoda"],
+          "correctOption": "A",
+          "solution": "Sened-i İttifak'ın muhatabı olan güç."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Darülfünun\" (Üniversite) hangi dönemde resmen faaliyete geçmiştir?",
+          "options": ["Tanzimat Dönemi (Abdülaziz)", "Lale Devri", "Gerileme Dönemi", "Meşrutiyet Dönemi", "Cumhuriyet Dönemi"],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "1878 Berlin Antlaşması ile bağımsızlığını kazanan devletler hangileridir? (Kod: SAKAR)",
+          "options": ["Sırbistan - Arnavutluk - Karadağ", "Sırbistan - Karadağ - Romanya", "Sırbistan - Bulgaristan - Romanya", "Yunanistan - Karadağ - Romanya", "Bulgaristan - Arnavutluk - Sırbistan"],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nin I. Dünya Savaşı'ndan sonra imzaladığı ancak Mebusan Meclisi tarafından onaylanmadığı için hukuken geçersiz sayılan antlaşma hangisidir?",
+          "options": ["Mondros", "Londra", "Sevr", "Lozan", "Gümrü"],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Sanayi-i Nefise Mektebi\"ni (Güzel Sanatlar Akademisi) kuran ünlü ressam ve arkeolog kimdir?",
+          "options": ["Şeker Ahmet Paşa", "Osman Hamdi Bey", "İbrahim Çallı", "Hoca Ali Rıza", "Ruhi Arel"],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan belgelerin kronolojik sıralaması nasıldır?",
+          "options": ["Tanzimat - Islahat - Sened-i İttifak - Kanun-i Esasi", "Sened-i İttifak - Tanzimat - Islahat - Kanun-i Esasi", "Kanun-i Esasi - Sened-i İttifak - Tanzimat - Islahat", "Tanzimat - Sened-i İttifak - Islahat - Kanun-i Esasi", "Sened-i İttifak - Kanun-i Esasi - Tanzimat - Islahat"],
+          "correctOption": "B",
+          "solution": "1808 - 1839 - 1856 - 1876"
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"İlk Türk Dergisi\" olarak kabul edilen yayın organı hangisidir?",
+          "options": ["Diyojen", "Vekayi-i Tıbbiye", "Mecmua-i Fünun", "Terakki-i Muhadderat", "Servet-i Fünun"],
+          "correctOption": "B",
+          "solution": "Vekayi-i Tıbbiye ilk dergidir. Diyojen ilk mizah dergisidir."
+        },
+        {
+          "text": "Osmanlı Devleti'nde \"Esham\" (İç Borçlanma) senetlerini hazırlayan padişah III. Mustafa, uygulamaya koyan padişah I. Abdülhamit'tir. Peki, Osmanlı Devleti ilk DIŞ borcu hangi padişah döneminde almıştır?",
+          "options": ["III. Selim", "II. Mahmut", "Abdülmecit", "Abdülaziz", "II. Abdülhamit"],
+          "correctOption": "C",
+          "solution": "Kırım Savaşı - 1854"
+        },
+        {
+          "text": "FİNAL SORUSU: Osmanlı Devleti'nin 1299'da Söğüt'te başlayan serüveni, 1922'de Saltanatın kaldırılmasıyla resmen sona ermiştir. Osmanlı Devleti'nin yıkılışını hızlandıran ve \"İmparatorluk\" karakterini kaybetmesine neden olan en temel dış gelişme hangisidir?",
+          "options": ["Coğrafi Keşifler", "Rönesans", "Reform", "Fransız İhtilali (Milliyetçilik)", "Sanayi İnkılabı"],
+          "correctOption": "D",
+          "solution": "Milliyetçilik akımı, çok uluslu imparatorlukların parçalanmasının ana nedenidir."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 32",
+  "examCode": "deneme_32",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 31)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı, sanatta Hayvan Üslubu'nun gelişmesine yol açmıştır. Orhun Yazıtları, Yollug Tigin tarafından yazılmıştır. İlk Müslüman Türk devleti olan Karahanlılar, Uygur alfabesini kullanmaya devam ederek millî kimliğini korumuştur. Anadolu Selçuklu Devleti'nde Kayseri'deki Gevher Nesibe Darüşşifası, dünyanın ilk tıp fakültesi olarak kabul edilir.\n\n**Osmanlı Yükseliş ve Dağılma:** Fatih Sultan Mehmet, karada alamadığı Belgrad'ı ve denizde alamadığı Rodos'u, daha sonra Kanuni Sultan Süleyman fethetmiştir. Lale Devri (1718-1730), Pasarofça Antlaşması ile başlamış, Patrona Halil İsyanı ile sona ermiştir. II. Mahmut döneminde Yeniçeri Ocağı kaldırılmış (Vaka-i Hayriye), yerine Asakir-i Mansure-i Muhammediye ordusu kurulmuştur. Tanzimat Fermanı (1839) ile padişah Kanun Üstünlüğünü kabul etmiştir.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, bölgesel amaçlı, düzensiz birliklerdir. Amasya Genelgesi, 'Milletin azim ve kararı' maddesiyle milli egemenliği vurgulayan ilk belgedir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiştir. Medeni Kanun, İsviçre'den alınmıştır. Montrö Boğazlar Sözleşmesi (1936) ile Türkiye, boğazlar üzerindeki tam egemenliğini sağlamıştır.\n\n**Çağdaş Dünya:** II. Dünya Savaşı'ndan sonra ABD'nin başlattığı Truman Doktrini (1947), Soğuk Savaş'ın başlangıcı sayılır. Türkiye, SSCB tehdidine karşı Batı Bloğu'na dahil olmuştur.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Asya Hun Devleti döneminde, Çin'e karşı uygulanan 'Çin'i vergiye bağla ama içine yerleşme' politikasının temel amacı nedir?",
+      "options": [
+        "Ticari ilişkileri geliştirmek",
+        "İpek Yolu'na hakim olmak",
+        "Askeri gücü korumak",
+        "Türklerin Çin kültürü içinde asimile olmasını engellemek",
+        "Çin ordusunu zayıflatmak"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde ordunun temel savaş taktiği olan 'Turan (Hilal) Taktiği'nin en önemli özelliği nedir?",
+      "options": [
+        "Siper savaşlarına dayanması",
+        "Ağır zırhlı süvariler kullanması",
+        "Düşmanın merkezine direkt saldırması",
+        "Sahte ricat (geri çekilme) ile düşmanı çembere alıp imha etmesi",
+        "Sadece yaya asker kullanması"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Karahanlılar döneminde yazılan, Türk-İslam edebiyatının ilk siyasî eseri (Siyasetname) ve aruz ölçüsüyle yazılan ilk eseri hangisidir?",
+      "options": [
+        "Dîvânu Lugâti't-Türk",
+        "Kutadgu Bilig",
+        "Atabetü'l-Hakayık",
+        "Dîvân-ı Hikmet",
+        "Şehnâme"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti'nin ticareti geliştirmek için uyguladığı 'Devlet Sigortası Sistemi' hangi padişah döneminde başlamıştır?",
+      "options": [
+        "I. Kılıçarslan",
+        "I. Mesut",
+        "Gıyaseddin Keyhüsrev",
+        "I. Alaaddin Keykubat",
+        "II. Kılıçarslan"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde Kapıkulu askerlerine verilen maaşın (Ulufe) üç ayda bir düzenli olarak dağıtıldığı hazineye ne ad verilir?",
+      "options": [
+        "Hazine-i Hassa",
+        "Hazine-i Âmire",
+        "İrad-ı Cedid",
+        "Ceyb-i Hümayun",
+        "Beytülmal"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı tarihinde ilk kez askeri alanda Batı tarzı ıslahat yapan, Avrupa'dan uzman getiren (Comte de Bonneval - Humbaracı Ahmet Paşa) ve Hendesehane'yi kuran padişah kimdir?",
+      "options": [
+        "III. Ahmet",
+        "I. Mahmut",
+        "III. Selim",
+        "II. Mahmut",
+        "IV. Murat"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde Tanzimat Fermanı'nın (1839) ilanıyla resmen kabul edilen 'Kanun Üstünlüğü' ilkesinin temel amacı nedir?",
+      "options": [
+        "Saltanatı kaldırmak",
+        "Padişahın mutlak otoritesini güçlendirmek",
+        "Gayrimüslimlerin isyanını önlemek ve Avrupa'nın iç işlerine karışmasını engellemek",
+        "Yeniçeri Ocağı'nı geri getirmek",
+        "Meclis-i Mebusan'ı açmak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde 'Mecelle' (İslam Hukuku'na dayalı medeni kanun) hangi padişah döneminde hazırlanmıştır?",
+      "options": [
+        "II. Mahmut",
+        "Abdülmecit",
+        "Abdülaziz",
+        "II. Abdülhamit",
+        "V. Mehmet Reşat"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde Batı tarzı ilk daimi (sürekli) elçilik hangi padişah döneminde açılmıştır?",
+      "options": [
+        "III. Ahmet (Lale Devri)",
+        "I. Mahmut",
+        "III. Selim (Nizam-ı Cedid)",
+        "II. Mahmut",
+        "Sultan Abdülaziz"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde 19. yüzyılda memur yetiştirmek amacıyla kurulan, bugünkü Mülkiye'nin (Siyasal Bilgiler) temelini oluşturan okul hangisidir?",
+      "options": [
+        "Hendesehane",
+        "Mekteb-i Harbiye",
+        "Mekteb-i Mülkiye",
+        "Sanayi-i Nefise Mektebi",
+        "Darülfünun"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "II. Abdülhamit döneminde Ermeni çetelerine karşı Doğu'da kurulan askeri birliklere ne ad verilir?",
+      "options": [
+        "Nizam-ı Cedid",
+        "Hamidiye Alayları",
+        "Redif Birlikleri",
+        "Asakir-i Mansure-i Muhammediye",
+        "Eşkinci Ocağı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı'nın genel nedenlerinden olan, zenginliğin kaynağını altın ve gümüş birikimi olarak gören ekonomik anlayış hangisidir?",
+      "options": [
+        "Kapitalizm",
+        "Liberalizm",
+        "Sosyalizm",
+        "Merkantilizm",
+        "Feodalizm"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Kurtuluş Savaşı'nda Batı Cephesi'nde Yunanlılara karşı düzensiz birliklerle (Kuvayi Milliye) ilk ve son kez taarruz girişiminde bulunulan ve başarısızlıkla sonuçlanan olay hangisidir?",
+      "options": [
+        "I. İnönü Muharebesi",
+        "II. İnönü Muharebesi",
+        "Gediz Taarruzu",
+        "Aslıhanlar Taarruzu",
+        "Dumlupınar Meydan Muharebesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Amasya Genelgesi'nin 'Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir' maddesi, Kurtuluş Savaşı'nın hangi unsurunu belirtmektedir?",
+      "options": [
+        "Amacını",
+        "Yöntemini",
+        "Gerekçesini",
+        "Liderini",
+        "Süresini"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Doğu Anadolu'da bir Ermeni devletinin kurulmasını engellemek amacıyla, Kazım Karabekir Paşa'nın emriyle Doğu Cephesi'nde Ermenilere karşı askeri harekâtın düzenlendiği antlaşma hangisidir?",
+      "options": [
+        "Erzurum Kongresi Kararları",
+        "Gümrü Antlaşması",
+        "Moskova Antlaşması",
+        "Kars Antlaşması",
+        "Amasya Genelgesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı'nda toplanan kongrelerden hangisi, Mustafa Kemal'in 'sivil' olarak katıldığı son kongredir?",
+      "options": [
+        "Erzurum Kongresi",
+        "Sivas Kongresi",
+        "Afyon Kongresi",
+        "Pozantı Kongresi",
+        "Balıkesir Kongresi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Kurtuluş Savaşı'nda, Milli Mücadele'ye katılmayı reddeden ve düzenli orduya karşı isyan çıkaran Kuvayi Milliye lideri kimdir?",
+      "options": [
+        "Demirci Mehmet Efe",
+        "Yörük Ali Efe",
+        "Çerkez Ethem",
+        "İpsiz Recep",
+        "Şahin Bey"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda Türkiye'nin egemenlik haklarını kısıtlayan, ancak 1936'da Montrö Sözleşmesi ile çözülen madde hangi konuyla ilgilidir?",
+      "options": [
+        "Kapitülasyonlar",
+        "Dış Borçlar",
+        "Boğazlar Komisyonu'nun varlığı",
+        "Musul Sorunu",
+        "Patrikhanenin durumu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Atatürk dönemi inkılaplarından, Batı ile uyumu sağlamak ve ulusal egemenliği güçlendirmek amacıyla yapılan inkılaplara ne ad verilir?",
+      "options": [
+        "Laiklik",
+        "Halkçılık",
+        "İnkılapçılık",
+        "Milliyetçilik",
+        "Devletçilik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?",
+      "options": [
+        "Mustafa Kemal Atatürk",
+        "Ali Fethi Okyar",
+        "Kazım Karabekir",
+        "İsmet İnönü",
+        "Celal Bayar"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Türk Dil Kurumu'nun (1932) kurulmasının temel amacı, aşağıdaki Atatürk ilkelerinden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Halkçılık",
+        "Devletçilik",
+        "Laiklik",
+        "Milliyetçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "1930 yılında Ali Fethi Okyar tarafından (Atatürk'ün isteğiyle) kurulan Serbest Cumhuriyet Fırkası'nın kapatılmasının temel nedeni nedir?",
+      "options": [
+        "Ekonomik programının başarısızlığı",
+        "Partinin rejim karşıtlarının odağı haline gelmesi ve Fethi Bey'in partiyi feshetmesi",
+        "İzmir Suikastı",
+        "Menemen Olayı'nda rol oynaması",
+        "Cumhurbaşkanı'nın müdahalesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye ile Yunanistan arasında, yerleşik sayılacak Rum ve Türk nüfusunun belirlenmesi (Etabli) sorununun çözüldüğü antlaşma hangisidir?",
+      "options": [
+        "Lozan Antlaşması",
+        "Balkan Antantı",
+        "1930 Ahali (Ankara) Antlaşması",
+        "Montrö Sözleşmesi",
+        "Zürih Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Montrö Boğazlar Sözleşmesi (1936) ile Türkiye'nin diplomatik alanda elde ettiği en büyük kazanım nedir?",
+      "options": [
+        "Boğazların tamamen ticarete kapatılması",
+        "Boğazlar Komisyonu'nun kaldırılarak yetkinin tam olarak Türkiye'ye devredilmesi",
+        "Sadece Karadeniz'e kıyısı olan devletlere geçiş hakkı verilmesi",
+        "Rusya'nın Boğazları koruma garantisi vermesi",
+        "Lozan'ın süresinin uzatılması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sırasında 'Üç Büyükler'in (ABD, İngiltere, SSCB) bir araya gelerek, savaş sonrası dünya düzenini ve BM'nin kurulmasını görüştüğü konferans hangisidir?",
+      "options": [
+        "Tahran Konferansı",
+        "Potsdam Konferansı",
+        "Yalta Konferansı",
+        "Casablanca Konferansı",
+        "San Francisco Konferansı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "Almanya'da Nasyonal Sosyalist Parti'nin (Nazi) lideri olan ve 'Hayat Sahası' (Lebensraum) sloganıyla yayılmacı politika izleyen diktatör kimdir?",
+      "options": [
+        "Benito Mussolini",
+        "Adolf Hitler",
+        "Francisco Franco",
+        "Stalin",
+        "Winston Churchill"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1964 yılında ABD Başkanı tarafından yazılan ve Türkiye'yi Kıbrıs'a müdahale etmemesi konusunda tehdit eden, Türk-Amerikan ilişkilerinde kırılmaya neden olan mektup hangisidir?",
+      "options": [
+        "Truman Mektubu",
+        "Johnson Mektubu",
+        "Nixon Mektubu",
+        "Carter Doktrini",
+        "Kennedy Mektubu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "konu_adi": "44- MİSAK-I MİLLİNİN ÖNEMİ VE MADDELERİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "MİSAK-I MİLLİ (MİLLİ YEMİN) (28 Ocak 1920)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Misak-ı Milli'ye Giden Süreç ve İlanı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Süreci: Erzurum ve Sivas Kongrelerinde alınan kararların, yasal zemin kazanması için Mebusan Meclisi'ne taşınmasıdır.",
+        "İlan: 28 Ocak 1920'de İstanbul'da toplanan Son Osmanlı Mebusan Meclisi tarafından kabul edilmiştir.",
+        "Hukuki Zemin: Belge, Osmanlı İmparatorluğu'nun son parlamento kararı niteliğindedir.",
+        "Sınırlar: Türkiye Cumhuriyeti'nin kurulacağı asgari (en alt) sınırları belirlemiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Misak-ı Milli'nin Altı Maddesi ve Yorumları"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Sınırlar ve Vatan Bütünlüğü"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Madde: Mondros Ateşkes Antlaşması imzalandığı sırada işgal edilmemiş olan ve halkının çoğunluğu Müslüman olan Osmanlı toprakları, bir bütündür, parçalanamaz."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Madde (Halk Oylaması): Kars, Ardahan ve Batum (Elviye-i Selase) ile Batı Trakya'nın geleceği, gerekirse halk oylaması (Plebisit) ile belirlenmelidir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Boğazlar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Madde: İstanbul ve Çanakkale Boğazları'nın güvenliği sağlanacak, uluslararası ticarete açık olacaktır. (Boğazlar'ın tamamen Türk egemenliği altında kalması hedeflenmiştir.)"
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Kapitülasyonlar ve Ekonomik Bağımsızlık"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Madde: Siyasi, adli ve mali gelişmemizi engelleyen her türlü kısıtlama (Kapitülasyonlar) kabul edilemez. (Tam bağımsızlık ilkesini en net gösteren maddesidir.)"
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Azınlıklar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Madde: Azınlıkların hakları, komşu ülkelerdeki Müslüman halka tanınan haklar kadar olacaktır (Mütekabiliyet/Karşılıklılık ilkesi). (Avrupa devletlerinin iç işlerine karışmasını engellemek amaçlanmıştır.)"
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Misak-ı Milli'nin Tarihi Önemi ve Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Ulusal And: Türk milletinin kurtuluş için verdiği son ulusal yemin niteliğindedir.",
+        "Siyasi Program: TBMM Hükümeti'nin ve Kurtuluş Savaşı'nın yürüteceği tüm faaliyetlerin (Lozan Barış Görüşmeleri dahil) temel yol haritası olmuştur.",
+        "İtilaf Devletlerinin Tepkisi: Misak-ı Milli'nin kabulü üzerine İtilaf Devletleri, İstanbul'u resmen işgal etmiştir (16 Mart 1920).",
+        "TBMM'nin Kuruluşu: Meclis'in dağıtılması, Mustafa Kemal'e Ankara'da Türkiye Büyük Millet Meclisi'ni (23 Nisan 1920) kurmak için aradığı fırsatı vermiştir."
+      ]
+    }
+  ]
+}

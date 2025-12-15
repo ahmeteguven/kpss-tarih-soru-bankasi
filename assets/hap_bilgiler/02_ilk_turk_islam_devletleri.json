@@ -1,0 +1,505 @@
+{
+  "categoryName": "İLK TÜRK İSLAM DEVLETLERİ",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Türklerin kitleler halinde İslamiyet’e geçmesine neden olan savaş hangisidir?",
+      "answer": "Talas Savaşı (751)"
+    },
+    {
+      "id": 2,
+      "question": "Talas Savaşı’nda Müslüman Arapların (Abbasiler) yanında yer alarak Çin’e karşı savaşan Türk boyu hangisidir?",
+      "answer": "Karluklar"
+    },
+    {
+      "id": 3,
+      "question": "İslamiyet’i kabul eden ilk Türk boyu hangisidir?",
+      "answer": "Karluklar"
+    },
+    {
+      "id": 4,
+      "question": "Orta Asya’da kurulan ilk Türk-İslam devleti hangisidir?",
+      "answer": "Karahanlılar"
+    },
+    {
+      "id": 5,
+      "question": "Karahanlı Devleti’nin kurucusu kimdir?",
+      "answer": "Bilge Kül Kadir Han"
+    },
+    {
+      "id": 6,
+      "question": "Karahanlılar hangi hükümdar zamanında İslamiyet’i resmi din olarak kabul etmiştir?",
+      "answer": "Satuk Buğra Han (Abdülkerim)"
+    },
+    {
+      "id": 7,
+      "question": "Dünya tarihinde \"Burslu Öğrencilik Sistemini\" ilk başlatan Türk devleti hangisidir?",
+      "answer": "Karahanlılar"
+    },
+    {
+      "id": 8,
+      "question": "Türk-İslam edebiyatının ilk yazılı eseri kabul edilen Kutadgu Bilig kime aittir?",
+      "answer": "Yusuf Has Hacip"
+    },
+    {
+      "id": 9,
+      "question": "Kutadgu Bilig (Mutluluk Veren Bilgi) hangi hükümdara sunulmuştur?",
+      "answer": "Tamgaç Buğra Han"
+    },
+    {
+      "id": 10,
+      "question": "İlk Türkçe sözlük ve dilbilgisi kitabı olan Divan-ı Lügati’t Türk’ün yazarı kimdir?",
+      "answer": "Kaşgarlı Mahmut"
+    },
+    {
+      "id": 11,
+      "question": "Kaşgarlı Mahmut, Divan-ı Lügati’t Türk’ü hangi halifeye sunmuştur?",
+      "answer": "Abbasi Halifesi El-Muktedi Billah"
+    },
+    {
+      "id": 12,
+      "question": "Türk tasavvuf edebiyatının ilk eseri olan Divan-ı Hikmet’in yazarı kimdir?",
+      "answer": "Hoca Ahmet Yesevi (Pir-i Türkistan)"
+    },
+    {
+      "id": 13,
+      "question": "\"Hakikatlerin Eşiği\" anlamına gelen Atabetü’l Hakayık adlı eserin yazarı kimdir?",
+      "answer": "Edip Ahmet Yükneki"
+    },
+    {
+      "id": 14,
+      "question": "Karahanlılar döneminde inşa edilen, Türk-İslam mimarisinin ilk kervansaraylarına ne ad verilir?",
+      "answer": "Ribat"
+    },
+    {
+      "id": 15,
+      "question": "İlk Türk-İslam Medresesi (Semerkant Medresesi) hangi devlet döneminde açılmıştır?",
+      "answer": "Karahanlılar"
+    },
+    {
+      "id": 16,
+      "question": "Türk-İslam tarihinde ilk hastaneler (Bimarhane) hangi devlet döneminde kurulmuştur?",
+      "answer": "Karahanlılar"
+    },
+    {
+      "id": 17,
+      "question": "Afganistan’ın Gazne şehrinde kurulan ve kurucusunun (Alp Tigin) adıyla değil kurulduğu yerin adıyla anılan devlet hangisidir?",
+      "answer": "Gazneliler"
+    },
+    {
+      "id": 18,
+      "question": "Gazneli Devleti’nin en parlak dönemini yaşatan hükümdar kimdir?",
+      "answer": "Gazneli Mahmut"
+    },
+    {
+      "id": 19,
+      "question": "İslamiyet’i yaymak amacıyla Hindistan’a 17 sefer düzenleyen Türk hükümdarı kimdir?",
+      "answer": "Gazneli Mahmut"
+    },
+    {
+      "id": 20,
+      "question": "Tarihte \"Sultan\" unvanını kullanan ilk Türk hükümdarı kimdir?",
+      "answer": "Gazneli Mahmut"
+    },
+    {
+      "id": 21,
+      "question": "Gazneli Mahmut’un \"Sarayımın en değerli hazinesi\" dediği ünlü bilim insanı kimdir?",
+      "answer": "Biruni"
+    },
+    {
+      "id": 22,
+      "question": "Firdevsi’nin yazdığı ünlü \"Şehname\" adlı eser kime sunulmuştur?",
+      "answer": "Gazneli Mahmut"
+    },
+    {
+      "id": 23,
+      "question": "Gaznelilerin yıkılış sürecine girmesine neden olan ve Büyük Selçuklularla yaptıkları savaş hangisidir?",
+      "answer": "Dandanakan Savaşı (1040)"
+    },
+    {
+      "id": 24,
+      "question": "Mısır’da kurulan ilk Türk-İslam devleti hangisidir?",
+      "answer": "Tolunoğulları"
+    },
+    {
+      "id": 25,
+      "question": "Tolunoğulları Devleti’nin kurucusu kimdir?",
+      "answer": "Tolunoğlu Ahmet"
+    },
+    {
+      "id": 26,
+      "question": "Tolunoğlu Ahmet’in Mısır’da inşa ettirdiği, \"Ulu Camii\" olarak da bilinen ve minaresiyle ünlü eser hangisidir?",
+      "answer": "Tolunoğlu Ahmet Camii"
+    },
+    {
+      "id": 27,
+      "question": "Mısır’da kurulan ikinci Türk-İslam devleti hangisidir?",
+      "answer": "İhşidiler (Akşitler)"
+    },
+    {
+      "id": 28,
+      "question": "Hicaz bölgesine (Mekke-Medine) sahip olan ilk Türk-İslam devleti hangisidir?",
+      "answer": "İhşidiler (Akşitler)"
+    },
+    {
+      "id": 29,
+      "question": "İhşid (Akşit) kelimesinin anlamı nedir?",
+      "answer": "Prens / Beyaz Güneş"
+    },
+    {
+      "id": 30,
+      "question": "Eyyubi Devleti’nin kurucusu ve Kudüs Fatihi kimdir?",
+      "answer": "Selahaddin Eyyubi"
+    },
+    {
+      "id": 31,
+      "question": "Selahaddin Eyyubi’nin Kudüs’ü Haçlılardan geri aldığı savaş hangisidir?",
+      "answer": "Hıttin Savaşı (1187)"
+    },
+    {
+      "id": 32,
+      "question": "İstiklal Marşı şairimiz Mehmet Akif Ersoy’un \"Şarkın en sevgili sultanı\" dediği hükümdar kimdir?",
+      "answer": "Selahaddin Eyyubi"
+    },
+    {
+      "id": 33,
+      "question": "Tarihte Moğolları (İlhanlıları) durduran ilk ve tek Türk devleti hangisidir?",
+      "answer": "Memlükler (Kölemenler)"
+    },
+    {
+      "id": 34,
+      "question": "Memlüklerin Moğolları yendiği savaşlar hangileridir?",
+      "answer": "Ayn Calut ve Elbistan Savaşları"
+    },
+    {
+      "id": 35,
+      "question": "\"Veraset sistemi\" diğer Türk devletlerinden farklı olan, hükümdarlığın babadan oğula geçmediği, \"Güçlü olan komutan hükümdar olur\" anlayışının hakim olduğu devlet hangisidir?",
+      "answer": "Memlükler"
+    },
+    {
+      "id": 36,
+      "question": "Büyük Selçuklu Devleti’nin resmi kurucusu kimdir?",
+      "answer": "Tuğrul Bey"
+    },
+    {
+      "id": 37,
+      "question": "Tuğrul Bey’in Bağdat Seferi sonrasında Abbasi Halifesi’nden aldığı unvan nedir?",
+      "answer": "Doğu’nun ve Batı’nın Sultanı"
+    },
+    {
+      "id": 38,
+      "question": "Büyük Selçuklu Devleti ile Bizans arasında yapılan ilk savaş hangisidir?",
+      "answer": "Pasinler Savaşı (1048)"
+    },
+    {
+      "id": 39,
+      "question": "Anadolu’nun kapılarını Türklere açan savaş hangisidir?",
+      "answer": "Malazgirt Savaşı (1071)"
+    },
+    {
+      "id": 40,
+      "question": "Malazgirt Savaşı’nda Bizans İmparatoru Romen Diyojen’i yenen Selçuklu Sultanı kimdir?",
+      "answer": "Sultan Alparslan"
+    },
+    {
+      "id": 41,
+      "question": "Sultan Alparslan’ın Malazgirt zaferinden sonra Anadolu’nun fethi için komutanlarına verdiği, \"Toprak fethedenin malıdır\" emrine ne ad verilir?",
+      "answer": "Kılıç Hakkı"
+    },
+    {
+      "id": 42,
+      "question": "Sultan Alparslan’a Hıristiyanlar için kutsal olan Ani Kalesi’ni fethettiği için Halife tarafından verilen unvan nedir?",
+      "answer": "Ebü’l Feth (Fetihlerin Babası)"
+    },
+    {
+      "id": 43,
+      "question": "Büyük Selçuklu Devleti’nin en parlak ve en geniş sınırlara ulaştığı dönem hangi hükümdar zamanıdır?",
+      "answer": "Sultan Melikşah"
+    },
+    {
+      "id": 44,
+      "question": "Büyük Selçuklu Devleti’ne en parlak dönemini yaşatan ve Siyasetname adlı eseri yazan ünlü vezir kimdir?",
+      "answer": "Nizamülmülk"
+    },
+    {
+      "id": 45,
+      "question": "Dünyanın ilk üniversitesi sayılan Nizamiye Medreseleri hangi devlet döneminde ve kim tarafından kurulmuştur?",
+      "answer": "Büyük Selçuklu - Vezir Nizamülmülk"
+    },
+    {
+      "id": 46,
+      "question": "Büyük Selçuklu Devleti’nin yıkılmasına neden olan en önemli iç tehdit (terör örgütü) hangisidir?",
+      "answer": "Batınilik (Haşhaşiler)"
+    },
+    {
+      "id": 47,
+      "question": "Batınilik tarikatının kurucusu ve lideri kimdir?",
+      "answer": "Hasan Sabbah"
+    },
+    {
+      "id": 48,
+      "question": "Büyük Selçuklu Devleti’nin yıkılmasına neden olan ve Karahitaylarla yapılan savaş hangisidir?",
+      "answer": "Katvan Savaşı (1141)"
+    },
+    {
+      "id": 49,
+      "question": "Büyük Selçuklu Devleti yıkıldıktan sonra kurulan devletler hangileridir?",
+      "answer": "Irak, Kirman, Suriye ve Türkiye (Anadolu) Selçukluları"
+    },
+    {
+      "id": 50,
+      "question": "Kendilerini Büyük Selçuklu Devleti’nin mirasçısı olarak gören devlet hangisidir?",
+      "answer": "Harzemşahlar"
+    },
+    {
+      "id": 51,
+      "question": "Moğol istilasının başlamasına neden olan, Harzemşahlar valisinin Moğol ticaret kervanını katlettiği olaya ne ad verilir?",
+      "answer": "Otrar Faciası"
+    },
+    {
+      "id": 52,
+      "question": "Harzemşahların yıkılmasına ve Anadolu’nun Moğol istilasına açık hale gelmesine neden olan savaş hangisidir?",
+      "answer": "Yassıçemen Savaşı (1230)"
+    },
+    {
+      "id": 53,
+      "question": "Türk-İslam devletlerinde hükümdarın erkek çocuklarına ne ad verilir?",
+      "answer": "Melik"
+    },
+    {
+      "id": 54,
+      "question": "Meliklerin eğitimiyle ilgilenen tecrübeli devlet adamlarına (Hoca) ne ad verilir?",
+      "answer": "Atabey"
+    },
+    {
+      "id": 55,
+      "question": "Türk-İslam devletlerinde hükümdarın yetkilerini kısıtlayan ve hükümet işlerinin yürütüldüğü kurula ne ad verilir?",
+      "answer": "Divan-ı Saltanat"
+    },
+    {
+      "id": 56,
+      "question": "Türk-İslam devletlerinde \"Hassa Ordusu\"nun (Hükümdarın özel ordusu) temelini oluşturan, savaş esirlerinden seçilip yetiştirilen sisteme ne ad verilir?",
+      "answer": "Gulam Sistemi"
+    },
+    {
+      "id": 57,
+      "question": "Toprağın gelirlerinin hizmet karşılığı askerlere ve memurlara verildiği, hazineden para çıkmadan ordunun beslendiği sisteme ne ad verilir?",
+      "answer": "İkta Sistemi"
+    },
+    {
+      "id": 58,
+      "question": "İkta sistemi sayesinde yetişen, masrafsız ve daimi orduya ne ad verilir?",
+      "answer": "Sipahiler (İkta Askerleri)"
+    },
+    {
+      "id": 59,
+      "question": "Türk-İslam devletlerinde örfi hukuk davalarına kim bakardı?",
+      "answer": "Emir-i Dad"
+    },
+    {
+      "id": 60,
+      "question": "Türk-İslam devletlerinde şer’i hukuk davalarına kim bakardı?",
+      "answer": "Kadı"
+    },
+    {
+      "id": 61,
+      "question": "Askeri davalara bakan görevliye ne ad verilir?",
+      "answer": "Kadıleşker (Kazasker)"
+    },
+    {
+      "id": 62,
+      "question": "Türk-İslam devletlerinde belediye işlerini yürüten, çarşı-pazarı denetleyen görevliye ne ad verilir?",
+      "answer": "Muhtesip"
+    },
+    {
+      "id": 63,
+      "question": "Esnaf ve zanaatkarların kurduğu, mesleki eğitim veren ve dayanışmayı sağlayan teşkilata ne ad verilir?",
+      "answer": "Ahilik (Fütüvvet) Teşkilatı"
+    },
+    {
+      "id": 64,
+      "question": "\"Muallim-i Sani\" (İkinci Öğretmen) olarak bilinen, BM fikrini ilk kez öne süren ünlü Türk-İslam filozofu kimdir?",
+      "answer": "Farabi"
+    },
+    {
+      "id": 65,
+      "question": "Avrupa’da \"Avicenna\" olarak bilinen, \"El-Kanun fi’t-Tıb\" (Tıbbın Kanunu) kitabının yazarı ünlü tıp bilgini kimdir?",
+      "answer": "İbn-i Sina"
+    },
+    {
+      "id": 66,
+      "question": "Cebir ilminin kurucusu olan ve \"Sıfır\" rakamını ilk kez kullanan bilim insanı kimdir?",
+      "answer": "Harezmi"
+    },
+    {
+      "id": 67,
+      "question": "Bağdat’taki Nizamiye Medreselerinde başmüderrislik yapan, \"İhya-u Ulumiddin\" eserinin yazarı ünlü İslam alimi kimdir?",
+      "answer": "Gazali"
+    },
+    {
+      "id": 68,
+      "question": "Optik biliminin kurucusu kabul edilen bilim insanı kimdir?",
+      "answer": "İbnü’l Heysem"
+    },
+    {
+      "id": 69,
+      "question": "Robotik ve sibernetik biliminin kurucusu kabul edilen, Artuklular döneminde yaşamış bilim insanı kimdir?",
+      "answer": "El Cezeri"
+    },
+    {
+      "id": 70,
+      "question": "Mantık ve felsefe alanında çalışmalarıyla bilinen, Avrupa’da \"Averroes\" olarak tanınan düşünür kimdir?",
+      "answer": "İbn-i Rüşd"
+    },
+    {
+      "id": 71,
+      "question": "Timur Devleti döneminde yaşamış, Semerkant’ta kendi adına rasathane kuran ünlü astronomi bilgini ve hükümdar kimdir?",
+      "answer": "Uluğ Bey"
+    },
+    {
+      "id": 72,
+      "question": "Büyük Selçuklu döneminde Sultan Melikşah adına Ömer Hayyam başkanlığındaki heyet tarafından hazırlanan takvim hangisidir?",
+      "answer": "Celali Takvim"
+    },
+    {
+      "id": 73,
+      "question": "Türk-İslam mimarisinde anıt mezarlara verilen isimler nelerdir?",
+      "answer": "Türbe ve Kümbet"
+    },
+    {
+      "id": 74,
+      "question": "Türk-İslam sanatında \"Resim\" yasağı nedeniyle gelişen süsleme sanatları hangileridir?",
+      "answer": "Hat, Tezhip, Minyatür, Çini, Ebru"
+    },
+    {
+      "id": 75,
+      "question": "Türk-İslam devletlerinde hükümdarlık alameti olarak okunan duaya ne ad verilir?",
+      "answer": "Hutbe"
+    },
+    {
+      "id": 76,
+      "question": "Hükümdarlık alameti olarak basılan paraya ne ad verilir?",
+      "answer": "Sikke"
+    },
+    {
+      "id": 77,
+      "question": "Abbasi Halifesi’nin gönderdiği hükümdarlık onay belgesine ne ad verilir?",
+      "answer": "Menşur"
+    },
+    {
+      "id": 78,
+      "question": "Hükümdara ait özel şemsiyeye (Hükümdarlık alameti) ne ad verilir?",
+      "answer": "Çetr"
+    },
+    {
+      "id": 79,
+      "question": "Saray ile halk arasındaki iletişimi sağlayan, protokol müdürü olan görevli kimdir?",
+      "answer": "Hacibü’l Hüccab (Ulu Hacip)"
+    },
+    {
+      "id": 80,
+      "question": "Devletin yazışmalarından sorumlu olan divan hangisidir?",
+      "answer": "Divan-ı Tuğra (İnşa)"
+    },
+    {
+      "id": 81,
+      "question": "Devletin mali işlerinden sorumlu olan divan hangisidir?",
+      "answer": "Divan-ı İstifa"
+    },
+    {
+      "id": 82,
+      "question": "Ordunun ihtiyaçlarını karşılayan ve maaşlarını dağıtan divan hangisidir?",
+      "answer": "Divan-ı Arz"
+    },
+    {
+      "id": 83,
+      "question": "Devleti idari ve mali açıdan denetleyen, teftiş divanı hangisidir?",
+      "answer": "Divan-ı İşraf"
+    },
+    {
+      "id": 84,
+      "question": "Posta ve istihbarat işlerine bakan divan hangisidir?",
+      "answer": "Divan-ı Berid"
+    },
+    {
+      "id": 85,
+      "question": "Ağır siyasi suçların görüşüldüğü ve bizzat Sultan’ın başkanlık ettiği yüksek mahkemeye ne ad verilir?",
+      "answer": "Divan-ı Mezalim"
+    },
+    {
+      "id": 86,
+      "question": "Karahanlılar döneminde şehirlere ne unvan verilirdi?",
+      "answer": "Ordu (Örn: Ordu-Balık)"
+    },
+    {
+      "id": 87,
+      "question": "Semerkant şehrinin unvanı nedir?",
+      "answer": "Şehirlerin Şahı"
+    },
+    {
+      "id": 88,
+      "question": "Buhara şehrinin unvanı nedir?",
+      "answer": "İslam’ın Roması"
+    },
+    {
+      "id": 89,
+      "question": "Kaşgar şehrinin unvanı nedir?",
+      "answer": "Işıldayan İnci"
+    },
+    {
+      "id": 90,
+      "question": "İsfahan şehrinin unvanı nedir?",
+      "answer": "Nısf-ı Cihan (Dünyanın Yarısı)"
+    },
+    {
+      "id": 91,
+      "question": "Kubbetü’l İslam (İslam’ın Kubbesi) olarak anılan üç şehir hangisidir?",
+      "answer": "Ahlat, Buhara, Belh"
+    },
+    {
+      "id": 92,
+      "question": "Babür İmparatorluğu döneminde Şah Cihan tarafından eşi Mümtaz Mahal için yaptırılan dünyanın 7 harikasından biri olan eser hangisidir?",
+      "answer": "Tac Mahal"
+    },
+    {
+      "id": 93,
+      "question": "Mısır’da kurulan Türk devletlerine genel olarak ne ad verilir?",
+      "answer": "Tevaif-i Mülük (Abbasilerin zayıflamasıyla ortaya çıkan devletçikler)"
+    },
+    {
+      "id": 94,
+      "question": "Selçuklularda hükümdar çocuklarını (Melik) yetiştirmekle görevli Atabeylerden, Musul’da kurulan ünlü Atabeylik hangisidir?",
+      "answer": "Zengiler"
+    },
+    {
+      "id": 95,
+      "question": "Saltuklular dönemine ait Erzurum’da bulunan ünlü anıt mezar hangisidir?",
+      "answer": "Üç Kümbetler"
+    },
+    {
+      "id": 96,
+      "question": "Mengücekliler dönemine ait, UNESCO Dünya Mirası listesinde yer alan eser hangisidir?",
+      "answer": "Divriği Ulu Camii ve Darüşşifası"
+    },
+    {
+      "id": 97,
+      "question": "Dünyanın en büyük taş kemerli köprüsü olan Artuklulara ait eser hangisidir?",
+      "answer": "Malabadi Köprüsü"
+    },
+    {
+      "id": 98,
+      "question": "İlk Türk denizcisi kabul edilen ve İzmir’de ilk Türk beyliğini kuran komutan kimdir?",
+      "answer": "Çaka Bey"
+    },
+    {
+      "id": 99,
+      "question": "Danişmentliler tarafından Tokat/Niksar’da kurulan, Anadolu’nun ilk medresesi hangisidir?",
+      "answer": "Yağıbasan Medresesi"
+    },
+    {
+      "id": 100,
+      "question": "Anadolu’da yapılan ilk cami hangisidir?",
+      "answer": "Diyarbakır Ulu Camii (Büyük Selçuklu döneminde kiliseden çevrilmiştir) veya Ebul Manucehr Camii (Ani Fethi sonrası)"
+    }
+  ]
+}

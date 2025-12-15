@@ -1,0 +1,79 @@
+{
+  "konu_adi": "34- OSMANLI FİKİR AKIMLARI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLI FİKİR AKIMLARI"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💡 Fikir Akımlarının Ortak Amacı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Nedenler: Fransız İhtilali'nin yaydığı milliyetçilik ve Avrupa'nın sürekli müdahalesi sonucu hızlanan dağılma sürecini durdurmaktır.",
+        "Amaç: İmparatorluğun dağılmasını engellemek, toprak bütünlüğünü korumak ve merkezi otoriteyi yeniden güçlendirmektir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Başlıca Osmanlı Fikir Akımları"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Osmanlıcılık (İttihad-ı Anasır)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Tüm Osmanlı vatandaşlarını eşit hak ve sorumluluklar çerçevesinde tek bir Osmanlı kimliği altında toplamayı amaçlar.",
+        "Savunucuları: Namık Kemal, Mithat Paşa (Jön Türkler).",
+        "Uygulama Alanı: Tanzimat Fermanı (1839), Islahat Fermanı (1856) ve Meşrutiyetler.",
+        "Başarısızlığı: 1878 Berlin Antlaşması sonrası Balkan uluslarının bağımsızlık kazanmasıyla bu akım başarısız olmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. İslamcılık (Ümmetçilik)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Tüm Müslümanları, Halife olan Osmanlı Padişahının çatısı altında birleştirerek Batı sömürgesine karşı direnç oluşturmayı amaçlar.",
+        "Savunucuları: II. Abdülhamit, Mehmet Akif Ersoy.",
+        "Uygulama Alanı: II. Abdülhamit döneminde Halifelik makamının siyasi güç olarak kullanılması ve Hicaz Demiryolu inşası.",
+        "Başarısızlığı: I. Dünya Savaşı'nda Halife'nin cihat çağrısının, Arap aşiretleri arasında beklenen etkiyi yaratmamasıyla önemini yitirmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Türkçülük (Turancılık)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Tüm Türkleri (Türk dili ve kültürü ortak paydasında) birleştirerek güçlü bir ulusal devlet oluşturmayı amaçlar.",
+        "Savunucuları: Ziya Gökalp, Yusuf Akçura.",
+        "Gelişimi: 20. yüzyılın başlarında siyasi bir akım olan Turancılığa (Tüm Türkleri tek bir bayrak altında toplama) dönüşmüştür.",
+        "Önemi: Türkiye Cumhuriyeti Devleti'nin kuruluşunda ve milli kimliğin oluşumunda en önemli ideolojik temel olmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Batıcılık"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Osmanlı'nın kurtulması için Batı medeniyetini (bilim, hukuk, yönetim) toptan alması gerektiğini savunan akımdır.",
+        "Savunucuları: Abdullah Cevdet, Tevfik Fikret.",
+        "Etkisi: Türkiye Cumhuriyeti'nin İnkılaplarının temel felsefesini oluşturmuştur."
+      ]
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Bu akımların başarısız olması, yöneticileri ve aydınları giderek daha dar (ulusal veya dini) kurtuluş formüllerine yöneltmiş, nihayetinde Türk milliyetçiliğinin yeni devletin temelini oluşturmasını sağlamıştır."
+    }
+  ]
+}

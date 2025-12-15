@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 38",
+  "examCode": "deneme_38",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 36)\n\n**İlk Çağdan Günümüze:** Hun İmparatorluğu'nun Çin'e karşı uyguladığı politika, asimilasyonu engellemeyi amaçlar. Türklerde yazılı olmayan hukuk kurallarına 'Töre' denir. Kutsal Topraklara (Hicaz) hakim olan ilk Türk devleti İhşidiler'dir. Türk-İslam mimarisinin ilk kervansarayları 'Ribat'lardır.\n\n**Osmanlı ve Islahatlar:** Fatih Sultan Mehmet, İstanbul'u fethettikten sonra 'Kayser-i Rum' unvanını kullanmıştır. Kapıkulu askerlerine verilen ikramiye 'Cülus Bahşişi'dir. Divan-ı Hümayun, Sadrazam'ın başkanlık etmesiyle 'Danışma Organı' haline gelmiştir. İlk geçici elçilik Lale Devri'nde Paris'te açılmıştır. II. Mahmut sonrası ordunun sevk ve yönetiminden 'Seraskerlik' sorumlu olmuştur. İlk kağıt para (Kaime) Sultan Abdülmecit döneminde basılmıştır. İlk daimi elçilik III. Selim döneminde açılmıştır.\n\n**Milli Mücadele ve Cumhuriyet:** I. Dünya Savaşı'nda Osmanlı'nın taarruz cepheleri Kaybedilen toprakları geri alma ve stratejik hedeflere ulaşmayı amaçlar. Mondros'un 7. maddesi işgallere hukuki dayanak oluşturur. Amasya Genelgesi milli egemenliği vurgulayan ilk belgedir. Temsil Heyeti, Ali Fuat Paşa'yı atayarak yürütme yetkisini kullanmıştır. Kurtuluş Savaşı'nın ilk zaferi I. İnönü'dür. Büyük Taarruz sonrası Fevzi Çakmak Mareşal olmuştur. Lozan'da Boğazlar'ın durumu tam bağımsızlığı zedelemiştir.\n\n**Çağdaş Dünya:** Truman Doktrini, ABD'nin SSCB tehdidi altındaki ülkelere yardım etme taahhüdüdür. NATO, 1949'da Batı Bloğu'nun askeri kanadını oluşturmuştur. Stalin döneminde Rusya'da tarımın kolektifleştirilmesi 'Kolkhoz' olarak bilinir.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Hun İmparatorluğu'nun en parlak dönemi olan Mete Han zamanında, Çin'e karşı uygulanan 'Çin'i vergiye bağla ama içine yerleşme' politikasının temel amacı nedir?",
+      "options": [
+        "Türklerin Çin kültürü içinde asimile olmasını engellemek",
+        "İpek Yolu'nu tamamen ele geçirmek",
+        "Çin'i diplomatik olarak aşağılamak",
+        "Çin ordusunu tamamen dağıtmak",
+        "Tarımı öğrenmek"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Türklerde yazılı hukukun gelişmemesinde en büyük etken olan ve yazılı olmayan kurallar bütününe ne ad verilir?",
+      "options": [
+        "Yarlıg",
+        "Kut",
+        "Balbal",
+        "Töre",
+        "Kurultay"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Mısır'da kurulan ve Kutsal Topraklara (Hicaz) hakim olan ilk Türk devleti hangisidir?",
+      "options": [
+        "Tolunoğulları",
+        "Memlükler",
+        "İhşidiler (Akşitler)",
+        "Eyyubiler",
+        "Harzemşahlar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Türk-İslam mimarisinin ilk kervansarayları sayılan ve başlangıçta sınır güvenliği (karakol) işlevi gören yapılar hangisidir?",
+      "options": [
+        "Kümbet",
+        "Bimarhane",
+        "Külliye",
+        "Ribat",
+        "Medrese"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde, İstanbul'u fetheden ve 'Kayser-i Rum' (Roma İmparatoru) unvanını kullanan padişah kimdir?",
+      "options": [
+        "Orhan Bey",
+        "I. Murat",
+        "Yıldırım Bayezid",
+        "Fatih Sultan Mehmet",
+        "Kanuni Sultan Süleyman"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde Kapıkulu askerlerine verilen, tahta çıkan her padişahın dağıtmak zorunda olduğu, bütçeye büyük yük getiren ikramiye nedir?",
+      "options": [
+        "Ulufe",
+        "Tımar",
+        "Arpalık",
+        "Cülus Bahşişi",
+        "Zeamet"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde 'Sadrazam'ın Divan'a başkanlık etmeye başlaması' ile Divan-ı Hümayun'un değişen temel rolü nedir?",
+      "options": [
+        "Mutlak otoriteyi güçlendirme",
+        "Yasama gücünü kullanma",
+        "Yönetimi laikleştirmeye başlama",
+        "Karar organı olmaktan çıkıp Danışma organı haline gelme",
+        "Merkezi otoriteyi zayıflatma"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Lale Devri'nde (1718-1730) Avrupa'yı yakından tanımak amacıyla kurulan ilk geçici elçilik hangi şehirdedir?",
+      "options": [
+        "Viyana",
+        "Londra",
+        "Paris",
+        "Moskova",
+        "Berlin"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde, II. Mahmut döneminde Yeniçeri Ocağı'nın kaldırılmasından sonra, ordunun yönetim ve sevk işlemlerinden sorumlu olan kurum hangisidir?",
+      "options": [
+        "Seraskerlik",
+        "Sadaret Kethüdalığı",
+        "Meclis-i Vâlâ-yı Ahkâm-ı Adliyye",
+        "Divan-ı Hümayun",
+        "Bab-ı Âli"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde ilk kağıt para (Kaime) hangi padişah döneminde bastırılmıştır?",
+      "options": [
+        "II. Mahmut",
+        "Sultan Abdülmecit",
+        "Sultan Abdülaziz",
+        "V. Mehmet Reşat",
+        "III. Selim"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde Batı tarzı ilk daimi (sürekli) elçilik hangi padişah döneminde açılmıştır?",
+      "options": [
+        "III. Ahmet",
+        "I. Mahmut",
+        "III. Selim",
+        "II. Mahmut",
+        "Sultan Abdülaziz"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı'nda Osmanlı Devleti'nin taarruz (saldırı) cephelerinin ortak amacı nedir?",
+      "options": [
+        "Sömürgecilik yapmak",
+        "Kaybedilen toprakları geri almak ve ekonomik/stratejik hedeflere ulaşmak",
+        "Hilafet gücünü kullanmak",
+        "Sadece müttefiklere yardım etmek",
+        "Batı cephelerindeki baskıyı hafifletmek"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması'ndan sonra işgal edilen ilk Osmanlı toprağı neresidir?",
+      "options": [
+        "İzmir",
+        "İstanbul",
+        "Musul",
+        "İskenderun",
+        "Antalya"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Milli Mücadele'nin gerekçesini, amacı ve yöntemini belirleyen, 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır' maddesiyle ulusal egemenliğe ilk kez vurgu yapılan belge hangisidir?",
+      "options": [
+        "Havza Genelgesi",
+        "Amasya Genelgesi",
+        "Erzurum Kongresi",
+        "Sivas Kongresi",
+        "Misak-ı Milli"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Temsil Heyeti'nin Sivas Kongresi'nden sonra Ali Fuat Paşa'yı Batı Cephesi Komutanlığı'na ataması, aşağıdakilerden hangisinin göstergesidir?",
+      "options": [
+        "Temsil Heyeti'nin yasama yetkisini kullandığının",
+        "Hükümet gibi yürütme yetkisini kullandığının",
+        "İstanbul Hükümeti'ni tanıdığının",
+        "Meclis-i Mebusan'ı açtığının",
+        "İtilaf Devletleri'yle barış yaptığının"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı'nda, Yunan ordusuna karşı Batı Cephesi'nde alınan ilk zafer hangisidir?",
+      "options": [
+        "II. İnönü Savaşı",
+        "I. İnönü Savaşı",
+        "Sakarya Meydan Muharebesi",
+        "Kütahya-Eskişehir Savaşları",
+        "Başkomutanlık Meydan Muharebesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Başkomutanlık Meydan Muharebesi'nin (Büyük Taarruz) kazanılmasından sonra, TBMM tarafından Mareşal rütbesi verilen komutan kimdir?",
+      "options": [
+        "Mustafa Kemal Paşa",
+        "İsmet İnönü",
+        "Kazım Karabekir",
+        "Fevzi Çakmak",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda 'Boğazlar' konusunda tam egemenliği zedeleyen ve uluslararası bir komisyon kurulmasını öngören kararın, Türkiye lehine çözümü hangi antlaşma ile sağlanmıştır?",
+      "options": [
+        "Kars Antlaşması",
+        "1930 Ahali Antlaşması",
+        "Balkan Antantı",
+        "Montrö Boğazlar Sözleşmesi",
+        "Sadabat Paktı"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Tevhid-i Tedrisat Kanunu'nun (1924) kabul edilmesiyle ulaşılan temel amaç nedir?",
+      "options": [
+        "Yabancı okulların tamamını kapatmak",
+        "Eğitimi parasız hale getirmek",
+        "Eğitim ve öğretim birliğini sağlamak ve eğitimi laikleştirmek",
+        "Köy Enstitülerini kurmak",
+        "Üniversite reformunu gerçekleştirmek"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Türk Medeni Kanunu'nun (1926) İsviçre'den alınmasının temel nedeni nedir?",
+      "options": [
+        "Laik, pratik ve çağdaş olması",
+        "Türk kültürüne en uygun olması",
+        "Avrupa'daki tek örnek olması",
+        "İsviçre'nin Osmanlı'ya yakın olması",
+        "Tamamen dini esaslara dayanması"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Aşar Vergisinin (Öşür) kaldırılması (1925), aşağıdaki Atatürk ilkelerinden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Laiklik",
+        "Devletçilik",
+        "Milliyetçilik",
+        "Cumhuriyetçilik",
+        "Halkçılık"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Cumhuriyetin ilk yıllarında ortaya çıkan ve rejim karşıtı ilk büyük isyan olan Şeyh Said İsyanı'nın çıktığı yıl hangisidir?",
+      "options": [
+        "1923",
+        "1924",
+        "1925",
+        "1926",
+        "1930"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin dış politikada 'Yurtta Sulh, Cihanda Sulh' ilkesini benimsemesi, Türkiye'nin hangi karaktere sahip olmadığını gösterir?",
+      "options": [
+        "Bağımsız",
+        "Barışçı",
+        "Gerçekçi",
+        "Yayılmacı (İrredantist)",
+        "Statükocu"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Montrö Boğazlar Sözleşmesi'nin (1936) imzalanmasında, uluslararası ortamda Türkiye'nin lehine olan temel gelişme nedir?",
+      "options": [
+        "Sovyet Rusya'nın Montrö'ye karşı çıkması",
+        "İngiltere'nin, Türkiye'nin tezini desteklemesi",
+        "Yunanistan ile Nüfus Mübadelesi sorununun çözülmesi",
+        "Almanya ve İtalya'nın yayılmacı politikalarının dünya barışını tehdit etmesi",
+        "Sadabat Paktı'nın kurulması"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sonrasında ABD'nin, Sovyet tehdidi altındaki ülkelere (özellikle Türkiye ve Yunanistan'a) askeri ve ekonomik yardım yapmayı taahhüt ettiği doktrin hangisidir?",
+      "options": [
+        "Marshall Planı",
+        "Truman Doktrini",
+        "Eisenhower Doktrini",
+        "Monroe Doktrini",
+        "Atlantik Bildirisi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1949'da ABD öncülüğünde kurulan ve Batı Bloğu'nun askerî kanadını oluşturan uluslararası savunma örgütü hangisidir?",
+      "options": [
+        "Varşova Paktı",
+        "COMECON",
+        "NATO",
+        "Bağlantısızlar Hareketi",
+        "SEATO"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Sovyet Rusya'da Stalin döneminde uygulanan, köylülerin küçük topraklarının zorla birleştirilerek devlet çiftliklerine dönüştürülmesi (Kollektifleştirme) politikasına ne ad verilir?",
+      "options": [
+        "Glasnost",
+        "Perestroika",
+        "Kolkhoz",
+        "NEP (Yeni Ekonomi Politikası)",
+        "Büyük Temizlik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

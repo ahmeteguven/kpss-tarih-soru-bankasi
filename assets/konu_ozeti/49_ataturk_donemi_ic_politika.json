@@ -1,0 +1,91 @@
+{
+  "konu_adi": "49- ATATÜRK DÖNEMİ İÇ POLİTİKA (1923 – 1938)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ATATÜRK DÖNEMİ İÇ POLİTİKA"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Yeni Rejimin Kuruluşu (1923-1925)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Cumhuriyetin İlanı (29 Ekim 1923)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Neden: Meclis Hükümeti Sistemi'nden kaynaklanan sürekli hükümet krizleri ve rejimin belirsizliği.",
+        "Sonuç: Devletin adı Türkiye Cumhuriyeti oldu. Kabine Sistemi'ne geçilerek siyasi istikrar sağlandı.",
+        "İlkler: İlk Cumhurbaşkanı (Mustafa Kemal), İlk Başbakan (İsmet İnönü)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Halifeliğin Kaldırılması (3 Mart 1924)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Neden: Halifeliğin, Cumhuriyet ve laiklik yolunda atılacak inkılapların önündeki en büyük engel olması.",
+        "Sonuç: Laikliğe geçişin en büyük adımıdır. Aynı gün Tevhid-i Tedrisat Kanunu (Eğitim Birliği) kabul edilmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🗳️ Çok Partili Hayata Geçiş Denemeleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Cumhuriyet Halk Fırkası (CHF): Türkiye Cumhuriyeti'nin ilk siyasi partisidir (1923). Milli Mücadele kadrolarından oluşur."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Terakkiperver Cumhuriyet Fırkası (TCF): Türkiye Cumhuriyeti'nin ilk muhalefet partisidir (1924). Şeyh Said İsyanı'nın çıkması üzerine Takrir-i Sükûn Kanunu ile kapatılmıştır (1925)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Serbest Cumhuriyet Fırkası (SCF): Mustafa Kemal'in isteğiyle Fethi Okyar tarafından kurulmuştur (1930). Partinin rejim karşıtlarının toplanma merkezi haline gelmesi üzerine kendi isteğiyle kapatılmıştır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💥 Rejime Yönelik Tehditler"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Şeyh Said İsyanı (1925)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Neden: Halifeliğin kaldırılmasına karşı çıkan, gerici ve ayrılıkçı bir isyandır.",
+        "Sonuç: Takrir-i Sükûn Kanunu çıkarılmış, TCF kapatılmış ve isyanla uğraşıldığı sırada Musul, Ankara Antlaşması (1926) ile İngiltere'ye bırakılmıştır (İç isyanların dış politikaya olumsuz etkisi)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Diğer Olaylar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İzmir Suikastı (1926): Mustafa Kemal'e yönelik başarısız suikast girişimi. Eski İttihatçıların siyasi etkisinin tamamen sonlandırılmasına neden olmuştur.",
+        "Menemen Olayı (1930): Laik rejime karşı çıkan Derviş Mehmet'in başlattığı gerici ayaklanma. (Mustafa Fehmi Kubilay şehit edilmiştir.)"
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Atatürk Dönemi'nin Siyasi Mirası"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Atatürk dönemi iç politikası, zorlu koşullara rağmen laik, üniter ve ulusal egemenliğe dayalı Türkiye Cumhuriyeti'nin siyasi ve kurumsal altyapısını başarıyla tamamlamıştır."
+    }
+  ]
+}

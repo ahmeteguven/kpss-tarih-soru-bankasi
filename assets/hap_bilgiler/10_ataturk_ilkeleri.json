@@ -1,0 +1,505 @@
+{
+  "categoryName": "ATATÜRK İLKELERİ",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Atatürk’ün \"Egemenlik kayıtsız şartsız milletindir\" sözü doğrudan hangi ilkeyle ilgilidir?",
+      "answer": "Cumhuriyetçilik"
+    },
+    {
+      "id": 2,
+      "question": "Seçim, parti, meclis, demokrasi ve ulusal irade kavramları hangi ilkenin anahtar kelimeleridir?",
+      "answer": "Cumhuriyetçilik"
+    },
+    {
+      "id": 3,
+      "question": "Saltanatın kaldırılması (1922) öncelikle hangi ilkenin gereğidir?",
+      "answer": "Cumhuriyetçilik"
+    },
+    {
+      "id": 4,
+      "question": "Cumhuriyetin ilanı (1923) hangi ilkeyle doğrudan ilgilidir?",
+      "answer": "Cumhuriyetçilik"
+    },
+    {
+      "id": 5,
+      "question": "Halifeliğin kaldırılması (1924) hangi iki ilkeyle ilgilidir?",
+      "answer": "Laiklik ve Cumhuriyetçilik"
+    },
+    {
+      "id": 6,
+      "question": "Erkan-ı Harbiye’nin kaldırılarak ordunun siyasetten ayrılması hangi ilkeyi güçlendirir?",
+      "answer": "Cumhuriyetçilik"
+    },
+    {
+      "id": 7,
+      "question": "Kadınlara seçme ve seçilme hakkının verilmesi (1930-33-34) hangi iki ilkenin sonucudur?",
+      "answer": "Cumhuriyetçilik ve Halkçılık"
+    },
+    {
+      "id": 8,
+      "question": "Çok partili hayata geçiş denemeleri hangi ilkenin bir gereğidir?",
+      "answer": "Cumhuriyetçilik"
+    },
+    {
+      "id": 9,
+      "question": "Atatürk’ün \"Ne mutlu Türküm diyene\" sözü hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 10,
+      "question": "Türk, Tarih, Dil, Kültür, Bağımsızlık, Milli Birlik kavramları hangi ilkenin anahtar kelimeleridir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 11,
+      "question": "Kurtuluş Savaşı’nın kazanılması ve Misak-ı Milli’nin kabulü hangi ilkenin sonucudur?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 12,
+      "question": "TBMM’nin açılması (Milli bir meclis olması yönüyle) hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik (ve Cumhuriyetçilik)"
+    },
+    {
+      "id": 13,
+      "question": "İstiklal Marşı’nın kabulü hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 14,
+      "question": "Kabotaj Kanunu’nun çıkarılması (Türk denizlerinde işletme hakkı) hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 15,
+      "question": "Türk Tarih Kurumu ve Türk Dil Kurumu’nun kurulması hangi ilkenin doğrudan sonucudur?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 16,
+      "question": "Kapitülasyonların kaldırılması hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik (Ekonomik bağımsızlık)"
+    },
+    {
+      "id": 17,
+      "question": "Yabancı işletmelerin millileştirilmesi (Demiryolları vb.) hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik (ve Devletçilik)"
+    },
+    {
+      "id": 18,
+      "question": "Türk Harflerinin kabulü (Milli kültürün gelişimi açısından) hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik (ve İnkılapçılık)"
+    },
+    {
+      "id": 19,
+      "question": "\"İmtiyazsız, sınıfsız, kaynaşmış bir kitleyiz\" sözü hangi ilkeyi ifade eder?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 20,
+      "question": "Eşitlik, Adalet, Sosyal Devlet, Ayrıcalıkların Kaldırılması kavramları hangi ilkenin anahtar kelimeleridir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 21,
+      "question": "Aşar vergisinin kaldırılması (Köylüyü rahatlatması yönüyle) hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 22,
+      "question": "Soyadı Kanunu’nun kabul edilmesi ve unvanların (Ağa, Paşa vb.) kaldırılması hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 23,
+      "question": "Kılık Kıyafet Kanunu (Toplumsal eşitlik görünümü) hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 24,
+      "question": "Medeni Kanun’un kabulü (Kadın-Erkek eşitliği yönüyle) hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 25,
+      "question": "İlköğretimin zorunlu ve parasız olması hangi ilkenin gereğidir?",
+      "answer": "Halkçılık (Sosyal Devlet)"
+    },
+    {
+      "id": 26,
+      "question": "Millet Mektepleri’nin ve Halkevleri’nin açılması (Halka hizmet) hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 27,
+      "question": "Devlet hastanelerinin açılması ve sağlık hizmetlerinin yaygınlaştırılması hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 28,
+      "question": "Ekonomi, Yatırım, Banka, Fabrika, Planlı Kalkınma kavramları hangi ilkenin anahtar kelimeleridir?",
+      "answer": "Devletçilik"
+    },
+    {
+      "id": 29,
+      "question": "Özel sektörün yetersiz kaldığı durumlarda devletin ekonomiye müdahale etmesi hangi ilkedir?",
+      "answer": "Devletçilik"
+    },
+    {
+      "id": 30,
+      "question": "I. Beş Yıllık Sanayi Planı’nın hazırlanması hangi ilkenin sonucudur?",
+      "answer": "Devletçilik"
+    },
+    {
+      "id": 31,
+      "question": "Sümerbank ve Etibank’ın kurulması hangi ilkeyle ilgilidir?",
+      "answer": "Devletçilik"
+    },
+    {
+      "id": 32,
+      "question": "Çubuk Barajı’nın yapılması ve şeker fabrikalarının açılması hangi ilkeyle ilgilidir?",
+      "answer": "Devletçilik"
+    },
+    {
+      "id": 33,
+      "question": "Devlet Demiryolları’nın kurulması hangi ilkeyle ilgilidir?",
+      "answer": "Devletçilik"
+    },
+    {
+      "id": 34,
+      "question": "Devletçilik ilkesi Türkiye’de zorunlu olarak ne zaman uygulanmaya başlanmıştır?",
+      "answer": "1930’dan sonra (1929 Dünya Ekonomik Krizi ve özel sektörün yetersizliği nedeniyle)"
+    },
+    {
+      "id": 35,
+      "question": "Maden Tetkik Arama (MTA) Enstitüsü’nün kurulması hangi ilkeyle ilgilidir?",
+      "answer": "Devletçilik"
+    },
+    {
+      "id": 36,
+      "question": "Akıl, Bilim, Din ve Devlet işlerinin ayrılması, İnanç Özgürlüğü kavramları hangi ilkenin anahtar kelimeleridir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 37,
+      "question": "\"Hayatta en hakiki mürşit ilimdir\" sözü hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik (ve İnkılapçılık)"
+    },
+    {
+      "id": 38,
+      "question": "Saltanatın kaldırılması (Siyasi yetkinin dinden ayrılması yönüyle) hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 39,
+      "question": "Halifeliğin kaldırılması hangi ilkenin en önemli aşamasıdır?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 40,
+      "question": "Şer’iye ve Evkaf Vekaleti’nin kaldırılması hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 41,
+      "question": "Tevhid-i Tedrisat Kanunu (Eğitimin laikleşmesi) hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 42,
+      "question": "Medreselerin kapatılması hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 43,
+      "question": "Tekke, Zaviye ve Türbelerin kapatılması hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 44,
+      "question": "Medeni Kanun’un kabulü (Hukukun laikleşmesi) hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 45,
+      "question": "\"Devletin dini İslam’dır\" maddesinin anayasadan çıkarılması (1928) hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 46,
+      "question": "Milletvekili yemin şeklinin \"Vallahi\"den \"Namusum ve şerefim üzerine\" şeklinde değiştirilmesi hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 47,
+      "question": "Laiklik ilkesi anayasaya ne zaman girmiştir?",
+      "answer": "1937"
+    },
+    {
+      "id": 48,
+      "question": "Dinamizm, Çağdaşlaşma, Modernleşme, Sürekli Yenilik kavramları hangi ilkenin anahtar kelimeleridir?",
+      "answer": "İnkılapçılık"
+    },
+    {
+      "id": 49,
+      "question": "Bütün Atatürk ilkelerini kapsayan ve onları koruyup geliştiren temel ilke hangisidir?",
+      "answer": "İnkılapçılık"
+    },
+    {
+      "id": 50,
+      "question": "Şapka Kanunu ve Kılık Kıyafet değişikliği (Modern görünüm) hangi ilkeyle ilgilidir?",
+      "answer": "İnkılapçılık"
+    },
+    {
+      "id": 51,
+      "question": "Takvim, Saat, Rakam ve Ölçülerde yapılan değişiklikler (Batı ile uyum) hangi ilkeyle ilgilidir?",
+      "answer": "İnkılapçılık"
+    },
+    {
+      "id": 52,
+      "question": "Hafta tatilinin Cuma’dan Pazar’a alınması hangi ilkeyle ilgilidir?",
+      "answer": "İnkılapçılık"
+    },
+    {
+      "id": 53,
+      "question": "Latin harflerinin kabulü (Batı kültürüne açılma) hangi ilkeyle ilgilidir?",
+      "answer": "İnkılapçılık"
+    },
+    {
+      "id": 54,
+      "question": "Atatürk ilkeleri hangi yıl anayasaya girmiştir?",
+      "answer": "1937"
+    },
+    {
+      "id": 55,
+      "question": "Atatürk ilkelerinin parti programına (CHP) girmesi hangi yıl ve olayla olmuştur?",
+      "answer": "1931 (CHP Kurultayı)"
+    },
+    {
+      "id": 56,
+      "question": "\"Yurtta sulh, cihanda sulh\" sözü hangi ilkenin (Milliyetçiliğin barışçıl yönü) bir sonucudur?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 57,
+      "question": "Misak-ı İktisadi kararlarının alınması (Ekonomik bağımsızlık) hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 58,
+      "question": "Şer’i Mahkemelerin kapatılması hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 59,
+      "question": "Patrikhanenin siyasi ve hukuki yetkilerinin elinden alınması hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 60,
+      "question": "Maarif Teşkilatı Hakkında Kanun (Eğitim müfredatının laikleşmesi) hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 61,
+      "question": "Darülfünun’un kapatılıp İstanbul Üniversitesi’nin kurulması hangi ilkeyle ilgilidir?",
+      "answer": "İnkılapçılık (ve Laiklik)"
+    },
+    {
+      "id": 62,
+      "question": "Güzel Sanatlar Akademisi’nin (Sanayi-i Nefise) açılması ve sanatın desteklenmesi hangi ilkeyle ilişkilendirilebilir?",
+      "answer": "İnkılapçılık"
+    },
+    {
+      "id": 63,
+      "question": "Türk parasını koruma kanunu hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik (ve Devletçilik)"
+    },
+    {
+      "id": 64,
+      "question": "Demiryollarının millileştirilmesi hem Milliyetçilik hem de hangi ilkeyle ilgilidir?",
+      "answer": "Devletçilik"
+    },
+    {
+      "id": 65,
+      "question": "Atatürk’ün \"Köylü milletin efendisidir\" sözü hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 66,
+      "question": "Sosyal devlet anlayışı (Huzurevi, Çocuk Esirgeme Kurumu vb.) hangi ilkenin gereğidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 67,
+      "question": "Hukuk birliğinin sağlanması (Medeni Kanun) hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 68,
+      "question": "Kadın-Erkek eşitliğinin sağlanması hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 69,
+      "question": "Sınıf mücadelesini reddeden, toplumsal dayanışmayı savunan ilke hangisidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 70,
+      "question": "Milli egemenlik hangi iki ilkenin temelidir?",
+      "answer": "Cumhuriyetçilik ve Halkçılık"
+    },
+    {
+      "id": 71,
+      "question": "Atatürk’ün \"Bizi yanlış yola sevk eden soysuzlar bilirsiniz ki çok kere din perdesine bürünmüşler\" sözü hangi ilkenin önemini vurgular?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 72,
+      "question": "Atatürk’ün \"Bilelim ki milli benliğini bilmeyen milletler başka milletlere yem olurlar\" sözü hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 73,
+      "question": "Atatürk’ün \"Türk milleti zekidir, Türk milleti çalışkandır\" sözü hangi ilkeyi aşılar?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 74,
+      "question": "Atatürk’ün \"Dünyada her şey için; medeniyet için, hayat için, muvaffakiyet için en hakiki mürşit ilimdir\" sözü hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 75,
+      "question": "Batılılaşma ve Çağdaşlaşma denince akla gelen ilk ilke hangisidir?",
+      "answer": "İnkılapçılık"
+    },
+    {
+      "id": 76,
+      "question": "Cumhuriyet Halk Fırkası’nın amblemindeki \"Altı Ok\" neyi temsil eder?",
+      "answer": "Atatürk İlkelerini"
+    },
+    {
+      "id": 77,
+      "question": "Devletçilik ilkesi hangi ekonomik sisteme karşı bir alternatif olarak değil, Türkiye’nin şartlarından doğmuş özgün bir modeldir?",
+      "answer": "Liberalizm (ve Sosyalizmden farklıdır, karma ekonomiye yakındır)"
+    },
+    {
+      "id": 78,
+      "question": "Hangi ilke dogmatizmi (durağanlığı) reddeder?",
+      "answer": "İnkılapçılık (ve Laiklik)"
+    },
+    {
+      "id": 79,
+      "question": "Hangi ilke ırkçılığı reddeder?",
+      "answer": "Milliyetçilik (Atatürk milliyetçiliği ne ırkçı ne de ümmetçidir)"
+    },
+    {
+      "id": 80,
+      "question": "\"Türkiye Cumhuriyeti şeyhler, dervişler memleketi olamaz\" sözü hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 81,
+      "question": "Soyadı Kanunu’nda \"Türk\", \"Yılmaz\", \"Kaya\" gibi Türkçe isimlerin seçilmesi hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 82,
+      "question": "Soyadı Kanunu’nda ayrıcalık belirten unvanların yasaklanması hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 83,
+      "question": "Ezanın Türkçe okunması (bir dönem) hangi ilkenin sonucudur?",
+      "answer": "Milliyetçilik (Dilde Türkçeleşme)"
+    },
+    {
+      "id": 84,
+      "question": "Merkez Bankası’nın kurulması (Para basma yetkisinin devlete geçmesi) hangi ilkeyle ilgilidir?",
+      "answer": "Devletçilik (ve Milliyetçilik)"
+    },
+    {
+      "id": 85,
+      "question": "Atatürk Orman Çiftliği’nin devlete bağışlanması hangi ilke ruhuna uygundur?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 86,
+      "question": "Halkevleri’nin temel amacı olan \"kültür seviyesini artırmak\" hangi ilkeyle ilgilidir?",
+      "answer": "Halkçılık (ve Milliyetçilik)"
+    },
+    {
+      "id": 87,
+      "question": "Kabotaj Bayramı’nın kutlanması hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 88,
+      "question": "İzmir İktisat Kongresi’nde \"Yerli malı kullanılması\" kararı hangi ilkeyle ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 89,
+      "question": "Anayasa Mahkemesi’nin kararlarında Atatürk ilkelerine atıfta bulunması hangi kavramla ifade edilir?",
+      "answer": "Anayasal Başlangıç İlkeleri"
+    },
+    {
+      "id": 90,
+      "question": "Atatürk’ün \"Benim manevi mirasım ilim ve akıldır\" sözü hangi ilkeyle örtüşür?",
+      "answer": "Laiklik (ve İnkılapçılık)"
+    },
+    {
+      "id": 91,
+      "question": "Çok partili sisteme geçişin bir türlü başarılamaması (Menemen Olayı vb.) hangi ilkenin tam oturmadığını gösterir?",
+      "answer": "Cumhuriyetçilik"
+    },
+    {
+      "id": 92,
+      "question": "Atatürk’ün \"Öğretmenler! Yeni nesil sizin eseriniz olacaktır\" sözü hangi devrimin önemini vurgular?",
+      "answer": "Eğitim (Harf ve Tevhid-i Tedrisat) - İnkılapçılık"
+    },
+    {
+      "id": 93,
+      "question": "Milli Mücadele’nin \"Halkla beraber, halk için\" yapılması hangi ilkenin doğuşudur?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 94,
+      "question": "TBMM’nin \"Gazi\" unvanını kullanması (Gazilik unvanının Atatürk’e verilmesi) hangi duyguyla ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 95,
+      "question": "Saltanatın kaldırılmasıyla \"Milli Egemenlik\" önündeki en büyük engelin kalkması hangi ilkeyle ilgilidir?",
+      "answer": "Cumhuriyetçilik"
+    },
+    {
+      "id": 96,
+      "question": "Atatürk ilkelerinden hangisi \"Akılcılık ve Bilimsellik\" temelindedir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 97,
+      "question": "Atatürk ilkelerinden hangisi \"Milli Birlik ve Beraberlik\" temelindedir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 98,
+      "question": "Atatürk ilkelerinden hangisi \"İnsan ve İnsanlık Sevgisi\" (Yurtta sulh cihanda sulh) temelindedir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 99,
+      "question": "Tek dereceli seçim sistemine geçilmesi (1946) hangi ilkenin daha tam uygulanmasını sağlamıştır?",
+      "answer": "Cumhuriyetçilik (ve Halkçılık)"
+    },
+    {
+      "id": 100,
+      "question": "Hangi ilke, Türk toplumunun çağdaş uygarlık düzeyinin üzerine çıkmasını hedefler?",
+      "answer": "İnkılapçılık"
+    }
+  ]
+}

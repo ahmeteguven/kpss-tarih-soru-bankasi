@@ -1,0 +1,81 @@
+{
+  "konu_adi": "41- ERZURUM KONGRESİNİN ÖNEMİ VE MADDELERİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ERZURUM KONGRESİ (23 Temmuz – 7 Ağustos 1919)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🏛️ Kongrenin Toplanma Amacı ve Özelliği"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Toplanma Amacı (Bölgesel): Mondros'un 24. Maddesi'ne dayanarak Doğu Anadolu'da Ermeni Devleti kurulmasını engellemektir.",
+        "Katılım (Bölgesel): Kongreye sadece Doğu Anadolu illerinden gelen delegeler katılmıştır.",
+        "Özellik: Toplanış amacı bölgesel olmasına rağmen, aldığı kararların tüm yurdu kapsaması nedeniyle ulusal niteliktedir.",
+        "Mustafa Kemal'in Katılımı: Kongreye sivil olarak katılmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Erzurum Kongresi’nin Önemli Maddeleri ve Yorumları"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Ulusal Sınırlar ve Tam Bağımsızlık"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "\"Milli sınırlar içinde vatan bir bütündür, parçalanamaz.\" (Misak-ı Milli kararlarının temeli atılmıştır. İlk kez vatanın sınırları belirlenmiştir.)"
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "\"Manda ve Himaye kabul olunamaz.\" (Tam bağımsızlık ilkesi, ilk kez bu kongrede kesin olarak reddedilmiştir.)"
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "\"Yabancı işgal ve müdahalesine karşı, millet topyekûn kendini savunacaktır.\" (Direnişin bireysel değil, ulusal ve toplu bir mücadele olacağı vurgulanmıştır.)"
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Ulusal Egemenlik ve Hükümet Kurma"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "\"Kuvâ-yi Milliye'yi etkin, Milli İrade'yi hakim kılmak esastır.\" (Asıl amacın Milli İrade'yi (Egemenliği) yönetime taşımak olduğu belirtilmiştir; rejimin değiştirileceğinin açık işaretidir.)"
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "\"İstanbul Hükümeti, vatanı koruyamazsa, geçici bir hükümet kurulacaktır.\" (İlk kez yeni bir hükümet kurma gereği dile getirilmiştir.)"
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "\"Milli Meclis'in derhal toplanması ve hükümet işlerinin denetlenmesi için çalışılacaktır.\" (Milli İrade'nin meşruiyet kazanması için Meclis-i Mebusan'ın toplanması gerektiği vurgulanmıştır.)"
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Kongrenin Tarihi Önemi (İlkler)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Sivil Liderlik: Mustafa Kemal Paşa'nın sivil olarak katıldığı ilk kongredir.",
+        "Milli Sınır: Misak-ı Milli'nin temellerinin atıldığı ve milli sınırların ilk kez belirlendiği yerdir.",
+        "Manda Reddi: Manda ve himaye fikrinin ilk kez reddedildiği yerdir.",
+        "Temsil Heyeti: Milli Mücadele'nin ilk yürütme organı olan Temsil Heyeti (Doğu illerini temsil etmek üzere) burada kurulmuştur."
+      ]
+    }
+  ]
+}

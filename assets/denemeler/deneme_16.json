@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 16",
+  "examCode": "deneme_16",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 16)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı nedeniyle sınıf ayrımı (kölelik) görülmemiştir. İpek Yolu'na hakimiyet, Türk-Çin mücadelelerinin temel ekonomik sebebidir. Türk tarihinde 'Burslu Öğrencilik' sistemini ilk başlatan devlet Karahanlılar'dır. Büyük Selçuklu Devleti'nde Vezir Nizamülmülk tarafından kurulan Nizamiye Medreseleri, dönemin en büyük bilim ve siyaset merkezidir. Anadolu'nun tapusunun alındığı savaş 1176 Miryokefalon'dur.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde savaş alanında şehit düşen ilk ve tek Osmanlı padişahıdır. Fatih Sultan Mehmet, Kırım'ı alarak Karadeniz'i Türk Gölü haline getirmiştir. Kanuni döneminde Barbaros Hayrettin Paşa, Preveze Deniz Zaferi (1538) ile Akdeniz'i Türk Gölü yapmıştır. II. Mahmut döneminde (1838) imzalanan Balta Limanı Ticaret Antlaşması, Osmanlı ekonomisini dışa bağımlı hale getirmiştir. Tanzimat Fermanı'nın ilan edilmesinde 'Osmanlıcılık' fikri etkili olmuştur.\n\n**Milli Mücadele ve Cumhuriyet:** Amiral Bristol Raporu, İzmir'in işgalinin haksız olduğunu belirten ilk uluslararası rapordur. Amasya Genelgesi, Milli Mücadele'nin yol haritasını çizmiştir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiştir. Medeni Kanun, İsviçre'den alınmıştır. Hatay, Atatürk'ün 'Şahsi Meselem' dediği topraktır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk adının \"Miğfer\" anlamı, Türklerin ürettiği başlıkların şeklinden dolayı verilmiştir. Bu benzetmeyi yaparak Türk adını \"Miğfer\" olarak tanımlayan kaynak aşağıdakilerden hangisidir?",
+      "options": [
+        "Arap Kaynakları",
+        "Bizans Kaynakları",
+        "Çin Kaynakları",
+        "İran Kaynakları",
+        "Hint Kaynakları"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde toplumsal yapıyı oluşturan unsurların küçükten büyüğe doğru sıralanışı aşağıdakilerden hangisinde doğrudur?",
+      "options": [
+        "Oguş - Boy - Urug - Budun - İl",
+        "Oguş - Urug - Boy - Budun - İl",
+        "Urug - Oguş - Boy - İl - Budun",
+        "Boy - Oguş - Urug - Budun - İl",
+        "Oguş - Urug - Budun - Boy - İl"
+      ],
+      "correctOption": "B",
+      "solution": "Aile - Sülale - Boy - Millet - Devlet"
+    },
+    {
+      "id": 3,
+      "text": "751 yılında yapılan Talas Savaşı’nda Abbasilerin yanında yer alarak savaşın kazanılmasını sağlayan ve İslamiyet’i topluca kabul eden ilk Türk boyu hangisidir?",
+      "options": [
+        "Oğuzlar",
+        "Yağmalar",
+        "Karluklar",
+        "Çiğiller",
+        "Kıpçaklar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Türk-İslam devletleri arasında \"Resmi dili Türkçe\" olan ve Uygur alfabesini kullanmaya devam ederek milliyetçi özelliklerini koruyan devlet hangisidir?",
+      "options": [
+        "Gazneliler",
+        "Karahanlılar",
+        "Büyük Selçuklular",
+        "Tolunoğulları",
+        "Eyyubiler"
+      ],
+      "correctOption": "B",
+      "solution": "Gazneli ve Selçuklu'da bilim dili Arapça, edebiyat dili Farsçadır. Karahanlılar ise Türkçeyi esas almıştır."
+    },
+    {
+      "id": 5,
+      "text": "Yıldırım Bayezid döneminde İstanbul kuşatmalarına yardımcı olmak ve Boğaz geçişlerini kontrol etmek amacıyla yaptırılan hisarın adı nedir?",
+      "options": [
+        "Rumeli Hisarı (Boğazkesen)",
+        "Anadolu Hisarı (Güzelce)",
+        "Kilitbahir Kalesi",
+        "Seddülbahir Kalesi",
+        "Çimpe Kalesi"
+      ],
+      "correctOption": "B",
+      "solution": "Rumeli Hisarı'nı Fatih yaptırmıştır."
+    },
+    {
+      "id": 6,
+      "text": "Kanuni Sultan Süleyman’ın Hristiyan birliğini parçalamak ve Akdeniz ticaretini canlandırmak amacıyla 1535 yılında kapitülasyon (ticari ayrıcalık) verdiği devlet hangisidir?",
+      "options": [
+        "İngiltere",
+        "Hollanda",
+        "Venedik",
+        "Rusya",
+        "Fransa"
+      ],
+      "correctOption": "E",
+      "solution": "Venedik'e Fatih vermişti, Fransa'ya Kanuni verdi. Fransa kapitülasyonları daha kapsamlı ve politiktir."
+    },
+    {
+      "id": 7,
+      "text": "Divan-ı Hümayun’da adalet ve eğitim işlerinden sorumlu olan, Kadı ve Müderrislerin atamasını yapan divan üyesi kimdir?",
+      "options": [
+        "Nişancı",
+        "Defterdar",
+        "Kazasker (Kadıasker)",
+        "Şeyhülislam",
+        "Reisülküttab"
+      ],
+      "correctOption": "C",
+      "solution": "Günümüzün Adalet ve Milli Eğitim Bakanı gibidir."
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti’nin Rusya ile imzaladığı ve Kırım’ın Rusya’ya ait olduğunu kabul ettiği antlaşma hangisidir?",
+      "options": [
+        "Küçük Kaynarca",
+        "Aynalıkavak",
+        "Yaş",
+        "Bükreş",
+        "Edirne"
+      ],
+      "correctOption": "C",
+      "solution": "1792 - Bu antlaşma ile Dağılma dönemi başlamıştır."
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti’nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+      "options": [
+        "Dil birliği",
+        "Irk birliği",
+        "Din ve mezhep birliği",
+        "Toprak bütünlüğü",
+        "Ekonomik işbirliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan ilk belge (Sened-i İttifak) ile halkın yönetime katıldığı ilk belge (Kanun-i Esasi) sırasıyla hangi padişahlar döneminde gerçekleşmiştir?",
+      "options": [
+        "III. Selim - II. Abdülhamit",
+        "II. Mahmut - Abdülmecit",
+        "II. Mahmut - II. Abdülhamit",
+        "Abdülmecit - V. Mehmet Reşat",
+        "Abdülaziz - II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": "Sened-i İttifak 1808 (II. Mahmut), Kanun-i Esasi 1876 (II. Abdülhamit)."
+    },
+    {
+      "id": 11,
+      "text": "II. Abdülhamit’in İstibdat döneminde devleti dağılmaktan kurtarmak için uyguladığı resmi devlet politikası (Fikir Akımı) hangisidir?",
+      "options": [
+        "Osmanlıcılık",
+        "Batıcılık",
+        "İslamcılık (Ümmetçilik)",
+        "Türkçülük",
+        "Turancılık"
+      ],
+      "correctOption": "C",
+      "solution": "Halifelik gücünü kullanarak Müslümanları bir arada tutma çabası."
+    },
+    {
+      "id": 12,
+      "text": "Wilson İlkeleri’nde yer alan \"Her millet çoğunlukta olduğu bölgede kendi kaderini tayin etme hakkına sahiptir\" maddesi, Osmanlı topraklarında aşağıdakilerden hangisine zemin hazırlamıştır?",
+      "options": [
+        "Osmanlıcılık fikrinin güçlenmesine",
+        "Azınlıkların devlet kurma ümidiyle isyan etmelerine ve cemiyetler kurmalarına",
+        "Ekonomik kalkınmaya",
+        "Halifeliğin otoritesinin artmasına",
+        "Ordunun güçlenmesine"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması’ndan sonra işgal edilen ilk Osmanlı toprağı neresidir?",
+      "options": [
+        "İzmir",
+        "İstanbul",
+        "Musul",
+        "İskenderun",
+        "Antalya"
+      ],
+      "correctOption": "C",
+      "solution": "İngiltere tarafından işgal edilmiştir."
+    },
+    {
+      "id": 14,
+      "text": "Amasya Genelgesi’nin; \"Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır\" maddesi, Kurtuluş Savaşı’nın hangi özelliğini belirtir?",
+      "options": [
+        "Yöntemini ve Amacını",
+        "Liderini",
+        "Sadece gerekçesini",
+        "Tarihini",
+        "Gerekçesini"
+      ],
+      "correctOption": "A",
+      "solution": "Aynı zamanda \"Milletin kararı\" diyerek üstü kapalı olarak Cumhuriyet rejimine/Milli Egemenliğe işaret edilmiştir."
+    },
+    {
+      "id": 15,
+      "text": "Erzurum Kongresi’nde alınan \"Hristiyan azınlıklara siyasi hakimiyetimizi ve sosyal dengemizi bozacak ayrıcalıklar verilemez\" kararı, hangi belgeye bir tepkidir?",
+      "options": [
+        "Kanun-i Esasi",
+        "Sened-i İttifak",
+        "Tanzimat Fermanı",
+        "1921 Anayasası",
+        "Islahat Fermanı"
+      ],
+      "correctOption": "E",
+      "solution": "Islahat Fermanı ile verilen aşırı haklara tepki gösterilmiştir."
+    },
+    {
+      "id": 16,
+      "text": "TBMM’yi ve Misak-ı Milli’yi tanıyan ilk Müslüman devlet hangisidir?",
+      "options": [
+        "İran",
+        "Suriye",
+        "Irak",
+        "Mısır",
+        "Afganistan"
+      ],
+      "correctOption": "E",
+      "solution": "1 Mart 1921 Türk-Afgan Dostluk Antlaşması ile."
+    },
+    {
+      "id": 17,
+      "text": "Mustafa Kemal’in Başkomutan sıfatıyla, ordunun ihtiyaçlarını halktan karşılamak için çıkardığı emirlere ne ad verilir?",
+      "options": [
+        "Teşkilat-ı Esasiye",
+        "Hıyanet-i Vataniye",
+        "İskan Kanunu",
+        "Tekalif-i Milliye Emirleri",
+        "Takrir-i Sükun"
+      ],
+      "correctOption": "D",
+      "solution": "Milli Yükümlülükler."
+    },
+    {
+      "id": 18,
+      "text": "Lozan Antlaşması’nda Türkiye’nin savaş tazminatı olarak Yunanistan’dan aldığı yer neresidir?",
+      "options": [
+        "Batı Trakya",
+        "Selanik",
+        "Karaağaç",
+        "Girit",
+        "Midilli"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Türk Medeni Kanunu ile kadınlara verilen haklar arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "İstediği mesleğe girme hakkı",
+        "Boşanma hakkı",
+        "Mahkemede şahitlikte eşitlik",
+        "Milletvekili seçme ve seçilme hakkı",
+        "Mirasta erkekle eşit pay alma hakkı"
+      ],
+      "correctOption": "D",
+      "solution": "Siyasi haklar Medeni Kanun'da yoktur. Kadınlara siyasi haklar 1930, 1933 ve 1934 yıllarında anayasa değişikliği ile verilmiştir."
+    },
+    {
+      "id": 20,
+      "text": "Türkiye Cumhuriyeti’nin ilk açılan yükseköğretim kurumu (fakültesi) hangisidir?",
+      "options": [
+        "Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi",
+        "İstanbul Üniversitesi",
+        "Ankara Hukuk Mektebi",
+        "Gazi Eğitim Enstitüsü",
+        "Yüksek Ziraat Enstitüsü"
+      ],
+      "correctOption": "C",
+      "solution": "1925 yılında, hukuk devrimini yapacak savcı ve hakim yetiştirmek için açılmıştır."
+    },
+    {
+      "id": 21,
+      "text": "1924 Anayasası'nda 1928 yılında yapılan değişiklikle anayasadan çıkarılan madde hangisidir?",
+      "options": [
+        "\"Devletin dini İslam'dır.\"",
+        "\"Türkçe resmi dildir.\"",
+        "\"Türkiye Devleti bir Cumhuriyettir.\"",
+        "\"Başkent Ankara'dır.\"",
+        "\"Egemenlik kayıtsız şartsız milletindir.\""
+      ],
+      "correctOption": "A",
+      "solution": "Laikleşme yolunda atılan önemli bir adımdır."
+    },
+    {
+      "id": 22,
+      "text": "Serbest Cumhuriyet Fırkası’nın kurucusu Ali Fethi Okyar’ın, partiyi kendi isteğiyle feshetmesinin (kapatmasının) nedeni nedir?",
+      "options": [
+        "Partinin rejim karşıtlarının (Saltanat ve Hilafet yanlılarının) odağı haline gelmesi",
+        "Seçimleri kaybetmesi",
+        "Atatürk’ün partiyi kapatmasını istemesi",
+        "Ekonomik krizin bitmesi",
+        "Dış baskılar"
+      ],
+      "correctOption": "A",
+      "solution": "Menemen Olayı'ndan hemen önce, tehlikeyi sezerek kapatmıştır."
+    },
+    {
+      "id": 23,
+      "text": "Atatürk'ün sağlığında gerçekleşen ancak sonucunu (Türkiye'ye katıldığını) göremediği dış politika olayı hangisidir?",
+      "options": [
+        "Montrö",
+        "Sadabat Paktı",
+        "Hatay'ın Anavatana Katılması",
+        "Balkan Antantı",
+        "Milletler Cemiyeti üyeliği"
+      ],
+      "correctOption": "C",
+      "solution": "Bağımsız Hatay Cumhuriyeti'ni görmüş, ancak ilhakı görememiştir."
+    },
+    {
+      "id": 24,
+      "text": "Balkan Antantı'nın imzalanmasında en büyük tehdit olarak görülen devletler hangileridir?",
+      "options": [
+        "Rusya - ABD",
+        "İngiltere - Fransa",
+        "Yunanistan - Bulgaristan",
+        "Almanya - İtalya",
+        "İspanya - Portekiz"
+      ],
+      "correctOption": "D",
+      "solution": "Revizyonist / Yayılmacı devletler."
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sırasında İngiltere Başbakanı olan ve \"Demir Perde\" tabirini kullanarak Soğuk Savaş'ın sinyalini veren lider kimdir?",
+      "options": [
+        "Chamberlain",
+        "Winston Churchill",
+        "Tony Blair",
+        "Thatcher",
+        "Clement Attlee"
+      ],
+      "correctOption": "B",
+      "solution": "Savaşın başında Chamberlain vardı, sonra efsanevi lider Churchill geldi, savaşın sonunda seçimle Attlee geldi."
+    },
+    {
+      "id": 26,
+      "text": "1948 yılında SSCB'nin Batı Berlin'i abluka altına alması üzerine, Batılı devletlerin şehri havadan beslemek için kurdukları lojistik operasyona ne ad verilir?",
+      "options": [
+        "Normandiya Çıkarması",
+        "Berlin Hava Köprüsü",
+        "Özgürlük Yolu",
+        "Barbarossa Harekatı",
+        "Demir Perde Operasyonu"
+      ],
+      "correctOption": "B",
+      "solution": "(Berlin Buhranı.)"
+    },
+    {
+      "id": 27,
+      "text": "ABD'nin Ortadoğu'daki Sovyet etkisini kırmak ve bölge ülkelerine askeri/ekonomik yardım yapmak amacıyla 1957'de yayımladığı doktrin hangisidir?",
+      "options": [
+        "Monroe Doktrini",
+        "Eisenhower Doktrini",
+        "Nixon Doktrini",
+        "Kennedy Doktrini",
+        "Truman Doktrini"
+      ],
+      "correctOption": "B",
+      "solution": "(Türkiye bu doktrini de kabul etmiştir.)"
+    }
+  ]
+}

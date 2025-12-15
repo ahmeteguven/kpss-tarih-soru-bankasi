@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 07",
+  "examCode": "deneme_07",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 07)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı nedeniyle sınıf ayrımı (kölelik) görülmemiştir. Uygurlar döneminde Maniheizm dininin kabul edilmesiyle savaşçılık özellikleri zayıflamıştır. Türk tarihinde 'Sultan' unvanını kullanan ilk hükümdar, Hindistan'a 17 sefer düzenleyen Gazneli Mahmut'tur. Anadolu'nun Türk yurdu olduğunun kesinleştiği savaş 1176 Miryokefalon'dur. Robotik biliminin kurucusu kabul edilen El-Cezeri, Artuklular döneminde yaşamıştır.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde Pençik Sistemi uygulanmış, Fatih döneminde Divan'a Sadrazam başkanlık etmiştir. Yavuz Sultan Selim döneminde Turnadağ Savaşı (1515) ile Anadolu Türk Birliği kesin olarak sağlanmıştır. Osmanlı'da Batı'nın üstünlüğünün kabul edildiği ilk antlaşma Pasarofça'dır (1718), bu antlaşma Lale Devri'ni başlatmıştır. II. Abdülhamit döneminin resmi politikası İslamcılık (Ümmetçilik)'tir.\n\n**Milli Mücadele ve Cumhuriyet:** Amasya Genelgesi'nde üstü kapalı olarak 'Milli Egemenlik' vurgusu yapılmıştır. Erzurum Kongresi'nde kurulan Temsil Heyeti, Sivas Kongresi'nde tüm yurdu temsil eder hale gelmiştir. Kütahya-Eskişehir Savaşları, düzenli ordunun tek yenilgisidir. Başkomutanlık Kanunu ile Mustafa Kemal, askerliğe geri dönmüştür. Harf İnkılabı'ndan sonra yeni harfleri öğretmek için Millet Mektepleri açılmıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "İskitlerin (Sakalar) Perslerle yaptıkları savaşlarda öne çıkan ve tarihteki ilk kadın hükümdar olarak bilinen liderleri kimdir?",
+      "options": [
+        "Ay Hatun",
+        "Tomris Hatun",
+        "Altuncan Hatun",
+        "Terken Hatun",
+        "Sümbül Hatun"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Uygurlar, Manihaizm dininin terimlerinin Türkçe karşılıklarını kullanmaya özen göstermişlerdir. Bu durum Uygurların aşağıdakilerden hangisine önem verdiğini gösterir?",
+      "options": [
+        "Ulusal benliklerini korumaya",
+        "Dini yaymaya",
+        "Savaşçı özelliklerini sürdürmeye",
+        "Çin ile iyi ilişkiler kurmaya",
+        "Ticareti geliştirmeye"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Hindistan’a 17 sefer düzenleyerek bölgede İslamiyet’in yayılmasını sağlayan ve bugünkü Pakistan-Hindistan Müslüman nüfusunun temellerini atan Türk hükümdarı kimdir?",
+      "options": [
+        "Babür Şah",
+        "Timur",
+        "Şah Cihan",
+        "Gazneli Mahmut",
+        "Sultan Mesut"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Sibernetiğin ve robotik biliminin kurucusu kabul edilen, \"Otomat\" adlı eserinde mekanik aletlerin çizimlerini yapan ünlü bilim insanı El-Cezeri hangi beylik döneminde yaşamıştır?",
+      "options": [
+        "Artuklular",
+        "Danişmentliler",
+        "Mengücekliler",
+        "Osmanlılar",
+        "Karahanlılar"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nin Venediklilerle yaptığı ilk deniz savaşı hangi padişah döneminde gerçekleşmiştir?",
+      "options": [
+        "Fatih Sultan Mehmet",
+        "Kanuni Sultan Süleyman",
+        "Yıldırım Bayezid",
+        "II. Murat",
+        "Çelebi Mehmet"
+      ],
+      "correctOption": "E",
+      "solution": "Çalı Bey Savaşı olarak bilinir ve Osmanlı kaybetmiştir."
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti’nde \"Müsadere\" (Devletin mala el koyması) usulünün kaldırılmasıyla aşağıdakilerden hangisi güvence altına alınmıştır?",
+      "options": [
+        "Can güvenliği",
+        "Askerlik hakkı",
+        "Eğitim hakkı",
+        "Seçme ve seçilme hakkı",
+        "Özel mülkiyet hakkı"
+      ],
+      "correctOption": "E",
+      "solution": "Mülkiyet hakkının güvenceye alınması, sermaye birikiminin önünü açmıştır."
+    },
+    {
+      "id": 7,
+      "text": "1774 yılında Rusya ile imzalanan ve Osmanlı tarihinin en ağır antlaşmalarından biri olan Küçük Kaynarca Antlaşması’nın en önemli sonucu nedir?",
+      "options": [
+        "Karadeniz’in Türk gölü olması",
+        "Kırım’ın bağımsız olması",
+        "Sırbistan’a özerklik verilmesi",
+        "Yunanistan’ın bağımsız olması",
+        "Mısır’ın kaybedilmesi"
+      ],
+      "correctOption": "B",
+      "solution": "İlk defa halkı Müslüman olan bir toprak kaybedildi."
+    },
+    {
+      "id": 8,
+      "text": "II. Abdülhamit’in, 93 Harbi’ndeki yenilgiyi ve meclis içindeki azınlık milletvekillerinin zararlı faaliyetlerini gerekçe göstererek kapattığı ve 33 yıl süren döneme ne ad verilir?",
+      "options": [
+        "Lale Devri",
+        "İstibdat Dönemi",
+        "Fetret Devri",
+        "Meşrutiyet Dönemi",
+        "Tanzimat Dönemi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti’nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+      "options": [
+        "Dil birliği",
+        "Irk birliği",
+        "Din ve mezhep birliği",
+        "Toprak bütünlüğü",
+        "Ekonomik işbirliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "II. Mahmut döneminde Divan-ı Hümayun kaldırılarak yerine bugünkü Bakanlar Kurulu (Kabine) sistemine benzeyen hangi kurum oluşturulmuştur?",
+      "options": [
+        "Heyet-i Vükela (Nazırlıklar)",
+        "Meclis-i Mebusan",
+        "Şura-yı Devlet",
+        "Divan-ı Ahkam-ı Adliye",
+        "Muhassıllık Meclisi"
+      ],
+      "correctOption": "A",
+      "solution": "Sadrazamlık \"Başvekalet\"e dönüşmüştür."
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan belgelerin kronolojik sıralaması nasıldır?",
+      "options": [
+        "Tanzimat - Islahat - Sened-i İttifak - Kanun-i Esasi",
+        "Sened-i İttifak - Tanzimat - Islahat - Kanun-i Esasi",
+        "Kanun-i Esasi - Sened-i İttifak - Tanzimat - Islahat",
+        "Tanzimat - Sened-i İttifak - Islahat - Kanun-i Esasi",
+        "Sened-i İttifak - Kanun-i Esasi - Tanzimat - Islahat"
+      ],
+      "correctOption": "B",
+      "solution": "1808 - 1839 - 1856 - 1876"
+    },
+    {
+      "id": 12,
+      "text": "Osmanlı Devleti, Trablusgarp Savaşı sırasında bölgeye karadan asker gönderememiştir. Bunun temel nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Donanmanın yetersiz olması",
+        "Balkan Savaşlarının başlaması",
+        "Ordunun terhis edilmiş olması",
+        "Bölge halkının İtalyanları desteklemesi",
+        "Mısır’ın İngiliz işgali altında olması"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Balkan Savaşları sonucunda kaybedilen topraklardan Anadolu’ya yoğun bir Türk göçü yaşanmıştır. Bu durum Osmanlı Devleti’nde aşağıdaki fikir akımlarından hangisinin güçlenmesine neden olmuştur?",
+      "options": [
+        "Osmanlıcılık",
+        "Batıcılık",
+        "Türkçülük",
+        "Adem-i Merkeziyetçilik",
+        "Ümmetçilik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Kurtuluş Savaşı’nın Gerekçesi, Amacı ve Yöntemi'nin belirlendiği ve Milli Mücadele’nin yol haritası olan belge hangisidir?",
+      "options": [
+        "Misak-ı Milli",
+        "Sivas Kongresi",
+        "Havza Genelgesi",
+        "Erzurum Kongresi",
+        "Amasya Genelgesi"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Temsil Heyeti'nin Ankara'ya gelmesinden sonra çıkardığı ve TBMM'nin yarı resmi yayın organı haline gelen gazete hangisidir?",
+      "options": [
+        "Açıksöz",
+        "Ceride-i Resmiye",
+        "Hakimiyet-i Milliye",
+        "Albayrak",
+        "İrade-i Milliye"
+      ],
+      "correctOption": "C",
+      "solution": "İrade-i Milliye Sivas'taydı, Ankara'da Hakimiyet-i Milliye oldu."
+    },
+    {
+      "id": 16,
+      "text": "Mudanya Ateşkes Antlaşması’na göre, barış antlaşması imzalanana kadar İtilaf Devletleri askerleri nerede kalmaya devam edecektir?",
+      "options": [
+        "Doğu Trakya",
+        "İstanbul ve Boğazlar",
+        "İzmir",
+        "Ankara",
+        "Antalya"
+      ],
+      "correctOption": "B",
+      "solution": "Yönetim TBMM'ye bırakılmış ancak askeri varlıkları barışa kadar sürmüştür."
+    },
+    {
+      "id": 17,
+      "text": "Sakarya Savaşı’ndan sonra imzalanan Kars Antlaşması ile Nahçıvan bölgesine \"özerklik\" verilmiş ve Türkiye garantör devlet olmuştur. Nahçıvan’ın Türkiye için önemini Mustafa Kemal hangi sözle ifade etmiştir?",
+      "options": [
+        "Kırk asırlık Türk yurdu",
+        "Şarkın kalesi",
+        "Namus davamız",
+        "Türk dünyasının kalbi",
+        "Türk Kapısı"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması’nın geçerlilik süresi ne kadardır?",
+      "options": [
+        "100 yıl",
+        "Süresizdir",
+        "20 yıl",
+        "50 yıl",
+        "II. Dünya Savaşı’na kadardır"
+      ],
+      "correctOption": "B",
+      "solution": "Lozan süreli bir antlaşma değildir, \"Gizli maddesi var, 100 yıl sonra bitecek\" iddiaları tarihsel gerçeklikle bağdaşmaz."
+    },
+    {
+      "id": 19,
+      "text": "1926 yılında Türkiye Cumhuriyeti, Türk Medeni Kanunu’nu hangi ülkeden uyarlayarak almıştır?",
+      "options": [
+        "Almanya",
+        "İsviçre",
+        "Fransa",
+        "İsveç",
+        "İtalya"
+      ],
+      "correctOption": "B",
+      "solution": "Pratik, laik ve demokratik olması nedeniyle."
+    },
+    {
+      "id": 20,
+      "text": "Millet Mektepleri'nin açılmasının en temel amaçlarından biri nedir?",
+      "options": [
+        "Çok partili hayata geçmek",
+        "İlköğretimi zorunlu kılmak",
+        "Yeni harfleri halka öğretmek ve okuryazarlık oranını artırmak",
+        "Türk Dil Kurumu'nu kurmak",
+        "Üniversite Reformu yapmak"
+      ],
+      "correctOption": "C",
+      "solution": "Bu mekteplerin açılmasıyla Atatürk'e Başöğretmen unvanı verilmiştir."
+    },
+    {
+      "id": 21,
+      "text": "Tekke, Zaviye ve Türbelerin kapatılması (1925); I. Laiklik II. Halkçılık III. Devletçilik ilkelerinden hangileriyle ilgilidir?",
+      "options": [
+        "Yalnız I",
+        "I ve III",
+        "I, II ve III",
+        "Yalnız II",
+        "I ve II"
+      ],
+      "correctOption": "E",
+      "solution": "Laiklik: Dini istismarın önlenmesi. Halkçılık: Şeyh, derviş gibi ayrıcalık bildiren unvanların kalkması ve eşitlik."
+    },
+    {
+      "id": 22,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne (Cemiyet-i Akvam) üye olması (1932) hangi dış politika ilkesinin bir sonucudur?",
+      "options": [
+        "Turancılık",
+        "Yalnızlık",
+        "İslamcılık",
+        "Yurtta Sulh Cihanda Sulh",
+        "Yayılmacılık"
+      ],
+      "correctOption": "D",
+      "solution": "Barışçı politika."
+    },
+    {
+      "id": 23,
+      "text": "Balkan Antantı'nın imzalanmasında en büyük tehdit olarak görülen devletler hangileridir?",
+      "options": [
+        "Rusya - ABD",
+        "İngiltere - Fransa",
+        "Yunanistan - Bulgaristan",
+        "Almanya - İtalya",
+        "İspanya - Portekiz"
+      ],
+      "correctOption": "D",
+      "solution": "Revizyonist / Yayılmacı devletler."
+    },
+    {
+      "id": 24,
+      "text": "Atatürk'ün sağlığında gerçekleşen ancak sonucunu (Türkiye'ye katıldığını) göremediği dış politika olayı hangisidir?",
+      "options": [
+        "Montrö",
+        "Sadabat Paktı",
+        "Hatay'ın Anavatana Katılması",
+        "Balkan Antantı",
+        "Milletler Cemiyeti üyeliği"
+      ],
+      "correctOption": "C",
+      "solution": "Bağımsız Hatay Cumhuriyeti'ni görmüş, ancak ilhakı görememiştir."
+    },
+    {
+      "id": 25,
+      "text": "1949 yılında ABD öncülüğünde kurulan ve \"Bir üyeye yapılan saldırı hepsine yapılmış sayılır\" ilkesine dayanan Batı Bloğu askeri ittifakı hangisidir?",
+      "options": [
+        "Avrupa Konseyi",
+        "CENTO",
+        "NATO (Kuzey Atlantik Paktı)",
+        "Birleşmiş Milletler",
+        "SEATO"
+      ],
+      "correctOption": "C",
+      "solution": "(Türkiye 1952'de üye olmuştur.)"
+    },
+    {
+      "id": 26,
+      "text": "Sovyet Rusya'nın (SSCB), Marshall Planı'na karşılık olarak Doğu Bloğu ülkeleriyle ekonomik işbirliğini sağlamak amacıyla kurduğu örgüt hangisidir?",
+      "options": [
+        "COMECON",
+        "Varşova Paktı",
+        "AET",
+        "COMINFORM",
+        "NATO"
+      ],
+      "correctOption": "A",
+      "solution": "(Karşılıklı Ekonomik Yardımlaşma Konseyi.)"
+    },
+    {
+      "id": 27,
+      "text": "1974 Kıbrıs Barış Harekatı sırasında Türkiye'nin Başbakanı ve Başbakan Yardımcısı (Koalisyon ortakları) kimlerdir?",
+      "options": [
+        "Nihat Erim - Bülent Ecevit",
+        "Bülent Ecevit - Necmettin Erbakan",
+        "Süleyman Demirel - Necmettin Erbakan",
+        "Süleyman Demirel - Turgut Özal",
+        "Bülent Ecevit - Alparslan Türkeş"
+      ],
+      "correctOption": "B",
+      "solution": "(CHP-MSP Koalisyonu.)"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 46",
+  "examCode": "deneme_46",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 44)\n\n**İlk Çağdan Günümüze:** Kırgızlara ait Yenisey Yazıtları en eski yazılı belgelerdendir. İslamiyet öncesi Türklerde hükümete 'Ayukı' denir. Türk-İslam mimarisinde cami merkezli yapı topluluğuna 'Külliye' adı verilir. Ahmet Yesevi, 'Divan-ı Hikmet' eseriyle tanınan Pîr-i Türkistan'dır.\n\n**Osmanlı ve Islahatlar:** Şeyh Edebali, Osman Bey'in kayınpederi ve manevi kurucudur. I. Ahmet 'Ekber ve Erşed' sistemini getirmiştir. Kanuni'nin son seferi Zigetvar'dır. Kasr-ı Şirin Antlaşması bugünkü İran sınırını belirler. Esnafın dükkan açma iznine 'Gedik' denir. Plevne Kahramanı Gazi Osman Paşa'dır. Lale Devri'nin ünlü minyatürcüsü Levni'dir.\n\n**Milli Mücadele ve Cumhuriyet:** Osmanlı'nın yardım cepheleri Galiçya, Romanya ve Makedonya'dır. Sykes-Picot Antlaşması ile Ortadoğu paylaşılmıştır. Sivas Kongresi'nin gazetesi İrade-i Milliye'dir. Misak-ı Milli'de ulusal egemenlik (rejim değişikliği) yoktur. Şark Fatihi Kazım Karabekir'dir. Büyük Taarruz'da hedef Akdeniz gösterilmiştir. Lozan'da On İki Ada İtalya'ya bırakılmıştır. Şapka Devrimi Kastamonu'da tanıtılmıştır. Kadınlara en son milletvekili seçme hakkı verilmiştir. Milli Korunma Kanunu II. Dünya Savaşı önlemidir. Türkçe ezan tepkisi Bursa Olayı'dır.\n\n**Çağdaş Dünya:** BM'nin kuruluş antlaşması San Francisco'da imzalanmıştır. Sputnik 1, uzay çağını başlatan ilk uydudur. 1950'de Demokrat Parti iktidara gelerek 'Beyaz Devrim' yapmıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Kırgızlara ait olan ve Türk tarihinin en eski yazılı belgelerinden biri sayılan, genellikle mezar taşlarından oluşan yazıtlar hangisidir?",
+      "options": [
+        "Orhun Yazıtları",
+        "Yenisey Yazıtları",
+        "Karabalgasun Yazıtları",
+        "Bugut Yazıtları",
+        "Moyun-Çur Yazıtları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde \"Hükümet\" (Bakanlar Kurulu) anlamına gelen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Toy",
+        "Ayukı",
+        "Yarlıg",
+        "Kurultay",
+        "Tamgacı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Türk-İslam mimarisinde cami, medrese, imaret, türbe, kütüphane gibi yapıların bir arada bulunduğu ve merkezinde genellikle caminin yer aldığı yapı topluluğuna ne ad verilir?",
+      "options": [
+        "Kümbet",
+        "Kervansaray",
+        "Bedesten",
+        "Külliye",
+        "Ribat"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "\"Pîr-i Türkistan\" olarak bilinen, Türk tasavvuf edebiyatının kurucusu sayılan ve \"Divan-ı Hikmet\" adlı eseri yazan mutasavvıf kimdir?",
+      "options": [
+        "Yunus Emre",
+        "Hacı Bektaş-ı Veli",
+        "Ahmet Yesevi",
+        "Mevlana",
+        "Edip Ahmet Yükneki"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nin kuruluş döneminde Osman Bey'in kayınpederi olan, Ahi teşkilatının lideri ve devletin manevi kurucusu kabul edilen şahsiyet kimdir?",
+      "options": [
+        "Şeyh Edebali",
+        "Dursun Fakih",
+        "Hacı Bayram-ı Veli",
+        "Akşemseddin",
+        "Molla Fenari"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde veraset sisteminde son ve kesin değişikliği yaparak \"Ekber ve Erşed\" (En yaşlı ve en akıllı) sistemini getiren padişah kimdir?",
+      "options": [
+        "I. Murat",
+        "Fatih Sultan Mehmet",
+        "I. Ahmet",
+        "IV. Murat",
+        "II. Osman"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Kanuni Sultan Süleyman'ın son seferi olan ve sefer sırasında vefat ettiği (1566) sefer hangisidir?",
+      "options": [
+        "Mohaç Seferi",
+        "Viyana Kuşatması",
+        "Zigetvar Seferi",
+        "Belgrad Seferi",
+        "Irakeyn Seferi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "1639 yılında İran ile imzalanan ve bugünkü Türkiye-İran sınırını büyük ölçüde belirleyen antlaşma hangisidir?",
+      "options": [
+        "Ferhat Paşa Antlaşması",
+        "Nasuh Paşa Antlaşması",
+        "Serav Antlaşması",
+        "Kasr-ı Şirin Antlaşması",
+        "Amasya Antlaşması"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde esnafın mesleki yeterliliğe ulaştığında aldığı, dükkan açma hakkı veya izni anlamına gelen belgeye ne ad verilir?",
+      "options": [
+        "İcazet",
+        "Berat",
+        "Gedik",
+        "Ferman",
+        "Narh"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "93 Harbi'nde (1877-1878 Osmanlı-Rus Savaşı) Plevne'de Ruslara karşı gösterdiği destansı direnişle \"Plevne Kahramanı\" unvanını alan komutan kimdir?",
+      "options": [
+        "Gazi Osman Paşa",
+        "Süleyman Hüsnü Paşa",
+        "Ahmet Muhtar Paşa",
+        "Nene Hatun",
+        "Fuat Paşa"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Lale Devri'nin en ünlü minyatür sanatçısı olan ve eserlerinde dönemin eğlence hayatını tasvir eden sanatçı kimdir?",
+      "options": [
+        "Matrakçı Nasuh",
+        "Nigari",
+        "Levni",
+        "Nakkaş Osman",
+        "Sinan Bey"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı'nda Osmanlı Devleti'nin kendi sınırları dışında müttefiklerine yardım etmek amacıyla asker gönderdiği cepheler (Yardım Cepheleri) hangileridir?",
+      "options": [
+        "Çanakkale - Suriye - Irak",
+        "Galiçya - Romanya - Makedonya",
+        "Kafkas - Kanal - Hicaz",
+        "Yemen - Filistin - Suriye",
+        "İran - Irak - Kafkas"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "I. Dünya Savaşı sırasında İtilaf Devletleri'nin kendi aralarında yaptıkları ve Ortadoğu (Arap) topraklarını paylaştıkları gizli antlaşma hangisidir?",
+      "options": [
+        "İstanbul Antlaşması",
+        "Londra Antlaşması",
+        "Sykes-Picot Antlaşması",
+        "St. Jean de Maurienne Antlaşması",
+        "Mac-Mahon Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Sivas Kongresi'nde alınan kararları halka duyurmak ve Milli Mücadele'yi savunmak amacıyla çıkarılan gazete hangisidir?",
+      "options": [
+        "İrade-i Milliye",
+        "Hakimiyet-i Milliye",
+        "Ceride-i Resmiye",
+        "Minber",
+        "Albayrak"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Son Osmanlı Mebusan Meclisi'nde kabul edilen Misak-ı Milli kararları içerisinde, aşağıdaki konulardan hangisiyle ilgili bir madde yer almaz?",
+      "options": [
+        "Boğazlar",
+        "Kapitülasyonlar",
+        "Azınlık Hakları",
+        "Sınırlar",
+        "Ulusal Egemenlik (Rejim değişikliği)"
+      ],
+      "correctOption": "E",
+      "solution": "Misak-ı Milli'de ulusal bağımsızlık hedeflenmiş, rejim değişikliğinden bahsedilmemiştir."
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı'nda Doğu Cephesi Komutanı olarak görev yapan, Gümrü Antlaşması'nı imzalayan ve \"Şark Fatihi\" olarak bilinen komutan kimdir?",
+      "options": [
+        "İsmet İnönü",
+        "Refet Bele",
+        "Kazım Karabekir",
+        "Ali Fuat Cebesoy",
+        "Rauf Orbay"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Mustafa Kemal Paşa'nın \"Ordular! İlk hedefiniz Akdeniz'dir, ileri!\" emrini verdiği savaş hangisidir?",
+      "options": [
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz (Başkomutanlık Meydan Muharebesi)",
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Kütahya-Eskişehir Savaşları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda, İtalya'ya bırakılması kararlaştırılan adalar grubu hangisidir?",
+      "options": [
+        "Bozcaada ve Gökçeada",
+        "Kıbrıs",
+        "On İki Ada (Menteşe Adaları)",
+        "Girit",
+        "Midilli ve Sakız"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Atatürk, Şapka Kanunu'nun kabulünden önce şapkayı halka tanıtmak amacıyla hangi ile gezi düzenlemiştir?",
+      "options": [
+        "İzmir",
+        "Konya",
+        "Kastamonu",
+        "Bursa",
+        "Samsun"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Türk kadınlarına siyasi hakların verilmesi sürecinde, kadınların elde ettiği en son hak hangisidir?",
+      "options": [
+        "Belediye seçimlerine katılma (1930)",
+        "Muhtarlık seçimlerine katılma (1933)",
+        "Milletvekili seçme ve seçilme (1934)",
+        "Mahkemede tanıklık (1926)",
+        "Mirasta eşitlik (1926)"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Tekke, Zaviye ve Türbelerin kapatılması (1925), Atatürk'ün en çok hangi ilkesiyle ilişkilidir?",
+      "options": [
+        "Devletçilik",
+        "Cumhuriyetçilik",
+        "Laiklik",
+        "İnkılapçılık",
+        "Milliyetçilik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Hatay Cumhuriyeti'nin kurulmasından sonra, Hatay'ın ilk ve tek Başbakanı kim olmuştur? (Cumhurbaşkanı Tayfur Sökmen ile karıştırılmamalıdır).",
+      "options": [
+        "Tayfur Sökmen",
+        "Abdurrahman Melek",
+        "Şükrü Saraçoğlu",
+        "Hasan Saka",
+        "Tevfik Rüştü Aras"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "II. Dünya Savaşı yıllarında (1940), Türkiye'de ekonomiyi denetim altına almak ve karaborsayı önlemek amacıyla çıkarılan kanun hangisidir?",
+      "options": [
+        "Varlık Vergisi Kanunu",
+        "Toprak Mahsulleri Vergisi",
+        "Milli Korunma Kanunu",
+        "Takrir-i Sükun Kanunu",
+        "Teşvik-i Sanayi Kanunu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "1933 yılında Bursa'da, ezanın Türkçe okunmasına karşı çıkan bir grubun başlattığı olay tarihe nasıl geçmiştir?",
+      "options": [
+        "Menemen Olayı",
+        "Şeyh Said İsyanı",
+        "Bursa Olayı",
+        "Vagon-Li Olayı",
+        "Razgrad Olayı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sonrasında dünya barışını ve güvenliğini korumak amacıyla 1945 yılında kurulan Birleşmiş Milletler (BM) Teşkilatı'nın kuruluş antlaşması hangi şehirde imzalanmıştır?",
+      "options": [
+        "New York",
+        "Yalta",
+        "San Francisco",
+        "Paris",
+        "Cenevre"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1957 yılında SSCB tarafından uzaya fırlatılan ve uzay çağını başlatan dünyanın ilk yapay uydusu hangisidir?",
+      "options": [
+        "Apollo 11",
+        "Sputnik 1",
+        "Vostok 1",
+        "Explorer 1",
+        "Luna 2"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Türkiye'de 1950 seçimlerini kazanarak 27 yıllık tek parti (CHP) iktidarına son veren ve \"Beyaz Devrim\" olarak adlandırılan değişimi gerçekleştiren parti hangisidir?",
+      "options": [
+        "Adalet Partisi",
+        "Demokrat Parti",
+        "Millet Partisi",
+        "Hürriyet Partisi",
+        "Milli Kalkınma Partisi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    }
+  ]
+}

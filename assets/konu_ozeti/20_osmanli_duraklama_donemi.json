@@ -1,0 +1,120 @@
+{
+  "konu_adi": "20- OSMANLI DURAKLAMA DÖNEMİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLI DURAKLAMA DÖNEMİ (17. Yüzyıl)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛑 Duraklama Döneminin Başlangıcı ve Tanımı"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Duraklama Dönemi, 1579 (Sokullu Mehmet Paşa'nın ölümü) ile başlar ve 1699 Karlofça Antlaşması'na kadar süren 17. yüzyılı kapsar. İmparatorluk, hala genişlemeye devam etse de, bozulmalar kendini göstermiştir."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Dönemin Genel Özellikleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Büyüme Hızının Düşmesi: İmparatorluk, doğal sınırlara ulaşmıştır ve coğrafi genişleme zorlaşmıştır.",
+        "Merkezi Otoritenin Zayıflaması: Padişahların yetersizliği, Kadınlar Saltanatı'nın yönetime karışması.",
+        "Ekonomik Sorunlar: Coğrafi Keşifler ve enflasyon nedeniyle ekonomi zayıflamıştır.",
+        "Islahat İhtiyacı: Yapılan ıslahatlar yüzeysel kalmış ve sorunların kökenine inilememiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📉 Duraklamanın Nedenleri (İç Nedenler)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "A. İç Nedenler (Merkez ve Taşra Yönetimindeki Bozulmalar)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Merkezi Yönetim: III. Mehmet döneminde Sancak Sistemi kaldırılarak Kafes Usulü getirilmiştir. Bu, Şehzadelerin devlet tecrübesinden yoksun kalmasına neden olmuştur."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Ordu Sistemi: Devşirme Sistemi'nin bozulması ve Yeniçerilerin disiplinsizliği (askerlik dışındaki işlerle uğraşmaları)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Maliye ve Ekonomi: Tımar Sistemi'nin bozulması, savaş masraflarının artması ve rüşvet/yolsuzluğun yaygınlaşması."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Eğitim ve Hukuk: Medreselerde pozitif bilimlerin ihmal edilmesi ve liyakatsiz kişilerin (Beşik Ulemalığı) girmesi."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "B. Dış Nedenler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Coğrafi Keşifler: İpek ve Baharat Yolu'nun önemini kaybetmesi ve gümrük gelirlerinin düşmesi.",
+        "Kapitülasyonlar: Batı devletlerine verilen ticari ayrıcalıkların yerli sanayiyi çökertmesi.",
+        "Avrupa'nın Güçlenmesi: Rönesans, Reform ve Aydınlanma hareketleriyle Batı'nın bilim, teknik ve ekonomide Osmanlı'yı geçmeye başlaması.",
+        "Enflasyon: Avrupa'ya akan bol miktardaki değerli madenler, Osmanlı piyasasında büyük bir enflasyona neden olmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Siyasi Gelişmeler ve Antlaşmalar"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Osmanlı-İran Savaşları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Ferhat Paşa Antlaşması (1590): Osmanlı'nın doğuda en geniş sınırlara ulaştığı antlaşmadır.",
+        "Kasr-ı Şirin Antlaşması (1639): Bugünkü Türkiye-İran sınırını büyük ölçüde çizen antlaşmadır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Osmanlı-Avusturya Savaşları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Zitvatorok Antlaşması (1606): Avusturya Arşidükü, artık Osmanlı Padişahı'na denk sayılmıştır. Bu, Osmanlı'nın Batı'daki üstünlüğünü kaybettiğini gösteren ilk diplomatik gelişmedir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Osmanlı-Lehistan Savaşları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hotin Antlaşması (1621): Genç Osman'ın Yeniçerileri kaldırma fikrinin doğmasına neden olmuştur.",
+        "Bucaş Antlaşması (1672): Osmanlı'nın Batı'da topraklarına toprak kattığı son antlaşmadır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Kutsal İttifak ve Karlofça Antlaşması"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "II. Viyana Kuşatması (1683): Osmanlı'nın Avrupa'daki son büyük taarruzudur.",
+        "Kutsal İttifak: Avrupa devletleri (Avusturya, Lehistan, Venedik, Rusya, Malta) Osmanlı'ya karşı bir cephe oluşturmuştur.",
+        "Karlofça Antlaşması (1699): Osmanlı'nın Batı'da ilk kez büyük çapta toprak kaybettiği antlaşmadır. Bu antlaşma ile Duraklama Dönemi sona ermiş, Gerileme Dönemi başlamıştır."
+      ]
+    }
+  ]
+}

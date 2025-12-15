@@ -1,0 +1,2453 @@
+{
+  "topicName": "Kurtuluş Savaşı Muharebeler Dönemi",
+  "testSets": [
+    {
+      "testName": "Mini Test - 1",
+      "preTestNote": "Doğu Cephesi:\nKomutan: 15. Kolordu Komutanı Kazım Karabekir. (Osmanlı'dan kalan dağıtılmamış düzenli birlik).\nDüşman: Ermeniler.\nGümrü Antlaşması (3 Aralık 1920): TBMM'nin ilk askeri ve siyasi başarısıdır. Ermenistan, Sevr'i reddeden ve TBMM'yi tanıyan ilk devlet olmuştur.\n\nDoğu Sınırı:\nGümrü: İlk şeklini aldı.\nMoskova (1921): Batum (ilk taviz) Gürcistan'a verilince şekillendi.\nKars (1921): Sakarya Zaferi'nden sonra Kafkas Cumhuriyetleri ile imzalandı ve sınır kesin halini aldı.\n\nGüney Cephesi:\nDüşman: Fransa ve onları destekleyen Ermeni İntikam Alayları.\nÖzellik: Burada düzenli ordu savaşmamıştır. Sadece Kuvayi Milliye (halk) direnişi vardır.\n\nKahramanlar:\nMaraş: Sütçü İmam, Rıdvan Hoca (\"Kalesinde bayrağı dalgalanmayan ülkede cuma namazı kılınmaz\").\nAntep: Şahin Bey, Şehit Kamil.\nUrfa: Yüzbaşı Ali Saip (Ursavaş) Bey.\nAdana: Yüzbaşı Osman (Tufan Bey).\n\nUnvanlar: Antep (Gazi-1921), Maraş (Kahraman-1973), Urfa (Şanlı-1984).\nKapanışı: Sakarya Zaferi'nden sonra Fransa ile imzalanan 1921 Ankara Antlaşması ile kapandı. Hatay (İskenderun Sancağı) sınırlarımız dışında kaldı (Misak-ı Milli'den ikinci taviz).",
+      "questions": [
+        {
+          "text": "Kurtuluş Savaşı’nda TBMM’nin açtığı ilk cephe ve kazandığı ilk askeri başarı aşağıdakilerden hangisidir?",
+          "options": [
+            "Batı Cephesi - I. İnönü",
+            "Güney Cephesi - Maraş Savunması",
+            "Doğu Cephesi - Ermenilere karşı zafer",
+            "Irak Cephesi - Kut'ül Amare",
+            "Galiçya Cephesi"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Doğu Cephesi’nde Ermenilere karşı mücadele eden 15. Kolordu’nun komutanı kimdir?",
+          "options": [
+            "İsmet İnönü",
+            "Ali Fuat Cebesoy",
+            "Kazım Karabekir",
+            "Refet Bele",
+            "Fevzi Çakmak"
+          ],
+          "correctOption": "C",
+          "solution": "İstiklal Harbimizin Şark Fatihi"
+        },
+        {
+          "text": "TBMM’nin uluslararası alanda imzaladığı ilk antlaşma hangisidir?",
+          "options": [
+            "Gümrü Antlaşması",
+            "Moskova Antlaşması",
+            "Ankara Antlaşması",
+            "Kars Antlaşması",
+            "Lozan Antlaşması"
+          ],
+          "correctOption": "A",
+          "solution": "3 Aralık 1920"
+        },
+        {
+          "text": "Gümrü Antlaşması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+          "options": [
+            "TBMM’nin ilk siyasi başarısıdır.",
+            "Ermenistan, Sevr Antlaşması’nın geçersiz olduğunu kabul etmiştir.",
+            "Ermenistan, Doğu Anadolu’daki toprak taleplerinden vazgeçmiştir.",
+            "Doğu sınırı kesin olarak çizilmiştir.",
+            "TBMM’yi tanıyan ilk devlet Ermenistan olmuştur."
+          ],
+          "correctOption": "D",
+          "solution": "Gümrü ile sınır şekillenmiş ancak kesin halini Kars Antlaşması ile almıştır."
+        },
+        {
+          "text": "Aşağıdaki cephelerin hangisinde düzenli ordu görev yapmamış, mücadele sadece Kuvayi Milliye birlikleri tarafından yürütülmüştür?",
+          "options": [
+            "Doğu Cephesi",
+            "Batı Cephesi",
+            "Kafkas Cephesi",
+            "Güney Cephesi",
+            "Trakya Cephesi"
+          ],
+          "correctOption": "D",
+          "solution": "Fransızlara karşı halk direnişi"
+        },
+        {
+          "text": "Güney Cephesi’nde Maraş savunmasının simge ismi olan ve Fransız askerlerine ilk kurşunu sıkan milli kahraman kimdir?",
+          "options": [
+            "Şahin Bey",
+            "Ali Saip Bey",
+            "Yörük Ali Efe",
+            "Demirci Mehmet Efe",
+            "Sütçü İmam"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Antep savunmasında \"Düşman cesedimi çiğnemeden Antep’e giremez\" diyerek şehit düşen Kuvayi Milliye komutanı kimdir?",
+          "options": [
+            "Karayılan",
+            "Sütçü İmam",
+            "Şahin Bey",
+            "Tufan Bey",
+            "Rıdvan Hoca"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Kurtuluş Savaşı’ndaki destansı direnişinden dolayı TBMM tarafından \"Gazi\" unvanı verilen ilk şehrimiz hangisidir?",
+          "options": [
+            "Maraş (1973)",
+            "Antep (1921)",
+            "Urfa (1984)",
+            "İzmir",
+            "Sakarya"
+          ],
+          "correctOption": "B",
+          "solution": "Savaş devam ederken unvan almıştır."
+        },
+        {
+          "text": "Güney Cephesi’ni sona erdiren ve Türkiye-Suriye sınırını (Hatay hariç) çizen antlaşma hangisidir?",
+          "options": [
+            "1921 Ankara Antlaşması",
+            "Moskova Antlaşması",
+            "Kars Antlaşması",
+            "Lozan Antlaşması",
+            "Gümrü Antlaşması"
+          ],
+          "correctOption": "A",
+          "solution": "Sakarya Savaşı'ndan sonra Fransa ile imzalanmıştır."
+        },
+        {
+          "text": "1921 Ankara Antlaşması ile Fransa mandasındaki Suriye’ye bırakılan ve Misak-ı Milli’den verilen ikinci taviz olan yer neresidir?",
+          "options": [
+            "Batum",
+            "Musul",
+            "Kerkük",
+            "Halep",
+            "Hatay (İskenderun Sancağı)"
+          ],
+          "correctOption": "E",
+          "solution": "İlk taviz Batum, ikinci taviz Hatay, üçüncü taviz Musul'dur."
+        },
+        {
+          "text": "Maraş Ulu Camii imamı Rıdvan Hoca'nın, \"Kalesinde hür bayrağı dalgalanmayan esir bir memlekette cuma namazı kılınmaz\" sözüyle ateşlediği olay hangi şehirde geçmiştir?",
+          "options": [
+            "Antep",
+            "Maraş",
+            "Urfa",
+            "Adana",
+            "Hatay"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Urfa’daki direnişi örgütleyen ve \"Namus\" cephesini kuran Kuvayi Milliye komutanı kimdir?",
+          "options": [
+            "Şahin Bey",
+            "Yüzbaşı Ali Saip (Ursavaş) Bey",
+            "Sütçü İmam",
+            "Topal Osman",
+            "İpsiz Recep"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Doğu sınırımızın kesin olarak çizildiği antlaşma hangisidir?",
+          "options": [
+            "Gümrü",
+            "Moskova",
+            "Ankara",
+            "Lozan",
+            "Kars"
+          ],
+          "correctOption": "E",
+          "solution": "Sakarya Savaşı'ndan sonra Sovyet Rusya'ya bağlı Azerbaycan, Ermenistan ve Gürcistan ile imzalanmıştır."
+        },
+        {
+          "text": "İngilizlerin I. Dünya Savaşı'ndan sonra işgal ettiği, ancak daha sonra aralarındaki paylaşım antlaşması (Suriye İtilafnamesi) gereği Fransızlara devrettiği şehirler hangileridir?",
+          "options": [
+            "Antep - Urfa - Maraş",
+            "Adana - Mersin",
+            "Kars - Ardahan",
+            "İzmir - Aydın",
+            "Musul - Kerkük"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "TBMM’yi ve Misak-ı Milli’yi tanıyan ilk Müslüman devlet hangisidir?",
+          "options": [
+            "İran",
+            "Suriye",
+            "Irak",
+            "Mısır",
+            "Afganistan"
+          ],
+          "correctOption": "E",
+          "solution": "1 Mart 1921 Türk-Afgan Dostluk Antlaşması ile."
+        },
+        {
+          "text": "Gümrü Antlaşması’nda \"Türkiye\" tabiri ilk kez uluslararası bir belgede kullanılmıştır. Bu antlaşma ile Ermenistan, Türkiye sınırları içindeki hangi dağ ile ilgili isteklerinden vazgeçmiştir?",
+          "options": [
+            "Ağrı Dağı",
+            "Erciyes",
+            "Süphan",
+            "Nemrut",
+            "Palandöken"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Güney Cephesi’nde Fransızlara karşı Adana (Çukurova) bölgesinde direnişi örgütleyen \"Tufan Bey\" takma adlı komutan kimdir?",
+          "options": [
+            "Şahin Bey",
+            "Çerkez Ethem",
+            "Ali Saip Bey",
+            "Yüzbaşı Osman",
+            "Yörük Ali"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "İstiklal Madalyası alan ilk yerleşim yerimiz (İlçe) hangisidir?",
+          "options": [
+            "Maraş",
+            "Urfa",
+            "Antep",
+            "Sakarya",
+            "İnebolu"
+          ],
+          "correctOption": "E",
+          "solution": "Kastamonu'nun İnebolu ilçesi, İstiklal Yolu'ndaki fedakarlıkları nedeniyle 1924'te almıştır. Şehir olarak ilk alan Maraş'tır - 1925."
+        },
+        {
+          "text": "Doğu Cephesi’nin kapanmasıyla buradaki birliklerin büyük kısmı hangi cepheye kaydırılmıştır?",
+          "options": [
+            "Batı Cephesi",
+            "Güney Cephesi",
+            "Irak Cephesi",
+            "Suriye Cephesi",
+            "Trakya Cephesi"
+          ],
+          "correctOption": "A",
+          "solution": "Batı Cephesi'ni güçlendirmek için."
+        },
+        {
+          "text": "Ankara Antlaşması’na göre Hatay’da \"Özel bir yönetim kurulacak, resmi dil Türkçe olacak ve Türk parası kullanılacak\" maddesinin konulma amacı nedir?",
+          "options": [
+            "Ekonomik kazanç sağlamak",
+            "Fransa ile savaşı devam ettirmek",
+            "İngiltere'ye mesaj vermek",
+            "Bölgedeki Türk kültürünü korumak ve ileride anavatana katılmasına zemin hazırlamak",
+            "Hatay'ı tamamen gözden çıkarmak"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Moskova Antlaşması (1921) ile Gürcistan'a bırakılan ve Misak-ı Milli'den verilen ilk taviz olan yer neresidir?",
+          "options": [
+            "Kars",
+            "Ardahan",
+            "Batum",
+            "Iğdır",
+            "Artvin"
+          ],
+          "correctOption": "C",
+          "solution": "Liman kenti olması ve Rusya'nın isteği üzerine bırakılmıştır."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Güney Cephesi'nde mücadele edilen Kuvayi Milliye birliklerinin özelliklerinden biri değildir?",
+          "options": [
+            "Bölgesel kurtuluşu amaçlamaları",
+            "İhtiyaçlarını halktan karşılamaları",
+            "TBMM tarafından atanan komutanlarca yönetilmeleri (Kısmen doğru olsa da emir-komuta zinciri tam değildir)",
+            "Düşmanı yurttan tamamen atıp kesin zafer kazanmaları",
+            "Düzensiz, sivil halktan oluşmaları"
+          ],
+          "correctOption": "D",
+          "solution": "Düşmanı oyalayıp yıpratmışlardır ancak kesin zafer ve antlaşma, Batı Cephesi'ndeki Sakarya Zaferi sonucunda gelmiştir."
+        },
+        {
+          "text": "Ermeni sorununun uluslararası alanda (hukuken) sona erdiğini gösteren ilk belge hangisidir?",
+          "options": [
+            "Sevr Antlaşması",
+            "Gümrü Antlaşması",
+            "Lozan Antlaşması",
+            "Kars Antlaşması",
+            "Paris Barış Konferansı"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Pozantı Kongresi (1920), Güney Cephesi'ndeki direnişi örgütlemek için toplanmıştır. Bu kongreye TBMM Başkanı sıfatıyla katılan devlet adamı kimdir?",
+          "options": [
+            "Kazım Karabekir",
+            "Fevzi Çakmak",
+            "Mustafa Kemal",
+            "Rauf Orbay",
+            "İsmet İnönü"
+          ],
+          "correctOption": "C",
+          "solution": "Mustafa Kemal ve Fevzi Çakmak katılmıştır."
+        },
+        {
+          "text": "TBMM’yi tanıyan ilk büyük Avrupa devleti (Batılı olmayan) hangisidir?",
+          "options": [
+            "Almanya",
+            "İtalya",
+            "Fransa",
+            "İngiltere",
+            "Sovyet Rusya"
+          ],
+          "correctOption": "B",
+          "solution": "Moskova Antlaşması ile. İlk İtilaf devleti ise Fransa'dır."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 2",
+      "preTestNote": "Düzenli Ordunun Kurulması:\nNeden: Kuvayi Milliye'nin düşmanı yurttan atacak güce sahip olmaması, disiplinsizlik ve Gediz Taarruzu başarısızlığı.\nKomutan: Ali Fuat Paşa Moskova'ya elçi atandı, yerine Albay İsmet Bey (İnönü) Batı Cephesi Komutanı oldu.\nİsyan: Düzenli orduya katılmak istemeyen Çerkez Ethem isyan etti.\n\nI. İnönü Savaşı (1921):\nNeden: Yunanlıların Çerkez Ethem isyanından yararlanıp Ankara'yı almak istemesi.\nSonuç: Düzenli ordunun ilk zaferi. İsmet Bey \"General\" oldu.\nSonuçları (Kod: MİLAT / TALİM):\nMoskova Antlaşması (Rusya ile).\nİstiklal Marşı'nın kabulü.\nLondra Konferansı (İtilaf Devletleri TBMM'yi resmen tanıdı).\nAfganistan Dostluk Antlaşması (İlk tanıyan Müslüman devlet).\nTeşkilat-ı Esasiye (1921 Anayasası - İlk Anayasa).\n\nII. İnönü Savaşı (1921):\nSonuç: Türk zaferi.\nÖnemi: Mustafa Kemal, İsmet Paşa'ya çektiği telgrafta: \"Siz orada yalnız düşmanı değil, milletin makus (kötü) talihini de yendiniz\" dedi.\nEtkisi: İtalya ve Fransa Anadolu'dan çekilme kararı aldı (Ancak Kütahya-Eskişehir yenilgisiyle durdular).\n\nKütahya-Eskişehir Savaşları (1921):\nSonuç: Tek yenilgi. Afyon, Kütahya, Eskişehir kaybedildi.\nÖnlem: Mustafa Kemal orduyu Sakarya Nehri'nin doğusuna çekti (Daha fazla kayıp vermemek için).\nKriz: Meclis'in Kayseri'ye taşınması tartışıldı.\nBaşkomutanlık: Mustafa Kemal'e 3 aylığına meclisin tüm yetkileri verildi (Askerliğe geri dönüş).\nTekalif-i Milliye: Ordunun ihtiyacı için halktan yardım toplama emirleri çıkarıldı.\nMaarif Kongresi: Savaş devam ederken toplanan eğitim kongresidir.",
+      "questions": [
+        {
+          "text": "Batı Cephesi’nde Kuvayi Milliye birliklerinin Yunanlılara karşı düzenlediği ve başarısızlıkla sonuçlanarak düzenli ordunun kurulmasını hızlandıran taarruz girişimi hangisidir?",
+          "options": [
+            "Gediz Taarruzu",
+            "Başkomutanlık Meydan Muharebesi",
+            "Aslıhanlar Taarruzu",
+            "Dumlupınar Savaşı",
+            "Koçgiri Harekatı"
+          ],
+          "correctOption": "A",
+          "solution": "Ali Fuat Paşa komutasında yapılmıştır."
+        },
+        {
+          "text": "Gediz Taarruzu’ndaki başarısızlığı nedeniyle Batı Cephesi Komutanlığı görevinden alınan ve Moskova Büyükelçiliği’ne atanan komutan kimdir?",
+          "options": [
+            "Refet Bele",
+            "Kazım Karabekir",
+            "Rauf Orbay",
+            "Fevzi Çakmak",
+            "Ali Fuat Cebesoy"
+          ],
+          "correctOption": "E",
+          "solution": "Yerine İsmet İnönü ve Refet Bele atanmıştır."
+        },
+        {
+          "text": "TBMM tarafından kurulan Düzenli Ordu’nun Batı Cephesi’nde kazandığı ilk askeri zafer hangisidir?",
+          "options": [
+            "Sakarya Meydan Muharebesi",
+            "II. İnönü Savaşı",
+            "Büyük Taarruz",
+            "I. İnönü Savaşı",
+            "Başkomutanlık Meydan Muharebesi"
+          ],
+          "correctOption": "D",
+          "solution": "Yunanlıların ilerleyişi durdurulmuştur."
+        },
+        {
+          "text": "I. İnönü Savaşı sırasında düzenli orduyu arkadan vurarak Yunanlıların işini kolaylaştıran Kuvayi Milliye lideri kimdir?",
+          "options": [
+            "Çerkez Ethem",
+            "Yörük Ali Efe",
+            "Demirci Mehmet Efe",
+            "Topal Osman",
+            "İpsiz Recep"
+          ],
+          "correctOption": "A",
+          "solution": "Düzenli orduya katılmayı reddedip isyan etmiştir."
+        },
+        {
+          "text": "I. İnönü Savaşı’nın uluslararası alandaki sonuçlarından biri olan ve TBMM’nin İtilaf Devletleri tarafından resmen ve hukuken tanındığı olay hangisidir?",
+          "options": [
+            "Paris Barış Konferansı",
+            "San Remo Konferansı",
+            "Moskova Antlaşması",
+            "Lozan Konferansı",
+            "Londra Konferansı"
+          ],
+          "correctOption": "E",
+          "solution": "TBMM, varlığını İtilaf devletlerine kabul ettirmiştir."
+        },
+        {
+          "text": "Londra Konferansı’nda İstanbul Hükümeti adına söz alan Tevfik Paşa’nın, \"Sözü milletin gerçek temsilcisi olan TBMM heyetine bırakıyorum\" demesi İtilaf Devletleri’nin hangi planını bozmuştur?",
+          "options": [
+            "Yunan ordusunu geri çekme",
+            "İstanbul’u işgal etme",
+            "Sevr’i aynen kabul ettirme",
+            "İki hükümet arasında ikilik çıkararak Sevr’i kabul ettirme",
+            "Saltanatı kaldırma"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "I. İnönü Savaşı’ndan sonra TBMM’yi tanıyan ilk büyük Avrupa devleti hangisidir?",
+          "options": [
+            "İngiltere",
+            "Almanya",
+            "Sovyet Rusya",
+            "Fransa",
+            "İtalya"
+          ],
+          "correctOption": "C",
+          "solution": "Moskova Antlaşması - 16 Mart 1921"
+        },
+        {
+          "text": "Moskova Antlaşması ile Batum’un Gürcistan’a bırakılması, aşağıdakilerden hangisinden verilen ilk taviz olarak kabul edilir?",
+          "options": [
+            "Kapitülasyonlardan",
+            "Halifelikten",
+            "Misak-ı Milli’den",
+            "Boğazlardan",
+            "Saltanattan"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "I. İnönü Savaşı’nın iç politikadaki en önemli hukuki sonucu nedir?",
+          "options": [
+            "Saltanatın kaldırılması",
+            "Cumhuriyetin ilanı",
+            "Halifeliğin kaldırılması",
+            "Medeni Kanun’un kabulü",
+            "Teşkilat-ı Esasiye’nin (1921 Anayasası) kabulü"
+          ],
+          "correctOption": "E",
+          "solution": "Yeni Türk Devleti’nin kuruluş belgesidir."
+        },
+        {
+          "text": "12 Mart 1921’de kabul edilen İstiklal Marşı, kime ithaf edilmiştir?",
+          "options": [
+            "Kahraman Türk Ordusuna",
+            "Türk Milletine",
+            "Şehitlere",
+            "TBMM’ye",
+            "Mustafa Kemal Atatürk’e"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "İstiklal Marşı’nın ilk kez yayınlandığı gazete ve dergi ikilisi hangisidir?",
+          "options": [
+            "İrade-i Milliye - Ülkü",
+            "Açıksöz - Sebilürreşad",
+            "Albayrak - Varlık",
+            "Ceride-i Resmiye - Türk Yurdu",
+            "Hakimiyet-i Milliye - Sebilürreşad"
+          ],
+          "correctOption": "B",
+          "solution": "Kastamonu'da çıkan Açıksöz gazetesi ve Mehmet Akif'in başyazarı olduğu Sebilürreşad dergisi."
+        },
+        {
+          "text": "Mustafa Kemal’in, \"Siz orada yalnız düşmanı değil, milletin makus (kötü) talihini de yendiniz\" telgrafını çektiği savaş hangisidir?",
+          "options": [
+            "I. İnönü Savaşı",
+            "II. İnönü Savaşı",
+            "Sakarya Savaşı",
+            "Büyük Taarruz",
+            "Kütahya-Eskişehir Savaşları"
+          ],
+          "correctOption": "B",
+          "solution": "İsmet Paşa'ya çekmiştir."
+        },
+        {
+          "text": "İtalya ve Fransa’nın Anadolu’dan çekilme kararı almaları (ancak henüz tamamen çekilmemeleri) hangi savaşın sonucunda başlamıştır?",
+          "options": [
+            "II. İnönü",
+            "Sakarya",
+            "I. İnönü",
+            "Büyük Taarruz",
+            "Başkomutanlık Meydan Muharebesi"
+          ],
+          "correctOption": "A",
+          "solution": "Türk ordusunun gücünü görünce çekilme fikri oluşmuştur."
+        },
+        {
+          "text": "Düzenli Ordunun Batı Cephesi’nde aldığı tek yenilgi hangisidir?",
+          "options": [
+            "I. İnönü",
+            "Aslıhanlar",
+            "Kütahya-Eskişehir Savaşları",
+            "Sakarya",
+            "Büyük Taarruz"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Kütahya-Eskişehir Savaşları sonucunda kaybedilen şehirler arasında aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Afyon",
+            "Ankara",
+            "Kütahya",
+            "Eskişehir",
+            "Bilecik"
+          ],
+          "correctOption": "D",
+          "solution": "Ankara tehdit altına girmiş ama işgal edilmemiştir."
+        },
+        {
+          "text": "Kütahya-Eskişehir yenilgisi üzerine Mustafa Kemal, ordunun daha fazla kayıp vermesini önlemek için orduyu nereye çekmiştir?",
+          "options": [
+            "Sakarya Nehri’nin doğusuna",
+            "Kızılırmak’ın doğusuna",
+            "Menderes Nehri kıyısına",
+            "Konya Ovası’na",
+            "Gediz Nehri’nin batısına"
+          ],
+          "correctOption": "B",
+          "solution": "Polatlı civarına."
+        },
+        {
+          "text": "Kütahya-Eskişehir yenilgisinden sonra TBMM’de yaşanan en büyük tartışma konusu nedir?",
+          "options": [
+            "Barış antlaşması imzalamak",
+            "Düzenli ordunun dağıtılması",
+            "Meclis’in Kayseri’ye taşınması",
+            "Saltanatın geri getirilmesi",
+            "Sovyet Rusya’ya sığınmak"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’e, meclisin tüm yetkilerini 3 aylığına devreden kanun hangisidir?",
+          "options": [
+            "Hıyanet-i Vataniye Kanunu",
+            "Teşkilat-ı Esasiye Kanunu",
+            "Takrir-i Sükun Kanunu",
+            "Tekalif-i Milliye Kanunu",
+            "Başkomutanlık Kanunu"
+          ],
+          "correctOption": "E",
+          "solution": "5 Ağustos 1921"
+        },
+        {
+          "text": "Mustafa Kemal’in Amasya Genelgesi’nden sonra istifa ettiği askerlik mesleğine geri dönmesini sağlayan olay nedir?",
+          "options": [
+            "Sakarya Savaşı’nı kazanması",
+            "Başkomutanlık Kanunu’nun kabulü",
+            "Büyük Taarruz emrini vermesi",
+            "Mareşal rütbesi alması",
+            "TBMM başkanı seçilmesi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’in Başkomutan sıfatıyla, ordunun ihtiyaçlarını halktan karşılamak için çıkardığı emirlere ne ad verilir?",
+          "options": [
+            "Teşkilat-ı Esasiye",
+            "Hıyanet-i Vataniye",
+            "İskan Kanunu",
+            "Tekalif-i Milliye Emirleri",
+            "Takrir-i Sükun"
+          ],
+          "correctOption": "D",
+          "solution": "Milli Yükümlülükler."
+        },
+        {
+          "text": "Tekalif-i Milliye Emirleri’nin uygulanmasını sağlamak ve asker kaçaklarını önlemek için hangi mahkemeler tekrar göreve çağrılmıştır?",
+          "options": [
+            "Divan-ı Harp",
+            "İstiklal Mahkemeleri",
+            "Şer’iye Mahkemeleri",
+            "Nizamiye Mahkemeleri",
+            "Yüce Divan"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Kütahya-Eskişehir Savaşları’nın en şiddetli olduğu günlerde Mustafa Kemal’in Ankara’da topladığı, eğitime verdiği önemi gösteren kongre hangisidir?",
+          "options": [
+            "İktisat Kongresi",
+            "Tarih Kongresi",
+            "Dil Kongresi",
+            "Maarif (Eğitim) Kongresi",
+            "Sağlık Kongresi"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’e Başkomutanlık yetkisi verilmesine rağmen mecliste muhalefetin devam etmesi neyin göstergesidir?",
+          "options": [
+            "Meclis’in Mustafa Kemal’e güvenmediğinin",
+            "Savaşın kaybedildiğinin",
+            "Saltanat yanlılarının çoğunlukta olduğunun",
+            "Ordunun dağıldığının",
+            "Meclis’te demokratik bir ortamın olduğunun"
+          ],
+          "correctOption": "E",
+          "solution": "Savaş şartlarında bile farklı fikirlerin konuşulabilmesi demokrasinin kanıtıdır."
+        },
+        {
+          "text": "İtalya ve Fransa’nın Anadolu’dan çekilme kararını durdurup beklemeye geçmelerine neden olan gelişme hangisidir?",
+          "options": [
+            "Kütahya-Eskişehir Yenilgisi",
+            "Sakarya Zaferi",
+            "I. İnönü Zaferi",
+            "Lozan Antlaşması",
+            "Büyük Taarruz"
+          ],
+          "correctOption": "A",
+          "solution": "Türk ordusunun yenilmesi üzerine \"Acaba Sevr uygulanabilir mi?\" ümidiyle beklemişlerdir."
+        },
+        {
+          "text": "Tekalif-i Milliye Emirleri, hangi savaşa hazırlık amacıyla çıkarılmıştır? (Asıl etkisi hangi savaşta görülmüştür?)",
+          "options": [
+            "I. İnönü",
+            "II. İnönü",
+            "Kütahya-Eskişehir",
+            "Çanakkale",
+            "Sakarya Meydan Muharebesi (Hazırlık) - Büyük Taarruz (Tam etki)"
+          ],
+          "correctOption": "E",
+          "solution": "Sakarya öncesi çıkarılmış, asıl lojistik faydası Büyük Taarruz'da görülmüştür."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 3",
+      "preTestNote": "Sakarya Meydan Muharebesi (23 Ağustos - 13 Eylül 1921):\nÖzellikleri: 22 gün 22 gece sürmüştür. Çok fazla subay şehit olduğu için \"Subaylar Savaşı\" olarak bilinir. Mustafa Kemal bu savaşa \"Melhame-i Kübra\" (Büyük Kan Gölü/Kıyım) demiştir.\nStrateji: Mustafa Kemal, \"Hattı müdafaa yoktur, sathı müdafaa (alan savunması) vardır. O satıh bütün vatandır\" emrini vererek dünya savaş literatürüne yeni bir kavram kazandırmıştır.\nSonuçları:\n1683 II. Viyana Kuşatması'ndan beri süren geri çekilme sona erdi. (Artık taarruz sırası Türklerde).\nMustafa Kemal'e \"Gazi\" unvanı ve \"Mareşal\" rütbesi verildi.\nKars Antlaşması: Azerbaycan, Ermenistan, Gürcistan ile imzalandı. Doğu sınırı kesinleşti.\nAnkara Antlaşması (1921): Fransa ile imzalandı. Güney Cephesi kapandı. Hatay (İskenderun Sancağı) sınırlarımız dışında kaldı (Misak-ı Milli'den 2. Taviz).\nİtalya Anadolu'yu tamamen boşalttı.\n\nBüyük Taarruz (Başkomutanlık Meydan Muharebesi) (26 Ağustos - 9 Eylül 1922):\nHazırlık: Yaklaşık 1 yıl sürdü. Başkomutanlık yetkisi süresiz uzatıldı. Ordu merkezi Akşehir'e taşındı.\nSavaş: 26 Ağustos'ta Kocatepe'den başladı. 30 Ağustos'ta Dumlupınar'da Yunan ordusu imha edildi (Rum Sındığı Savaşı).\nEmir: \"Ordular! İlk hedefiniz Akdeniz'dir. İleri!\"\nSonuç: Yunan Başkomutanı Trikopis esir alındı. 9 Eylül'de İzmir kurtarıldı. Yunan ordusu denize döküldü. Batı Anadolu işgalden temizlendi. Fevzi Çakmak'a Mareşallik rütbesi verildi.",
+      "questions": [
+        {
+          "text": "Kurtuluş Savaşı’nda çok sayıda subayın şehit olması nedeniyle \"Subaylar Savaşı\" olarak da bilinen savaş hangisidir?",
+          "options": [
+            "I. İnönü",
+            "Kütahya-Eskişehir",
+            "Büyük Taarruz",
+            "Sakarya Meydan Muharebesi",
+            "Başkomutanlık Meydan Muharebesi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’in \"Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır\" emrini verdiği ve \"Topyekün Savaş\" taktiğini uyguladığı savaş hangisidir?",
+          "options": [
+            "Sakarya Meydan Muharebesi",
+            "Çanakkale Savaşı",
+            "Büyük Taarruz",
+            "Trablusgarp Savaşı",
+            "II. İnönü Savaşı"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Türk ordusunun 1683 II. Viyana Kuşatması’ndan beri devam eden geri çekilişinin sona erdiği ve savunmadan taarruza geçtiği savaş hangisidir?",
+          "options": [
+            "Preveze Deniz Savaşı",
+            "I. İnönü",
+            "Sakarya Meydan Muharebesi",
+            "Büyük Taarruz",
+            "93 Harbi"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal Paşa’ya TBMM tarafından \"Gazi\" unvanı ve \"Mareşal\" rütbesinin verildiği savaş hangisidir?",
+          "options": [
+            "I. İnönü Savaşı",
+            "Trablusgarp Savaşı",
+            "Büyük Taarruz",
+            "Çanakkale Savaşı",
+            "Sakarya Meydan Muharebesi"
+          ],
+          "correctOption": "E",
+          "solution": "19 Eylül 1921"
+        },
+        {
+          "text": "Sakarya Zaferi’nden sonra Sovyet Rusya’ya bağlı Azerbaycan, Ermenistan ve Gürcistan ile imzalanan ve Türkiye’nin doğu sınırını kesinleştiren antlaşma hangisidir?",
+          "options": [
+            "Gümrü Antlaşması",
+            "Kars Antlaşması",
+            "Moskova Antlaşması",
+            "Batum Antlaşması",
+            "Ankara Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Sakarya Zaferi’nden sonra Fransa ile imzalanan ve Güney Cephesi’ni resmen kapatan antlaşma hangisidir?",
+          "options": [
+            "1921 Ankara Antlaşması",
+            "1926 Ankara Antlaşması",
+            "Gümrü Antlaşması",
+            "Lozan Antlaşması",
+            "İstanbul Antlaşması"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "1921 Ankara Antlaşması ile Fransa mandasındaki Suriye’ye bırakılan ve Misak-ı Milli’den verilen ikinci taviz neresidir?",
+          "options": [
+            "Musul",
+            "Batum",
+            "Halep",
+            "Kerkük",
+            "Hatay (İskenderun Sancağı)"
+          ],
+          "correctOption": "E",
+          "solution": "Ancak burada özel bir yönetim kurulması ve Türk kültürünün korunması kabul edilmiştir."
+        },
+        {
+          "text": "İtalya, Anadolu’daki işgal ettiği yerleri (Antalya, Muğla, Konya çevresi) hangi savaştan sonra tamamen boşaltmıştır?",
+          "options": [
+            "I. İnönü",
+            "Kütahya-Eskişehir",
+            "Büyük Taarruz",
+            "II. İnönü",
+            "Sakarya Meydan Muharebesi"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’in çok kanlı geçtiği için \"Melhame-i Kübra\" (Büyük Kıyım/Kan Gölü) olarak nitelendirdiği savaş hangisidir?",
+          "options": [
+            "Büyük Taarruz",
+            "Sakarya Meydan Muharebesi",
+            "I. Dünya Savaşı",
+            "Balkan Savaşları",
+            "Çanakkale Savaşı"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Sakarya Zaferi’nden sonra TBMM ile \"Dostluk Antlaşması\" imzalayan Doğu Avrupa ülkesi hangisidir?",
+          "options": [
+            "Polonya",
+            "Romanya",
+            "Ukrayna",
+            "Bulgaristan",
+            "Macaristan"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Büyük Taarruz öncesinde Mustafa Kemal’e verilen Başkomutanlık yetkisinin süresiyle ilgili mecliste alınan karar nedir?",
+          "options": [
+            "3 ay daha uzatılması",
+            "Süresiz olarak uzatılması",
+            "Sona erdirilmesi",
+            "6 ay uzatılması",
+            "Yetkilerin Fevzi Çakmak’a devredilmesi"
+          ],
+          "correctOption": "B",
+          "solution": "Taarruz hazırlıklarının kesintiye uğramaması için süresiz uzatılmıştır."
+        },
+        {
+          "text": "Büyük Taarruz öncesinde ordunun taarruz eğitimini tamamlaması ve eksiklerin giderilmesi için yaklaşık ne kadar süre beklenmiştir?",
+          "options": [
+            "1 yıl",
+            "2 yıl",
+            "3 ay",
+            "6 ay",
+            "1 ay"
+          ],
+          "correctOption": "A",
+          "solution": "Sakarya 1921 Eylül, Büyük Taarruz 1922 Ağustos. \"Yarım hazırlıkla, yarım tedbirle yapılacak taarruz, hiç taarruz etmemekten daha kötüdür\" denilmiştir."
+        },
+        {
+          "text": "Mustafa Kemal’in \"Rum Sındığı Savaşı\" olarak adlandırdığı savaş hangisidir?",
+          "options": [
+            "Sakarya Savaşı",
+            "Dumlupınar Savaşı",
+            "I. İnönü Savaşı",
+            "Aslıhanlar Savaşı",
+            "Başkomutanlık Meydan Muharebesi (Büyük Taarruz)"
+          ],
+          "correctOption": "E",
+          "solution": "Sındık: Kırılma, yok olma, yenilgi anlamındadır."
+        },
+        {
+          "text": "Mustafa Kemal’in tarihi \"Ordular! İlk hedefiniz Akdeniz’dir. İleri!\" emrini verdiği savaş hangisidir?",
+          "options": [
+            "Çanakkale Savaşı",
+            "I. İnönü Savaşı",
+            "Trablusgarp Savaşı",
+            "Sakarya Savaşı",
+            "Büyük Taarruz"
+          ],
+          "correctOption": "C",
+          "solution": "30 Ağustos Zaferi'nden sonra kaçan Yunan ordusunu takip emridir."
+        },
+        {
+          "text": "Büyük Taarruz sırasında esir alınan Yunan Başkomutanı kimdir?",
+          "options": [
+            "Venizelos",
+            "Hacianestis",
+            "Papulas",
+            "Trikopis",
+            "Metaksas"
+          ],
+          "correctOption": "D",
+          "solution": "General Trikopis, Uşak yakınlarında esir alınmıştır."
+        },
+        {
+          "text": "Büyük Taarruz’daki başarılarından dolayı TBMM tarafından \"Mareşal\" rütbesi verilen ikinci komutanımız kimdir?",
+          "options": [
+            "İsmet İnönü",
+            "Fevzi Çakmak",
+            "Kazım Karabekir",
+            "Refet Bele",
+            "Ali Fuat Cebesoy"
+          ],
+          "correctOption": "B",
+          "solution": "Mustafa Kemal'den sonraki ikinci ve son Mareşalimizdir."
+        },
+        {
+          "text": "9 Eylül 1922’de Türk ordusunun İzmir’e girmesiyle ne sona ermiştir?",
+          "options": [
+            "Saltanat",
+            "Osmanlı Devleti",
+            "Batı Anadolu’daki Yunan işgali (Askeri Safha)",
+            "Halifelik",
+            "Kapitülasyonlar"
+          ],
+          "correctOption": "C",
+          "solution": "Kurtuluş Savaşı'nın sıcak çatışma dönemi fiilen bitmiştir."
+        },
+        {
+          "text": "Büyük Taarruz’un kazanılması ve Batı Anadolu’nun temizlenmesi üzerine Türk ordusu yönünü nereye çevirmiştir? (Bu durum Çanakkale Krizi'ne neden olmuştur).",
+          "options": [
+            "Hatay",
+            "Musul",
+            "Batum",
+            "Kıbrıs",
+            "İstanbul ve Çanakkale (Boğazlar bölgesi)"
+          ],
+          "correctOption": "E",
+          "solution": "İngiliz işgalindeki tarafsız bölgeye yönelmişlerdir."
+        },
+        {
+          "text": "Sakarya Savaşı’nda uygulanan \"Alan Savunması\" stratejisinin temel mantığı nedir?",
+          "options": [
+            "Düşmanı sınırda karşılamak",
+            "Belli bir hattı korumak, hat kırılırsa geri çekilmek",
+            "Sadece başkenti korumak",
+            "Vatanın her karış toprağını savunmak, çekilmek zorunda kalınsa bile hemen yeni bir savunma hattı kurmak",
+            "Gerilla savaşı yapmak"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Sakarya Savaşı sırasında atından düşerek kaburga kemiği kırılan, buna rağmen savaşı sedye üzerinden yöneten komutan kimdir?",
+          "options": [
+            "Mustafa Kemal",
+            "Fevzi Çakmak",
+            "İsmet İnönü",
+            "Refet Bele",
+            "Kazım Özalp"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "İngiltere, Sakarya Zaferi'nden sonra TBMM ile hangi konuda bir antlaşma yaparak geri adım atmıştır?",
+          "options": [
+            "Esir değişimi (Malta sürgünlerinin serbest bırakılması)",
+            "Musul'u verme",
+            "Kapitülasyonları kaldırma",
+            "İstanbul'u boşaltma",
+            "Sevr'i iptal etme"
+          ],
+          "correctOption": "A",
+          "solution": "Esir Mübadelesi Antlaşması ile Malta'daki Türk esirlerin tamamı serbest bırakılmıştır."
+        },
+        {
+          "text": "Kars Antlaşması'na imza atan devletler arasında aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Türkiye",
+            "Azerbaycan",
+            "Rusya (Doğrudan taraf değil, garantör/gözlemci konumundadır, imzalar Kafkas Cumhuriyetleri ile atılmıştır)",
+            "Ermenistan",
+            "Gürcistan"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Büyük Taarruz planlarının son şeklinin verildiği ve taarruz emrinin beklendiği şehir neresidir?",
+          "options": [
+            "Ankara",
+            "Konya",
+            "Kütahya",
+            "Akşehir",
+            "Afyon"
+          ],
+          "correctOption": "D",
+          "solution": "Batı Cephesi Karargahı buradaydı."
+        },
+        {
+          "text": "Yunan ordusunun Anadolu'daki macerası hangi olayla kesin olarak son bulmuştur?",
+          "options": [
+            "II. İnönü Savaşı",
+            "Büyük Taarruz ve İzmir'in Kurtuluşu",
+            "Sakarya Savaşı",
+            "Mudanya Ateşkesi",
+            "Lozan Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Büyük Taarruz'un kazanılması, İtilaf Devletleri'ni hangi antlaşmayı imzalamaya mecbur bırakmıştır?",
+          "options": [
+            "Sevr Antlaşması",
+            "Mudanya Ateşkes Antlaşması",
+            "Mondros Ateşkes Antlaşması",
+            "Gümrü Antlaşması",
+            "Moskova Antlaşması"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 4",
+      "preTestNote": "Mudanya Ateşkes Antlaşması (11 Ekim 1922):\nSüreç: Büyük Taarruz sonrası Türk ordusu Boğazlara yönelince İngiltere ile Çanakkale Krizi yaşandı. Savaşın eşiğinden dönülerek masaya oturuldu.\nKatılanlar: İsmet İnönü (TBMM), İngiltere, Fransa, İtalya. Yunanistan katılmadı, onu İngiltere temsil etti.\nKazanımlar (Savaşsız): Doğu Trakya, İstanbul ve Boğazlar savaş yapılmadan kurtarıldı.\nÖnemi: Osmanlı Devleti hukuken sona erdi (Çünkü başkent İstanbul, TBMM'ye bırakıldı).\nRefet Bele: Trakya Yüksek Komiseri olarak Doğu Trakya'yı teslim aldı.\n\nSaltanatın Kaldırılması (1 Kasım 1922):\nNeden: İtilaf Devletleri'nin Lozan'a hem TBMM'yi hem İstanbul Hükümeti'ni çağırıp ikilik çıkarmak istemesi.\nSonuç: Osmanlı Devleti resmen sona erdi.\n\nLozan Barış Antlaşması (24 Temmuz 1923):\nHeyet: İsmet İnönü (Başkan), Hasan Saka, Rıza Nur.\nTaviz Verilmeyen Konular: Ermeni Yurdu ve Kapitülasyonlar.\nKesinti: Görüşmeler anlaşmazlık (Musul, Borçlar, Kapitülasyonlar) yüzünden kesildi. Bu arada Türkiye'de İzmir İktisat Kongresi toplandı ve II. TBMM seçimleri yapıldı.\n\nÇözümler:\nSınırlar: Yunanistan (Meriç Nehri), Suriye (Ankara Antlaşması), Irak (Çözülemedi).\nKapitülasyonlar: Kaldırıldı (Ekonomik bağımsızlık).\nAzınlıklar: Hepsi Türk vatandaşı sayıldı (Dış müdahaleyi önlemek için).\nSavaş Tazminatı: Yunanistan'dan Karaağaç alındı.\nBoğazlar: Komisyon devam etti (Başkanı Türk). Asker bulundurmak yasak. (Egemenliği kısıtlayan maddedir).\nPatrikhane: İstanbul'da kalacak ama siyasi yetkisi olmayacak.\nOnaylayan: II. TBMM.",
+      "questions": [
+        {
+          "text": "Büyük Taarruz’dan sonra Türk ordusunun Boğazlar bölgesine yönelmesi üzerine İngiltere ile yaşanan gerginliğe ne ad verilir?",
+          "options": [
+            "Çanakkale Krizi",
+            "Musul Krizi",
+            "Ege Adaları Krizi",
+            "Boğazlar Sorunu",
+            "Bozkurt-Lotus Olayı"
+          ],
+          "correctOption": "A",
+          "solution": "Sıcak çatışmanın eşiğinden dönülmüştür."
+        },
+        {
+          "text": "Kurtuluş Savaşı’nın silahlı mücadelesini bitiren ve diplomatik safhasını başlatan ateşkes antlaşması hangisidir?",
+          "options": [
+            "Mondros",
+            "Mudanya",
+            "Sevr",
+            "Gümrü",
+            "Moskova"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Mudanya Ateşkes Antlaşması görüşmelerine hangi devlet doğrudan katılmamış, onu İngiltere temsil etmiştir?",
+          "options": [
+            "Fransa",
+            "Rusya",
+            "Yunanistan",
+            "İtalya",
+            "ABD"
+          ],
+          "correctOption": "C",
+          "solution": "Yunan gemisinde beklemişlerdir."
+        },
+        {
+          "text": "Mudanya Ateşkes Antlaşması ile savaş yapılmadan kurtarılan yerler aşağıdakilerden hangisidir?",
+          "options": [
+            "İzmir ve Aydın",
+            "Kars ve Ardahan",
+            "Batı Trakya ve Selanik",
+            "Doğu Trakya, İstanbul ve Boğazlar",
+            "Antalya ve Konya"
+          ],
+          "correctOption": "D",
+          "solution": "Diplomatik başarıdır."
+        },
+        {
+          "text": "Osmanlı Devleti’nin başkenti İstanbul’un ve Boğazların yönetiminin TBMM’ye bırakılmasıyla Osmanlı Devleti’nin hukuken sona erdiği antlaşma hangisidir?",
+          "options": [
+            "Lozan Barış Antlaşması",
+            "Ankara Antlaşması",
+            "Mondros Ateşkes Antlaşması",
+            "Moskova Antlaşması",
+            "Mudanya Ateşkes Antlaşması"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Doğu Trakya’yı (Edirne ve çevresi) Yunanlılardan teslim almak üzere TBMM tarafından \"Trakya Yüksek Komiseri\" olarak görevlendirilen komutan kimdir?",
+          "options": [
+            "Kazım Karabekir",
+            "Rauf Orbay",
+            "Ali Fuat Cebesoy",
+            "Fevzi Çakmak",
+            "Refet Bele"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "İtilaf Devletleri’nin Lozan Barış Konferansı’na hem TBMM’yi hem de İstanbul Hükümeti’ni birlikte çağırmaları üzerine TBMM’nin aldığı karar nedir?",
+          "options": [
+            "Saltanatı kaldırmak",
+            "Konferansa katılmamak",
+            "Cumhuriyeti ilan etmek",
+            "Halifeliği kaldırmak",
+            "Erken seçime gitmek"
+          ],
+          "correctOption": "A",
+          "solution": "1 Kasım 1922 - İkilik çıkmasını önlemek için."
+        },
+        {
+          "text": "Saltanatın kaldırılmasıyla Osmanlı Devleti hangi statüde sona ermiştir?",
+          "options": [
+            "Fiilen",
+            "Hukuken",
+            "Geçici olarak",
+            "Resmen",
+            "Kısmen"
+          ],
+          "correctOption": "D",
+          "solution": "Devletin rejimi ve adı tarihe karışmıştır."
+        },
+        {
+          "text": "Mustafa Kemal’in Lozan’a gidecek heyetten (İsmet İnönü’den) asla taviz verilmemesini istediği iki konu nedir?",
+          "options": [
+            "Boğazlar - Borçlar",
+            "Nüfus Mübadelesi - Yabancı Okullar",
+            "Kapitülasyonlar - Ermeni Yurdu (Doğu Anadolu)",
+            "Musul - Adalar",
+            "Savaş Tazminatı - Patrikhanenin durumu"
+          ],
+          "correctOption": "C",
+          "solution": "Bağımsızlık ve vatan bütünlüğü için."
+        },
+        {
+          "text": "Lozan Barış Antlaşması’nda çözülemeyen ve ikili görüşmelere (Türkiye-İngiltere) bırakılan tek sınır sorunu hangisidir?",
+          "options": [
+            "Suriye Sınırı",
+            "Yunanistan Sınırı",
+            "İran Sınırı",
+            "Bulgaristan Sınırı",
+            "Irak Sınırı (Musul Sorunu)"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Lozan’da Kapitülasyonların kesin olarak kaldırılmasıyla Türkiye neyi sağlamıştır?",
+          "options": [
+            "Askeri zaferi",
+            "Boğazlar üzerindeki tam hakimiyeti",
+            "Ekonomik ve adli bağımsızlığı",
+            "Musul’un alınmasını",
+            "Halifeliğin devamını"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması’nda Yunanistan sınırı hangi nehir olarak kabul edilmiştir?",
+          "options": [
+            "Sakarya",
+            "Meriç",
+            "Tunca",
+            "Gediz",
+            "Menderes"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye, Yunanistan’dan savaş tazminatı olarak (nakit para yerine) nereyi almıştır?",
+          "options": [
+            "Batı Trakya",
+            "Selanik",
+            "Midilli",
+            "Karaağaç (ve Bosnaköy)",
+            "Girit"
+          ],
+          "correctOption": "D",
+          "solution": "Edirne'nin bir mahallesidir."
+        },
+        {
+          "text": "Lozan’da bütün azınlıkların \"Türk vatandaşı\" sayılmasının temel amacı nedir?",
+          "options": [
+            "Nüfusu artırmak",
+            "Avrupalı devletlerin \"azınlık haklarını koruma\" bahanesiyle Türkiye’nin iç işlerine karışmasını önlemek",
+            "Asker sayısını artırmak",
+            "Ekonomiyi canlandırmak",
+            "Kültür birliğini sağlamak"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Lozan’da Fener Rum Patrikhanesi ile ilgili alınan karar nedir?",
+          "options": [
+            "İstanbul’da kalacak ancak \"Ekümenik\" (Evrensel) ve siyasi yetkileri olmayacak",
+            "Türkiye dışına çıkarılacak",
+            "Kapatılacak",
+            "Yunanistan’a bağlanacak",
+            "Heybeliada’ya taşınacak"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Lozan’da Boğazların yönetimi kime bırakılmıştır?",
+          "options": [
+            "Tamamen Türkiye’ye",
+            "Tamamen İngiltere’ye",
+            "Başkanı Türk olan uluslararası bir komisyona",
+            "Birleşmiş Milletler’e",
+            "Rusya’ya"
+          ],
+          "correctOption": "C",
+          "solution": "Bu madde Türkiye’nin egemenlik haklarını kısıtlamıştır. 1936 Montrö ile düzeltilecektir."
+        },
+        {
+          "text": "Lozan’da Osmanlı borçları nasıl bir çözüme kavuşturulmuştur?",
+          "options": [
+            "Osmanlı’dan ayrılan devletlere paylaştırılmış, Türkiye payına düşeni taksitler halinde ödemeyi kabul etmiştir.",
+            "Borçlar silinmiştir.",
+            "Türkiye hepsini ödemeyi kabul etmiştir.",
+            "İngiltere borçları üstlenmiştir.",
+            "Borçlar altın olarak ödenmiştir"
+          ],
+          "correctOption": "A",
+          "solution": "Duyun-u Umumiye idaresi de kaldırılmıştır."
+        },
+        {
+          "text": "Lozan görüşmeleri sırasında (kesintiye uğradığı dönemde) Türkiye’de seçimler yenilenmiştir. Buna göre Lozan Antlaşması’nı hangi meclis onaylamıştır?",
+          "options": [
+            "I. TBMM",
+            "Mebusan Meclisi",
+            "III. TBMM",
+            "Kurucu Meclis",
+            "II. TBMM"
+          ],
+          "correctOption": "E",
+          "solution": "Görüşmeleri I. TBMM başlatmış, antlaşmayı II. TBMM onaylamıştır."
+        },
+        {
+          "text": "Lozan Antlaşması’na göre Gökçeada ve Bozcaada kime bırakılmıştır?",
+          "options": [
+            "Yunanistan",
+            "İtalya",
+            "İngiltere",
+            "Fransa",
+            "Türkiye"
+          ],
+          "correctOption": "B",
+          "solution": "Çanakkale Boğazı'nın güvenliği için."
+        },
+        {
+          "text": "Lozan Konferansı’na sadece \"Boğazlar\" konusunda katılan devletler hangileridir?",
+          "options": [
+            "Sovyet Rusya ve Bulgaristan",
+            "ABD ve Japonya",
+            "Almanya ve Avusturya",
+            "İtalya ve Fransa",
+            "Romanya ve Yugoslavya"
+          ],
+          "correctOption": "C",
+          "solution": "Karadeniz'e kıyısı olan devletler olarak."
+        },
+        {
+          "text": "Türkiye’nin Lozan’da \"Yabancı Okullar\" konusunu bir \"İç mesele\" sayarak, tüm okulların Türk kanunlarına bağlanmasını sağlaması hangi devletle daha sonra sorun yaşamasına neden olmuştur?",
+          "options": [
+            "İngiltere",
+            "ABD",
+            "İtalya",
+            "Almanya",
+            "Fransa"
+          ],
+          "correctOption": "D",
+          "solution": "En çok Fransız okulu olduğu için."
+        },
+        {
+          "text": "Lozan Barış Antlaşması’nın geçerlilik süresi ne kadardır?",
+          "options": [
+            "100 yıl",
+            "Süresizdir",
+            "20 yıl",
+            "50 yıl",
+            "II. Dünya Savaşı’na kadardır"
+          ],
+          "correctOption": "B",
+          "solution": "Lozan süreli bir antlaşma değildir, \"Gizli maddesi var, 100 yıl sonra bitecek\" iddiaları tarihsel gerçeklikle bağdaşmaz."
+        },
+        {
+          "text": "Mustafa Kemal, İsmet İnönü’ye Lozan’daki başarısından dolayı nasıl teşekkür etmiştir?",
+          "options": [
+            "Lozan, Türk tarihinin bir dönüm noktasıdır.",
+            "Ordular ilk hedefiniz Akdeniz'dir.",
+            "Bu antlaşma, Türk milleti aleyhine asırlardan beri hazırlanmış büyük bir suikastın çökertilmesidir.",
+            "Geldikleri gibi giderler.",
+            "Ne mutlu Türküm diyene."
+          ],
+          "correctOption": "E",
+          "solution": "Nutuk’ta yer alan ifadesidir."
+        },
+        {
+          "text": "Lozan’da Nüfus Mübadelesi (Değişimi) dışında tutulan (yerleşik sayılan) Türkler ve Rumlar kimlerdir?",
+          "options": [
+            "İstanbul Rumları (Gökçeada, Bozcaada dahil) - Batı Trakya Türkleri",
+            "İzmir Rumları - Selanik Türkleri",
+            "Trabzon Rumları - Girit Türkleri",
+            "Ankara Rumları - Bulgaristan Türkleri",
+            "Kapadokya Rumları - Kıbrıs Türkleri"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Türkiye Cumhuriyeti’nin uluslararası alandaki varlığını ve bağımsızlığını tescilleyen \"Tapu Senedi\" niteliğindeki antlaşma hangisidir?",
+          "options": [
+            "Gümrü",
+            "Kars",
+            "Ankara",
+            "Lozan",
+            "Montrö"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 5",
+      "preTestNote": "Doğu Cephesi Detay:\nGümrü Antlaşması: Sevr'in geçersizliği ilk kez uluslararası bir belgede onaylandı.\nBatum Antlaşması: Gürcistan ile yapıldı. (Daha sonra Moskova Antlaşması ile Batum'u onlara verdik).\nDoğu Sınırı Kronolojisi: Gümrü (Ermeni) -> Moskova (Rusya/Batum Tavizi) -> Kars (Kafkas Cumhuriyetleri/Kesin Sınır). (Kod: GMK - Gazi Mustafa Kemal).\n\nGüney Cephesi Kahramanları (Detay):\nAntep: Şahin Bey (Teğmen Sait), Kılıç Ali (Mustafa Kemal tarafından gönderildi).\nMaraş: Sütçü İmam, Rıdvan Hoca, Arslan Bey.\nAdana: Tufan Bey (Yüzbaşı Osman).\nUrfa: Yüzbaşı Ali Saip (Ursavaş).\n\nKuvayi Milliye'den Düzenli Orduya Geçiş:\nGediz Taarruzu: Ali Fuat Paşa ve Çerkez Ethem'in Yunanlılara saldırıp başarısız olması.\nSonuç: Ali Fuat Paşa Moskova'ya atandı. Batı Cephesi ikiye ayrıldı (Batı: İsmet Bey, Güney: Refet Bele).\nBilecik Görüşmeleri: İstanbul Hükümeti (Ahmet İzzet Paşa) ile TBMM (M. Kemal) arasında yapıldı. İstanbul Hükümeti TBMM'yi tanıdı. (Bu görüşme I. İnönü öncesi siyasi bir hamledir).",
+      "questions": [
+        {
+          "text": "Kurtuluş Savaşı’nda Doğu Cephesi’nde kazanılan zaferden sonra, Ermenistan ile imzalanan Gümrü Antlaşması’nın en önemli siyasi sonucu nedir?",
+          "options": [
+            "Doğu sınırının kesinleşmesi",
+            "Sovyet Rusya’dan yardım alınması",
+            "Ermenilerin tazminat ödemesi",
+            "Sevr Antlaşması’nın geçersizliğinin ilk kez uluslararası bir belgede kabul edilmesi",
+            "Batum’un Türkiye’ye verilmesi"
+          ],
+          "correctOption": "D",
+          "solution": "Ermenistan, Sevr'deki haklarından vazgeçmiştir."
+        },
+        {
+          "text": "Türkiye’nin doğu sınırının belirlenmesinde etkili olan antlaşmaların kronolojik sıralaması aşağıdakilerden hangisidir? (Kod: GMK)",
+          "options": [
+            "Gümrü - Kars - Moskova",
+            "Kars - Gümrü - Moskova",
+            "Gümrü - Moskova - Kars",
+            "Moskova - Gümrü - Kars",
+            "Gümrü - Ankara - Kars"
+          ],
+          "correctOption": "C",
+          "solution": "Önce Ermenilerle Gümrü, sonra Ruslarla Moskova, en son Kafkas Cumhuriyetleri ile Kars."
+        },
+        {
+          "text": "Kurtuluş Savaşı sırasında Gürcistan ile imzalanan ve Batum’un geçici olarak Türkiye’ye bırakıldığı (ancak sonra Moskova ile kaybedildiği) antlaşma hangisidir?",
+          "options": [
+            "Batum Antlaşması",
+            "Kars Antlaşması",
+            "Gümrü Antlaşması",
+            "Moskova Antlaşması",
+            "Tiflis Antlaşması"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Güney Cephesi’nde Antep savunmasını örgütlemek üzere Mustafa Kemal Paşa tarafından bölgeye gönderilen komutan kimdir?",
+          "options": [
+            "Ali Saip Bey",
+            "Refet Bele",
+            "Kazım Özalp",
+            "Çerkez Ethem",
+            "Kılıç Ali Bey"
+          ],
+          "correctOption": "E",
+          "solution": "Şahin Bey ile birlikte mücadele etmiştir."
+        },
+        {
+          "text": "İstiklal Madalyası alan ilk şehrimiz Maraş iken, İstiklal Madalyası alan son şehrimiz (2008) hangisidir?",
+          "options": [
+            "Gaziantep",
+            "Şanlıurfa",
+            "İzmir",
+            "Kütahya",
+            "Afyon"
+          ],
+          "correctOption": "B",
+          "solution": "Şanlıurfa, 2008 yılında bu madalyayı almıştır."
+        },
+        {
+          "text": "Kuvayi Milliye birliklerinin kaldırılıp Düzenli Ordu’nun kurulmasının nedenleri arasında aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Yunan ilerleyişini durduramamaları (Gediz Taarruzu başarısızlığı)",
+            "Halktan zorla para ve yardım toplamaları",
+            "Suçluları kendi yöntemleriyle cezalandırmaları (Hukuk dışılık)",
+            "Merkezi otoriteden (TBMM) emir almamaları",
+            "İstanbul Hükümeti ile işbirliği yapmaları"
+          ],
+          "correctOption": "E",
+          "solution": "Kuvayi Milliye İstanbul Hükümeti ile işbirliği yapmamış, aksine ona karşı da mücadele etmiştir."
+        },
+        {
+          "text": "Batı Cephesi’nde Kuvayi Milliye’nin gerçekleştirdiği Gediz Taarruzu’nun başarısız olması üzerine Mustafa Kemal Paşa, Batı Cephesi’ni yeniden yapılandırmıştır. Bu yapılandırma sonucunda Batı Cephesi kime ve kime verilmiştir?",
+          "options": [
+            "Kuzey: İsmet İnönü - Güney: Refet Bele",
+            "Sadece İsmet İnönü’ye",
+            "Kuzey: Fevzi Çakmak - Güney: İsmet İnönü",
+            "Batı: Kazım Karabekir - Doğu: Ali Fuat Cebesoy",
+            "Sadece Refet Bele’ye"
+          ],
+          "correctOption": "A",
+          "solution": "Batı Cephesi ikiye bölünmüş, daha sonra İsmet İnönü komutasında birleştirilmiştir."
+        },
+        {
+          "text": "Gediz Taarruzu’ndan sonra Moskova Büyükelçiliği’ne atanan Ali Fuat Cebesoy, burada hangi antlaşmanın zeminini hazırlamıştır?",
+          "options": [
+            "Kars Antlaşması",
+            "Gümrü Antlaşması",
+            "Ankara Antlaşması",
+            "Lozan Antlaşması",
+            "Moskova Antlaşması"
+          ],
+          "correctOption": "D",
+          "solution": "Türk-Rus dostluğunun temellerini atmıştır."
+        },
+        {
+          "text": "TBMM ile İstanbul Hükümeti arasında yapılan Bilecik Görüşmeleri (Aralık 1920) hangi savaştan hemen önce gerçekleşmiştir?",
+          "options": [
+            "II. İnönü Savaşı",
+            "Sakarya Savaşı",
+            "I. İnönü Savaşı",
+            "Büyük Taarruz",
+            "Kütahya-Eskişehir Savaşı"
+          ],
+          "correctOption": "C",
+          "solution": "Savaş öncesi son diplomatik temas."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Kuvayi Milliye şeflerinden biri olup, sonradan Düzenli Ordu’ya katılmayı reddederek isyan etmiştir?",
+          "options": [
+            "Yörük Ali Efe",
+            "İpsiz Recep",
+            "Parti Pehlivan",
+            "Demirci Mehmet Efe",
+            "Şahin Bey"
+          ],
+          "correctOption": "D",
+          "solution": "Demirci Mehmet Efe de Çerkez Ethem gibi isyan etmiş, ancak isyanı Refet Bele tarafından bastırılmıştır."
+        },
+        {
+          "text": "1921 Ankara Antlaşması ile Hatay, Fransa mandasındaki Suriye’ye bırakılmış ancak \"Türk kültürünün korunması\" şartı konulmuştur. Hatay’daki Türklerin haklarını korumak için, Hatay’ı \"Vazgeçilmez Türk toprağı\" olarak nitelendiren rapor hangisidir?",
+          "options": [
+            "Sandler Raporu",
+            "Hrisantos Raporu",
+            "Milne Raporu",
+            "Bristol Raporu",
+            "Harbord Raporu"
+          ],
+          "correctOption": "A",
+          "solution": "Milletler Cemiyeti adına İsveçli diplomat Sandler hazırlamıştır."
+        },
+        {
+          "text": "Güney Cephesi’nde Fransız işgaline karşı mücadele eden \"Kilikyalılar Cemiyeti\"nin merkezi neresidir?",
+          "options": [
+            "Antep",
+            "Maraş",
+            "Ankara",
+            "Adana",
+            "İstanbul"
+          ],
+          "correctOption": "E",
+          "solution": "Cemiyet İstanbul’da kurulmuş, faaliyetlerini Adana bölgesinde yürütmüştür."
+        },
+        {
+          "text": "Doğu Cephesi komutanı Kazım Karabekir Paşa’nın, Ermeni çocuklarına sahip çıkarak kurduğu eğitim kurumlarına ne ad verilir?",
+          "options": [
+            "Sanayi Mektebi",
+            "Yetimler Okulu",
+            "Darüşşafaka",
+            "Darüleytam",
+            "Gürbüzler Ordusu"
+          ],
+          "correctOption": "B",
+          "solution": "Savaşın yetim çocuklarını eğitip meslek sahibi yapmıştır."
+        },
+        {
+          "text": "Ermenistan’ın TBMM’yi tanıması ve toprak taleplerinden vazgeçmesi, İtilaf Devletleri’nin hangi planını bozmuştur?",
+          "options": [
+            "Boğazları ele geçirme",
+            "Doğu Anadolu’da Ermeni devleti kurma (Sevr maddesi)",
+            "Kapitülasyonları sürdürme",
+            "Hilafeti kaldırma",
+            "İstanbul’u işgal etme"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Kurtuluş Savaşı’nda İtalya ile ciddi bir silahlı çatışma yaşanmamasının temel nedeni nedir?",
+          "options": [
+            "İtalya’nın ordusunun zayıf olması",
+            "İtalya’nın Osmanlı ile dost olması",
+            "İtalya’nın İzmir’in Yunanistan’a verilmesine tepkili olması ve İtilaf bloğundan kopması",
+            "Türk ordusunun çok güçlü olması",
+            "Almanya’nın araya girmesi"
+          ],
+          "correctOption": "C",
+          "solution": "Paris Barış Konferansı’ndaki küskünlük."
+        },
+        {
+          "text": "Kuvayi Milliye’nin kaldırılmasında etkili olan, halkın yargısız infaz edilmesini önleme düşüncesi hangi ilkeyle bağdaşır?",
+          "options": [
+            "Hukuk Devleti",
+            "Laiklik",
+            "Devletçilik",
+            "İnkılapçılık",
+            "Milliyetçilik"
+          ],
+          "correctOption": "A",
+          "solution": "Düzenli ordu ve İstiklal Mahkemeleri ile yasal süreç işletilmiştir."
+        },
+        {
+          "text": "Mustafa Kemal, \"Hattı müdafaa yoktur...\" emrini verirken, ordunun Sakarya Nehri’nin doğusuna çekilmesini eleştirenlere karşı hangi stratejiyi savunmuştur?",
+          "options": [
+            "Düşmanı içeri çekip ikmal hatlarını uzatarak zayıflatmak ve uygun zamanda vurmak",
+            "Kayıpları umursamamak",
+            "Savaşı zamana yaymak",
+            "Rusya’dan yardım beklemek",
+            "İstanbul Hükümeti ile anlaşmak"
+          ],
+          "correctOption": "A",
+          "solution": "Derinlikte savunma stratejisi."
+        },
+        {
+          "text": "Sakarya Savaşı’ndan sonra imzalanan Ankara Antlaşması ile hangi cephedeki birlikler Batı Cephesi’ne kaydırılmıştır?",
+          "options": [
+            "Doğu Cephesi",
+            "Irak Cephesi",
+            "Kafkas Cephesi",
+            "Trakya Cephesi",
+            "Güney Cephesi"
+          ],
+          "correctOption": "E",
+          "solution": "Fransa ile barış yapılınca güneydeki güçler batıya takviye edilmiştir."
+        },
+        {
+          "text": "Kurtuluş Savaşı sırasında \"Anadolu’nun dışarıya açılan penceresi\" olarak bilinen ve Sovyet yardımlarının geldiği liman hangisidir?",
+          "options": [
+            "İzmir",
+            "Samsun",
+            "Antalya",
+            "Trabzon",
+            "İnebolu"
+          ],
+          "correctOption": "D",
+          "solution": "İstiklal Yolu'ndaki başlangıcı."
+        },
+        {
+          "text": "Mustafa Kemal’e \"Gazi\" unvanı verilmesi önergesini meclise sunan devlet adamı kimdir?",
+          "options": [
+            "Kazım Karabekir",
+            "Rauf Orbay",
+            "Fevzi Çakmak ve İsmet İnönü",
+            "Refet Bele",
+            "Ali Fuat Cebesoy"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Sakarya Zaferi’nin uluslararası sonuçlarından biri değildir?",
+          "options": [
+            "Kars Antlaşması’nın imzalanması",
+            "Ankara Antlaşması’nın imzalanması",
+            "Ukrayna ile Dostluk Antlaşması",
+            "Mustafa Kemal’e Mareşallik verilmesi",
+            "İtilaf Devletleri’nin ateşkes teklifinde bulunması"
+          ],
+          "correctOption": "E",
+          "solution": "Mareşallik rütbesi TBMM tarafından verilen ulusal bir karardır."
+        },
+        {
+          "text": "Büyük Taarruz’un başlamasıyla Türk ordusunun İzmir’e girmesi arasında geçen süre yaklaşık ne kadardır?",
+          "options": [
+            "1 ay",
+            "14 gün (2 hafta)",
+            "2 ay",
+            "6 ay",
+            "1 hafta"
+          ],
+          "correctOption": "B",
+          "solution": "26 Ağustos’ta başladı, 9 Eylül’de İzmir’e girildi. Yıldırım hızıyla bir ilerleyiştir."
+        },
+        {
+          "text": "Mudanya Ateşkes Antlaşması’nda \"Doğu Trakya, Meriç Nehri’ne kadar boşaltılacak ve TBMM hükümetine teslim edilecektir\" maddesi neyin göstergesidir?",
+          "options": [
+            "Yunanistan’ın savaşı kazandığının",
+            "İstanbul’un işgalinin devam edeceğinin",
+            "Bulgaristan’ın savaşa girdiğinin",
+            "Boğazların kaybedildiğinin",
+            "Misak-ı Milli’nin Trakya kısmının savaşılmadan kazanıldığının"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Konferansı’na \"Gözlemci\" statüsünde katılan devlet hangisidir?",
+          "options": [
+            "Sovyet Rusya",
+            "Bulgaristan",
+            "Japonya",
+            "ABD",
+            "İtalya"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması’nda Türkiye’nin egemenlik haklarını kısıtlayan en önemli madde hangisidir?",
+          "options": [
+            "Borçların taksitlendirilmesi",
+            "Boğazların yönetiminin uluslararası bir komisyona bırakılması ve her iki yakasının askersizleştirilmesi",
+            "Nüfus mübadelesi",
+            "Sınırların çizilmesi",
+            "Tazminat alınması"
+          ],
+          "correctOption": "A",
+          "solution": "Türk bayrağı olsa da, asker bulunduramamak ve komisyonun varlığı egemenliği zedeler."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 6",
+      "preTestNote": "Londra Konferansı (Detay):\nİtilaf Devletleri konferansa İstanbul Hükümeti'ni doğrudan çağırdı, TBMM'yi ise İstanbul Hükümeti aracılığıyla çağırmak istedi.\nMustafa Kemal, \"Doğrudan çağrılmazsak katılmayız\" restini çekti. Bunun üzerine İtalya aracılığıyla doğrudan davet edildi.\nBekir Sami Bey, konferansta esir değişimi konusunda İngiltere ile eşitliğe aykırı bir antlaşma imzaladığı için görevden alındı, yerine Yusuf Kemal Tengirşenk Dışişleri Bakanı oldu.\n\nMoskova Antlaşması (1921):\nOrtak Düşman: Batı emperyalizmine karşı TBMM ve Sovyet Rusya yakınlaştı.\nKarşılıklılık: \"Birinin tanımadığı antlaşmayı diğeri de tanımayacaktır\" maddesiyle Rusya, Sevr'i reddetmiş ve Misak-ı Milli'yi tanımıştır.\nKapitülasyonlar: Rusya, kapitülasyonların kaldırıldığını kabul etmiştir.\n\nSakarya Savaşı (Detay):\nYunanlılar Ankara'yı alıp Sevr'i uygulatmak için saldırdı.\nSavaşın geçtiği yerler: Duatepe, Mangal Dağı, Haymana.\nMustafa Kemal'in atı Sakarya'dan düşüp kaburgasını kırdığı savaştır.\n\nKars Antlaşması (Detay):\nAzerbaycan, Ermenistan, Gürcistan ile imzalandı.\nBu antlaşma ile Nahçıvan'a özerklik verildi ve Türkiye garantör oldu.\n\nBüyük Taarruz (Detay):\nYunanlıların oluşturduğu güçlü savunma hattına \"Milne Hattı\" (Sadece rapor değil, savunma hattı olarak da geçer) veya Trikopis Hattı denir. İngilizler \"Türkler bu hattı 6 ayda geçemez\" demiş, Türk ordusu 15 günde geçmiştir.",
+      "questions": [
+        {
+          "text": "I. İnönü Savaşı’ndan sonra toplanan Londra Konferansı’na TBMM’nin doğrudan davet edilmesini sağlayan (arabulucu olan) İtilaf devleti hangisidir?",
+          "options": [
+            "Fransa",
+            "Yunanistan",
+            "İngiltere",
+            "İtalya",
+            "ABD"
+          ],
+          "correctOption": "C",
+          "solution": "İtalya, İzmir’in Yunanistan’a verilmesinden dolayı İtilaf bloğunda en zayıf halkaydı."
+        },
+        {
+          "text": "Londra Konferansı’na katılan TBMM heyeti başkanı Bekir Sami Bey’in, konferans dönüşü görevden alınmasının temel nedeni nedir?",
+          "options": [
+            "Konferansta başarısız olması",
+            "İstanbul Hükümeti ile işbirliği yapması",
+            "Sevr’i kabul etmesi",
+            "İstifa etmesi",
+            "İngiltere ve Fransa ile ulusal bağımsızlığa/eşitliğe aykırı ikili antlaşmalar (esir değişimi vb.) imzalaması"
+          ],
+          "correctOption": "E",
+          "solution": "Devletlerin eşitliği ilkesine aykırı davrandığı için meclis onaylamamış ve görevden almıştır."
+        },
+        {
+          "text": "Bekir Sami Bey’in yerine Dışişleri Bakanlığı görevine getirilen ve Moskova ile Ankara antlaşmalarını imzalayan devlet adamı kimdir?",
+          "options": [
+            "Yusuf Kemal Tengirşenk",
+            "Hasan Saka",
+            "Rauf Orbay",
+            "Refet Bele",
+            "İsmet İnönü"
+          ],
+          "correctOption": "A",
+          "solution": "Lozan'a kadar bu görevi sürdürmüş, Lozan öncesi istifa ederek yerini İsmet İnönü'ye bırakmıştır."
+        },
+        {
+          "text": "Moskova Antlaşması’nda yer alan \"İki taraftan birinin tanımadığı uluslararası bir antlaşmayı diğeri de tanımayacaktır\" maddesi, Sovyet Rusya’nın hangi antlaşmayı reddettiğini gösterir?",
+          "options": [
+            "Mondros",
+            "Sevr",
+            "Lozan",
+            "Berlin",
+            "Brest-Litovsk"
+          ],
+          "correctOption": "B",
+          "solution": "TBMM Sevr'i tanımadığı için Rusya da tanımamıştır."
+        },
+        {
+          "text": "Sovyet Rusya, Moskova Antlaşması ile aşağıdakilerden hangisinin kaldırıldığını kabul ederek Türkiye’nin ekonomik bağımsızlığına destek vermiştir?",
+          "options": [
+            "Duyun-u Umumiye",
+            "Kapitülasyonlar",
+            "Gümrük vergileri",
+            "Dış borçlar",
+            "Aşar vergisi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "I. İnönü Savaşı’ndan sonra kabul edilen 1921 Anayasası (Teşkilat-ı Esasiye), hangi yöntemi benimseyerek hızlı karar almayı amaçlamıştır?",
+          "options": [
+            "Güçler Ayrılığı",
+            "Kabine Sistemi",
+            "Güçler Birliği",
+            "Parlamenter Sistem",
+            "İki Meclisli Sistem"
+          ],
+          "correctOption": "C",
+          "solution": "Yasama ve yürütme yetkisi TBMM'dedir."
+        },
+        {
+          "text": "Kurtuluş Savaşı sırasında İstiklal Marşı için güfte (söz) yarışmasını düzenleyen bakanlık (vekalet) hangisidir?",
+          "options": [
+            "Genelkurmay Başkanlığı",
+            "Dışişleri Bakanlığı",
+            "Dahiliye Vekaleti",
+            "Maarif Vekaleti (Milli Eğitim Bakanlığı)",
+            "Şer'iye ve Evkaf Vekaleti"
+          ],
+          "correctOption": "D",
+          "solution": "Dönemin Maarif Vekili Hamdullah Suphi Tanrıöver'dir."
+        },
+        {
+          "text": "Sakarya Savaşı’nın geçtiği yerlerden biri olan, Mustafa Kemal’in atından düşerek yaralandığı tepe hangisidir?",
+          "options": [
+            "Kocatepe",
+            "Metristepe",
+            "Tınaztepe",
+            "Conkbayırı",
+            "Duatepe"
+          ],
+          "correctOption": "A",
+          "solution": "Duatepe, Sakarya Savaşı'nın sembol yerlerinden biridir. Metristepe İnönü Savaşları'ndadır. Sorudaki bilgi yanlıştır, doğru seçenek Duatepe'dir."
+        },
+        {
+          "text": "Sakarya Savaşı’ndan sonra imzalanan Kars Antlaşması ile Nahçıvan bölgesine \"özerklik\" verilmiş ve Türkiye garantör devlet olmuştur. Nahçıvan’ın Türkiye için önemini Mustafa Kemal hangi sözle ifade etmiştir?",
+          "options": [
+            "Kırk asırlık Türk yurdu",
+            "Şarkın kalesi",
+            "Namus davamız",
+            "Türk dünyasının kalbi",
+            "Türk Kapısı"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Ankara Antlaşması (1921) ile Güney Cephesi kapanmış ve birlikler Batı’ya kaydırılmıştır. Ancak bu antlaşma ile Fransa, Türkiye lehine hangi önemli taahhütte bulunmuştur?",
+          "options": [
+            "Hatay’ı hemen geri verme",
+            "Misak-ı Milli’yi tanıyan ilk İtilaf devleti olma",
+            "Türkiye’ye savaş tazminatı ödeme",
+            "Kapitülasyonları tek taraflı kaldırma",
+            "Silah yardımı yapma"
+          ],
+          "correctOption": "B",
+          "solution": "Fransa, TBMM'yi ve Misak-ı Milli'yi tanıyan ilk İtilaf devleti olmuştur."
+        },
+        {
+          "text": "Büyük Taarruz öncesinde ordunun ihtiyacını karşılamak için Sovyet Rusya, Buhara Türkleri ve Hindistan Müslümanlarından gelen yardımlar kullanılmıştır. Bu yardımların büyük kısmı hangi banka aracılığıyla gelmiştir?",
+          "options": [
+            "Osmanlı Bankası",
+            "Ziraat Bankası",
+            "Duyun-u Umumiye",
+            "İş Bankası (Kurulduktan sonra) - Savaş sırasında Hilal-i Ahmer ve elden gelmiştir, ancak kuruluş sermayesi bu paralarla olmuştur.",
+            "İtibar-ı Milli Bankası"
+          ],
+          "correctOption": "E",
+          "solution": "Veya Osmanlı Bankası üzerinden de transferler olmuştur ancak İtibar-ı Milli Bankası milli mücadeleye finansal destek sağlamıştır."
+        },
+        {
+          "text": "Yunan ordusunun Büyük Taarruz öncesinde oluşturduğu ve İngilizlerin \"Türkler burayı 6 ayda geçemez\" dediği savunma hattı (veya raporu) hangisidir?",
+          "options": [
+            "Maginot Hattı",
+            "Çakmak Hattı",
+            "Milne Hattı",
+            "Brüksel Hattı",
+            "Curzon Hattı"
+          ],
+          "correctOption": "D",
+          "solution": "General Milne Raporu ile belirlenen hat."
+        },
+        {
+          "text": "Büyük Taarruz’un başarıyla sonuçlanması üzerine İngiltere Başbakanı Lloyd George hükümeti neden istifa etmiştir?",
+          "options": [
+            "Ekonomik kriz yüzünden",
+            "II. Dünya Savaşı tehlikesi yüzünden",
+            "Kralın baskısı yüzünden",
+            "Yunanistan’ı destekleme politikasının (Anadolu macerasının) iflas etmesi yüzünden",
+            "İrlanda sorunu yüzünden"
+          ],
+          "correctOption": "D",
+          "solution": "Türk zaferi İngiliz hükümetini düşürmüştür."
+        },
+        {
+          "text": "Mudanya Ateşkes Antlaşması’na göre, barış antlaşması imzalanana kadar İtilaf Devletleri askerleri nerede kalmaya devam edecektir?",
+          "options": [
+            "Doğu Trakya",
+            "İstanbul ve Boğazlar",
+            "İzmir",
+            "Ankara",
+            "Antalya"
+          ],
+          "correctOption": "B",
+          "solution": "Yönetim TBMM'ye bırakılmış ancak askeri varlıkları barışa kadar sürmüştür."
+        },
+        {
+          "text": "Mudanya Ateşkesi’nden sonra İstanbul’un yönetimini devralmak üzere TBMM tarafından atanan devlet adamı kimdir?",
+          "options": [
+            "Refet Bele",
+            "Rauf Orbay",
+            "Adnan Adıvar",
+            "Celal Bayar",
+            "Kazım Karabekir"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Saltanatın kaldırılması (1 Kasım 1922) ile TBMM, Osmanlı Devleti’nin hangi yetkisine son vermiştir?",
+          "options": [
+            "Dini yetkisine",
+            "Ekonomik gücüne",
+            "Askeri gücüne",
+            "Kültürel mirasına",
+            "Siyasi ve hukuki varlığına"
+          ],
+          "correctOption": "C",
+          "solution": "Halifelik sembolik olarak devam etmiştir."
+        },
+        {
+          "text": "Saltanatın kaldırılmasından sonra Vahdettin (VI. Mehmet), hangi İngiliz gemisiyle ülkeyi terk etmiştir?",
+          "options": [
+            "Agamemnon",
+            "Malaya",
+            "Goben",
+            "Iron Duke",
+            "Queen Elizabeth"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Konferansı’na \"Boğazlar\" konusu görüşülürken katılan Karadeniz’e kıyısı olan devletler hangileridir?",
+          "options": [
+            "ABD - Japonya",
+            "Almanya - Avusturya",
+            "İtalya - Fransa",
+            "Romanya - Polonya",
+            "Sovyet Rusya - Bulgaristan"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Barış Antlaşması’nda \"Patrikhane\" konusunun görüşülmesi sırasında Türkiye’nin tezi ne olmuştur?",
+          "options": [
+            "Patrikhane’nin yetkilerinin artırılması",
+            "Patrikhane’nin özerk olması",
+            "Patrikhane’nin devlet başkanı statüsünde olması",
+            "Patrikhane’nin ülke dışına çıkarılması",
+            "Patrikhane’nin birleştirilmesi"
+          ],
+          "correctOption": "D",
+          "solution": "Türkiye dışarı çıkarmak istemiş, kabul edilmeyince yetkilerini elinden alarak İstanbul'da kalmasına razı olmuştur."
+        },
+        {
+          "text": "Türkiye, Lozan’da Musul sorununun çözümü için hangi tezi savunmuştur?",
+          "options": [
+            "Musul’un İngiltere’ye verilmesini",
+            "Musul’un Irak’a verilmesini",
+            "Musul’un tarafsız bölge olmasını",
+            "Musul petrollerinin paylaşılmasını",
+            "Referandum (Halk oylaması) yapılmasını"
+          ],
+          "correctOption": "C",
+          "solution": "Bölge halkının çoğunluğunun Türk/Müslüman olduğuna güvenerek oylama istemiştir."
+        },
+        {
+          "text": "Lozan Antlaşması’na göre, Türkiye’deki Rumlar ile Yunanistan’daki Türklerin yer değiştirmesi (Mübadele) kararlaştırılmıştır. Bu durum, Türkiye’de hangi anlayışın yerleştiğini gösterir?",
+          "options": [
+            "Ümmetçilik",
+            "Ulus Devlet",
+            "Federalizm",
+            "Monarşi",
+            "Sömürgecilik"
+          ],
+          "correctOption": "B",
+          "solution": "Homojen bir nüfus yapısı hedeflenmiştir."
+        },
+        {
+          "text": "Lozan’da kapitülasyonların kaldırılması, Yeni Türk Devleti’nin hangi alanda tam bağımsızlığını tescillemiştir?",
+          "options": [
+            "Ekonomik ve Adli",
+            "Askeri",
+            "Kültürel",
+            "Dini",
+            "Eğitim"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması, I. Dünya Savaşı sonunda imzalanan diğer antlaşmalardan (Versay, Sevr vb.) hangi yönüyle ayrılır?",
+          "options": [
+            "Daha ağır şartlar içermesiyle",
+            "Sadece sınırları belirlemesiyle",
+            "Askeri kısıtlamalar içermesiyle",
+            "Kısa süreli olmasıyla",
+            "Hâlâ yürürlükte olan tek barış antlaşması olmasıyla"
+          ],
+          "correctOption": "E",
+          "solution": "Diğerleri II. Dünya Savaşı ile tarihe karışmıştır."
+        },
+        {
+          "text": "Mustafa Kemal, Büyük Taarruz zaferinden sonra hangi şehirde halka hitaben \"Bu zafer, Türk milletinin özgürlük ve bağımsızlık fikrinin ölümsüz anıtıdır\" demiştir?",
+          "options": [
+            "İzmir",
+            "Ankara",
+            "Dumlupınar (Zafertepe)",
+            "Afyon",
+            "Bursa"
+          ],
+          "correctOption": "C",
+          "solution": "Zaferin kazanıldığı yer."
+        },
+        {
+          "text": "Kurtuluş Savaşı’nın \"Diplomatik Safhası\"nı başlatan ve Mudanya Ateşkesi’ne giden yolu açan sıcak gelişme (İngiltere ile burun buruna gelme) hangisidir?",
+          "options": [
+            "İzmir Olayı",
+            "Boğazlar Sorunu",
+            "Musul Meselesi",
+            "Trakya Harekatı",
+            "Çanakkale Krizi"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 7",
+      "preTestNote": "Lozan'da Çözülen Konular (Detay):\nSınırlar:\nYunanistan: Meriç Nehri sınır oldu.\nSuriye: 1921 Ankara Antlaşması sınırları geçerli sayıldı (Hatay dışarıda).\nIrak: Çözülemeyen tek sınır. (Musul Meselesi).\n\nAdalar:\nBozcaada, Gökçeada (İmroz), Tavşan Adaları: Türkiye'ye.\nOn İki Ada: İtalya'ya (II. Dünya Savaşı'ndan sonra Yunanistan'a geçti).\nDiğer Ege Adaları: Yunanistan'a (Silahsızlandırma şartıyla).\n\nSavaş Tazminatı: Yunanistan, Karaağaç ve Bosnaköy'ü verdi.\nKapitülasyonlar: Tamamen kaldırıldı (En büyük ekonomik başarı).\nAzınlıklar: Hepsi Türk vatandaşı sayıldı. (Ayrıcalıklar bitti).\nPatrikhane: Ekümeniklik iddiası reddedildi, sadece dini kurum olarak İstanbul'da kaldı.\nDuyun-u Umumiye: İdaresi kaldırıldı, borçlar paylaştırıldı.\n\nLozan'da Aleyhimize (veya Eksik) Çözülenler:\nBoğazlar: Komisyonun varlığı ve askersiz bölge (Egemenliği kısıtlar).\nHatay: Misak-ı Milli sınırları dışında kaldı.\nPatrikhane: Türkiye dışına çıkarılamadı.\nEge Adaları: Geri alınamadı.\nMusul: Hiç çözülemedi.\n\nKurtuluş Savaşı'nın Genel Sonuçları:\nSömürge altındaki milletlere örnek olmuştur.\nSaltanat kaldırılmış, Laik Cumhuriyet'in yolu açılmıştır.\nTürk milleti, \"Hasta Adam\" imajını silmiştir.",
+      "questions": [
+        {
+          "text": "Lozan Barış Antlaşması’na göre, Türkiye’nin egemenlik haklarını kısıtlayan ve \"Misak-ı Milli’ye aykırı\" kabul edilen en önemli madde hangisidir?",
+          "options": [
+            "Dış borçların taksitlendirilmesi",
+            "Nüfus mübadelesi",
+            "Karaağaç’ın tazminat olarak alınması",
+            "Boğazların yönetiminin uluslararası bir komisyona bırakılması ve her iki yakasının askersizleştirilmesi",
+            "Yabancı okulların Türk kanunlarına bağlanması"
+          ],
+          "correctOption": "D",
+          "solution": "1936 Montrö’ye kadar egemenliği zedelemiştir."
+        },
+        {
+          "text": "Lozan Konferansı’nda Türkiye’nin \"Patrikhane\" konusundaki temel tezi ne olmuştur? (Ancak kabul ettirememiştir).",
+          "options": [
+            "Patrikhane’nin yetkilerinin artırılması",
+            "Patrikhane’nin özerk olması",
+            "Patrikhane’nin devlet dairesi olması",
+            "Patrikhane’nin Türkiye dışına çıkarılması",
+            "Patrikaneye bütçeden pay verilmesi"
+          ],
+          "correctOption": "E",
+          "solution": "Türkiye dışarı çıkarmak istemiş, başaramayınca yetkilerini kısıtlayarak İstanbul'da kalmasına razı olmuştur."
+        },
+        {
+          "text": "Lozan Antlaşması’nda Türkiye’nin Yunanistan sınırını belirleyen doğal unsur hangisidir?",
+          "options": [
+            "Arda Nehri",
+            "Meriç Nehri",
+            "Tunca Nehri",
+            "Sakarya Nehri",
+            "Menderes Nehri"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması’na göre \"İmroz (Gökçeada), Bozcaada ve Tavşan Adaları\" kime bırakılmıştır?",
+          "options": [
+            "Türkiye",
+            "Yunanistan",
+            "İtalya",
+            "Fransa",
+            "İngiltere"
+          ],
+          "correctOption": "A",
+          "solution": "Çanakkale Boğazı'nın güvenliği açısından stratejiktir."
+        },
+        {
+          "text": "Lozan Antlaşması’nda Türkiye’nin aleyhine çözülen (Misak-ı Milli sınırları dışında kalan) güney toprağımız neresidir?",
+          "options": [
+            "Musul",
+            "Kerkük",
+            "Batum",
+            "Kıbrıs",
+            "Hatay (İskenderun Sancağı)"
+          ],
+          "correctOption": "E",
+          "solution": "Fransa ile yapılan 1921 Ankara Antlaşması sınırları aynen kabul edildiği için."
+        },
+        {
+          "text": "Lozan Konferansı’na \"Boğazlar Statüsü\" görüşülürken katılan Karadeniz kıyıdaşı devletler hangileridir?",
+          "options": [
+            "ABD - Çin",
+            "Almanya - Avusturya",
+            "Sovyet Rusya - Bulgaristan",
+            "İtalya - İspanya",
+            "Mısır - İran"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması ile kaldırılan ve Türkiye’nin ekonomik bağımsızlığını sağlayan en önemli unsur nedir?",
+          "options": [
+            "Dış Borçlar",
+            "Kapitülasyonlar",
+            "Gümrük Vergileri",
+            "Kabotaj Hakkı",
+            "Aşar Vergisi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Lozan’da çözüme kavuşturulamayan ve sonraya bırakılan \"Musul Sorunu\" (Irak Sınırı) hangi iki devlet arasında görüşülecektir?",
+          "options": [
+            "Türkiye - Fransa",
+            "Türkiye - İtalya",
+            "Türkiye - Rusya",
+            "Türkiye - İngiltere",
+            "Türkiye - Yunanistan"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması’nda \"Yabancı Okullar\"ın durumu nasıl karara bağlanmıştır?",
+          "options": [
+            "Kapatılacaklardır.",
+            "Kendi ülkelerinin konsolosluklarına bağlanacaklardır.",
+            "Özerk olacaklardır.",
+            "İngilizce eğitim yapacaklardır.",
+            "Türk kanunlarına ve Milli Eğitim’e bağlı olacaklardır."
+          ],
+          "correctOption": "C",
+          "solution": "Türkiye bu konuyu iç mesele saymış ve taviz vermemiştir."
+        },
+        {
+          "text": "Lozan Barış Antlaşması’nı Türkiye adına imzalayan heyetin başkanı kimdir?",
+          "options": [
+            "Rauf Orbay",
+            "Fevzi Çakmak",
+            "İsmet İnönü",
+            "Kazım Karabekir",
+            "Refet Bele"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması, Osmanlı Devleti’nin imzaladığı hangi antlaşmayı geçersiz kılmıştır (yerine geçmiştir)?",
+          "options": [
+            "Mondros Ateşkesi",
+            "Uşi Antlaşması",
+            "Sevr Barış Antlaşması",
+            "Berlin Antlaşması",
+            "Paris Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": "Sevr ölü doğmuş, Lozan onun yerine geçerli olan antlaşma olmuştur."
+        },
+        {
+          "text": "Lozan’da Türkiye’nin savaş tazminatı olarak Yunanistan’dan aldığı yer neresidir?",
+          "options": [
+            "Batı Trakya",
+            "Selanik",
+            "Karaağaç",
+            "Girit",
+            "Midilli"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması’na göre Osmanlı borçları ne olmuştur?",
+          "options": [
+            "Silinmiştir.",
+            "Sadece Türkiye’ye yüklenmiştir.",
+            "Duyun-u Umumiye idaresi devam etmiştir.",
+            "İngiltere üstlenmiştir.",
+            "Osmanlı’dan ayrılan devletlere paylaştırılmıştır (Türkiye payına düşeni taksitle ödeyecektir)."
+          ],
+          "correctOption": "E",
+          "solution": "Duyun-u Umumiye idaresi de kaldırılmıştır."
+        },
+        {
+          "text": "Lozan görüşmelerinin kesintiye uğradığı dönemde (Şubat-Nisan 1923), Türkiye’de ekonomide bağımsızlık kararlarının alındığı kongre hangisidir?",
+          "options": [
+            "Maarif Kongresi",
+            "Sivas Kongresi",
+            "Erzurum Kongresi",
+            "İzmir İktisat Kongresi",
+            "Balıkesir Kongresi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması’nın onaylanması hangi meclis döneminde gerçekleşmiştir?",
+          "options": [
+            "II. TBMM",
+            "I. TBMM",
+            "Mebusan Meclisi",
+            "Kurucu Meclis",
+            "III. TBMM"
+          ],
+          "correctOption": "A",
+          "solution": "Görüşmelere I. TBMM başlamış, onayı II. TBMM vermiştir."
+        },
+        {
+          "text": "Lozan Antlaşması’nda \"Ege Adaları (Limni, Semadirek, Midilli, Sakız, Sisam, Nikarya)\" kime bırakılmıştır?",
+          "options": [
+            "Türkiye",
+            "Yunanistan (Silahsızlandırma şartıyla)",
+            "İtalya",
+            "İngiltere",
+            "Fransa"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Lozan’da Rodos ve On İki Ada’nın kime bırakılması kabul edilmiştir?",
+          "options": [
+            "Yunanistan",
+            "Türkiye",
+            "İngiltere",
+            "Fransa",
+            "İtalya"
+          ],
+          "correctOption": "E",
+          "solution": "Uşi Antlaşması'ndaki geçici durum kesinleşmiştir. II. Dünya Savaşı'ndan sonra Yunanistan'a geçecektir."
+        },
+        {
+          "text": "Lozan Antlaşması’nda Patrikhane’nin \"Ekümenik\" (Evrensel) yetkisi ne olmuştur?",
+          "options": [
+            "Kabul edilmiştir.",
+            "Genişletilmiştir.",
+            "Reddedilmiştir (Sadece Türkiye’deki Ortodoksların dini kurumu sayılmıştır).",
+            "Papa’ya devredilmiştir.",
+            "Tartışılmamıştır."
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Lozan’da \"Azınlıklar\" konusunun Türkiye’nin istediği gibi (Türk vatandaşı sayılarak) çözülmesinin en önemli faydası nedir?",
+          "options": [
+            "Nüfus artışı",
+            "Yabancı devletlerin iç işlerimize karışmasının önlenmesi",
+            "Vergi gelirlerinin artması",
+            "Ordunun güçlenmesi",
+            "Ticaretin gelişmesi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Kurtuluş Savaşı’nın askeri safhasını bitiren Mudanya Ateşkesi ile diplomatik safhasını bitiren Lozan Antlaşması arasındaki temel fark nedir?",
+          "options": [
+            "Mudanya’yı Padişah, Lozan’ı TBMM imzalamıştır.",
+            "Lozan’da savaş devam etmiştir.",
+            "Fark yoktur.",
+            "Mudanya geçici, Lozan kalıcı barış antlaşmasıdır.",
+            "Mudanya’da toprak kazanılmamış, Lozan’da kazanılmıştır."
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması’nın günümüzde de geçerliliğini koruması onun hangi özelliğini gösterir?",
+          "options": [
+            "Geçici olduğunu",
+            "Başarısız olduğunu",
+            "Kalıcı ve sağlam temellere dayandığını",
+            "Sadece sınırları çizdiğini",
+            "Baskı altında imzalandığını"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal, Lozan Antlaşması’nı Sevr ile kıyaslayarak nasıl tanımlamıştır?",
+          "options": [
+            "\"Bir hezimettir.\"",
+            "\"Türk milleti aleyhine hazırlanmış büyük bir suikastın çökertilmesidir.\"",
+            "\"Geçici bir ateşkestir.\"",
+            "\"Toprak kaybıdır.\"",
+            "\"Avrupa’ya teslimiyettir.\""
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Lozan’da Türkiye’nin Suriye sınırı belirlenirken hangi antlaşma esas alınmıştır?",
+          "options": [
+            "Gümrü Antlaşması",
+            "Moskova Antlaşması",
+            "Kars Antlaşması",
+            "1921 Ankara Antlaşması (Fransa ile yapılan)",
+            "Londra Antlaşması"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Lozan’da Türkiye ile İngiltere arasında en büyük çekişme konusu olan ve çözülemeyen mesele hangisidir?",
+          "options": [
+            "Musul Meselesi",
+            "Boğazlar",
+            "Kapitülasyonlar",
+            "Azınlıklar",
+            "Borçlar"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması ile Türkiye’deki Rumlar ve Yunanistan’daki Türklerin yer değiştirmesi (Mübadele) kararı alınmıştır. Bu mübadeleden kimler muaf tutulmuştur?",
+          "options": [
+            "Herkes yer değiştirmiştir.",
+            "İzmir Rumları ve Selanik Türkleri",
+            "Trabzon Rumları ve Girit Türkleri",
+            "Sadece yaşlılar",
+            "İstanbul Rumları (Gökçeada, Bozcaada dahil) ve Batı Trakya Türkleri"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 8",
+      "preTestNote": "Cepheler Özeti:\nDoğu: Kazım Karabekir vs. Ermeniler. (Gümrü, Moskova, Kars).\nGüney: Kuvayi Milliye vs. Fransa/Ermeniler. (Maraş, Antep, Urfa). Sakarya'dan sonra Ankara Antlaşması ile kapandı.\nBatı: Düzenli Ordu vs. Yunanistan. (I. İnönü, II. İnönü, Kütahya-Eskişehir, Sakarya, Büyük Taarruz).\n\nSavaşlar ve Sonuçları (Kodlamalar):\nI. İnönü: MİLAt (Moskova, İstiklal Marşı, Londra, Afganistan, Teşkilat-ı Esasiye).\nSakarya: Mustafa Kemal'e Gazi/Mareşal unvanı, Ankara ve Kars antlaşımları. \"Hattı müdafaa yoktur...\".\nBüyük Taarruz: \"Ordular ilk hedefiniz Akdeniz'dir\". Mudanya Ateşkesi'ne giden yol.\n\nDiplomasi:\nSevr: Ölü doğdu.\nGümrü: İlk siyasi başarı.\nMudanya: Savaş bitti, diplomasi başladı. Osmanlı hukuken bitti.\nLozan: Türkiye'nin tapusu. Kapitülasyonlar bitti, sınırlar (Irak hariç) çizildi.\n\nKahramanlar:\nSütçü İmam: Maraş.\nŞahin Bey: Antep.\nAli Saip Bey: Urfa.\nYörük Ali Efe / Demirci Mehmet Efe: Batı Anadolu (Kuvayi Milliye).\nFatma Seher (Kara Fatma), Şerife Bacı, Tayyar Rahmiye: Kadın kahramanlar.",
+      "questions": [
+        {
+          "text": "Kurtuluş Savaşı’nda TBMM’nin kurduğu düzenli ordunun Batı Cephesi’nde savaştığı devlet hangisidir?",
+          "options": [
+            "İngiltere",
+            "Fransa",
+            "Yunanistan",
+            "İtalya",
+            "Rusya"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "İstiklal Marşı, hangi savaşın kazanılmasından sonra TBMM tarafından kabul edilmiştir?",
+          "options": [
+            "II. İnönü",
+            "Sakarya",
+            "Büyük Taarruz",
+            "Başkomutanlık Meydan Muharebesi",
+            "I. İnönü"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’e \"Gazi\" unvanı ve \"Mareşal\" rütbesi hangi savaştan sonra verilmiştir?",
+          "options": [
+            "Sakarya Meydan Muharebesi",
+            "Çanakkale",
+            "Büyük Taarruz",
+            "Trablusgarp",
+            "II. İnönü"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Barış Antlaşması’nda Türkiye’nin aleyhine çözülen (Misak-ı Milli sınırları dışında kalan) tek sınır konusu hangisidir? (Antlaşmada neticelendirilenler arasında).",
+          "options": [
+            "Yunanistan Sınırı",
+            "Bulgaristan Sınırı",
+            "Irak Sınırı",
+            "Suriye Sınırı (Hatay)",
+            "İran Sınırı"
+          ],
+          "correctOption": "D",
+          "solution": "Irak sınırı çözülememiş, sonraya bırakılmıştır. Hatay ise antlaşma ile dışarıda kalmıştır, yani aleyhte çözülmüştür."
+        },
+        {
+          "text": "Mudanya Ateşkes Antlaşması ile savaş yapılmadan kurtarılan yerler nerelerdir?",
+          "options": [
+            "İzmir ve Aydın",
+            "Doğu Trakya, İstanbul ve Boğazlar",
+            "Antalya ve Muğla",
+            "Kars ve Ardahan",
+            "Adana ve Antep"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Kurtuluş Savaşı’nın \"Kadın Kahramanları\"ndan, Kastamonu’dan Ankara’ya cephane taşırken donarak şehit olan kahramanımız kimdir?",
+          "options": [
+            "Nene Hatun",
+            "Kara Fatma",
+            "Şerife Bacı",
+            "Halide Edip",
+            "Tayyar Rahmiye"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki antlaşmalardan hangisi Sovyet Rusya ile imzalanmış ve Misak-ı Milli’den ilk taviz (Batum) verilmiştir?",
+          "options": [
+            "Gümrü",
+            "Kars",
+            "Ankara",
+            "Moskova",
+            "Lozan"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Güney Cephesi’nde Fransız işgaline karşı \"Kilikyalılar Cemiyeti\"nin faaliyet gösterdiği bölge neresidir?",
+          "options": [
+            "Antep",
+            "Maraş",
+            "Urfa",
+            "Hatay",
+            "Adana (Çukurova)"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Barış Konferansı’na Türkiye adına katılan heyetin başkanı kimdir?",
+          "options": [
+            "Rauf Orbay",
+            "İsmet İnönü",
+            "Kazım Karabekir",
+            "Fevzi Çakmak",
+            "Refet Bele"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’in \"Hattı müdafaa yoktur, sathı müdafaa vardır\" sözüyle uyguladığı savaş stratejisi hangisidir?",
+          "options": [
+            "Meydan Savaşı",
+            "Topyekün Savaş (Alan Savunması)",
+            "Gerilla Savaşı",
+            "Siper Savaşı",
+            "Deniz Savaşı"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "TBMM’yi tanıyan ilk İtilaf Devleti hangisidir?",
+          "options": [
+            "Fransa",
+            "İtalya",
+            "İngiltere",
+            "Yunanistan",
+            "ABD"
+          ],
+          "correctOption": "A",
+          "solution": "Ankara Antlaşması ile."
+        },
+        {
+          "text": "Kurtuluş Savaşı sırasında \"Maarif (Eğitim) Kongresi\" hangi savaş devam ederken toplanmıştır?",
+          "options": [
+            "I. İnönü",
+            "Sakarya",
+            "Kütahya-Eskişehir Savaşları",
+            "Büyük Taarruz",
+            "II. İnönü"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması’nda \"Yabancı Okullar\" konusunun çözümü nasıl olmuştur?",
+          "options": [
+            "Kapatılmışlardır.",
+            "Fransa’ya bağlanmışlardır.",
+            "Özerk hale gelmişlerdir.",
+            "Türk kanunlarına ve denetimine tabi olmuşlardır.",
+            "İngiltere’nin himayesine girmişlerdir."
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Kurtuluş Savaşı’nın askeri safhasını bitiren ateşkes antlaşması hangisidir?",
+          "options": [
+            "Mondros",
+            "Sevr",
+            "Mudanya",
+            "Lozan",
+            "Gümrü"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi I. İnönü Savaşı’nın sonuçlarından biri değildir?",
+          "options": [
+            "Teşkilat-ı Esasiye’nin kabulü",
+            "İstiklal Marşı’nın kabulü",
+            "Londra Konferansı’nın toplanması",
+            "Moskova Antlaşması’nın imzalanması",
+            "Tekalif-i Milliye Emirleri’nin çıkarılması"
+          ],
+          "correctOption": "A",
+          "solution": "Tekalif-i Milliye, Kütahya-Eskişehir yenilgisinden sonra, Sakarya Savaşı öncesinde çıkarılmıştır."
+        },
+        {
+          "text": "Kurtuluş Savaşı’nda Doğu Cephesi’nde Ermenilere karşı kazanılan zafer sonucunda imzalanan ve TBMM’nin ilk siyasi başarısı olan antlaşma hangisidir?",
+          "options": [
+            "Gümrü Antlaşması",
+            "Kars Antlaşması",
+            "Moskova Antlaşması",
+            "Ankara Antlaşması",
+            "Batum Antlaşması"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Lozan’da çözülemeyen ve sonraya bırakılan tek sınır konusu hangisidir?",
+          "options": [
+            "Suriye Sınırı",
+            "Irak Sınırı (Musul)",
+            "Yunanistan Sınırı",
+            "İran Sınırı",
+            "Bulgaristan Sınırı"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "\"Ordular! İlk hedefiniz Akdeniz’dir. İleri!\" emri hangi savaşta verilmiştir?",
+          "options": [
+            "Sakarya",
+            "I. İnönü",
+            "Çanakkale",
+            "Büyük Taarruz (Başkomutanlık Meydan Muharebesi)",
+            "II. İnönü"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Saltanatın kaldırılması (1 Kasım 1922) hangi gelişme üzerine gerçekleşmiştir?",
+          "options": [
+            "İzmir’in kurtarılması",
+            "Cumhuriyetin ilanı",
+            "Halifeliğin kaldırılması",
+            "Mudanya Ateşkesi’nin imzalanması",
+            "Lozan Konferansı’na İstanbul Hükümeti’nin de çağrılması"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Lozan Antlaşması ile Türkiye’nin savaş tazminatı olarak Yunanistan’dan aldığı yer neresidir?",
+          "options": [
+            "Selanik",
+            "Batı Trakya",
+            "Karaağaç",
+            "Girit",
+            "Midilli"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’in Başkomutanlık yetkisini alarak askerlik mesleğine geri dönmesi hangi olaydan sonra olmuştur?",
+          "options": [
+            "I. İnönü Zaferi",
+            "Sakarya Zaferi",
+            "Büyük Taarruz",
+            "II. İnönü Zaferi",
+            "Kütahya-Eskişehir Yenilgisi"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "İtilaf Devletleri’nin TBMM’yi resmen tanıdığı ilk konferans hangisidir?",
+          "options": [
+            "Paris Barış Konferansı",
+            "San Remo Konferansı",
+            "Yalta Konferansı",
+            "Londra Konferansı",
+            "Lozan Konferansı"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Kurtuluş Savaşı’nda İtalyanların ve Fransızların Anadolu’dan tamamen çekilmesi hangi savaşın sonucunda gerçekleşmiştir?",
+          "options": [
+            "II. İnönü",
+            "I. İnönü",
+            "Kütahya-Eskişehir",
+            "Büyük Taarruz",
+            "Sakarya Meydan Muharebesi"
+          ],
+          "correctOption": "E",
+          "solution": "Sakarya zaferi, İtilaf bloğunun Anadolu umutlarını bitirmiştir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Sakarya Savaşı’nın sonuçlarından biridir?",
+          "options": [
+            "İstiklal Marşı’nın kabulü",
+            "1921 Anayasası’nın kabulü",
+            "1921 Ankara Antlaşması’nın imzalanması",
+            "Gümrü Antlaşması’nın imzalanması",
+            "Mudanya Ateşkesi’nin imzalanması"
+          ],
+          "correctOption": "A",
+          "solution": "Fransa ile imzalanmıştır."
+        },
+        {
+          "text": "VI. BÖLÜM FİNAL SORUSU: Türk milletinin bağımsızlık mücadelesini askeri ve siyasi olarak taçlandıran, Türkiye Cumhuriyeti’nin uluslararası alandaki \"Tapu Senedi\" kabul edilen antlaşma hangisidir?",
+          "options": [
+            "Sevr",
+            "Lozan",
+            "Mondros",
+            "Mudanya",
+            "Gümrü"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "konu_adi": "01- İSLAMİYET ÖNCESİ TÜRK TARİHİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "İSLAMİYET ÖNCESİ TÜRK TARİHİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🌍 Türklerin Anayurdu ve Coğrafi Özellikleri"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Türklerin bilinen en eski anayurdu Orta Asya'dır. Bu geniş coğrafya, doğuda Kingan Dağları, batıda Hazar Denizi, güneyde Hindikuş Dağları ve kuzeyde Sibirya ormanları ile çevriliydi. Coğrafi yapısı sert karasal iklimin etkisi altındaydı. Yazları sıcak ve kurak, kışları ise dondurucu soğuktu. Bu durum, Türklerin yaşam biçimini, ekonomik faaliyetlerini ve siyasi örgütlenmelerini doğrudan etkilemiştir."
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Yaşam Biçimi: Türkler, iklim ve coğrafyanın etkisiyle temel olarak göçebe (konar-göçer) bir yaşam tarzını benimsemişlerdir. Hayvancılık, geçim kaynaklarının başında gelirdi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Ekonomik Faaliyetler: At, koyun ve sığır gibi hayvanların yetiştirilmesi temel ekonomik faaliyetti. Ticarette ise değiş tokuş (takas) yaygındı, Çin ve diğer medeniyetlerle ticaretin önemli bir kısmını hayvansal ürünler oluşturuyordu."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Siyasi Etki: Sürekli hareket halinde olmaları ve güçlü atlı askerlere sahip olmaları, Türklerin savaşçılık yeteneklerini geliştirmiş ve geniş coğrafyalara yayılmalarını kolaylaştırmıştır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🐎 Türk Göçlerinin Nedenleri ve Sonuçları"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Orta Asya'dan dünyanın farklı bölgelerine (Anadolu, Avrupa, Sibirya, Hindistan) yapılan bu kitlesel göçler, Türk tarihinin en belirgin özelliklerindendir."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Göçlerin Başlıca Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Ekonomik Nedenler: Orta Asya'da nüfusun artması ve otlakların yetersiz kalması, yeni ve verimli toprak arayışını zorunlu kılmıştır.",
+        "İklim Değişiklikleri: Özellikle MÖ 2. binyıldan itibaren Orta Asya'nın kuraklaşmaya başlaması ve çölleşmenin artması, yaşam koşullarını zorlaştırmıştır.",
+        "Siyasi Baskılar: Özellikle Çin'in sürekli baskıları ve diğer kavimlerle yapılan savaşlar sonucu kaybedilen siyasi bağımsızlık arzusu.",
+        "Boylar Arası Mücadeleler: Türk boyları arasında çıkan anlaşmazlıklar ve hakimiyet kurma mücadeleleri, yenilen boyların yeni yurtlara gitmesine yol açmıştır.",
+        "Cihan Hakimiyeti Düşüncesi: Türklerin, inançları gereği tüm dünyaya hükmetme (Kızıl Elma) arayışı.",
+        "Hayvan Hastalıkları: Ekonominin temelini oluşturan hayvanların kitlesel hastalıkları da göçleri tetiklemiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Göçlerin Başlıca Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kültürel Etkileşim: Türk kültürü, göç edilen bölgelerdeki (Avrupa, Yakın Doğu) kültürleri etkilemiş ve onlardan etkilenmiştir.",
+        "Türk Tarihinin Genişlemesi: Türk tarihi, sadece Orta Asya ile sınırlı kalmayıp, Avrupa ve Anadolu Türk Tarihi gibi geniş alanlara yayılmıştır.",
+        "Yeni Devletlerin Kurulması: Göç eden boylar, gittikleri yerlerde yeni Türk devletleri ve medeniyetleri kurmuştur (Avrupa Hunları, Avarlar, Bulgarlar vb.).",
+        "Askeri Gelişmeler: Türklerin atlı savaş taktikleri ve teşkilatlanma biçimleri, diğer milletlerin ordularını etkilemiştir (örneğin Onlu Sistem).",
+        "Tarihi Takip Zorluğu: Türk tarihi, geniş bir coğrafyaya yayılması nedeniyle bütüncül olarak takip edilmesi zor bir hale gelmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👑 İslamiyet Öncesi Türk Devletlerinde Kültür ve Medeniyet"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Türk devletleri, göçebe yaşam tarzına rağmen kendine özgü güçlü bir kültürel ve siyasi yapı oluşturmuştur."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Devlet Yönetimi (Kut Anlayışı)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Hükümdar Unvanları: Kağan, Han, Yabgu, İdikut, İlteber, Tanhu/Şanyü."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kut İnancı: Ülkeyi yönetme yetkisinin (Kut'un) Tanrı tarafından verildiğine inanılırdı. Bu inanç, hükümdarın meşruiyetini sağlardı ancak veraset sisteminde (tahtın kime geçeceği) belirsizliğe yol açtığı için taht kavgalarını artırmıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "İkili Teşkilat: Devleti kolay yönetmek amacıyla doğu ve batı olarak ikiye ayırma geleneği. Doğu (asıl merkez) kağan tarafından, Batı (yan kanat) ise genellikle Kağan'ın kardeşi olan Yabgu tarafından yönetilirdi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kurultay (Toy): Devlet işlerinin görüşülüp karara bağlandığı, Kağan, hatun (hükümdar eşi) ve boy beylerinin katıldığı meclistir. Töreye göre Kağan'ın yetkileri sınırlıydı ve Kurultay danışma organı niteliğinde olsa da bazen Kağan'ı denetleyebilirdi."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Ordu ve Askerlik"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Ordu Millet Anlayışı: Türklerde askerlik ayrı bir meslek değildi. Her Türk savaşçı sayılırdı."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Onlu Sistem: İlk defa Mete Han tarafından kurulan ve günümüz ordularına kadar uzanan bu sistem, askeri teşkilatlanmanın temelini oluşturur. (Onbaşı, Yüzbaşı, Binbaşı)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Süvari (Atlı Asker) Gücü: Türk ordusunun ana gücü atlı askerlerden oluşur. Bu durum hızlı hareket kabiliyeti sağlardı."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Hukuk"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Töre: İslamiyet öncesi Türk toplumunda yazısız hukuk kurallarıdır. Hem Kağan'ı hem de halkı bağlardı."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Yargı Organı: Yargan veya Yargucu adı verilen kişiler tarafından yürütülürdü."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Din ve İnanç"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Gök Tanrı İnancı: Türklerin en yaygın ve orijinal inancıdır. Tek tanrılı bu inançta Tanrı (Gök Tanrı), gök kubbede düşünülürdü."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Şamanizm: Din adamlarına Şaman, Kam veya Baksı denirdi. Bunlar doğaüstü güçlerle ilişki kurduğuna inanılan kişilerdi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Yuğ Törenleri: Cenaze törenlerine verilen isimdir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kurgan: Hükümdar ve önemli kişilerin mezarlarıdır. Bu mezarlarda ölen kişinin eşyaları da bulunurdu (Ahiret inancının göstergesidir)."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Sosyal ve Ekonomik Hayat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Aşiret (Urug) ve Boy (Oguz): Türk sosyal yapısı, aileden (Oğuş) boya (Oğuz) kadar genişleyen bir silsileye dayanır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Ekonomi: Temeli hayvancılığa dayalıdır. Tarım, yerleşik hayata geçişle birlikte (Uygurlar) gelişmiştir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Başlıca İlk Türk Devletleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Asya Hun Devleti (Büyük Hun Devleti): Kurucusu Teoman'dır. En parlak dönemi Mete Han zamanıdır. Mete Han, Çin'i vergiye bağlamış ancak Çin topraklarına yerleşmemiştir (Türklerin asimile olmasını engellemek için)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "I. Göktürk Devleti: Kurucusu Bumin Kağan, başkenti Ötüken'dir. Tarihte \"Türk\" adıyla kurulan ilk devlettir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "II. Göktürk Devleti (Kutluk Devleti): Kurucusu Kutluk İlteriş Kağan'dır. En önemli yazılı eser olan Orhun Abideleri bu döneme aittir (Türk adının ve milli bilincin ilk yazılı kanıtları)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Uygurlar: Yerleşik hayata geçen ilk Türk devletidir. Maniheizm dinini benimsemişler, bu durum savaşçılık özelliklerinin zayıflamasına yol açmıştır. İlk kütüphaneleri kurmuşlar ve matbaayı kullanmışlardır."
+        }
+      ]
+    }
+  ]
+}

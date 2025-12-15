@@ -1,0 +1,96 @@
+{
+  "konu_adi": "50- ATATÜRK İLKE VE İNKILAPLARI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ATATÜRK İLKE VE İNKILAPLARI"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Atatürk İlkeleri (Cumhuriyetin Temel Felsefesi)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Cumhuriyetçilik"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Ulusal egemenliğin, milletin kendi seçtiği temsilciler aracılığıyla sağlanmasıdır.",
+        "Anahtar Kelimeler: Egemenlik, seçim, yönetim, demokrasi, meclis.",
+        "İnkılaplar: Saltanatın Kaldırılması (1922), Cumhuriyetin İlanı (1923), TBMM'nin Açılması (1920)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Milliyetçilik"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Dil, tarih, kültür birliği temelinde, milletin tam bağımsızlığı savunmasıdır (Irkçı değildir, birleştiricidir).",
+        "Anahtar Kelimeler: Vatan, millet, bağımsızlık, Türk.",
+        "İnkılaplar: Türk Dil ve Tarih Kurumlarının kurulması, Kapitülasyonların Kaldırılması, Kabotaj Kanunu (1926)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Halkçılık"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Bütün vatandaşların kanun önünde eşit olması, ayrıcalıkların reddedilmesi ve sosyal eşitliğin sağlanmasıdır.",
+        "Anahtar Kelimeler: Eşitlik, adalet, sosyal devlet, sınıf ayrımı.",
+        "İnkılaplar: Aşar (Öşür) Vergisinin Kaldırılması (1925), Kadınlara Siyasi Hakların Verilmesi, Soyadı Kanunu (1934), Medeni Kanun (1926)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Laiklik"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Devlet işleri ile din işlerinin birbirinden ayrılması, din kurallarının hukuka karışmamasıdır.",
+        "Anahtar Kelimeler: Din, vicdan, akıl, bilim, din ve devlet işlerinin ayrılması.",
+        "İnkılaplar: Halifeliğin Kaldırılması (1924), Şeriye ve Evkaf Vekâleti'nin Kaldırılması (1924), Tevhid-i Tedrisat Kanunu (1924), Türk Medeni Kanunu'nun Kabulü (1926)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "5. Devletçilik"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Bireylerin yapamadığı büyük ekonomik yatırımların Devlet tarafından yapılmasıdır (Özel sektörü destekler).",
+        "Anahtar Kelimeler: Ekonomi, yatırım, banka, fabrika, sanayi planları.",
+        "İnkılaplar: Birinci Beş Yıllık Sanayi Planı'nın hazırlanması (1933), İş Bankası, Sümerbank, Etibank gibi devlet bankalarının kurulması."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "6. İnkılapçılık (Devrimcilik)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Atatürk'ün getirdiği inkılapları korumak, sürdürmek ve çağa uyum sağlamak için sürekli yenilenmeyi esas almaktır.",
+        "Anahtar Kelimeler: Yenilik, değişim, modernleşme, dinamizm.",
+        "İnkılaplar: Ölçü ve Tartı Birimlerinin Değiştirilmesi, Kılık Kıyafet İnkılabı (Şapka Kanunu), Hafta Tatilinin Cuma'dan Pazar'a Alınması."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📝 Bütünleyici İlkeler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Ulusal Egemenlik: Milli iradenin yönetimde tam olarak söz sahibi olmasıdır (Cumhuriyetçilik ve Halkçılık ile ilişkilidir).",
+        "Ulusal Bağımsızlık: Bir devletin, başka devletlerin siyasi, askeri veya ekonomik baskısı altında kalmadan varlığını sürdürmesidir (Milliyetçilik ve Devletçilik ile ilişkilidir)."
+      ]
+    }
+  ]
+}

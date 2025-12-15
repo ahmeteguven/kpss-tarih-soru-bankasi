@@ -1,0 +1,99 @@
+{
+  "konu_adi": "36- MONDROS ATEŞKES ANLAŞMASI VE İLK İŞGALLER (30 EKİM 1918)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "MONDROS ATEŞKES ANLAŞMASI VE İLK İŞGALLER (30 EKİM 1918)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💣 Mondros'a Giden Süreç ve Anlaşmanın İmzalanması"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Ateşkes İmzalanmasının Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yenilgi: Osmanlı ordusunun cephelerde ağır kayıplar vermesi ve savaş gücünün kalmaması.",
+        "Müttefiklerin Çekilmesi: Bulgaristan'ın savaştan çekilmesi, Osmanlı'nın Almanya ile kara bağlantısının kesilmesine neden olmuştur.",
+        "Wilson İlkeleri: ABD Başkanı Wilson'ın ilkeleri gereği toprak kaybı olmayacağı ümidiyle ateşkes istenmiştir.",
+        "Hükümet Değişikliği: Savaş yanlısı İttihat ve Terakki Hükümeti istifa etmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Anlaşmanın İmzalanması"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yer ve Tarih: 30 Ekim 1918'de, Limni Adası'nın Mondros Limanı'nda imzalanmıştır.",
+        "Taraflar: Osmanlı adına Bahriye Nazırı Rauf Bey (Orbay), İtilaf Devletleri adına İngiliz Amirali Calthorpe."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Mondros Ateşkes Anlaşması'nın Önemli Maddeleri"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Mondros, Osmanlı İmparatorluğu'nun askeri varlığını sonlandıran ve ülkeyi işgale açık hale getiren bir teslimiyet belgesidir."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Osmanlı'yı Savunmasız Bırakan Maddeler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Ordu ve Silahlar: Osmanlı ordusu terhis edilecek, silah ve cephane İtilaf Devletlerinin kontrolüne bırakılacaktır (Osmanlı fiilen savunmasız kalmıştır).",
+        "Ulaşım ve Haberleşme: Toros tünelleri, demiryolları, telsiz ve telgraf hatları İtilaf Devletlerinin kontrolüne geçecektir.",
+        "Boğazlar: Çanakkale ve İstanbul Boğazları İtilaf Devletleri tarafından işgal edilecektir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. İşgallerin Hukuki Zeminini Hazırlayan Maddeler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Madde 7 (En Tehlikeli Madde): İtilaf Devletleri, güvenliklerini tehdit edecek bir durum ortaya çıkarsa, herhangi bir stratejik noktayı işgal etme hakkına sahip olacaktır. (Tüm Anadolu'yu işgal etme hakkını hukuki bir zemine oturtmuştur.)"
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Madde 24 (Doğu Anadolu Maddesi): Altı vilayette (Vilayet-i Sitte: Erzurum, Van, Harput, Diyarbakır, Sivas, Bitlis) karışıklık çıkarsa, İtilaf Devletleri bu vilayetleri işgal etme hakkına sahip olacaktır. (Doğu Anadolu'da bağımsız bir Ermeni Devleti kurulmasına zemin hazırlamıştır.)"
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🗺️ Mondros Sonrası İlk İşgaller (Fiili İşgal)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İngiliz İşgalleri: Musul (3 Kasım 1918), İskenderun, Kars, Batum. (Musul'un işgali, petrol üzerindeki çıkarı gösterir.)",
+        "Fransız İşgalleri: Adana, Mersin, Urfa, Antep, Maraş ve Zonguldak.",
+        "İtalyan İşgalleri: Antalya, Konya ve Muğla.",
+        "Yunan İşgalleri: Paris Barış Konferansı kararıyla, ilk büyük Yunan işgali 15 Mayıs 1919'da İzmir'e yapılmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Mondros'a Tepki ve Milli Mücadele'nin Başlaması"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Osmanlı Hükümetinin Tepkisi: Hükümet, anlaşma şartlarına uymayı tercih etmiştir.",
+        "Halkın Tepkisi: Direniş Cemiyetleri (Redd-i İlhak) ve Kuvâ-yi Milliye (düzensiz silahlı direniş birlikleri) kurulmuştur.",
+        "Mustafa Kemal'in Tepkisi: Anlaşmanın bağımsızlığa aykırı olduğunu görerek, \"Geldikleri gibi giderler!\" demiş ve Milli Mücadele'yi başlatma kararlılığını göstermiştir (19 Mayıs 1919 Samsun'a çıkış)."
+      ]
+    }
+  ]
+}

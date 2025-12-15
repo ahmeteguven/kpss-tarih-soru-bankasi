@@ -1,0 +1,91 @@
+{
+  "konu_adi": "28- İKİNCİ MAHMUT DÖNEMİ ISLAHATLARI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "İKİNCİ MAHMUT DÖNEMİ ISLAHATLARI"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💥 Dönemin Önemi ve Islahat Felsefesi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Slogan: Osmanlıcılık akımını desteklemiş, \"Ben tebaamdan Müslümanları camide, Hristiyanları kilisede, Yahudileri havrada fark ederim\" demiştir.",
+        "Amaç: Mutlak Padişahlık otoritesini restore etmek ve modernleşerek devleti kurtarmak.",
+        "Yöntem: Kurumları topyekûn ortadan kaldıran radikal reformlar yapmıştır.",
+        "Sened-i İttifak (1808): Âyanlar ile imzalanmıştır. Padişah yetkilerinin ilk kez kısıtlandığı resmi belgedir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Askeri Alanda Yapılan Reformlar"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Yeniçeri Ocağı'nın Kaldırılması (Vak'a-i Hayriye, 1826)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Neden: Yeniçerilerin disiplinsizliği ve ıslahat karşıtlığı.",
+        "Olay: Yeniçeriler isyan edince, ordu top ateşine tutulmuş ve ocak lağvedilmiştir.",
+        "Yeni Ordu: Yeniçeri Ocağı yerine Asâkir-i Mansûre-i Muhammediye adında modern bir ordu kurulmuştur.",
+        "Sonuç: Padişah, Batı tarzı radikal reformların önündeki en büyük engeli kaldırmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Diğer Askeri ve Eğitim Reformları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Mekteb-i Harbiye: Modern subay yetiştirmek için kurulmuştur (1834).",
+        "Tıphane ve Cerrahhane: Modern tıp eğitimi vermek amacıyla kurulmuştur.",
+        "Nüfus Sayımı: Askeri amaçla ilk nüfus sayımı yapılmıştır (1831)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🏛️ İdari ve Yönetim Alanındaki Reformlar"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Merkezi Otoritenin Güçlendirilmesi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Divan-ı Hümayun'un Kaldırılması: Yerine Avrupa'daki bakanlık sistemine benzer Nazırlıklar (Bakanlıklar) kurulmuştur.",
+        "Sadrazamlık Yerine Başvekâlet: Sadrazamlık makamı kaldırılmış, yerine yetkileri daha sınırlı olan Başvekil (Başbakan) makamı kurulmuştur.",
+        "Meclis-i Vâlâ-yı Ahkâm-ı Adliyye: Günümüzdeki Danıştay ve Yargıtay'ın temellerini oluşturmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Eğitim ve Kültürel Alandaki Yenilikler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Avrupa'ya Öğrenci Gönderilmesi: Avrupa'ya ilk kez öğrenci gönderilmiştir (Tanzimat ve Jön Türk kadrolarını oluşturanlar bu öğrencilerdir).",
+        "Resmi Gazete: Osmanlı'nın ilk resmi gazetesi olan Takvim-i Vekayi çıkarılmıştır (1831).",
+        "Kıyafet: Memurlara Fes giyme zorunluluğu getirilmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Taşra Yönetimi ve Maliye"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Müsadere Sistemi'nin Kaldırılması: Memurların mallarına el konulması uygulaması kaldırılmıştır (Özel mülkiyetin güçlenmesi).",
+        "Tımar Sistemi'nin Kaldırılması: Yerine merkezi hazineden maaş alan memur ve asker sistemi getirilmiştir.",
+        "İlk Posta Teşkilatı: Taşra ile iletişimi sağlamak için kurulmuştur."
+      ]
+    }
+  ]
+}

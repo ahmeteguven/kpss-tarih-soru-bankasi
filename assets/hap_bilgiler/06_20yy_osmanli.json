@@ -1,0 +1,505 @@
+{
+  "categoryName": "20.YY DA OSMANLI DEVLETİ",
+  "facts": [
+    {
+      "id": 1,
+      "question": "20. yüzyılın başında Osmanlı Devleti’nin Kuzey Afrika’daki son toprağı olan Trablusgarp’ı işgal eden devlet hangisidir?",
+      "answer": "İtalya"
+    },
+    {
+      "id": 2,
+      "question": "İtalya’nın Trablusgarp’ı işgal etmesinin temel nedeni nedir?",
+      "answer": "Sömürgecilik (Hammadde ve pazar arayışı)"
+    },
+    {
+      "id": 3,
+      "question": "Osmanlı Devleti, Trablusgarp’a neden karadan asker gönderememiştir?",
+      "answer": "Mısır İngiliz işgalinde olduğu için"
+    },
+    {
+      "id": 4,
+      "question": "Osmanlı Devleti, Trablusgarp’a neden denizden asker gönderememiştir?",
+      "answer": "Donanma yetersiz olduğu (Haliç’te çürüdüğü) için"
+    },
+    {
+      "id": 5,
+      "question": "Mustafa Kemal’in \"Gazeteci Şerif Bey\" takma adıyla gönüllü olarak gittiği savaş hangisidir?",
+      "answer": "Trablusgarp Savaşı"
+    },
+    {
+      "id": 6,
+      "question": "Mustafa Kemal’in Trablusgarp’ta yerel halkı örgütleyerek başarı kazandığı cepheler nerelerdir?",
+      "answer": "Derne ve Tobruk"
+    },
+    {
+      "id": 7,
+      "question": "Enver Paşa’nın \"Kuyumcu Hamdi\" takma adıyla Trablusgarp’ta başarı kazandığı cephe neresidir?",
+      "answer": "Bingazi"
+    },
+    {
+      "id": 8,
+      "question": "Mustafa Kemal’in \"İlk askeri başarısı\" ve sömürgeciliğe karşı ilk savaşı hangisidir?",
+      "answer": "Trablusgarp Savaşı"
+    },
+    {
+      "id": 9,
+      "question": "Trablusgarp Savaşı devam ederken İtalya’nın Osmanlı’yı barışa zorlamak için işgal ettiği yerler nerelerdir?",
+      "answer": "On İki Ada ve Rodos"
+    },
+    {
+      "id": 10,
+      "question": "Trablusgarp Savaşı’nı sona erdiren antlaşma hangisidir?",
+      "answer": "Uşi Antlaşması (1912)"
+    },
+    {
+      "id": 11,
+      "question": "Uşi Antlaşması ile İtalya’ya bırakılan, Kuzey Afrika’daki son Osmanlı toprağı neresidir?",
+      "answer": "Trablusgarp ve Bingazi"
+    },
+    {
+      "id": 12,
+      "question": "Uşi Antlaşması ile geçici olarak İtalya’ya bırakılan adalar hangileridir?",
+      "answer": "On İki Ada (Balkan Savaşları bitene kadar)"
+    },
+    {
+      "id": 13,
+      "question": "Dünya tarihinde savaş uçağının ilk kez kullanıldığı savaş hangisidir?",
+      "answer": "Trablusgarp Savaşı (İtalya kullanmıştır)"
+    },
+    {
+      "id": 14,
+      "question": "I. Balkan Savaşı’nda Osmanlı Devleti’ne saldıran 4 Balkan devleti hangileridir?",
+      "answer": "Bulgaristan, Yunanistan, Sırbistan, Karadağ"
+    },
+    {
+      "id": 15,
+      "question": "Osmanlı Devleti’ne saldıran ilk Balkan devleti hangisidir?",
+      "answer": "Karadağ"
+    },
+    {
+      "id": 16,
+      "question": "I. Balkan Savaşı’nın çıkmasında etkili olan \"Balkanları paylaşın\" fikrini destekleyen Rus politikası nedir?",
+      "answer": "Panslavizm"
+    },
+    {
+      "id": 17,
+      "question": "Osmanlı Devleti’nin I. Balkan Savaşı’nı kaybetmesinin en temel nedeni nedir?",
+      "answer": "Ordunun siyasete karışması (İttihatçı-Hürriyetçi çekişmesi)"
+    },
+    {
+      "id": 18,
+      "question": "I. Balkan Savaşı’ndan en karlı çıkan ve en çok toprak kazanan devlet hangisidir?",
+      "answer": "Bulgaristan"
+    },
+    {
+      "id": 19,
+      "question": "I. Balkan Savaşı sırasında Osmanlı’dan ayrılarak bağımsızlığını ilan eden son Balkan devleti hangisidir?",
+      "answer": "Arnavutluk"
+    },
+    {
+      "id": 20,
+      "question": "I. Balkan Savaşı’nda Karadeniz’de Hamidiye Kruvazörü ile destanlaşan ve \"Hamidiye Kahramanı\" olarak bilinen komutan kimdir?",
+      "answer": "Rauf Orbay"
+    },
+    {
+      "id": 21,
+      "question": "I. Balkan Savaşı sonucunda imzalanan antlaşma hangisidir?",
+      "answer": "Londra Antlaşması (1913)"
+    },
+    {
+      "id": 22,
+      "question": "Londra Antlaşması ile Osmanlı’nın batı sınırı neresi kabul edilmiştir?",
+      "answer": "Midye-Enez Hattı"
+    },
+    {
+      "id": 23,
+      "question": "I. Balkan Savaşı yenilgisinden hükümeti sorumlu tutan İttihat ve Terakki’nin yönetimi ele geçirdiği darbe hangisidir?",
+      "answer": "Babıali Baskını (1913)"
+    },
+    {
+      "id": 24,
+      "question": "Babıali Baskını ile devrilen sadrazam (hükümet) kimdir?",
+      "answer": "Kamil Paşa Hükümeti"
+    },
+    {
+      "id": 25,
+      "question": "Babıali Baskını ile yönetime gelen sadrazam kimdir?",
+      "answer": "Mahmut Şevket Paşa"
+    },
+    {
+      "id": 26,
+      "question": "Babıali Baskını bir rejim değişikliği midir?",
+      "answer": "Hayır, sadece hükümet değişikliğidir (Darbe)."
+    },
+    {
+      "id": 27,
+      "question": "II. Balkan Savaşı’nın çıkma nedeni nedir?",
+      "answer": "Bulgaristan’ın I. Balkan Savaşı’nda çok fazla toprak alması"
+    },
+    {
+      "id": 28,
+      "question": "I. Balkan Savaşı’nda olmayıp II. Balkan Savaşı’na katılan devlet hangisidir?",
+      "answer": "Romanya"
+    },
+    {
+      "id": 29,
+      "question": "Osmanlı Devleti II. Balkan Savaşı’nda hangi fırsattan yararlanarak nereleri geri almıştır?",
+      "answer": "Bulgaristan’ın diğer devletlerle savaşmasını fırsat bilerek Edirne ve Kırklareli’yi (Doğu Trakya) geri almıştır."
+    },
+    {
+      "id": 30,
+      "question": "Edirne’yi Bulgarlardan geri alan ve \"Edirne Fatihi\" unvanını kazanan komutan kimdir?",
+      "answer": "Enver Paşa"
+    },
+    {
+      "id": 31,
+      "question": "II. Balkan Savaşı sonunda Bulgaristan ile imzalanan antlaşma hangisidir?",
+      "answer": "İstanbul Antlaşması (1913)"
+    },
+    {
+      "id": 32,
+      "question": "II. Balkan Savaşı sonunda Yunanistan ile imzalanan antlaşma hangisidir?",
+      "answer": "Atina Antlaşması (1913)"
+    },
+    {
+      "id": 33,
+      "question": "II. Balkan Savaşı sonunda Sırbistan ile imzalanan antlaşma hangisidir?",
+      "answer": "İstanbul Antlaşması (1914)"
+    },
+    {
+      "id": 34,
+      "question": "Bugünkü Türkiye-Bulgaristan sınırını büyük ölçüde belirleyen antlaşma hangisidir?",
+      "answer": "İstanbul Antlaşması (1913)"
+    },
+    {
+      "id": 35,
+      "question": "Balkan Savaşları sonucunda Anadolu’ya yapılan göçlerin en önemli sonucu nedir?",
+      "answer": "Anadolu’da Türk nüfusu artmış, Türkçülük akımı güçlenmiştir."
+    },
+    {
+      "id": 36,
+      "question": "Osmanlıcılık fikir akımının iflas ettiğini gösteren en önemli olaylardan biri hangisidir?",
+      "answer": "Balkan Savaşları (Balkan milletlerinin ayrılması)"
+    },
+    {
+      "id": 37,
+      "question": "I. Dünya Savaşı’nın genel nedeni nedir?",
+      "answer": "Fransız İhtilali’nin yaydığı Milliyetçilik ve Sanayi İnkılabı’nın yaydığı Sömürgecilik"
+    },
+    {
+      "id": 38,
+      "question": "I. Dünya Savaşı’nı başlatan kıvılcım (Görünür neden) nedir?",
+      "answer": "Avusturya-Macaristan veliahtının Saraybosna’da bir Sırp milliyetçisi tarafından öldürülmesi"
+    },
+    {
+      "id": 39,
+      "question": "I. Dünya Savaşı’nda İttifak (Bağlaşma) Devletleri hangileridir?",
+      "answer": "Almanya, Avusturya-Macaristan, Osmanlı, Bulgaristan (İtalya sonradan taraf değiştirdi)"
+    },
+    {
+      "id": 40,
+      "question": "I. Dünya Savaşı’nda İtilaf (Anlaşma) Devletleri hangileridir?",
+      "answer": "İngiltere, Fransa, Rusya, İtalya, ABD (sonradan)"
+    },
+    {
+      "id": 41,
+      "question": "I. Dünya Savaşı’nda taraf değiştiren devlet hangisidir?",
+      "answer": "İtalya"
+    },
+    {
+      "id": 42,
+      "question": "Osmanlı Devleti’nin savaşa girmesine neden olan iki Alman gemisinin adı nedir?",
+      "answer": "Goben ve Breslau (Yavuz ve Midilli)"
+    },
+    {
+      "id": 43,
+      "question": "Osmanlı Devleti’nin I. Dünya Savaşı’na girmesiyle halifenin yayınladığı çağrı nedir?",
+      "answer": "Cihad-ı Ekber (Kutsal Cihat)"
+    },
+    {
+      "id": 44,
+      "question": "Almanya’nın Osmanlı’yı kendi yanında savaşa sokmak istemesinin temel nedeni nedir?",
+      "answer": "Savaş yükünü hafifletmek ve cephe sayısını artırmak (Jeopolitik konum)"
+    },
+    {
+      "id": 45,
+      "question": "Osmanlı’nın I. Dünya Savaşı’nda toprak kazanmak amacıyla açtığı (Taarruz) cepheler hangileridir?",
+      "answer": "Kafkas ve Kanal Cepheleri (2K)"
+    },
+    {
+      "id": 46,
+      "question": "Osmanlı’nın müttefiklerine yardım amacıyla sınırları dışında açtığı cepheler hangileridir?",
+      "answer": "Galiçya, Makedonya, Romanya (Sonu \"ya\" ile bitenler)"
+    },
+    {
+      "id": 47,
+      "question": "Osmanlı’nın savunma cepheleri hangileridir?",
+      "answer": "Çanakkale, Irak, Suriye-Filistin, Hicaz-Yemen"
+    },
+    {
+      "id": 48,
+      "question": "Kafkas Cephesi’nde Enver Paşa komutasında Ruslara karşı yapılan ve başarısızlıkla (donarak şehit olma) sonuçlanan harekat hangisidir?",
+      "answer": "Sarıkamış Harekatı"
+    },
+    {
+      "id": 49,
+      "question": "Kafkas Cephesi’nde Rus işgaline uğrayan yerler nerelerdir?",
+      "answer": "Erzurum, Erzincan, Muş, Bitlis, Trabzon"
+    },
+    {
+      "id": 50,
+      "question": "Mustafa Kemal’in Kafkas Cephesi’ne atandıktan sonra Ruslardan geri aldığı iki il hangisidir?",
+      "answer": "Muş ve Bitlis"
+    },
+    {
+      "id": 51,
+      "question": "Kafkas Cephesi’nin kapanmasını sağlayan, Rusya’nın savaştan çekildiği antlaşma hangisidir?",
+      "answer": "Brest-Litovsk Antlaşması (1918)"
+    },
+    {
+      "id": 52,
+      "question": "Brest-Litovsk Antlaşması ile Rusya’nın Osmanlı’ya geri verdiği, daha önce Berlin Antlaşması ile aldığı üç il (Elviye-i Selase) neresidir?",
+      "answer": "Kars, Ardahan, Batum"
+    },
+    {
+      "id": 53,
+      "question": "Osmanlı Devleti’nin I. Dünya Savaşı’nda toprak kazandığı tek cephe hangisidir?",
+      "answer": "Kafkas Cephesi"
+    },
+    {
+      "id": 54,
+      "question": "Ermeni Tehciri (Zorunlu Göç) Kanunu hangi cephedeki olaylar üzerine çıkarılmıştır?",
+      "answer": "Kafkas Cephesi"
+    },
+    {
+      "id": 55,
+      "question": "Kanal Cephesi’nin açılma amacı nedir?",
+      "answer": "Mısır’ı İngilizlerden geri almak ve Süveyş Kanalı’nı ele geçirip İngiltere’nin sömürge yollarını kesmek"
+    },
+    {
+      "id": 56,
+      "question": "Kanal Cephesi’ndeki Osmanlı komutanı kimdir?",
+      "answer": "Cemal Paşa"
+    },
+    {
+      "id": 57,
+      "question": "İtilaf Devletleri’nin Rusya’ya yardım göndermek ve Osmanlı’yı savaş dışı bırakmak için açtığı cephe hangisidir?",
+      "answer": "Çanakkale Cephesi"
+    },
+    {
+      "id": 58,
+      "question": "Mustafa Kemal’in \"Ben size taarruzu değil, ölmeyi emrediyorum\" dediği cephe hangisidir?",
+      "answer": "Çanakkale Cephesi"
+    },
+    {
+      "id": 59,
+      "question": "Mustafa Kemal’in Çanakkale’de savaştığı mevkiler nerelerdir?",
+      "answer": "Anafartalar, Conkbayırı, Arıburnu"
+    },
+    {
+      "id": 60,
+      "question": "Çanakkale Deniz Zaferi’nin kazanıldığı tarih nedir?",
+      "answer": "18 Mart 1915"
+    },
+    {
+      "id": 61,
+      "question": "Çanakkale Deniz Savaşları’nın kahramanı ve \"18 Mart Kahramanı\" olarak bilinen komutan kimdir?",
+      "answer": "Cevat Paşa (Çobanlı)"
+    },
+    {
+      "id": 62,
+      "question": "Çanakkale Zaferi’nin I. Dünya Savaşı’nın süresine etkisi nedir?",
+      "answer": "Savaşı en az 2 yıl uzatmıştır."
+    },
+    {
+      "id": 63,
+      "question": "Çanakkale Zaferi’nin etkisiyle İttifak bloğuna katılan devlet hangisidir?",
+      "answer": "Bulgaristan"
+    },
+    {
+      "id": 64,
+      "question": "Bulgaristan’ın savaşa girmesiyle ne sağlanmıştır?",
+      "answer": "Osmanlı-Almanya kara bağlantısı"
+    },
+    {
+      "id": 65,
+      "question": "Rusya’da Bolşevik İhtilali’nin çıkmasına ve Çarlığın yıkılmasına zemin hazırlayan olay nedir?",
+      "answer": "Çanakkale Cephesi’nde Rusya’ya yardımın ulaşamaması"
+    },
+    {
+      "id": 66,
+      "question": "Irak Cephesi’nde Halil (Kut) Paşa komutasındaki Osmanlı ordusunun İngilizleri yendiği ve General Townshend’i esir aldığı zafer hangisidir?",
+      "answer": "Kut’ül Amare Zaferi"
+    },
+    {
+      "id": 67,
+      "question": "Hicaz-Yemen Cephesi’nde \"Çöl Kaplanı\" lakabıyla bilinen, Medine’yi İngilizlere karşı savunan komutan kimdir?",
+      "answer": "Fahrettin Paşa (Medine Müdafii)"
+    },
+    {
+      "id": 68,
+      "question": "Suriye-Filistin Cephesi’nde Mustafa Kemal’in görevi neydi?",
+      "answer": "Yıldırım Orduları Grup Komutanlığı (7. Ordu Komutanı)"
+    },
+    {
+      "id": 69,
+      "question": "Mustafa Kemal’in I. Dünya Savaşı’nda görev aldığı son cephe hangisidir?",
+      "answer": "Suriye-Filistin Cephesi"
+    },
+    {
+      "id": 70,
+      "question": "I. Dünya Savaşı sırasında İtilaf Devletleri’nin Osmanlı topraklarını paylaştığı antlaşmalara ne ad verilir?",
+      "answer": "Gizli Antlaşmalar"
+    },
+    {
+      "id": 71,
+      "question": "Gizli antlaşmaları dünyaya duyuran devlet hangisidir?",
+      "answer": "Sovyet Rusya (Sarı Kitap ile)"
+    },
+    {
+      "id": 72,
+      "question": "İngiltere’nin Araplara bağımsızlık vaat ettiği gizli antlaşma hangisidir?",
+      "answer": "Mac Mahon Antlaşması"
+    },
+    {
+      "id": 73,
+      "question": "İzmir ve çevresinin İtalya’ya verildiği gizli antlaşma hangisidir?",
+      "answer": "St. Jean de Maurienne"
+    },
+    {
+      "id": 74,
+      "question": "Ortadoğu’nun İngiltere ve Fransa arasında paylaşıldığı gizli antlaşma hangisidir?",
+      "answer": "Sykes-Picot Antlaşması"
+    },
+    {
+      "id": 75,
+      "question": "ABD’nin savaşa girmesiyle yayınlanan ve savaş sonrası düzeni belirleyen ilkeler hangisidir?",
+      "answer": "Wilson İlkeleri"
+    },
+    {
+      "id": 76,
+      "question": "Wilson İlkeleri’nin \"Yenenler yenilenlerden toprak ve tazminat almayacak\" maddesi neye yöneliktir?",
+      "answer": "Sömürgeciliği engellemeye"
+    },
+    {
+      "id": 77,
+      "question": "Wilson İlkeleri’ne göre kurulması öngörülen uluslararası barış örgütü hangisidir?",
+      "answer": "Milletler Cemiyeti (Cemiyet-i Akvam)"
+    },
+    {
+      "id": 78,
+      "question": "Wilson İlkeleri’nde Osmanlı’yı doğrudan ilgilendiren madde nedir?",
+      "answer": "\"Türklerin çoğunlukta olduğu bölgelerde Türklere egemenlik hakkı tanınacaktır.\""
+    },
+    {
+      "id": 79,
+      "question": "I. Dünya Savaşı’ndan ilk çekilen İttifak devleti hangisidir?",
+      "answer": "Bulgaristan"
+    },
+    {
+      "id": 80,
+      "question": "Osmanlı Devleti’nin I. Dünya Savaşı’ndan çekilmesini sağlayan ateşkes antlaşması hangisidir?",
+      "answer": "Mondros Ateşkes Antlaşması (30 Ekim 1918)"
+    },
+    {
+      "id": 81,
+      "question": "Mondros Ateşkes Antlaşması’nı Osmanlı adına imzalayan kimdir?",
+      "answer": "Rauf Orbay (Bahriye Nazırı)"
+    },
+    {
+      "id": 82,
+      "question": "Mondros’un \"İtilaf devletleri güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal edebilecektir\" diyen en tehlikeli maddesi kaçıncı maddedir?",
+      "answer": "7. Madde"
+    },
+    {
+      "id": 83,
+      "question": "Mondros’un \"Vilayet-i Sitte’de (6 Doğu ili) karışıklık çıkarsa işgal edilecektir\" maddesi kaçıncı maddedir ve amacı nedir?",
+      "answer": "24. Madde - Ermeni devleti kurmak"
+    },
+    {
+      "id": 84,
+      "question": "Mondros’tan sonra işgal edilen ilk Osmanlı toprağı neresidir?",
+      "answer": "Musul (İngiltere tarafından)"
+    },
+    {
+      "id": 85,
+      "question": "Mondros’tan sonra Anadolu’da işgal edilen ilk yer neresidir?",
+      "answer": "İskenderun-Dörtyol (Fransa tarafından)"
+    },
+    {
+      "id": 86,
+      "question": "Mondros’tan sonra başlayan işgallere karşı Türk halkının kurduğu direniş örgütlerine ne ad verilir?",
+      "answer": "Kuvayi Milliye"
+    },
+    {
+      "id": 87,
+      "question": "I. Dünya Savaşı’nı bitiren barış antlaşmalarının taslağının hazırlandığı konferans hangisidir?",
+      "answer": "Paris Barış Konferansı (1919)"
+    },
+    {
+      "id": 88,
+      "question": "Paris Barış Konferansı’nda İzmir ve çevresi İtalya yerine kime verilmiştir?",
+      "answer": "Yunanistan’a"
+    },
+    {
+      "id": 89,
+      "question": "İtilaf Devletleri arasında ilk görüş ayrılığı nerede yaşanmıştır?",
+      "answer": "Paris Barış Konferansı (İzmir’in Yunanistan’a verilmesi üzerine)"
+    },
+    {
+      "id": 90,
+      "question": "Almanya ile imzalanan barış antlaşması hangisidir?",
+      "answer": "Versay Antlaşması"
+    },
+    {
+      "id": 91,
+      "question": "Avusturya ile imzalanan barış antlaşması hangisidir?",
+      "answer": "Saint Germain Antlaşması"
+    },
+    {
+      "id": 92,
+      "question": "Bulgaristan ile imzalanan barış antlaşması hangisidir?",
+      "answer": "Neuilly Antlaşması"
+    },
+    {
+      "id": 93,
+      "question": "Macaristan ile imzalanan barış antlaşması hangisidir?",
+      "answer": "Trianon Antlaşması"
+    },
+    {
+      "id": 94,
+      "question": "Osmanlı ile imzalanan barış antlaşması hangisidir?",
+      "answer": "Sevr Antlaşması"
+    },
+    {
+      "id": 95,
+      "question": "Yunanlıların İzmir’i işgali ne zaman başlamıştır?",
+      "answer": "15 Mayıs 1919"
+    },
+    {
+      "id": 96,
+      "question": "İzmir’in işgalinde Yunanlılara ilk kurşunu sıkan gazeteci kimdir?",
+      "answer": "Hasan Tahsin (Osman Nevres)"
+    },
+    {
+      "id": 97,
+      "question": "İzmir’in işgalinin haksız olduğunu dünyaya duyuran ilk uluslararası rapor hangisidir?",
+      "answer": "Amiral Bristol Raporu"
+    },
+    {
+      "id": 98,
+      "question": "Doğu Anadolu’da Ermeni iddialarının asılsız olduğunu belirten ABD’li generalin raporu hangisidir?",
+      "answer": "General Harbord Raporu"
+    },
+    {
+      "id": 99,
+      "question": "Mondros Ateşkesi imzalandığında Mustafa Kemal hangi görevdeydi?",
+      "answer": "Yıldırım Orduları Grup Komutanı (Suriye)"
+    },
+    {
+      "id": 100,
+      "question": "Mustafa Kemal İstanbul’a geldiğinde işgal donanmasını görünce ne demiştir?",
+      "answer": "\"Geldikleri gibi giderler.\""
+    }
+  ]
+}

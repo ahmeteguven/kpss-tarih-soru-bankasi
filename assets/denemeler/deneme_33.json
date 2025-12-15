@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 33",
+  "examCode": "deneme_33",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 32)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı, sanatta Hayvan Üslubu'nun gelişmesine yol açmıştır. Orhun Yazıtları, Yollug Tigin tarafından yazılmıştır. İlk Müslüman Türk devleti olan Karahanlılar, Uygur alfabesini kullanmaya devam ederek millî kimliğini korumuştur. Anadolu Selçuklu Devleti'nde Kayseri'deki Gevher Nesibe Darüşşifası, dünyanın ilk tıp fakültesi olarak kabul edilir.\n\n**Osmanlı ve Islahatlar:** Fatih Sultan Mehmet, karada alamadığı Belgrad'ı ve denizde alamadığı Rodos'u, daha sonra Kanuni Sultan Süleyman fethetmiştir. Lale Devri (1718-1730), Pasarofça Antlaşması ile başlamış, Patrona Halil İsyanı ile sona ermiştir. II. Mahmut döneminde Yeniçeri Ocağı kaldırılmış (Vaka-i Hayriye), yerine Asakir-i Mansure-i Muhammediye ordusu kurulmuştur. Tanzimat Fermanı (1839) ile padişah Kanun Üstünlüğünü kabul etmiştir.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, bölgesel amaçlı, düzensiz birliklerdir. Amasya Genelgesi, 'Milletin azim ve kararı' maddesiyle milli egemenliği vurgulayan ilk belgedir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiştir. Medeni Kanun, İsviçre'den alınmıştır. Montrö Boğazlar Sözleşmesi (1936) ile Türkiye, boğazlar üzerindeki tam egemenliğini sağlamıştır.\n\n**Çağdaş Dünya:** II. Dünya Savaşı'ndan sonra ABD'nin başlattığı Truman Doktrini (1947), Soğuk Savaş'ın başlangıcı sayılır. Türkiye, SSCB tehdidine karşı Batı Bloğu'na dahil olmuştur.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türklerde toplumsal yapının temelini oluşturan ve 'aile' anlamına gelen en küçük birim hangisidir?",
+      "options": [
+        "Urug",
+        "Oguş",
+        "Boy",
+        "Budun",
+        "İl"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türklerde 'Balbal' adı verilen mezar taşları dikilmesinin temel nedeni nedir?",
+      "options": [
+        "Hayvan Üslubu sanatını yaşatmak",
+        "Ölen kişinin ruhunun tekrar dünyaya gelmesini sağlamak",
+        "Ölen kişinin hayattayken öldürdüğü düşman sayısını belirtmek ve ahiret inancını pekiştirmek",
+        "Hükümdarın gücünü göstermek",
+        "Göçebe yaşamı kanıtlamak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Mısır'da kurulan ilk Türk devleti Tolunoğulları ve ondan sonra kurulan İhşidiler'in (Akşitler) ortak özelliği nedir?",
+      "options": [
+        "Kutsal topraklara hakim olmaları",
+        "Halkı Arap, yöneticisi Türk olması nedeniyle kısa ömürlü olmaları",
+        "Abbasi halifesini korumaları",
+        "Haçlılarla savaşmaları",
+        "Anadolu'ya sefer düzenlemeleri"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti'nde ticari davalara, esnaf sorunlarına ve gayrimüslimlerin kendi aralarındaki davalara bakan görevli kimdir?",
+      "options": [
+        "Kazasker",
+        "Emir-i Dad",
+        "Kadı",
+        "Pervaneci",
+        "Muhtesip"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Fatih Sultan Mehmet'in, İstanbul'u fethettikten sonra Roma İmparatorluğu'nun varisi olduğu iddiasıyla kullandığı unvan hangisidir?",
+      "options": [
+        "Sultan-ı İklim-i Rum",
+        "Gazi",
+        "Halife",
+        "Kayser-i Rum",
+        "Hüdavendigar"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde Devşirme sistemiyle yetiştirilen Kapıkulu askerlerinin üç ayda bir aldıkları maaşa ne ad verilir?",
+      "options": [
+        "Cülus Bahşişi",
+        "Tımar",
+        "Ulufe",
+        "Arpalık",
+        "Mukataa"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde ilk kez 'Müsadere' (Devletin mala el koyması) sistemini kaldıran ve özel mülkiyet hakkını güvence altına alan padişah kimdir?",
+      "options": [
+        "Fatih Sultan Mehmet",
+        "Yavuz Sultan Selim",
+        "II. Mahmut",
+        "Sultan Abdülmecit",
+        "II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde Batı tarzı ilk daimi (sürekli) elçilik hangi padişah döneminde açılmıştır?",
+      "options": [
+        "III. Ahmet (Lale Devri)",
+        "I. Mahmut",
+        "III. Selim (Nizam-ı Cedid)",
+        "II. Mahmut",
+        "Sultan Abdülaziz"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde 19. yüzyılda memur yetiştirmek amacıyla kurulan, bugünkü Mülkiye'nin (Siyasal Bilgiler) temelini oluşturan okul hangisidir?",
+      "options": [
+        "Hendesehane",
+        "Mekteb-i Harbiye",
+        "Mekteb-i Mülkiye",
+        "Sanayi-i Nefise Mektebi",
+        "Darülfünun"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde ilk kağıt para (Kaime) hangi padişah döneminde bastırılmıştır?",
+      "options": [
+        "II. Mahmut",
+        "Sultan Abdülmecit",
+        "Sultan Abdülaziz",
+        "V. Mehmet Reşat",
+        "II. Abdülhamit"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "II. Abdülhamit döneminde, Alman İmparatoru II. Wilhelm'in de desteğiyle yapımına başlanan ve Osmanlı'nın İslamcılık politikasını destekleyen demiryolu hattı hangisidir?",
+      "options": [
+        "Hicaz Demiryolu",
+        "Bağdat Demiryolu",
+        "İzmir-Aydın Demiryolu",
+        "Şam-Halep Demiryolu",
+        "Mısır Demiryolu"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı sırasında Osmanlı Devleti'nin, İngiltere'nin sömürge yollarını (Süveyş Kanalı) keserek Mısır'ı geri almak amacıyla açtığı cephe hangisidir?",
+      "options": [
+        "Kafkas Cephesi",
+        "Kanal Cephesi",
+        "Irak Cephesi",
+        "Hicaz-Yemen Cephesi",
+        "Suriye-Filistin Cephesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "I. Dünya Savaşı'nda Halil (Kut) Paşa komutasındaki Osmanlı ordusunun İngilizleri yendiği ve General Townshend'i esir aldığı zafer hangisidir?",
+      "options": [
+        "Kanal Harekatı",
+        "Sarıkamış Harekatı",
+        "Kut’ül Amare Zaferi",
+        "Çanakkale Zaferi",
+        "Galiçya Harekatı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Erzurum Kongresi'nin toplanış amacı bölgesel olmasına rağmen, aldığı 'Milli sınırlar içinde vatan bir bütündür, parçalanamaz' kararıyla ilk kez hangi kavramdan bahsetmiştir?",
+      "options": [
+        "Milli Egemenlik",
+        "Saltanat",
+        "Misak-ı Milli",
+        "Manda ve Himaye",
+        "Kuva-yi Milliye"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Amasya Genelgesi'nde, Sivas'ta toplanacak ulusal kongreye delegelerin hangi kuruluşlar aracılığıyla seçilmesi istenmiştir?",
+      "options": [
+        "İstanbul Hükümeti ve Padişah",
+        "Askeri Komutanlıklar ve Valilikler",
+        "Müdafaa-i Hukuk Cemiyetleri ve Belediyeler",
+        "İtilaf Devletleri ve Konsolosluklar",
+        "Sadece Kuvayi Milliye şefleri"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "I. İnönü Savaşı sonucunda kabul edilen, Yeni Türk Devleti'nin ilk anayasası hangisidir?",
+      "options": [
+        "Kanun-i Esasi",
+        "Teşkilat-ı Esasiye (1921 Anayasası)",
+        "1924 Anayasası",
+        "Islahat Fermanı",
+        "Sened-i İttifak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Kurtuluş Savaşı'nın askeri safhasını sona erdiren ve Doğu Trakya, İstanbul ve Boğazlar'ın savaşsız kazanılmasını sağlayan antlaşma hangisidir?",
+      "options": [
+        "Gümrü Antlaşması",
+        "Moskova Antlaşması",
+        "Mudanya Ateşkes Antlaşması",
+        "Ankara Antlaşması",
+        "Lozan Barış Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda 'Boğazlar' konusunda alınan karar, Türkiye'nin egemenliğini hangi yönden kısıtlamıştır?",
+      "options": [
+        "Boğazların yabancı parayla işletilmesi",
+        "Boğazlar Komisyonu'nun varlığı ve askersiz bölge bırakılması",
+        "Boğazlardan geçişin yasaklanması",
+        "Türkiye'nin borçlarının Boğaz gelirlerinden ödenmesi",
+        "Rusya'nın Boğazlar'a üs kurması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "29 Ekim 1923’te Cumhuriyetin ilan edilmesini hızlandıran (doğrudan neden olan) olay hangisidir?",
+      "options": [
+        "Menemen Olayı",
+        "Şeyh Said İsyanı",
+        "Halifeliğin kaldırılması",
+        "Lozan Antlaşması",
+        "Hükümet (Sonbahar) Bunalımı"
+      ],
+      "correctOption": "E",
+      "solution": "Ali Fethi Okyar hükümetinin istifası ve yeni hükümetin kurulamaması."
+    },
+    {
+      "id": 20,
+      "text": "Osmanlı hanedanının yurt dışına çıkarılması kararı hangi kanunla alınmıştır?",
+      "options": [
+        "Soyadı Kanunu",
+        "Halifeliğin Kaldırılması Kanunu",
+        "Teşkilat-ı Esasiye",
+        "Medeni Kanun",
+        "Tekke ve Zaviyelerin Kapatılması"
+      ],
+      "correctOption": "B",
+      "solution": "3 Mart 1924"
+    },
+    {
+      "id": 21,
+      "text": "Aşağıdaki inkılap-ilke eşleştirmelerinden hangisi yanlıştır?",
+      "options": [
+        "I. Beş Yıllık Sanayi Planı - Devletçilik",
+        "Aşar Vergisinin Kaldırılması - Halkçılık",
+        "Türk Dil Kurumu'nun Kurulması - Milliyetçilik",
+        "Saltanatın Kaldırılması - Cumhuriyetçilik (ve Laiklik)",
+        "Medeni Kanun'un Kabulü - Devletçilik"
+      ],
+      "correctOption": "E",
+      "solution": "Medeni Kanun; Hukukta eşitlik sağladığı için Halkçılık, dini hukuku kaldırdığı için Laiklik, modern hukuk olduğu için İnkılapçılık ile ilgilidir. Devletçilik (ekonomi) ile ilgisi yoktur."
+    },
+    {
+      "id": 22,
+      "text": "Türkiye ile Yunanistan arasında, yerleşik sayılacak Rum ve Türk nüfusunun belirlenmesi (Etabli) sorununun çözüldüğü antlaşma hangisidir?",
+      "options": [
+        "Lozan Antlaşması",
+        "Balkan Antantı",
+        "1930 Ahali (Ankara) Antlaşması",
+        "Montrö Sözleşmesi",
+        "Zürih Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Montrö Boğazlar Sözleşmesi'nin imzalanmasında temel hukuki gerekçe olan ve Türkiye'nin Lozan'ın değiştirilmesini istemesine yol açan ilke nedir?",
+      "options": [
+        "Status Quo",
+        "Pax Ottomana",
+        "Rebus Sic Stantibus (Şartların Değişmesi)",
+        "Non-Intervention",
+        "Ultima Ratio"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Sadabat Paktı'na (1937) katılan ülkeler arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Türkiye",
+        "İran",
+        "Irak",
+        "Suriye",
+        "Afganistan"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sırasında 'Üç Büyükler'in (ABD, İngiltere, SSCB) bir araya gelerek, savaş sonrası dünya düzenini ve BM'nin kurulmasını görüştüğü konferans hangisidir?",
+      "options": [
+        "Tahran Konferansı",
+        "Potsdam Konferansı",
+        "Yalta Konferansı",
+        "Casablanca Konferansı",
+        "San Francisco Konferansı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "Türkiye, NATO'ya üye olabilmek amacıyla Kore Savaşı'na hangi askeri gücü göndermiştir?",
+      "options": [
+        "Milli Savunma Gücü",
+        "Türk Barış Tugayı",
+        "Türk İşbirliği Birliği",
+        "Mavi Bereliler",
+        "BM Barış Gücü"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Soğuk Savaş döneminde Yugoslavya lideri Tito'nun öncülüğünde, ne Batı ne de Doğu bloğuna dahil olmak istemeyen ülkelerin oluşturduğu hareket hangisidir?",
+      "options": [
+        "OPEC",
+        "Bağlantısızlar Hareketi (3. Dünya)",
+        "İslam İşbirliği Teşkilatı",
+        "Afrika Birliği",
+        "ASEAN"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 03",
+  "examCode": "deneme_03",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 03)\n\n**Osmanlı Yükselme ve Gerileme:** Kanuni Sultan Süleyman döneminde Preveze Deniz Zaferi (1538) ile Akdeniz bir Türk Gölü haline gelmiştir. Yavuz Sultan Selim'in Mısır Seferi ile Kutsal Emanetler İstanbul'a getirilmiş ve Halifelik Osmanlı'ya geçmiştir. Osmanlı'da Batı tarzı ilk askeri ıslahatlar I. Mahmut döneminde (Hendesehane) yapılmıştır. Karlofça (1699) ile başlayan büyük toprak kayıpları ve Küçük Kaynarca (1774) ile Kırım'ın bağımsız olması, dağılma sürecini hızlandıran temel olaylardır.\n\n**Hazırlık ve Muharebeler:** Temsil Heyeti, Sivas Kongresi'nden sonra Ali Fuat Paşa'yı Batı Cephesi Komutanlığı'na atayarak ilk kez yürütme yetkisini kullanmıştır. Amasya Görüşmeleri, İstanbul Hükümeti'nin Temsil Heyeti'ni hukuken tanıdığı ilk olaydır. Güney Cephesi, Sakarya Zaferi'nden sonra Fransa ile imzalanan 1921 Ankara Antlaşması ile kapanmıştır.\n\n**İnkılaplar ve İlkeler:** Cumhuriyetin ilanıyla (1923) Meclis Hükümeti Sistemi'nden Kabine Sistemi'ne geçilmiştir. İzmir Suikastı (1926) İstiklal Mahkemelerinin son kez görev yaptığı olaydır. Nüfus Mübadelesi sorunu, Yunanistan ile 1930 Ahali Antlaşması ile çözülmüştür.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türklerin kullandığı alfabeler arasında, Türklerin bizzat kendi oluşturduğu ve \"Güneş Yılı\" esasına dayanan takvim hangisidir?",
+      "options": [
+        "Hicri Takvim",
+        "Celali Takvim",
+        "Rumi Takvim",
+        "12 Hayvanlı Türk Takvimi",
+        "Miladi Takvim"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Tarihte \"Türk\" adını siyasi olarak ilk kez kullanan devlettir. Kurucusu Bumin Kağan, merkezi Ötüken'dir. En parlak dönemi Mukan Kağan'dır.",
+      "options": [
+        "Asya Hun Devleti",
+        "Uygur Devleti",
+        "I. Göktürk Devleti",
+        "Kutluk Devleti",
+        "Avarlar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Mısır’da kurulan Tolunoğulları ve İhşidiler (Akşitler) devletlerinin kısa ömürlü olmalarının temel nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Haçlı seferleri ile mücadele etmeleri",
+        "Ekonomik kriz yaşamaları",
+        "Abbasi halifesine bağlı kalmaları",
+        "Moğol istilasına uğramaları",
+        "Yöneticilerinin Türk, halkının Arap olması"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "1176 yılında Bizans İmparatorluğu ile yapılan ve \"Anadolu’nun Türk yurdu olduğunun kesinleşmesini\" sağlayan savaş aşağıdakilerden hangisidir?",
+      "options": [
+        "Malazgirt",
+        "Pasinler",
+        "Miryokefalon",
+        "Yassı Çemen",
+        "Kösedağ"
+      ],
+      "correctOption": "C",
+      "solution": "Yurttutan Savaşı olarak da bilinir."
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nde \"Beylikten Devlete\" geçişin mimarı sayılan, Bursa’yı alarak başkent yapan ve ilk düzenli orduyu (Yaya ve Müsellem) kuran padişah kimdir?",
+      "options": [
+        "Orhan Bey",
+        "I. Murat",
+        "Osman Bey",
+        "Yıldırım Bayezid",
+        "Çelebi Mehmet"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı tarihinde İstanbul’u kuşatan ilk padişah kimdir?",
+      "options": [
+        "Fatih Sultan Mehmet",
+        "II. Murat",
+        "Musa Çelebi",
+        "Orhan Bey",
+        "Yıldırım Bayezid"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti’nde \"Kardeş Katli\"ni, \"Nizam-ı Alem\" (Devletin düzeni) için yasal hale getiren belge aşağıdakilerden hangisidir?",
+      "options": [
+        "Sened-i İttifak",
+        "Kanunname-i Ali Osman (Fatih Kanunnamesi)",
+        "Tanzimat Fermanı",
+        "Islahat Fermanı",
+        "Kanun-i Esasi"
+      ],
+      "correctOption": "B",
+      "solution": "\"Her kime saltanat müyesser ola, karındaşların nizam-ı alem içün katletmek münasiptir.\""
+    },
+    {
+      "id": 8,
+      "text": "Yavuz Sultan Selim’in Mısır Seferi sırasında Sina Çölü'nü geçerken ordunun önünde yürüdüğüne inanılan manevi lider kimdir?",
+      "options": [
+        "Akşemseddin",
+        "Hacı Bayram Veli",
+        "Hz. Muhammed (S.A.V.)",
+        "Veysel Karani",
+        "Ebu Eyyub El Ensari"
+      ],
+      "correctOption": "D",
+      "solution": "Bu bir rivayet sorusudur."
+    },
+    {
+      "id": 9,
+      "text": "Sokullu Mehmet Paşa’nın, Akdeniz ile Kızıldeniz’i birleştirerek Baharat Yolu’nu canlandırmak ve Portekiz’in Hint Okyanusu’ndaki etkinliğini kırmak için hazırladığı proje hangisidir?",
+      "options": [
+        "Don-Volga Kanalı",
+        "Süveyş Kanalı Projesi",
+        "Panama Kanalı",
+        "Hazar Projesi",
+        "Tuna Projesi"
+      ],
+      "correctOption": "B",
+      "solution": "Bu proje ancak 1869'da gerçekleşebilmiştir."
+    },
+    {
+      "id": 10,
+      "text": "III. Selim döneminde yapılan tüm ıslahatlara ve bu dönemde kurulan Batı tarzı orduya ne ad verilir?",
+      "options": [
+        "Sekban-ı Cedid",
+        "Nizam-ı Cedid",
+        "Eşkinci Ocağı",
+        "Asakir-i Mansure-i Muhammediye",
+        "Hamidiye Alayları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti’nde çıkan ilk resmi gazete olan ve II. Mahmut döneminde yayımlanmaya başlayan gazete hangisidir?",
+      "options": [
+        "Ceride-i Havadis",
+        "Tercüman-ı Ahval",
+        "Tasvir-i Efkar",
+        "İrade-i Milliye",
+        "Takvim-i Vekayi"
+      ],
+      "correctOption": "E",
+      "solution": "1831"
+    },
+    {
+      "id": 12,
+      "text": "Mustafa Kemal’in Trablusgarp Savaşı’na gönüllü olarak katılmış ve yerel halkı İtalyanlara karşı örgütlemiştir. Mustafa Kemal’in bu savaşa giderken kullandığı takma ad ve meslek aşağıdakilerden hangisidir?",
+      "options": [
+        "Kuyumcu Hamdi",
+        "Tüccar Mehmet",
+        "Muallim Naci",
+        "Gazeteci Şerif Bey",
+        "Doktor Refik"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Osmanlı Devleti’nin I. Dünya Savaşı’na girmesine neden olan Goben ve Breslau gemilerine, Osmanlı donanmasına katıldıktan sonra hangi isimler verilmiştir?",
+      "options": [
+        "Hamidiye ve Mecidiye",
+        "Nusret ve Muavenet",
+        "Ertuğrul ve Söğüt",
+        "Yavuz ve Midilli",
+        "Barbaros ve Turgut Reis"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Kurtuluş Savaşı’nın \"Gerekçesi, Amacı ve Yöntemi\"nin belirlendiği ve Milli Mücadele’nin yol haritası olan belge hangisidir?",
+      "options": [
+        "Misak-ı Milli",
+        "Sivas Kongresi",
+        "Havza Genelgesi",
+        "Erzurum Kongresi",
+        "Amasya Genelgesi"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Milli Mücadele’nin haklılığını dünya kamuoyuna duyurmak için Sivas Kongresi kararıyla çıkarılan ilk gazete hangisidir?",
+      "options": [
+        "Hakimiyet-i Milliye",
+        "Ceride-i Resmiye",
+        "Tasvir-i Efkar",
+        "Albayrak",
+        "İrade-i Milliye"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kütahya-Eskişehir Savaşları sonucunda kaybedilen şehirler arasında aşağıdakilerden hangisi yoktur?",
+      "options": [
+        "Afyon",
+        "Ankara",
+        "Kütahya",
+        "Eskişehir",
+        "Bilecik"
+      ],
+      "correctOption": "B",
+      "solution": "Ankara tehdit altına girmiş ama işgal edilmemiştir."
+    },
+    {
+      "id": 17,
+      "text": "Mustafa Kemal’e TBMM tarafından \"Gazi\" unvanı ve \"Mareşal\" rütbesinin verildiği savaş hangisidir?",
+      "options": [
+        "I. İnönü Savaşı",
+        "Trablusgarp Savaşı",
+        "Büyük Taarruz",
+        "Çanakkale Savaşı",
+        "Sakarya Meydan Muharebesi"
+      ],
+      "correctOption": "E",
+      "solution": "19 Eylül 1921"
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması’nın geçerlilik süresi ne kadardır?",
+      "options": [
+        "100 yıl",
+        "Süresizdir",
+        "20 yıl",
+        "50 yıl",
+        "II. Dünya Savaşı’na kadardır"
+      ],
+      "correctOption": "B",
+      "solution": "Lozan süreli bir antlaşma değildir, \"Gizli maddesi var, 100 yıl sonra bitecek\" iddiaları tarihsel gerçeklikle bağdaşmaz."
+    },
+    {
+      "id": 19,
+      "text": "Şeriye ve Evkaf Vekaleti’nin kaldırılmasıyla, din işlerini yürütmek üzere kurulan kurum hangisidir?",
+      "options": [
+        "Maarif Vekaleti",
+        "Diyanet İşleri Başkanlığı",
+        "Türk Tarih Kurumu",
+        "Adliye Vekaleti",
+        "Vakıflar Genel Müdürlüğü"
+      ],
+      "correctOption": "B",
+      "solution": "Vakıf malları için ise Vakıflar Genel Müdürlüğü kurulmuştur."
+    },
+    {
+      "id": 20,
+      "text": "Türk Ceza Kanunu hangi ülkeden uyarlanarak alınmıştır?",
+      "options": [
+        "Fransa",
+        "İsveç",
+        "İsviçre",
+        "İtalya",
+        "Almanya"
+      ],
+      "correctOption": "D",
+      "solution": "1889 Zanardelli Yasası esas alınmıştır."
+    },
+    {
+      "id": 21,
+      "text": "Cumhuriyetin ilanıyla birlikte \"Meclis Hükümeti\" sistemi terk edilerek hangi hükümet modeline geçilmiştir?",
+      "options": [
+        "Kabine Sistemi",
+        "Başkanlık Sistemi",
+        "Federatif Sistem",
+        "Mutlakiyet",
+        "Karma Sistem"
+      ],
+      "correctOption": "A",
+      "solution": "Hükümet kurmak kolaylaşmıştır."
+    },
+    {
+      "id": 22,
+      "text": "Terakkiperver Cumhuriyet Fırkası'nın savunduğu \"Adem-i Merkeziyetçilik\" ilkesi ne anlama gelmektedir?",
+      "options": [
+        "Yerel yönetimlere (belediyelere, il özel idarelerine) daha fazla yetki verilmesi (Yerinden Yönetim)",
+        "Tüm yetkilerin başkentte toplanması",
+        "Padişahlığın geri getirilmesi",
+        "Ekonominin devlet kontrolünde olması",
+        "Ordunun siyasetten ayrılması"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin dış borçlarını ödemek için kurduğu ve gümrük gelirlerini denetleyen kurum olan \"Duyun-u Umumiye\"nin Türkiye üzerindeki mali denetimi ne zaman tamamen kalkmıştır?",
+      "options": [
+        "Hatay'ın katılması (1939)",
+        "Montrö (1936)",
+        "Dış Borçlar Antlaşması (1928)",
+        "Borçların bitmesi (1954)",
+        "Lozan Antlaşması (1923)"
+      ],
+      "correctOption": "E",
+      "solution": "Lozan ile Duyun-u Umumiye'nin mali denetimi ve vergi toplama yetkisi kaldırılmış, kurum sadece borçların paylaştırılması için bir süre daha sembolik kalmıştır."
+    },
+    {
+      "id": 24,
+      "text": "Atatürk'ün \"Benim şahsi meselem\" dediği Hatay sorunu, hangi devlet ile yaşanmıştır?",
+      "options": [
+        "İngiltere",
+        "Fransa",
+        "İtalya",
+        "Suriye (Tek başına değil, Fransa mandası)",
+        "Almanya"
+      ],
+      "correctOption": "B",
+      "solution": "Muhatap Fransa'dır."
+    },
+    {
+      "id": 25,
+      "text": "1938 yılında Almanya, İtalya, İngiltere ve Fransa arasında yapılan, Çekoslovakya'nın Südetler bölgesinin Almanya'ya verilmesini öngören ve \"Yatıştırma Politikası\"nın zirvesi sayılan antlaşma hangisidir?",
+      "options": [
+        "Çelik Pakt",
+        "Münih Antlaşması",
+        "Berlin Antlaşması",
+        "Paris Antlaşması",
+        "Anti-Komintern Pakt"
+      ],
+      "correctOption": "B",
+      "solution": "İngiltere Başbakanı Chamberlain, \"Size barış getirdim\" demiştir ama 1 yıl sonra savaş çıkmıştır."
+    },
+    {
+      "id": 26,
+      "text": "Japonya'nın II. Dünya Savaşı öncesinde Asya'daki yayılmacı politikasını özetleyen ve Batılıları Asya'dan atmayı hedefleyen sloganı nedir?",
+      "options": [
+        "Hayat Sahası",
+        "Asya Asyalılarındır (Ortak Refah Alanı)",
+        "Güneş İmparatorluğu",
+        "Demir Perde",
+        "Bizim Deniz"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1970'li yıllarda Türk diplomatlarına yönelik suikastlar düzenleyen Ermeni terör örgütünün adı nedir?",
+      "options": [
+        "EOKA",
+        "PKK",
+        "ASALA",
+        "İBDA-C",
+        "DHKP-C"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

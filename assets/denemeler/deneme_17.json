@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 17",
+  "examCode": "deneme_17",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 17)\n\n**İlk Çağdan Günümüze:** Türklerde 'Kut' (hükmetme yetkisinin Gök Tanrı'dan alınması) anlayışı, devletin hanedan üyelerinin ortak malı sayılmasına ve taht kavgalarına neden olmuştur. Uygurlar, Budizm ve Maniheizm dinlerinin etkisiyle yerleşik hayata geçerek matbaa ve fresko sanatını geliştirmişlerdir. Büyük Selçuklu Devleti'nde Vezir Nizamülmülk tarafından kurulan Nizamiye Medreseleri, dönemin en büyük bilim merkezidir. Anadolu'da kurulan ilk medrese Danişmentliler'e ait Yağıbasan Medresesi'dir.\n\n**Osmanlı ve Islahatlar:** Yıldırım Bayezid, İstanbul'u kuşatan ilk Osmanlı padişahıdır. Fatih Sultan Mehmet döneminde 'Kardeş Katli' Kanunname-i Ali Osman ile yasallaşmıştır. Lale Devri (1718-1730), Pasarofça Antlaşması ile başlamış, Patrona Halil İsyanı ile bitmiştir. II. Mahmut döneminde (1838) Balta Limanı Ticaret Antlaşması ile Osmanlı, İngiltere'nin açık pazarı haline gelmiştir.\n\n**Milli Mücadele ve Cumhuriyet:** I. Dünya Savaşı'nda Kut'ül Amare Zaferi, Halil (Kut) Paşa komutasında Irak Cephesi'nde kazanılmıştır. Amasya Genelgesi, Kurtuluş Savaşı'nın gerekçesini ve yöntemini belirlemiştir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiş, Moskova ve Londra Konferansları toplanmıştır. Medeni Kanun ile kadınlara siyasi haklar verilmemiştir. Montrö Boğazlar Sözleşmesi (1936) ile Türkiye, boğazlar üzerindeki tam egemenliğini sağlamıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk devletlerinde hükümdarın emretme yetkisine, yasama gücüne ne ad verilir?",
+      "options": [
+        "Töre",
+        "Yarlıg",
+        "Kut",
+        "Güç",
+        "Ülüş"
+      ],
+      "correctOption": "B",
+      "solution": "Hakanın emirlerine/fermanlarına Yarlıg denir."
+    },
+    {
+      "id": 2,
+      "text": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde \"sosyal devlet\" anlayışının varlığına kanıt olarak gösterilebilir?",
+      "options": [
+        "Hükümdarın töreye uymak zorunda olması",
+        "Kurultay'da boy beylerinin söz hakkının olması",
+        "Hükümdarın açları doyurup, çıplakları giydirmesi",
+        "Ülkenin Doğu-Batı olarak yönetilmesi",
+        "Ordunun onlu sisteme göre düzenlenmesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Büyük Selçuklu Sultanı Tuğrul Bey, 1055 yılında Bağdat Seferi’ni düzenleyerek Abbasi Halifesini Şii Büveyhoğulları baskısından kurtarmıştır. Bu hizmetine karşılık Halife, Tuğrul Bey’e hangi unvanı vermiştir?",
+      "options": [
+        "Ebul Feth (Fetihlerin Babası)",
+        "Sultan-ül İklim-i Rum (Anadolu’nun Sultanı)",
+        "Melik-ül Mülk (Hükümdarların Hükümdarı)",
+        "Sultan-ül Mağrib ve Meşrık (Doğunun ve Batının Sultanı)",
+        "Gazi"
+      ],
+      "correctOption": "D",
+      "solution": "Bu olayla İslam dünyasının siyasi liderliği Türklere geçmiştir."
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti’nde, esnaf ve zanaatkarların oluşturduğu, hem mesleki eğitim veren hem de ahlaki kuralları (fütüvvet) öğreten teşkilatın adı nedir?",
+      "options": [
+        "Ahilik",
+        "Lonca",
+        "Enderun",
+        "Narh",
+        "Gedik"
+      ],
+      "correctOption": "A",
+      "solution": "Lonca Osmanlı'daki adıdır, Selçuklu'da Ahilik denir. Ahilikte gayrimüslimler yoktur, Lonca'da vardır."
+    },
+    {
+      "id": 5,
+      "text": "Fatih Sultan Mehmet döneminde basılan ve Osmanlı ekonomisinin güçlendiğini gösteren ilk altın paraya ne ad verilir?",
+      "options": [
+        "Akçe",
+        "Mangır",
+        "Kaime",
+        "Mecidiye",
+        "Sikke-i Hasene (Sultani)"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan ilk belge (Sened-i İttifak) ile halkın yönetime katıldığı ilk belge (Kanun-i Esasi) sırasıyla hangi padişahlar döneminde gerçekleşmiştir?",
+      "options": [
+        "III. Selim - II. Abdülhamit",
+        "II. Mahmut - Abdülmecit",
+        "II. Mahmut - II. Abdülhamit",
+        "Abdülmecit - V. Mehmet Reşat",
+        "Abdülaziz - II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": "Sened-i İttifak 1808 (II. Mahmut), Kanun-i Esasi 1876 (II. Abdülhamit)."
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti’nin Kuzey Afrika’da kaybettiği ilk toprak parçası neresidir?",
+      "options": [
+        "Mısır",
+        "Tunus",
+        "Trablusgarp",
+        "Cezayir",
+        "Fas"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti’nde Tımar sisteminin uygulandığı, vergilerin doğrudan asker beslemek için kullanıldığı ve merkeze yakın olan eyaletlere ne ad verilir?",
+      "options": [
+        "Salyaneli (Yıllıklı) Eyaletler",
+        "Salyanesiz (Yıllıksız) Eyaletler",
+        "İmtiyazlı Eyaletler",
+        "Yurtluk",
+        "Ocaklık"
+      ],
+      "correctOption": "B",
+      "solution": "Salyane \"Yıllık Maaş\" demektir. Salyanesiz demek, memura maaş yok, toprak geliri var demektir."
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti’nde ilk bakır para (Mangır) hangi padişah döneminde bastırılmıştır?",
+      "options": [
+        "Osman Bey",
+        "Orhan Bey",
+        "I. Murat",
+        "Yıldırım Bayezid",
+        "Fatih Sultan Mehmet"
+      ],
+      "correctOption": "A",
+      "solution": "Osman Bey bağımsızlık sembolü olarak hutbe okutmuş ve bakır para bastırmıştır."
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde ilk kez \"Rejime (Yönetim Biçimine)\" karşı çıkan isyan hangisidir?",
+      "options": [
+        "Şeyh Bedrettin İsyanı",
+        "Celali İsyanları",
+        "31 Mart Vakası",
+        "Babıali Baskını",
+        "Kabakçı Mustafa İsyanı"
+      ],
+      "correctOption": "C",
+      "solution": "Meşrutiyeti yıkıp Mutlakiyeti geri getirmek istemişlerdir."
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti’nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+      "options": [
+        "Dil birliği",
+        "Irk birliği",
+        "Din ve mezhep birliği",
+        "Toprak bütünlüğü",
+        "Ekonomik işbirliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Mondros Ateşkes Antlaşması’nın 24. maddesinin (Vilayet-i Sitte’de karışıklık çıkarsa işgal edilecek) asıl amacı nedir?",
+      "options": [
+        "Bölge halkının güvenliğini sağlamak",
+        "Doğu Anadolu’da bir Ermeni Devleti kurmak",
+        "Rusya’nın bölgeye inmesini engellemek",
+        "Petrol kaynaklarını korumak",
+        "Kürt devleti kurmak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Kafkas Cephesi’nde Ruslarla işbirliği yapan Ermenilerin, bölgedeki Türk halkına zarar vermesini önlemek amacıyla 1915 yılında çıkarılan kanun hangisidir?",
+      "options": [
+        "Hıyanet-i Vataniye Kanunu",
+        "Tehcir Kanunu (Sevk ve İskan)",
+        "Takrir-i Sükun Kanunu",
+        "Teşkilat-ı Esasiye",
+        "İskan Kanunu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Amasya Genelgesi’nin; \"Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır\" maddesi, Kurtuluş Savaşı’nın hangi özelliğini belirtir?",
+      "options": [
+        "Yöntemini ve Amacını",
+        "Liderini",
+        "Sadece gerekçesini",
+        "Tarihini",
+        "Gerekçesini"
+      ],
+      "correctOption": "A",
+      "solution": "Aynı zamanda \"Milletin kararı\" diyerek üstü kapalı olarak Cumhuriyet rejimine/Milli Egemenliğe işaret edilmiştir."
+    },
+    {
+      "id": 15,
+      "text": "Manda ve Himaye (başka bir devletin koruyuculuğu) fikri ilk kez nerede reddedilmiştir?",
+      "options": [
+        "Lozan",
+        "Erzurum Kongresi",
+        "TBMM",
+        "Amasya Genelgesi",
+        "Sivas Kongresi"
+      ],
+      "correctOption": "B",
+      "solution": "\"Manda ve himaye kabul edilemez.\" - Kesin olarak reddedildiği yer ise Sivas Kongresi'dir."
+    },
+    {
+      "id": 16,
+      "text": "Mustafa Kemal’in Başkomutan sıfatıyla, ordunun ihtiyaçlarını halktan karşılamak için çıkardığı emirlere ne ad verilir?",
+      "options": [
+        "Teşkilat-ı Esasiye",
+        "Hıyanet-i Vataniye",
+        "İskan Kanunu",
+        "Tekalif-i Milliye Emirleri",
+        "Takrir-i Sükun"
+      ],
+      "correctOption": "D",
+      "solution": "Milli Yükümlülükler."
+    },
+    {
+      "id": 17,
+      "text": "Saltanatın kaldırılması (1 Kasım 1922) ile TBMM, Osmanlı Devleti’nin hangi yetkisine son vermiştir?",
+      "options": [
+        "Dini yetkisine",
+        "Ekonomik gücüne",
+        "Askeri gücüne",
+        "Kültürel mirasına",
+        "Siyasi ve hukuki varlığına"
+      ],
+      "correctOption": "E",
+      "solution": "Halifelik sembolik olarak devam etmiştir."
+    },
+    {
+      "id": 18,
+      "text": "Lozan Antlaşması’nda Türkiye’nin savaş tazminatı olarak Yunanistan’dan aldığı yer neresidir?",
+      "options": [
+        "Batı Trakya",
+        "Selanik",
+        "Karaağaç",
+        "Girit",
+        "Midilli"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Atatürk’ün \"Hayatta en hakiki mürşit ilimdir, fendir\" sözü, aşağıdaki ilkelerden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Halkçılık",
+        "Laiklik",
+        "Milliyetçilik",
+        "Devletçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctOption": "B",
+      "solution": "Akıl ve bilimi esas aldığı için Laiklik. Aynı zamanda İnkılapçılıkla da ilgilidir."
+    },
+    {
+      "id": 20,
+      "text": "Türkiye Cumhuriyeti’nin ilk açılan yükseköğretim kurumu (fakültesi) hangisidir?",
+      "options": [
+        "Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi",
+        "İstanbul Üniversitesi",
+        "Ankara Hukuk Mektebi",
+        "Gazi Eğitim Enstitüsü",
+        "Yüksek Ziraat Enstitüsü"
+      ],
+      "correctOption": "C",
+      "solution": "1925 yılında, hukuk devrimini yapacak savcı ve hakim yetiştirmek için açılmıştır."
+    },
+    {
+      "id": 21,
+      "text": "Cumhuriyetin ilanıyla birlikte \"Meclis Hükümeti\" sistemi terk edilerek hangi hükümet modeline geçilmiştir?",
+      "options": [
+        "Kabine Sistemi",
+        "Başkanlık Sistemi",
+        "Federatif Sistem",
+        "Mutlakiyet",
+        "Karma Sistem"
+      ],
+      "correctOption": "A",
+      "solution": "Hükümet kurmak kolaylaşmıştır."
+    },
+    {
+      "id": 22,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne girişi (1932) hangi sorunun çözümünden sonra gerçekleşmiştir?",
+      "options": [
+        "Musul",
+        "Kıbrıs",
+        "Boğazlar",
+        "Nüfus Mübadelesi (ve genel olarak Yunanistan ile barış)",
+        "Hatay"
+      ],
+      "correctOption": "D",
+      "solution": "Yunanistan ile barış sağlanınca, Yunanistan Türkiye'nin üyeliğini desteklemiştir."
+    },
+    {
+      "id": 23,
+      "text": "Atatürk'ün sağlığında gerçekleşen ancak sonucunu (Türkiye'ye katıldığını) göremediği dış politika olayı hangisidir?",
+      "options": [
+        "Montrö",
+        "Sadabat Paktı",
+        "Hatay'ın Anavatana Katılması",
+        "Balkan Antantı",
+        "Milletler Cemiyeti üyeliği"
+      ],
+      "correctOption": "C",
+      "solution": "Bağımsız Hatay Cumhuriyeti'ni görmüş, ancak ilhakı görememiştir."
+    },
+    {
+      "id": 24,
+      "text": "II. Dünya Savaşı sırasında İngiltere Başbakanı olan ve \"Demir Perde\" tabirini kullanarak Soğuk Savaş'ın sinyalini veren lider kimdir?",
+      "options": [
+        "Chamberlain",
+        "Winston Churchill",
+        "Tony Blair",
+        "Thatcher",
+        "Clement Attlee"
+      ],
+      "correctOption": "B",
+      "solution": "Savaşın başında Chamberlain vardı, sonra efsanevi lider Churchill geldi, savaşın sonunda seçimle Attlee geldi."
+    },
+    {
+      "id": 25,
+      "text": "1948 yılında SSCB'nin Batı Berlin'i abluka altına alması üzerine, Batılı devletlerin şehri havadan beslemek için kurdukları lojistik operasyona ne ad verilir?",
+      "options": [
+        "Normandiya Çıkarması",
+        "Berlin Hava Köprüsü",
+        "Özgürlük Yolu",
+        "Barbarossa Harekatı",
+        "Demir Perde Operasyonu"
+      ],
+      "correctOption": "B",
+      "solution": "(Berlin Buhranı.)"
+    },
+    {
+      "id": 26,
+      "text": "ABD Başkanı Harry Truman'ın, Sovyet tehdidi altındaki ülkelere (özellikle Türkiye ve Yunanistan'a) askeri ve ekonomik yardım yapılmasını öngören ve Soğuk Savaş'ın fiilen başlangıcı sayılan doktrini hangisidir?",
+      "options": [
+        "Eisenhower Doktrini",
+        "Monroe Doktrini",
+        "Truman Doktrini",
+        "Carter Doktrini",
+        "Nixon Doktrini"
+      ],
+      "correctOption": "C",
+      "solution": "(1947 - Komünizmin yayılmasını engellemek için.)"
+    },
+    {
+      "id": 27,
+      "text": "1949 yılında ABD öncülüğünde kurulan ve \"Bir üyeye yapılan saldırı hepsine yapılmış sayılır\" ilkesine dayanan Batı Bloğu askeri ittifakı hangisidir?",
+      "options": [
+        "Avrupa Konseyi",
+        "CENTO",
+        "NATO (Kuzey Atlantik Paktı)",
+        "Birleşmiş Milletler",
+        "SEATO"
+      ],
+      "correctOption": "C",
+      "solution": "(Türkiye 1952'de üye olmuştur.)"
+    }
+  ]
+}

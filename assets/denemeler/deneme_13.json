@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 13",
+  "examCode": "deneme_13",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 13)\n\n**İlk Çağdan Günümüze:** Bilinen ilk Türk topluluğu İskitler (Sakalar) olup, maden işlemeciliğindeki ustalıkları nedeniyle 'Bozkırın Kuyumcuları' olarak bilinirler. Uygurlar, yerleşik hayata geçen ilk Türk devletidir. Türk-İslam'da en önemli eser Kutadgu Bilig'dir (Mutluluk Veren Bilgi). Büyük Selçuklu Devleti'nde Haşhaşiler (Batınilik) Nizamülmülk gibi devlet adamlarına suikast düzenleyerek yıkılışı hızlandırmıştır. Anadolu'da kurulan ilk medrese Danişmentliler'e ait Yağıbasan Medresesi'dir.\n\n**Osmanlı ve Islahatlar:** Yıldırım Bayezid, İstanbul'u kuşatan ilk Osmanlı padişahıdır. Yavuz Sultan Selim'in Mısır Seferi ile Halifelik Osmanlı'ya geçmiştir. Tımar sistemi bozulunca, Duraklama Dönemi'nde (17. yy) ekonomik ve sosyal nedenlerle Celali isyanları çıkmıştır. II. Mahmut döneminde, Hünkar İskelesi Antlaşması (1833) ile Boğazlar sorunu ortaya çıkmıştır. II. Abdülhamit'in İstibdat dönemi 33 yıl sürmüş, Hamidiye Alayları bu dönemde kurulmuştur.\n\n**Milli Mücadele ve Cumhuriyet:** Wilson İlkeleri'nde yer alan 'Çoğunlukta olduğun yerde kendi kaderini tayin et' maddesi, azınlıkların zararlı cemiyetler kurmasına neden olmuştur. Amasya Genelgesi, Kurtuluş Savaşı'nın Gerekçe, Amaç ve Yöntemini belirlemiştir. Sakarya Zaferi, II. Viyana'dan beri süren geri çekilmeye son vermiş, taarruz dönemi başlamıştır. Cumhuriyetin ilanı (1923) ile Meclis Hükümeti'nden Kabine Sistemi'ne geçilmiştir. Hatay, Milletler Cemiyeti kararıyla 1938'de bağımsız olmuş, 1939'da Türkiye'ye katılmıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Bilinen ilk Türk topluluğu olan İskitler (Sakalar), maden işlemeciliğindeki ustalıkları nedeniyle tarihçiler tarafından özel bir unvanla anılmışlardır. İskitler için kullanılan bu unvan aşağıdakilerden hangisidir?",
+      "options": [
+        "Dünyanın Efendileri",
+        "Savaşın Kartalları",
+        "Barışın Elçileri",
+        "Bozkırın Kuyumcuları",
+        "Altın Elbiseli Adamlar"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Aşağıdakilerden hangisi Türk tarihinde yerleşik hayata geçildiğinin kesin kanıtlarından biridir?",
+      "options": [
+        "Çadırlarda yaşamak",
+        "Hayvancılıkla uğraşmak",
+        "Dokumacılık yapmak",
+        "Sulama kanalları açmak ve tohumluk buğday ambarları kurmak",
+        "Tahıl öğütme taşları kullanmak"
+      ],
+      "correctOption": "D",
+      "solution": "Tahıl öğütme taşı göçebelerde de olabilir -taşınabilir-, ancak sulama kanalı ve tohumluk ambarı yerleşikliği kanıtlar."
+    },
+    {
+      "id": 3,
+      "text": "Türk-İslam Edebiyatı'nın ilk yazılı eseri kabul edilen ve \"Mutluluk Veren Bilgi\" anlamına gelen eser hangisidir?",
+      "options": [
+        "Divan-ı Hikmet",
+        "Kutadgu Bilig",
+        "Atabetü'l Hakayık",
+        "Siyasetname",
+        "Şehname"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti’nde, esnaf ve zanaatkarların oluşturduğu, hem mesleki eğitim veren hem de ahlaki kuralları (fütüvvet) öğreten teşkilatın adı nedir?",
+      "options": [
+        "Ahilik",
+        "Lonca",
+        "Enderun",
+        "Narh",
+        "Gedik"
+      ],
+      "correctOption": "A",
+      "solution": "Lonca Osmanlı'daki adıdır, Selçuklu'da Ahilik denir. Ahilikte gayrimüslimler yoktur, Lonca'da vardır."
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nin Rumeli’ye geçişini sağlayan ve Rumeli’de ele geçirilen ilk toprak parçası olan yer neresidir?",
+      "options": [
+        "Gelibolu",
+        "Çimpe Kalesi",
+        "Edirne",
+        "Selanik",
+        "Varna"
+      ],
+      "correctOption": "B",
+      "solution": "Kantakuzen'e yapılan yardım karşılığı hediye edilmiştir."
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti’nde Haçlı ittifakına karşı kazanılan ilk zafer aşağıdakilerden hangisidir?",
+      "options": [
+        "I. Kosova",
+        "Varna",
+        "Niğbolu",
+        "Sırpsındığı",
+        "Çirmen"
+      ],
+      "correctOption": "D",
+      "solution": "I. Murat dönemi."
+    },
+    {
+      "id": 7,
+      "text": "Yavuz Sultan Selim döneminde Halifeliğin Osmanlı’ya geçmesiyle birlikte devlet yönetiminde hangi özelliğin güçlendiği söylenebilir?",
+      "options": [
+        "Demokratik",
+        "Laik",
+        "Teokratik",
+        "Federal",
+        "Meşruti"
+      ],
+      "correctOption": "C",
+      "solution": "Din ve devlet işlerinin tek elde toplanması."
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti’nde Tımar sisteminin uygulandığı, vergilerin doğrudan asker beslemek için kullanıldığı ve merkeze yakın olan eyaletlere ne ad verilir?",
+      "options": [
+        "Salyaneli (Yıllıklı) Eyaletler",
+        "Salyanesiz (Yıllıksız) Eyaletler",
+        "İmtiyazlı Eyaletler",
+        "Yurtluk",
+        "Ocaklık"
+      ],
+      "correctOption": "B",
+      "solution": "Salyane \"Yıllık Maaş\" demektir. Salyanesiz demek, memura maaş yok, toprak geliri var demektir."
+    },
+    {
+      "id": 9,
+      "text": "Duraklama döneminden itibaren İltizam sisteminin yaygınlaşması ve devletin nakit para ihtiyacının artmasıyla, İltizamın \"ömür boyu\" (kişi ölene kadar) verilmesi sistemine geçilmiştir. Bu sisteme ne ad verilir?",
+      "options": [
+        "Malikane Sistemi",
+        "Esham Sistemi",
+        "Müsadere",
+        "Gedik",
+        "Vakıf"
+      ],
+      "correctOption": "A",
+      "solution": "Bu durum Ayanların güçlenmesine yol açmıştır."
+    },
+    {
+      "id": 10,
+      "text": "93 Harbi (1877-78 Osmanlı-Rus Savaşı) sırasında Plevne Kalesi’ni Ruslara karşı aylarca savunan ve \"Şanı büyük Osman Paşa\" marşıyla anılan komutan kimdir?",
+      "options": [
+        "Süleyman Hüsnü Paşa",
+        "Gazi Osman Paşa",
+        "Ahmet Muhtar Paşa",
+        "Enver Paşa",
+        "Fahrettin Paşa"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti’nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+      "options": [
+        "Dil birliği",
+        "Irk birliği",
+        "Din ve mezhep birliği",
+        "Toprak bütünlüğü",
+        "Ekonomik işbirliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Trablusgarp Savaşı’nın çıkmasında etkili olan, Rusya’nın Balkan milletlerini Osmanlı’ya karşı kışkırtma politikasına ne ad verilir?",
+      "options": [
+        "Panislamizm",
+        "Pantürkizm",
+        "Panslavizm",
+        "Merkantilizm",
+        "Sömürgecilik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Wilson İlkeleri’nde yer alan \"Her millet çoğunlukta olduğu bölgede kendi kaderini tayin etme hakkına sahiptir\" maddesi, Osmanlı topraklarında aşağıdakilerden hangisine zemin hazırlamıştır?",
+      "options": [
+        "Osmanlıcılık fikrinin güçlenmesine",
+        "Azınlıkların devlet kurma ümidiyle isyan etmelerine ve cemiyetler kurmalarına",
+        "Ekonomik kalkınmaya",
+        "Halifeliğin otoritesinin artmasına",
+        "Ordunun güçlenmesine"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Manda ve Himaye (başka bir devletin koruyuculuğu) fikri ilk kez nerede reddedilmiştir?",
+      "options": [
+        "Lozan",
+        "Erzurum Kongresi",
+        "TBMM",
+        "Amasya Genelgesi",
+        "Sivas Kongresi"
+      ],
+      "correctOption": "B",
+      "solution": "\"Manda ve himaye kabul edilemez.\" - Kesin olarak reddedildiği yer ise Sivas Kongresi'dir."
+    },
+    {
+      "id": 15,
+      "text": "Temsil Heyeti'nin, Mebusan Meclisi çalışmalarını yakından takip etmek ve Batı Cephesi’ne yakın olmak amacıyla merkez olarak Ankara’yı seçmesinin nedenleri arasında hangisi yer almaz?",
+      "options": [
+        "İşgal edilmemiş güvenli bir bölge olması",
+        "Halkın Milli Mücadele’ye destek vermesi",
+        "Ulaşım ve haberleşme imkanlarının iyi olması",
+        "Batı cephesine yakın olması",
+        "Başkent ilan edilmek istenmesi"
+      ],
+      "correctOption": "E",
+      "solution": "O tarihte başkent olma fikri henüz yoktur, stratejik merkezdir. Başkent oluşu 1923'tedir."
+    },
+    {
+      "id": 16,
+      "text": "Büyük Taarruz öncesinde ordunun taarruz eğitimini tamamlaması ve eksiklerin giderilmesi için yaklaşık ne kadar süre beklenmiştir?",
+      "options": [
+        "1 yıl",
+        "2 yıl",
+        "3 ay",
+        "6 ay",
+        "1 ay"
+      ],
+      "correctOption": "A",
+      "solution": "Sakarya 1921 Eylül, Büyük Taarruz 1922 Ağustos. \"Yarım hazırlıkla, yarım tedbirle yapılacak taarruz, hiç taarruz etmemekten daha kötüdür\" denilmiştir."
+    },
+    {
+      "id": 17,
+      "text": "TBMM’yi ve Misak-ı Milli’yi tanıyan ilk Müslüman devlet hangisidir?",
+      "options": [
+        "İran",
+        "Suriye",
+        "Irak",
+        "Mısır",
+        "Afganistan"
+      ],
+      "correctOption": "E",
+      "solution": "1 Mart 1921 Türk-Afgan Dostluk Antlaşması ile."
+    },
+    {
+      "id": 18,
+      "text": "Lozan Antlaşması’nda Türkiye’nin savaş tazminatı olarak Yunanistan’dan aldığı yer neresidir?",
+      "options": [
+        "Batı Trakya",
+        "Selanik",
+        "Karaağaç",
+        "Girit",
+        "Midilli"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "1926 yılında Türkiye Cumhuriyeti, Türk Medeni Kanunu’nu hangi ülkeden uyarlayarak almıştır?",
+      "options": [
+        "Almanya",
+        "İsviçre",
+        "Fransa",
+        "İsveç",
+        "İtalya"
+      ],
+      "correctOption": "B",
+      "solution": "Pratik, laik ve demokratik olması nedeniyle."
+    },
+    {
+      "id": 20,
+      "text": "Atatürk’ün \"Hayatta en hakiki mürşit ilimdir, fendir\" sözü, aşağıdaki ilkelerden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Halkçılık",
+        "Laiklik",
+        "Milliyetçilik",
+        "Devletçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctOption": "B",
+      "solution": "Akıl ve bilimi esas aldığı için Laiklik. Aynı zamanda İnkılapçılıkla da ilgilidir."
+    },
+    {
+      "id": 21,
+      "text": "Atatürk’ün vefatı üzerine, \"O'nun ölümüyle barış, en büyük koruyucusunu kaybetti\" diyen dünya lideri/kurumu kimdir? (Genel bir taziye mesajı örneği).",
+      "options": [
+        "Hitler (Almanya)",
+        "Mussolini (İtalya)",
+        "Venizelos (Yunanistan - Daha önce söylemişti)",
+        "Milletler Cemiyeti Genel Sekreteri (Genel kabul gören)",
+        "Churchill"
+      ],
+      "correctOption": "D",
+      "solution": "Dünya basını ve liderleri övgü dolu mesajlar yayınlamıştır."
+    },
+    {
+      "id": 22,
+      "text": "Türkiye'nin dış borçlar konusunda en çok sorun yaşadığı ülke Fransa'dır. Borçların ödenmesi sırasında çıkan krizde Türkiye'nin \"Borçları ödeyeceğiz ancak bu bizim paramızla (TL) veya sizin paranızla (Frank) olur\" diyerek reddettiği para birimi hangisidir?",
+      "options": [
+        "Sterlin",
+        "Riyal",
+        "Dolar",
+        "Mark",
+        "Altın"
+      ],
+      "correctOption": "E",
+      "solution": "Veya Altın/Sterlin gibi değerli maden/döviz talepleri reddedilmiş, kağıt para üzerinden ödeme kabul ettirilmiştir."
+    },
+    {
+      "id": 23,
+      "text": "Balkan Antantı'nın imzalanmasında en büyük tehdit olarak görülen devletler hangileridir?",
+      "options": [
+        "Rusya - ABD",
+        "İngiltere - Fransa",
+        "Yunanistan - Bulgaristan",
+        "Almanya - İtalya",
+        "İspanya - Portekiz"
+      ],
+      "correctOption": "D",
+      "solution": "Revizyonist / Yayılmacı devletler."
+    },
+    {
+      "id": 24,
+      "text": "II. Dünya Savaşı, 1 Eylül 1939'da Almanya'nın hangi ülkeyi işgal etmesiyle resmen başlamıştır?",
+      "options": [
+        "Rusya",
+        "Polonya",
+        "Fransa",
+        "Avusturya",
+        "Çekoslovakya"
+      ],
+      "correctOption": "B",
+      "solution": "Polonya'nın işgali üzerine İngiltere ve Fransa Almanya'ya savaş ilan etmiştir."
+    },
+    {
+      "id": 25,
+      "text": "ABD'nin II. Dünya Savaşı'na girmesine neden olan ve Japonya tarafından düzenlenen ani baskın hangisidir?",
+      "options": [
+        "Guadalcanal",
+        "Iwo Jima",
+        "Midway Savaşı",
+        "Pearl Harbor Baskını",
+        "Mercan Denizi Savaşı"
+      ],
+      "correctOption": "D",
+      "solution": "7 Aralık 1941 - \"Alçaklık günü\" olarak anılır."
+    },
+    {
+      "id": 26,
+      "text": "1948 yılında \"Apartheid\" (Irk Ayrımı) rejiminin resmen uygulamaya konulduğu ve Nelson Mandela'nın buna karşı mücadele ettiği ülke hangisidir?",
+      "options": [
+        "Kenya",
+        "ABD",
+        "Hindistan",
+        "Nijerya",
+        "Güney Afrika Cumhuriyeti"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "SOĞUK SAVAŞ ARA FİNAL SORUSU: Soğuk Savaş döneminde Türkiye'nin NATO'ya girmesi, Kore'ye asker göndermesi ve ABD ile yakın ilişkiler kurmasının temel stratejik nedeni nedir?",
+      "options": [
+        "ABD'yi çok sevmesi",
+        "Sovyet Rusya'nın (SSCB) Türkiye'den toprak (Kars/Ardahan) ve Boğazlardan üs talep etmesi",
+        "AB'ye girmek",
+        "Ekonomik yardım almak",
+        "Ortadoğu'ya hakim olmak"
+      ],
+      "correctOption": "B",
+      "solution": "(Sovyet tehdidi, Türkiye'yi Batı bloğuna iten en büyük güçtür.)"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "categoryName": "OSMANLI DEVLETİ KÜLTÜR VE UYGARLIK",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Osmanlı Devleti’nde padişahın yetkilerini kısıtlayan ilk belge hangisidir?",
+      "answer": "Sened-i İttifak (1808)"
+    },
+    {
+      "id": 2,
+      "question": "Osmanlı Devleti’nde padişahın mutlak otoritesini sağlayan, kardeş katlini yasal hale getiren belge hangisidir?",
+      "answer": "Fatih Kanunnamesi (Kanunname-i Ali Osman)"
+    },
+    {
+      "id": 3,
+      "question": "Osmanlı’da devlet işlerinin görüşüldüğü en yüksek yönetim organına ne ad verilir?",
+      "answer": "Divan-ı Hümayun"
+    },
+    {
+      "id": 4,
+      "question": "Divan-ı Hümayun’u kuran padişah kimdir?",
+      "answer": "Orhan Bey"
+    },
+    {
+      "id": 5,
+      "question": "Divan-ı Hümayun’u kaldıran ve yerine nazırlıklar (bakanlıklar) sistemini kuran padişah kimdir?",
+      "answer": "II. Mahmut"
+    },
+    {
+      "id": 6,
+      "question": "Padişahın mutlak vekili olan ve padişah mührünü taşıyan divan üyesi kimdir?",
+      "answer": "Sadrazam (Veziriazam)"
+    },
+    {
+      "id": 7,
+      "question": "Sadrazamın sefere çıktığında aldığı unvan nedir?",
+      "answer": "Serdar-ı Ekrem"
+    },
+    {
+      "id": 8,
+      "question": "Divan’da mali işlerden sorumlu olan üye kimdir?",
+      "answer": "Defterdar"
+    },
+    {
+      "id": 9,
+      "question": "Divan’da eğitim ve adalet işlerinden sorumlu olan, kadı ve müderris atamalarını yapan üye kimdir?",
+      "answer": "Kazasker (Kadıasker)"
+    },
+    {
+      "id": 10,
+      "question": "Divan’da padişahın fermanlarına tuğra çeken, tapu ve kadastro işlerine bakan üye kimdir?",
+      "answer": "Nişancı"
+    },
+    {
+      "id": 11,
+      "question": "Nişancıya bağlı olarak çalışan ve dış işlerinden sorumlu olan, sonradan Dışişleri Bakanı statüsüne yükselen görevli kimdir?",
+      "answer": "Reisülküttab"
+    },
+    {
+      "id": 12,
+      "question": "Divan’da alınan kararların dine uygun olup olmadığına dair fetva veren, ilmiye sınıfının başı kimdir?",
+      "answer": "Şeyhülislam (Müftü)"
+    },
+    {
+      "id": 13,
+      "question": "Osmanlı donanmasının başkomutanına ne ad verilir?",
+      "answer": "Kaptan-ı Derya"
+    },
+    {
+      "id": 14,
+      "question": "İlk Kaptan-ı Derya kimdir?",
+      "answer": "Karamürsel Alp"
+    },
+    {
+      "id": 15,
+      "question": "Divan üyesi olan ilk Kaptan-ı Derya kimdir?",
+      "answer": "Barbaros Hayrettin Paşa"
+    },
+    {
+      "id": 16,
+      "question": "Osmanlı’da yönetenler sınıfı kaça ayrılır?",
+      "answer": "Üçe: Seyfiye, İlmiye, Kalemiye"
+    },
+    {
+      "id": 17,
+      "question": "Sadrazam, Vezirler, Kaptan-ı Derya ve Yeniçeri Ağası hangi sınıfa mensuptur?",
+      "answer": "Seyfiye (Yönetim ve Askerlik / Kılıç Ehli)"
+    },
+    {
+      "id": 18,
+      "question": "Şeyhülislam, Kazasker, Kadı ve Müderris hangi sınıfa mensuptur?",
+      "answer": "İlmiye (Din, Hukuk ve Eğitim / İlim Ehli)"
+    },
+    {
+      "id": 19,
+      "question": "Defterdar, Nişancı ve Reisülküttab hangi sınıfa mensuptur?",
+      "answer": "Kalemiye (Bürokrasi ve Maliye / Kalem Ehli)"
+    },
+    {
+      "id": 20,
+      "question": "Osmanlı taşra teşkilatında en büyük idari birim nedir?",
+      "answer": "Eyalet"
+    },
+    {
+      "id": 21,
+      "question": "Eyaletlerin yöneticisine ne ad verilir?",
+      "answer": "Beylerbeyi"
+    },
+    {
+      "id": 22,
+      "question": "Sancakların (İllerin) yöneticisine ne ad verilir?",
+      "answer": "Sancakbeyi"
+    },
+    {
+      "id": 23,
+      "question": "Kazaların yöneticisi ve aynı zamanda hakimi kimdir?",
+      "answer": "Kadı"
+    },
+    {
+      "id": 24,
+      "question": "Köy yöneticisine ne ad verilir?",
+      "answer": "Köy Kethüdası"
+    },
+    {
+      "id": 25,
+      "question": "Osmanlı’da hukuk sisteminin temeli neye dayanır?",
+      "answer": "Şer’i Hukuk ve Örfi Hukuk"
+    },
+    {
+      "id": 26,
+      "question": "Osmanlı’da mahkemelerde alınan kararların kaydedildiği deftere ne ad verilir?",
+      "answer": "Şer’iyye Sicilleri"
+    },
+    {
+      "id": 27,
+      "question": "Gayrimüslimlerin kendi dinlerine göre yargılanması hakkına ne denir?",
+      "answer": "Hukukta Birlik Olmaması (Cemaat Mahkemeleri)"
+    },
+    {
+      "id": 28,
+      "question": "Osmanlı ordusunun en kalabalık ve en önemli bölümü olan, toprağa dayalı askerlere ne ad verilir?",
+      "answer": "Tımarlı Sipahiler"
+    },
+    {
+      "id": 29,
+      "question": "Devşirme kökenli askerlerden oluşan, başkentte bulunan ve üç ayda bir \"Ulufe\" maaşı alan orduya ne ad verilir?",
+      "answer": "Kapıkulu Ocağı"
+    },
+    {
+      "id": 30,
+      "question": "Kapıkulu askerlerinin padişah değişikliklerinde aldıkları bahşişe ne ad verilir?",
+      "answer": "Cülus Bahşişi"
+    },
+    {
+      "id": 31,
+      "question": "Yeniçeri Ocağı’nı kuran padişah kimdir?",
+      "answer": "I. Murat"
+    },
+    {
+      "id": 32,
+      "question": "Yeniçeri Ocağı’nı kaldıran padişah kimdir?",
+      "answer": "II. Mahmut (Vaka-i Hayriye)"
+    },
+    {
+      "id": 33,
+      "question": "Osmanlı ordusunda sınır boylarını koruyan, düşman topraklarına akınlar düzenleyen hafif süvari birliklerine ne ad verilir?",
+      "answer": "Akıncılar"
+    },
+    {
+      "id": 34,
+      "question": "Ordunun su ihtiyacını karşılayan sınıfa ne ad verilir?",
+      "answer": "Saka"
+    },
+    {
+      "id": 35,
+      "question": "Tünel kazan, surları yıkan sınıfa ne ad verilir?",
+      "answer": "Lağımcılar"
+    },
+    {
+      "id": 36,
+      "question": "Silah yapımı ve tamirinden sorumlu sınıfa ne ad verilir?",
+      "answer": "Cebeciler"
+    },
+    {
+      "id": 37,
+      "question": "Osmanlı toprak sisteminde mülkiyeti devlete ait olan arazilere ne ad verilir?",
+      "answer": "Miri Arazi"
+    },
+    {
+      "id": 38,
+      "question": "Mülkiyeti kişilere ait olan arazilere ne ad verilir?",
+      "answer": "Mülk Arazi (Öşri ve Haraci)"
+    },
+    {
+      "id": 39,
+      "question": "Geliri padişah kızlarına ve eşlerine ayrılan topraklara ne ad verilir?",
+      "answer": "Paşmaklık"
+    },
+    {
+      "id": 40,
+      "question": "Geliri doğrudan devlet hazinesine aktarılan en verimli topraklara ne ad verilir?",
+      "answer": "Mukataa"
+    },
+    {
+      "id": 41,
+      "question": "Geliri kale muhafızlarına ve tersane giderlerine ayrılan topraklara ne ad verilir?",
+      "answer": "Ocaklık"
+    },
+    {
+      "id": 42,
+      "question": "Geliri üstün hizmet gösteren devlet adamlarına verilen topraklara ne ad verilir?",
+      "answer": "Malikâne"
+    },
+    {
+      "id": 43,
+      "question": "Geliri hayır kurumlarına (cami, medrese, hastane) ayrılan topraklara ne ad verilir?",
+      "answer": "Vakıf Arazi"
+    },
+    {
+      "id": 44,
+      "question": "Sınır boylarındaki askerlere verilen topraklara ne ad verilir?",
+      "answer": "Yurtluk"
+    },
+    {
+      "id": 45,
+      "question": "Osmanlı’da \"Dirlik\" (Tımar) sistemi hangi devletten örnek alınmıştır?",
+      "answer": "Büyük Selçuklu Devleti (İkta Sistemi)"
+    },
+    {
+      "id": 46,
+      "question": "Osmanlı ekonomisinde \"Lonca Teşkilatı\"nın temelini oluşturan sistemin adı nedir?",
+      "answer": "Ahilik"
+    },
+    {
+      "id": 47,
+      "question": "Loncalarda mesleğe yeni başlayan çırağın ustalığa geçiş törenine ne ad verilir?",
+      "answer": "Gedik (İcazet)"
+    },
+    {
+      "id": 48,
+      "question": "Osmanlı’da fiyatları denetim altında tutma ve belirli bir fiyat belirleme sistemine ne ad verilir?",
+      "answer": "Narh Sistemi"
+    },
+    {
+      "id": 49,
+      "question": "Osmanlı’da olağanüstü durumlarda toplanan vergiye ne ad verilir?",
+      "answer": "Avarız"
+    },
+    {
+      "id": 50,
+      "question": "Müslüman üreticiden alınan 1/10 oranındaki ürün vergisine ne ad verilir?",
+      "answer": "Öşür"
+    },
+    {
+      "id": 51,
+      "question": "Gayrimüslim üreticiden alınan ürün vergisine ne ad verilir?",
+      "answer": "Haraç"
+    },
+    {
+      "id": 52,
+      "question": "Gayrimüslim sağlıklı erkeklerden askerlik yapmamaları karşılığında alınan vergiye ne ad verilir?",
+      "answer": "Cizye"
+    },
+    {
+      "id": 53,
+      "question": "Osmanlı’da ilk kağıt parayı (Kaime) bastıran padişah kimdir?",
+      "answer": "Abdülmecit"
+    },
+    {
+      "id": 54,
+      "question": "Osmanlı’da ilk dış borç hangi savaş sırasında, hangi ülkeden alınmıştır?",
+      "answer": "Kırım Savaşı sırasında İngiltere’den (Abdülmecit dönemi)"
+    },
+    {
+      "id": 55,
+      "question": "Osmanlı Devleti’nin iflas ettiğini açıkladığı belge hangisidir?",
+      "answer": "Ramazan Kararnamesi"
+    },
+    {
+      "id": 56,
+      "question": "Osmanlı dış borçlarını ödemek için kurulan ve \"Devlet içinde devlet\" haline gelen kurum hangisidir?",
+      "answer": "Duyun-u Umumiye İdaresi (Genel Borçlar İdaresi)"
+    },
+    {
+      "id": 57,
+      "question": "Osmanlı’da örgün eğitim kurumu olan medreselerin ilki nerede, kim tarafından açılmıştır?",
+      "answer": "İznik - Orhan Bey (İznik Orhaniyesi)"
+    },
+    {
+      "id": 58,
+      "question": "İlk Osmanlı müderrisi (profesörü) kimdir?",
+      "answer": "Davud-u Kayseri"
+    },
+    {
+      "id": 59,
+      "question": "Fatih Sultan Mehmet’in İstanbul’da kurduğu, dönemin en yüksek eğitim kurumu olan medresenin adı nedir?",
+      "answer": "Sahn-ı Seman Medresesi"
+    },
+    {
+      "id": 60,
+      "question": "Medrese öğrencilerine ne ad verilir?",
+      "answer": "Suhte (Softa)"
+    },
+    {
+      "id": 61,
+      "question": "Medreseden mezun olanların aldığı diplomaya ne ad verilir?",
+      "answer": "İcazetname"
+    },
+    {
+      "id": 62,
+      "question": "Saraydaki eğitim kurumu olan ve devlet adamı yetiştiren okula ne ad verilir?",
+      "answer": "Enderun Mektebi"
+    },
+    {
+      "id": 63,
+      "question": "Şehzadelerin sarayda eğitim gördüğü okula ne ad verilir?",
+      "answer": "Şehzadegan Mektebi"
+    },
+    {
+      "id": 64,
+      "question": "Osmanlı’nın ünlü matematik ve astronomi bilgini, Ayasofya’da müderrislik yapmış, Fatih döneminde İstanbul’a gelmiş bilim insanı kimdir?",
+      "answer": "Ali Kuşçu"
+    },
+    {
+      "id": 65,
+      "question": "\"Mikrobiyolojinin babası\" sayılan, Fatih’in hocası kimdir?",
+      "answer": "Akşemseddin"
+    },
+    {
+      "id": 66,
+      "question": "Dünya haritasını çizen ve \"Kitab-ı Bahriye\" adlı eseri yazan ünlü denizci kimdir?",
+      "answer": "Piri Reis"
+    },
+    {
+      "id": 67,
+      "question": "\"Seyahatname\" adlı eseriyle 17. yüzyıl Osmanlı coğrafyasını anlatan ünlü seyyah kimdir?",
+      "answer": "Evliya Çelebi"
+    },
+    {
+      "id": 68,
+      "question": "\"Keşfü’z Zünun\" ve \"Cihannüma\" adlı eserlerin yazarı ünlü bilim insanı kimdir?",
+      "answer": "Katip Çelebi (Hacı Kalfa)"
+    },
+    {
+      "id": 69,
+      "question": "Osmanlı’da ilk rasathaneyi kuran bilim insanı kimdir?",
+      "answer": "Takiyüddin"
+    },
+    {
+      "id": 70,
+      "question": "Osmanlı’da roketle uçuş denemesi yapan ilk kişi kimdir?",
+      "answer": "Lagari Hasan Çelebi"
+    },
+    {
+      "id": 71,
+      "question": "Takma kanatlarla Galata Kulesi’nden Üsküdar’a uçan kişi kimdir?",
+      "answer": "Hezarfen Ahmet Çelebi"
+    },
+    {
+      "id": 72,
+      "question": "Osmanlı tarihinde ilk resmi tarih yazıcısı (Vakanüvis) kimdir?",
+      "answer": "Naima"
+    },
+    {
+      "id": 73,
+      "question": "Osmanlı’nın son vakanüvisi kimdir?",
+      "answer": "Abdurrahman Şeref Bey"
+    },
+    {
+      "id": 74,
+      "question": "Mecelle’yi (Osmanlı Medeni Kanunu) hazırlayan komisyonun başkanı ve ünlü tarihçi kimdir?",
+      "answer": "Ahmet Cevdet Paşa"
+    },
+    {
+      "id": 75,
+      "question": "Türk resim sanatının öncüsü sayılan, \"Kaplumbağa Terbiyecisi\" tablosunun sahibi kimdir?",
+      "answer": "Osman Hamdi Bey"
+    },
+    {
+      "id": 76,
+      "question": "Mimar Sinan’ın \"Çıraklık Eserim\" dediği cami hangisidir?",
+      "answer": "Şehzade Camii"
+    },
+    {
+      "id": 77,
+      "question": "Mimar Sinan’ın \"Kalfalık Eserim\" dediği cami hangisidir?",
+      "answer": "Süleymaniye Camii"
+    },
+    {
+      "id": 78,
+      "question": "Mimar Sinan’ın \"Ustalık Eserim\" dediği ve Edirne’de bulunan cami hangisidir?",
+      "answer": "Selimiye Camii"
+    },
+    {
+      "id": 79,
+      "question": "Sultanahmet Camii’nin (Blue Mosque) mimarı kimdir?",
+      "answer": "Sedefkar Mehmet Ağa"
+    },
+    {
+      "id": 80,
+      "question": "Osmanlı’da hat sanatının en büyük ustalarından biri kabul edilen, \"Hattatların Kıblesi\" denilen sanatçı kimdir?",
+      "answer": "Şeyh Hamdullah"
+    },
+    {
+      "id": 81,
+      "question": "Osmanlı’da minyatür sanatçılarına ne ad verilir?",
+      "answer": "Nakkaş"
+    },
+    {
+      "id": 82,
+      "question": "Kanuni döneminin en ünlü nakkaşı kimdir?",
+      "answer": "Matrakçı Nasuh"
+    },
+    {
+      "id": 83,
+      "question": "Lale Devri’nin en ünlü nakkaşı kimdir?",
+      "answer": "Levni"
+    },
+    {
+      "id": 84,
+      "question": "Osmanlı’da müziğin tedavi edici yönünü kullanan ve müzik ilminin şeyhi kabul edilen bestekar kimdir?",
+      "answer": "Itri"
+    },
+    {
+      "id": 85,
+      "question": "III. Selim’in bulduğu müzik makamı hangisidir?",
+      "answer": "Suzidilara"
+    },
+    {
+      "id": 86,
+      "question": "Osmanlı Devleti’nin ilk resmi gazetesi hangisidir?",
+      "answer": "Takvim-i Vekayi"
+    },
+    {
+      "id": 87,
+      "question": "Osmanlı’da ilk özel gazete hangisidir?",
+      "answer": "Tercüman-ı Ahval (Şinasi ve Agah Efendi)"
+    },
+    {
+      "id": 88,
+      "question": "Türk edebiyatında ilk tiyatro eseri olan \"Şair Evlenmesi\"ni kim yazmıştır?",
+      "answer": "Şinasi"
+    },
+    {
+      "id": 89,
+      "question": "İlk yerli roman olan \"Taaşşuk-ı Talat ve Fitnat\"ı kim yazmıştır?",
+      "answer": "Şemsettin Sami"
+    },
+    {
+      "id": 90,
+      "question": "\"Vatan Şairi\" olarak bilinen ve \"Vatan Yahut Silistre\" oyununu yazan Tanzimat sanatçısı kimdir?",
+      "answer": "Namık Kemal"
+    },
+    {
+      "id": 91,
+      "question": "Osmanlı’da kadınların çıkardığı ilk dergi hangisidir?",
+      "answer": "Şükufezar"
+    },
+    {
+      "id": 92,
+      "question": "Osmanlı Devleti’nin ilk bankası hangisidir?",
+      "answer": "Bank-ı Dersaadet"
+    },
+    {
+      "id": 93,
+      "question": "Osmanlı’da para basma yetkisine sahip olan İngiliz sermayeli banka hangisidir?",
+      "answer": "Bank-ı Osmani (Osmanlı Bankası)"
+    },
+    {
+      "id": 94,
+      "question": "Ziraat Bankası’nın temelini oluşturan, çiftçiye kredi vermek amacıyla kurulan sandıklar hangisidir?",
+      "answer": "Memleket Sandıkları"
+    },
+    {
+      "id": 95,
+      "question": "Memleket Sandıkları’nı kuran devlet adamı kimdir?",
+      "answer": "Mithat Paşa"
+    },
+    {
+      "id": 96,
+      "question": "Darülaceze (Düşkünler Evi) hangi padişah döneminde kurulmuştur?",
+      "answer": "II. Abdülhamit"
+    },
+    {
+      "id": 97,
+      "question": "Osmanlı’da yetim ve kimsesiz çocukların eğitimi için açılan kurum hangisidir?",
+      "answer": "Darüşşafaka"
+    },
+    {
+      "id": 98,
+      "question": "Kızılay’ın Osmanlı dönemindeki adı nedir?",
+      "answer": "Hilal-i Ahmer Cemiyeti"
+    },
+    {
+      "id": 99,
+      "question": "Yeşilay’ın Osmanlı dönemindeki adı nedir?",
+      "answer": "Hilal-i Ahdar Cemiyeti"
+    },
+    {
+      "id": 100,
+      "question": "Topkapı Sarayı’nın bölümleri nelerdir?",
+      "answer": "Birun (Dış Saray), Enderun (İç Saray), Harem"
+    }
+  ]
+}

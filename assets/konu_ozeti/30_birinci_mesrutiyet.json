@@ -1,0 +1,85 @@
+{
+  "konu_adi": "30- BİRİNCİ MEŞRUTİYET",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "BİRİNCİ MEŞRUTİYET (1876-1878)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📢 Birinci Meşrutiyet'in İlanı"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. İlanı Hazırlayan Güçler ve Nedenler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Jön Türkler (Genç Osmanlılar): Meşrutiyet'in ilan edilmesinde başrolü oynayan, anayasal yönetim savunan aydın grubudur (Namık Kemal, Mithat Paşa).",
+        "Mithat Paşa'nın Rolü: II. Abdülhamit'i tahta çıkarma şartı olarak Meşrutiyet'i ilan etme sözünü almıştır.",
+        "Avrupa Baskısı: Tersane Konferansı'nda (1876) Avrupalı devletlerin iç işlerine karışmasını önlemek ve Balkan sorununu Meclis'te çözebileceğini göstermek."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Kanun-i Esasi (Temel Anayasa, 1876)"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Meşrutiyet'in ilanıyla birlikte, Osmanlı İmparatorluğu'nun ilk anayasası olan Kanun-i Esasi yürürlüğe girmiştir. "
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Rejim ve Temel İlkeler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Rejim Değişikliği: Osmanlı tarihinde mutlak monarşiden anayasal monarşiye (Meşrutiyet) geçişin resmi adımıdır.",
+        "Temel Haklar: Halkın can ve mal güvenliği, eğitim ve basın özgürlüğü gibi temel haklar güvence altına alınmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Padişahın Yetkileri (Sınırlı Demokrasi)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Meclis'i Açma ve Kapatma yetkisi padişaha aittir (Kısa sürmesinin temel nedeni).",
+        "Sürgün yetkisi padişaha aittir.",
+        "Hükümet (Heyet-i Vükela), Meclis'e karşı değil, padişaha karşı sorumludur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🏛️ Meclis-i Umumi'nin Yapısı ve İşleyişi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Meclis-i Ayan (Yukarı Meclis): Üyeleri Padişah tarafından ömür boyu seçilirdi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Meclis-i Mebusan (Aşağı Meclis): Üyeleri halk tarafından seçilirdi."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛑 Birinci Meşrutiyet'in Sonu (İstibdat Dönemi)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Savaşın Bahane Edilmesi: 1877-1878 Osmanlı-Rus Savaşı (93 Harbi), II. Abdülhamit'e meclisi kapatmak için aradığı fırsatı vermiştir.",
+        "Kapatma (1878): II. Abdülhamit, Anayasa'nın kendisine verdiği yetkiye dayanarak Meclis-i Mebusan'ı kapatmıştır.",
+        "İstibdat Dönemi: 1908'e kadar süren ve padişahın mutlak otoritesine dayalı Baskı Dönemi başlamıştır."
+      ]
+    }
+  ]
+}

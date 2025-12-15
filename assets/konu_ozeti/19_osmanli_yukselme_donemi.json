@@ -1,0 +1,88 @@
+{
+  "konu_adi": "19- OSMANLI YÜKSELME DÖNEMİ (1453-1600)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLI YÜKSELME DÖNEMİ (1453-1600)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📈 Yükselme Döneminin Başlangıcı ve Genel Özellikleri"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Yükselme Dönemi, İstanbul'un Fethi (1453) ile başlar ve Osmanlı İmparatorluğu'nun siyasi, askeri ve ekonomik alanda zirveye ulaştığı dönemdir."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Dönemin Başlıca Özellikleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Fetih Politikası: Karada ve denizde hızlı ve planlı fetihler yapılmıştır (Cihan Hakimiyeti ideali).",
+        "Merkezi Otoritenin Güçlenmesi: Padişah otoritesi, Kanunname-i Âli Osman ile zirveye taşınmıştır.",
+        "Ekonomik Güç: Akdeniz ve Karadeniz ticaret yollarının büyük ölçüde ele geçirilmesiyle hazine dolmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👑 Fatih Sultan Mehmet Dönemi (1451 – 1481)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Siyasi ve İdari Reformlar: Kardeş katlini yasallaştıran Kanunname-i Âli Osman çıkarılmıştır. Divan'a Sadrazam'ın başkanlık etmesi kuralı getirilmiştir.",
+        "Anadolu ve Siyasi Birlik: Trabzon Rum İmparatorluğu'na son verilmiş (1461), Otlukbeli Savaşı'nda (1473) Akkoyunlu Devleti mağlup edilerek Doğu sınırları güvence altına alınmıştır.",
+        "Deniz Fetihleri: Kırım'ın alınmasıyla Karadeniz, bir Türk Gölü haline gelmiştir (1475)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ II. Bayezid Dönemi (1481 – 1512)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Cem Sultan Olayı: Cem Sultan'ın yurt dışına sığınması, olayın uluslararası bir sorun haline gelmesine ve Batı'ya seferlerin aksamasına neden olmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🕌 Yavuz Sultan Selim Dönemi (I. Selim) (1512 – 1520)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İran ve Safevi Sorunu: Çaldıran Savaşı (1514) ile Safeviler mağlup edilmiş, Doğu Anadolu güvence altına alınmıştır.",
+        "Memlükler Üzerine Seferler: Mercidabık (1516) ve Ridaniye (1517) Savaşları ile Memlükler yıkılmış, Mısır Osmanlı'ya katılmıştır.",
+        "Halifelik: Mısır Seferi sonucunda Abbasi Halifeliği'nden halifelik makamı Osmanlı hanedanına geçmiştir (Teokratik yönetim güçlendi).",
+        "Ekonomi: Baharat Yolu'nun kontrolü ve Mısır'ın zenginlikleri Osmanlı hazinesine aktarılmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "☀️ Kanuni Sultan Süleyman Dönemi (1520 – 1566)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Batı Fetihleri: Belgrad'ın Fethi (1521), Mohaç Meydan Savaşı (1526) ile Orta Avrupa'da hakimiyet kurulmuştur. I. Viyana Kuşatması (1529) ile siyasi baskı kurulmuştur.",
+        "Akdeniz Hakimiyeti: Preveze Deniz Savaşı (1538) Barbaros Hayrettin Paşa komutasında kazanılmış ve Akdeniz, bir Türk Gölü haline gelmiştir.",
+        "Doğu Politikası: Irakeyn Seferi (1534) ile Bağdat alınmıştır. İran ile yapılan ilk resmi antlaşma Amasya Antlaşması'dır (1555)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🕊️ Sokullu Mehmet Paşa Dönemi (1564 – 1579)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kıbrıs'ın Fethi (1571): Venedik'ten alınmıştır (Hemen ardından donanma İnebahtı'da yakılmıştır).",
+        "Projeler: Ekonomik durumu düzeltmek amacıyla önemli kanal projeleri (Süveyş, Don-Volga) tasarlamıştır.",
+        "Dönemin Sonu: Sokullu'nun ölümü (1579), Duraklama Dönemi'ne geçişi hızlandırmıştır."
+      ]
+    }
+  ]
+}

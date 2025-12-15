@@ -1,0 +1,157 @@
+{
+  "konu_adi": "12- OSMANLIDA ORDU, OSMANLIDA EKONOMİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLIDA ORDU | OSMANLIDA EKONOMİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ Osmanlı Kara Ordusunun Yapısı (Osmanlıda Ordu)"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Osmanlı kara ordusu, merkezi ve eyalet kuvvetlerinden oluşan karma bir yapıya sahipti. Temelde Kapıkulu ve Eyalet askerleri olmak üzere iki ana kola ayrılırdı."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Kapıkulu Ocakları (Merkez Ordusu)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Sistemi: Doğrudan Padişah'a bağlı, Devşirme sistemi ile yetiştirilen profesyonel askerlerdir.",
+        "Maaş: Üç ayda bir Ulufe adı verilen düzenli maaş alırlardı.",
+        {
+          "madde_tipi": "tanim",
+          "metin": "Yeniçeriler: Padişahın hayatını koruyan ve İstanbul'un güvenliğini sağlayan en önemli ocaktır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Cebeciler: Silah yapım, bakım ve onarımından sorumludur."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Topçular: Savaşlarda top kullanan ocaktır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kapıkulu Süvarileri: Silahdar, Sipahi, Sağ ve Sol Ulufeciler gibi atlı birliklerdir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Eyalet Askerleri (Tımarlı Sipahiler)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Önemi: Ordunun en kalabalık ve en güçlü bölümüdür.",
+        "Sistemi: Dirlik (Tımar) Sistemi çerçevesinde yetişen atlı askerlerdir.",
+        "Maaş: Devletten nakit maaş almazlar, geçimlerini Tımar topraklarının geliriyle sağlarlardı.",
+        "Görev: Barış zamanı bölgelerinin güvenliğini sağlamak."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Yardımcı Kuvvetler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Akıncılar: Sınır boylarında görev yapan öncü birliklerdir.",
+        "Azaplar: Ordunun önünde düşmanla ilk çarpışan birimlerdir.",
+        "Sakalar: Ordunun su ihtiyacını karşılarlar.",
+        "Derbentçiler: Köprü ve geçitleri koruyan birimdir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Deniz Kuvvetleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Başlangıç: Orhan Bey döneminde Karesioğulları Beyliği'nin alınması ile başlamıştır.",
+        "Komutan: Osmanlı donanmasının başında Kaptan-ı Derya bulunur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💰 Osmanlıda Ekonomi ve Maliye"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Maliyeden sorumlu Divan üyesi Defterdar'dır. Toprakların büyük çoğunluğu devlete (Mirî Arazi) aitti."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Toprak Yönetimi ve Gelire Göre Dağılım"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Has Arazi: Geliri 100.000 akçeden fazla olan, üst düzey devlet adamlarına verilen topraklardır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Zeamet Arazi: Geliri 20.000 ile 100.000 akçe arasında değişen, orta dereceli devlet adamlarına verilen topraklardır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Tımar Arazi: Geliri 3.000 ile 20.000 akçe arasında değişen, küçük dereceli devlet adamlarına verilen topraklardır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Vakıf Arazi: Geliri sosyal ve hayır kurumlarına ayrılan topraklardır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Devlet Gelir Kaynakları (Vergiler)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Öşür (Şer’i Vergi): Müslüman çiftçiden alınan 1/10 ürün vergisidir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Haraç (Şer’i Vergi): Gayrimüslim çiftçiden alınan ürün vergisidir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Cizye (Şer’i Vergi): Askerlik çağına gelmiş gayrimüslim erkeklerden alınan askerlik yapmama vergisidir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Çiftbozan Vergisi (Örfi Vergi): Mazeretsiz olarak toprağını boş bırakan çiftçiden alınır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Avarız Vergisi (Örfi Vergi): Halktan olağanüstü durumlarda alınan geçici vergi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Bac Resmi (Örfi Vergi): Ticaretle uğraşanlardan ve pazar yerlerinden alınır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Para"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İlk para Osman Bey, ilk altın para ise Fatih Sultan Mehmet döneminde bastırılmıştır."
+      ]
+    }
+  ]
+}

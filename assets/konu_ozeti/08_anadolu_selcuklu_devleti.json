@@ -1,0 +1,112 @@
+{
+  "konu_adi": "08- ANADOLU SELÇUKLU DEVLETİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ANADOLU SELÇUKLU DEVLETİ (ASD)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Kuruluş ve Erken Dönem (1077 – 1190)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Kuruluş ve İlk Hükümdarlar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurucu: Süleyman Şah (Kutalmıșoğlu).",
+        "Başkent: İlk başkent İznik, I. Haçlı Seferi sonrası Konya'ya taşınmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Anadolu'nun Tapusu: Miryokefalon Zaferi (1176)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Dönem: II. Kılıç Arslan Dönemi.",
+        "Önemi: Anadolu'nun kapıları Miryokefalon ile tamamen mühürlenmiş, Bizans'ın Türkleri Anadolu'dan atma ümidi sona ermiştir.",
+        "Sonuç: Bu zafer nedeniyle Anadolu'ya \"Türkiye\" denilmeye başlanmıştır.",
+        "Siyasi Birlik: II. Kılıç Arslan, Danişmentlilere son vererek ATSB kurma yolunda önemli bir adım atmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📈 Yükselme ve Ticaretin Altın Çağı (1190 – 1237)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Ticari Gelişmeler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Limanlar: I. Gıyaseddin Keyhüsrev döneminde Antalya (Akdeniz) ve I. İzzeddin Keykavus döneminde Sinop (Karadeniz) fethedilerek deniz ticaretine hakim olunmuştur.",
+        "Kervansaraylar: Alayhan ve Sultanhan gibi büyük Kervansaraylar inşa edilmiştir.",
+        "Sigorta Sistemi: Ticareti teşvik etmek için tüccarların mallarına bir zarar gelmesi durumunda, zararı devletin karşılama garantisi (sigorta) verilmiştir (Dünyadaki ilk sigortacılık örneklerinden)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. I. Alaeddin Keykubat Dönemi (Devletin Zirvesi)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Fetihler: Alanya alınmış ve burada tersane inşa edilmiştir.",
+        "Siyasi Birlik: Mengüceklilere ve Artukluların Harput koluna son verilerek ATSB büyük ölçüde sağlanmıştır.",
+        "Moğol Tehdidi: Moğol (İlhanlı) tehlikesine karşı doğu sınırları güçlendirilmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📉 Çöküş Süreci (1237 – 1308)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Yassıçemen Savaşı (1230)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Taraflar: Anadolu Selçuklu Devleti ve Harzemşahlar.",
+        "Sonuç: Harzemşahların yıkılmasıyla, ASD ile Moğollar (İlhanlılar) arasındaki tampon bölge ortadan kalkmış ve Moğol istilasına zemin hazırlanmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Babaîler İsyanı (1240)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Nedenler: Türkmenlerin yönetimden dışlanması ve merkezi otoriteye tepki olarak çıkan sosyal ve dini içerikli büyük isyandır.",
+        "Önemi: ASD'nin bu isyanı zorlukla bastırması, devletin zayıflığını Moğollara göstermiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Kösedağ Savaşı (1243)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Taraflar: Anadolu Selçuklu Devleti (II. Gıyaseddin Keyhüsrev) ve İlhanlılar (Moğollar).",
+        "Moğol Egemenliği: ASD, İlhanlılara bağlı hale gelmiş ve vergi ödemek zorunda kalmıştır.",
+        "ATSB Bozuldu: ASD'nin merkezi otoritesi yıkılmış ve Anadolu'da II. Türk Beylikleri Dönemi başlamıştır.",
+        "Göçler: Moğol baskısından kaçan Türkmenler, Bizans sınırlarına (Uçlara) yığılmıştır. Bu göçler, Osmanlı Beyliği'nin kuruluşuna zemin hazırlamıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Yıkılış (1308)"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Kösedağ Savaşı'ndan sonra İlhanlıların atadığı kukla sultanlarla devam eden ASD, 1308 yılında son sultanın ölümüyle tamamen tarih sahnesinden çekilmiştir."
+    }
+  ]
+}

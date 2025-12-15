@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 44",
+  "examCode": "deneme_44",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 42)\n\n**İlk Çağdan Günümüze:** İstanbul'u kuşatan ilk Türk devleti Avarlar'dır. Ölülerin eşyalarıyla gömüldüğü mezarlara 'Kurgan' denir. Türk-İslam edebiyatının ilk eseri Yusuf Has Hacip'in 'Kutadgu Bilig'idir. Talas Savaşı, kağıdın Çin dışında üretilmesine zemin hazırlamıştır.\n\n**Osmanlı ve Islahatlar:** Anadolu Hisarı, Yıldırım Bayezid tarafından yaptırılmıştır. Enderun, devşirmelerin yetiştirildiği saray okuludur. Girit Adası'nın fethi 24 yıl sürmüştür. Yeniçeri Ocağı'nı kaldırmayı düşünen ilk padişah II. Osman'dır. Lale Devri, Pasarofça Antlaşması ile başlamıştır. Sanayi-i Nefise Mektebi'ni Osman Hamdi Bey kurmuştur. Kuleli Olayı, Sultan Abdülmecit'e yönelik başarısız bir darbe girişimidir.\n\n**Milli Mücadele ve Cumhuriyet:** Babıali Baskını ile İttihat ve Terakki yönetimi tam ele geçirmiştir. Mustafa Kemal 'Ölmeyi emrediyorum' sözünü Conkbayırı'nda söylemiştir. Samsun Raporu, Mustafa Kemal'in İstanbul'a gönderdiği ilk belgedir. Bilecik Görüşmesi, TBMM ile İstanbul Hükümeti arasındaki ilk resmi görüşmedir. Gediz Taarruzu'nun başarısızlığı düzenli orduya geçişi hızlandırmıştır. İstiklal Yolu, İnebolu-Ankara hattıdır. Kabotaj Kanunu denizlerdeki tam bağımsızlığı sağlar.\n\n**Çağdaş Dünya:** U-2 Krizi, ABD casus uçağının SSCB tarafından düşürülmesidir. Camp David Antlaşması ile Mısır, İsrail'i tanıyan ilk Arap devleti olmuştur. Azerbaycan, SSCB dağılırken bağımsızlığını ilan eden ilk Türk cumhuriyetidir.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk tarihinde İstanbul'u denizden kuşatan ilk Türk devleti aşağıdakilerden hangisidir? (Bu kuşatma Sasanilerle işbirliği yapılarak gerçekleştirilmiştir.)",
+      "options": [
+        "Hunlar",
+        "Avarlar",
+        "Peçenekler",
+        "Bulgarlar",
+        "Çaka Beyliği"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türklerde, ölen kişinin eşyalarıyla birlikte gömüldüğü, oda biçiminde yapılan mezarlara ne ad verilir?",
+      "options": [
+        "Balbal",
+        "Yuğ",
+        "Kurgan",
+        "Uçmağ",
+        "Tamu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Türk-İslam edebiyatının ilk yazılı eseri kabul edilen, Yusuf Has Hacip tarafından yazılarak Karahanlı hükümdarı Tabgaç Buğra Han'a sunulan ve \"Mutluluk Veren Bilgi\" anlamına gelen eser hangisidir?",
+      "options": [
+        "Dîvânu Lugâti't-Türk",
+        "Atabetü'l-Hakayık",
+        "Divan-ı Hikmet",
+        "Kutadgu Bilig",
+        "Şehname"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "751 yılında Abbasiler ile Çinliler arasında yapılan, Türklerin Abbasilerin yanında yer alarak İslamiyet'i kitleler halinde kabul etmeye başladığı ve kağıdın Çin dışında üretilmesine zemin hazırlayan savaş hangisidir?",
+      "options": [
+        "Dandanakan Savaşı",
+        "Talas Savaşı",
+        "Pasinler Savaşı",
+        "Malazgirt Savaşı",
+        "Katvan Savaşı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde Yıldırım Bayezid döneminde, İstanbul kuşatmaları sırasında Bizans'a Karadeniz'den gelebilecek yardımları önlemek amacıyla Anadolu yakasına yaptırılan hisar hangisidir?",
+      "options": [
+        "Rumeli Hisarı (Boğazkesen)",
+        "Anadolu Hisarı (Güzelce Hisar)",
+        "Çimenlik Kalesi",
+        "Kilitbahir Kalesi",
+        "Yedikule Zindanları"
+      ],
+      "correctOption": "B",
+      "solution": "Rumeli Hisarı ise Fatih döneminde yaptırılmıştır."
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde, devşirme kökenli çocukların devlet adamı ve asker olarak yetiştirildiği, Topkapı Sarayı içinde bulunan saray okulu hangisidir?",
+      "options": [
+        "Medrese",
+        "Enderun",
+        "Harem",
+        "Sıbyan Mektebi",
+        "Rüştiye"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı tarihinde alınması en uzun süren (1645-1669 yılları arasında 24 yıl), Venediklilerden Köprülü Fazıl Ahmet Paşa komutasında alınan ada hangisidir?",
+      "options": [
+        "Kıbrıs",
+        "Rodos",
+        "Girit",
+        "Sakız",
+        "Malta"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde Hotin Seferi sırasındaki disiplinsizlikleri nedeniyle Yeniçeri Ocağı'nı kaldırmayı düşünen, ancak bu düşüncesi nedeniyle yeniçeriler tarafından öldürülen ilk padişah kimdir?",
+      "options": [
+        "Genç Osman (II. Osman)",
+        "IV. Murat",
+        "III. Selim",
+        "I. İbrahim",
+        "IV. Mehmet"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nin Batı'nın üstünlüğünü kabul ettiği ve Lale Devri'nin başlamasına neden olan 1718 tarihli antlaşma hangisidir?",
+      "options": [
+        "Karlofça Antlaşması",
+        "İstanbul Antlaşması",
+        "Pasarofça Antlaşması",
+        "Küçük Kaynarca Antlaşması",
+        "Prut Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "II. Abdülhamit döneminde Osman Hamdi Bey tarafından kurulan ve bugünkü Mimar Sinan Güzel Sanatlar Üniversitesi'nin temelini oluşturan sanat okulu hangisidir?",
+      "options": [
+        "Sanayi-i Nefise Mektebi",
+        "Darülbedayi",
+        "Darülelhan",
+        "Mekteb-i Sultani",
+        "Darülfünun"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Sultan Abdülmecit'i tahttan indirip yerine Abdülaziz'i geçirmek amacıyla planlanan ancak başarısız olan 1859 tarihli darbe girişimi hangisidir?",
+      "options": [
+        "Çırağan Baskını",
+        "Kuleli Olayı",
+        "Babıali Baskını",
+        "31 Mart Vakası",
+        "Edirne Vakası"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Balkan Savaşı sırasında yaşanan yenilgilerden hükümeti sorumlu tutan İttihat ve Terakki Cemiyeti'nin, Kamil Paşa hükümetini devirerek yönetimi tam anlamıyla ele geçirdiği hükümet darbesi hangisidir?",
+      "options": [
+        "31 Mart Vakası",
+        "Babıali Baskını",
+        "Kuleli Olayı",
+        "Vaka-i Vakvakiye",
+        "Menemen Olayı"
+      ],
+      "correctOption": "B",
+      "solution": "1913 yılında gerçekleşmiştir."
+    },
+    {
+      "id": 13,
+      "text": "Çanakkale Cephesi'nde Mustafa Kemal'in askerlerine \"Ben size taarruzu emretmiyorum, ölmeyi emrediyorum!\" tarihi emrini verdiği yer neresidir?",
+      "options": [
+        "Anafartalar",
+        "Kireçtepe",
+        "Conkbayırı",
+        "Seddülbahir",
+        "Arıburnu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Mustafa Kemal'in 9. Ordu Müfettişi olarak Samsun'a çıktıktan sonra İstanbul Hükümeti'ne gönderdiği, İzmir'in işgalinin haksız olduğunu ve Türk milletinin bağımsızlık için harekete geçeceğini bildirdiği ilk belge hangisidir?",
+      "options": [
+        "Havza Genelgesi",
+        "Amasya Tamimi",
+        "Samsun Raporu",
+        "Amasya Protokolü",
+        "Misak-ı Milli"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "TBMM ile İstanbul Hükümeti arasında yapılan \"ilk resmi görüşme\" olan, ancak İstanbul Hükümeti'nin TBMM'yi hukuken tanımadığı (Amasya Görüşmeleri ile karıştırılmamalıdır) görüşme hangisidir?",
+      "options": [
+        "Amasya Görüşmeleri",
+        "Bilecik Görüşmesi",
+        "Mudanya Görüşmeleri",
+        "Londra Konferansı",
+        "Trabzon Görüşmeleri"
+      ],
+      "correctOption": "B",
+      "solution": "Ahmet İzzet Paşa ile yapılan bu görüşmede İstanbul Hükümeti TBMM'yi bir güç olarak muhatap almış ancak hukuken tanımamıştır. Hukuken tanıma Amasya Görüşmeleri'dir."
+    },
+    {
+      "id": 16,
+      "text": "Batı Cephesi'nde, Kuvayi Milliye birliklerinin (Çerkez Ethem ve Ali Fuat Paşa komutasında) Yunanlılara karşı düzenlediği ve başarısızlıkla sonuçlanınca \"Düzenli Ordu\"ya geçişin hızlandırıldığı taarruz girişimi hangisidir?",
+      "options": [
+        "I. İnönü Savaşı",
+        "Aslıhanlar Taarruzu",
+        "Gediz Taarruzu",
+        "Başkomutanlık Meydan Muharebesi",
+        "Sakarya Savaşı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Kurtuluş Savaşı'nda, İnebolu Limanı'ndan başlayıp Kastamonu ve Çankırı üzerinden Ankara'ya uzanan, cephane ve malzeme taşınan lojistik hatta ne ad verilir?",
+      "options": [
+        "İstiklal Yolu",
+        "Kurtuluş Yolu",
+        "Zafer Yolu",
+        "Cumhuriyet Yolu",
+        "İpek Yolu"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda \"Fener Rum Patrikhanesi\" ile ilgili alınan karar nedir?",
+      "options": [
+        "Türkiye dışına çıkarılacaktır.",
+        "Ekümenik (Evrensel) yetkileri tanınacaktır.",
+        "Siyasi ve idari yetkileri elinden alınacak, sadece dini bir kurum olarak İstanbul'da kalacaktır.",
+        "Heybeliada Ruhban Okulu'na bağlanacaktır.",
+        "Yunanistan'a bağlanacaktır."
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "1 Temmuz 1926'da yürürlüğe giren ve Türk karasularında yolcu ve yük taşıma hakkını (liman işletmeciliğini) sadece Türk gemilerine vererek denizlerdeki ekonomik bağımsızlığı sağlayan kanun hangisidir?",
+      "options": [
+        "Teşvik-i Sanayi Kanunu",
+        "Kabotaj Kanunu",
+        "Misak-ı İktisadi",
+        "Soyadı Kanunu",
+        "Denizbank Kanunu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "1930 yılında Menemen'de Derviş Mehmet ve adamları tarafından çıkarılan irticai ayaklanma (Menemen Olayı) sonucunda suçluların yargılandığı mahkeme hangisidir?",
+      "options": [
+        "İstiklal Mahkemeleri",
+        "Yüce Divan",
+        "Divan-ı Harp (Sıkıyönetim Mahkemesi)",
+        "Devlet Güvenlik Mahkemesi",
+        "Anayasa Mahkemesi"
+      ],
+      "correctOption": "C",
+      "solution": "İstiklal Mahkemeleri 1927'de kapatılmıştır (Şeyh Said ve İzmir Suikastı'nda görev yapmıştır)."
+    },
+    {
+      "id": 21,
+      "text": "Mustafa Kemal'in \"Benim naçiz vücudum elbet bir gün toprak olacaktır, fakat Türkiye Cumhuriyeti ilelebet payidar kalacaktır\" sözünü söylediği, kendisine yönelik planlanan suikast girişimi nerede gerçekleşecekti?",
+      "options": [
+        "Ankara",
+        "İstanbul",
+        "İzmir",
+        "Sivas",
+        "Bursa"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Türkiye'nin 1929 yılında dünya barışını korumak amacıyla ABD ve Fransa öncülüğünde kurulan ve \"Savaşın ulusal politika aracı olarak kullanılmasını yasaklayan\" pakta katılması, barışçı politikasının bir göstergesidir. Bu paktın adı nedir?",
+      "options": [
+        "Briand-Kellogg Paktı",
+        "Litvinov Protokolü",
+        "Sadabat Paktı",
+        "Locarno Antlaşması",
+        "Nyon Antlaşması"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne (Cemiyet-i Akvam) üye olduğunda (1932) ilk daimi temsilcisi kim olmuştur?",
+      "options": [
+        "Tevfik Rüştü Aras",
+        "Cemal Hüsnü Taray",
+        "Rauf Orbay",
+        "Hasan Saka",
+        "Falih Rıfkı Atay"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Hatay sorununun çözümü sürecinde, Milletler Cemiyeti tarafından görevlendirilen ve Hatay'ın nüfus çoğunluğunun Türk olduğunu, Hatay'ın Suriye'den ayrı, bağımsız bir statüye sahip olması gerektiğini belirten rapor hangisidir?",
+      "options": [
+        "General Harbord Raporu",
+        "Amiral Bristol Raporu",
+        "Sandler Raporu",
+        "Milne Raporu",
+        "Hrisantos Raporu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "1960 yılında SSCB'nin, toprakları üzerinde keşif uçuşu yapan ABD'ye ait bir casus uçağını düşürmesiyle ortaya çıkan ve Soğuk Savaş'ı ısıtan kriz hangisidir?",
+      "options": [
+        "Küba Füze Krizi",
+        "Berlin Buhranı",
+        "U-2 Casus Uçak Krizi",
+        "Kore Savaşı",
+        "Vietnam Savaşı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1978 yılında ABD'nin (Camp David) arabuluculuğunda, İsrail ile Mısır arasında imzalanan ve İsrail'i tanıyan ilk Arap devletinin Mısır olduğu antlaşma hangisidir?",
+      "options": [
+        "Oslo Görüşmeleri",
+        "Camp David Antlaşmaları",
+        "Dayton Antlaşması",
+        "Helsinki Nihai Senedi",
+        "Salt-1 Antlaşması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1991 yılında SSCB'nin dağılmasıyla bağımsızlığını ilan eden ilk Türk Cumhuriyeti hangisidir?",
+      "options": [
+        "Özbekistan",
+        "Türkmenistan",
+        "Kazakistan",
+        "Azerbaycan",
+        "Kırgızistan"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    }
+  ]
+}

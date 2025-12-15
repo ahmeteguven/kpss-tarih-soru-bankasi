@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 31",
+  "examCode": "deneme_31",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 31)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı, Hayvan Üslubu sanatının gelişmesine neden olmuştur. Orhun Abideleri'nin yazarının Yollug Tigin olduğu kabul edilir. Büyük Selçuklu Devleti'nde Vezir Nizamülmülk tarafından kurulan Nizamiye Medreseleri, dönemin en büyük bilim merkezidir. Anadolu'da kurulan ilk medrese Danişmentliler'e ait Yağıbasan Medresesi'dir. Anadolu Selçuklu Devleti'nde Ahilik teşkilatı, esnaf ve zanaatkarların mesleki ve ahlaki eğitimini sağlamıştır.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde Pençik Sistemi uygulanmış, Fatih döneminde 'Kardeş Katli' yasallaşmıştır. Yavuz Sultan Selim'in Mısır Seferi ile Halifelik Osmanlı'ya geçmiştir. Lale Devri'ni bitiren Patrona Halil İsyanı'dır (1730). II. Mahmut döneminde (1838) Balta Limanı Ticaret Antlaşması ile Osmanlı, İngiltere'nin açık pazarı haline gelmiştir. İlk yazılı anayasa Kanun-i Esasi (1876)'dir.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, bölgesel amaçlı, düzensiz birliklerdir. Amasya Genelgesi, Milli Mücadele'nin gerekçesini ve yöntemini belirlemiştir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiş, Moskova ve Londra Konferansları toplanmıştır. Medeni Kanun ile kadınlara siyasi haklar verilmemiştir. Montrö Boğazlar Sözleşmesi (1936) ile Türkiye, boğazlar üzerindeki tam egemenliğini sağlamıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Museviliği resmî din olarak kabul eden tek Türk devleti olan Hazarlar, ordularında paralı asker bulunduran ilk Türk devleti olmuştur. Hazarların paralı asker kullanmasının temel nedeni nedir?",
+      "options": [
+        "Savaşçı özelliklerini kaybetmeleri",
+        "Ekonomik olarak çok zenginleşmeleri",
+        "Göçebe yaşam tarzını benimsemeleri",
+        "Türk Töre'sini uygulamak istememeleri",
+        "Bizans ile yaptıkları ittifak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Mete Han'ın 'Onlu Sistemi' kurması ve Türk ordusunu modern bir yapıya kavuşturmasının, Türk tarihinde sağladığı en önemli askeri katkı nedir?",
+      "options": [
+        "Sadece süvari birlikleri oluşturulması",
+        "Ordu-Millet anlayışının terk edilmesi",
+        "Merkezi otoritenin güçlendirilmesi",
+        "Disiplin ve komuta kademesinin sağlamlaştırılmasıyla ordunun sürekliliğinin sağlanması",
+        "Paralı askerlik sistemine geçilmesi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Büyük Selçuklu Devleti'nde vezirlik yapan, Siyasetname adlı eseriyle bilinen ve Batıniler (Haşhaşiler) tarafından öldürülen devlet adamı kimdir?",
+      "options": [
+        "Ömer Hayyam",
+        "Tuğrul Bey",
+        "Sultan Sencer",
+        "Nizamülmülk",
+        "Melikşah"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Moğol istilası sonrası Anadolu Türk Siyasi Birliği'nin bozulmasıyla kurulan II. Beylikler döneminde, kendilerini Anadolu Selçuklu Devleti'nin mirasçısı olarak gören beylik hangisidir?",
+      "options": [
+        "Karesioğulları",
+        "Germiyanoğulları",
+        "Karamanoğulları",
+        "Hamitoğulları",
+        "Aydınoğulları"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde Kapıkulu askerlerinin üç ayda bir aldıkları maaşa ne ad verilir?",
+      "options": [
+        "Cülus Bahşişi",
+        "Ulufe",
+        "Tımar",
+        "Zeamet",
+        "Arpalık"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Fatih Sultan Mehmet'in, Divan'a Sadrazam'ın başkanlık etmesi kuralını getirerek Divan'ı 'danışma organı' haline getirmesinin temel amacı nedir?",
+      "options": [
+        "Sadrazamın yetkilerini kısıtlamak",
+        "Padişahın otoritesini ve ulaşılmazlığını artırmak",
+        "İş yükünü hafifletmek",
+        "Merkezi otoriteyi zayıflatmak",
+        "Divan üyelerini cezalandırmak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde ilk kez 'Müsadere' (Devletin mala el koyması) sistemini kaldıran ve özel mülkiyet hakkını güvence altına alan padişah kimdir?",
+      "options": [
+        "Fatih Sultan Mehmet",
+        "Yavuz Sultan Selim",
+        "II. Mahmut",
+        "Sultan Abdülmecit",
+        "II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde esnaf ve zanaatkarların oluşturduğu Lonca teşkilatında, üretilen malların kalite ve fiyatlarını (Narh) denetleyen görevli kimdir?",
+      "options": [
+        "Kapan Emini",
+        "Bac Emini",
+        "Muhtesip",
+        "Şeyhülislam",
+        "Gümrük Emini"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "II. Abdülhamit döneminde, Alman İmparatoru II. Wilhelm'in de desteğiyle yapımına başlanan ve Osmanlı'nın İslamcılık politikasını destekleyen demiryolu hattı hangisidir?",
+      "options": [
+        "Hicaz Demiryolu",
+        "Bağdat Demiryolu",
+        "İzmir-Aydın Demiryolu",
+        "Şam-Halep Demiryolu",
+        "Mısır Demiryolu"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "I. Meşrutiyet'in ilan edilmesinde etkili olan ve Avrupa'daki 'Tersane Konferansı' kararlarının Osmanlı aleyhine çıkmasını engellemeyi amaçlayan aydın grubu hangisidir?",
+      "options": [
+        "İttihat ve Terakki",
+        "Jön Türkler (Genç Osmanlılar)",
+        "Hürriyet ve İtilaf",
+        "Ahrar Fırkası",
+        "Halaskar Zabitan"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "II. Abdülhamit döneminde kurulan, düşkünlere, yaşlılara ve kimsesizlere yardım eden sosyal yardım kurumu hangisidir?",
+      "options": [
+        "Darüşşafaka",
+        "Hilal-i Ahmer",
+        "Darülaceze",
+        "Kızılay",
+        "Himaye-i Etfal"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı sırasında Osmanlı Devleti'nin, İngiltere'nin sömürge yollarını (Süveyş Kanalı) keserek Mısır'ı geri almak amacıyla açtığı cephe hangisidir?",
+      "options": [
+        "Kafkas Cephesi",
+        "Kanal Cephesi",
+        "Irak Cephesi",
+        "Hicaz-Yemen Cephesi",
+        "Suriye-Filistin Cephesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "İzmir'in işgalinin haksız olduğunu ve Rumların bölgede çoğunlukta olmadığını belirten ilk uluslararası belge hangisidir?",
+      "options": [
+        "General Harbord Raporu",
+        "Amiral Bristol Raporu",
+        "Milne Hattı Raporu",
+        "Sandler Raporu",
+        "Hrisantos Raporu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Milli Mücadele'de kadın kahramanlarımızdan, Kastamonu'dan Ankara'ya kağnıyla cephane taşırken şehit olan kahramanımız kimdir?",
+      "options": [
+        "Nene Hatun",
+        "Kara Fatma",
+        "Halide Edip Adıvar",
+        "Şerife Bacı",
+        "Tayyar Rahmiye"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Milli Mücadele'nin hazırlık döneminde, Batı Anadolu'da Yunan işgaline karşı bölgesel direnişi örgütleyen ve Mustafa Kemal'in 'Galip Hoca' takma adıyla katıldığı kongre hangisidir?",
+      "options": [
+        "Erzurum Kongresi",
+        "Balıkesir Kongresi",
+        "Alaşehir Kongresi",
+        "Pozantı Kongresi",
+        "Nazilli Kongresi"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı'nda Batı Cephesi'ndeki tek yenilgimiz olan savaş hangisidir?",
+      "options": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Kütahya-Eskişehir Savaşları",
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Mustafa Kemal'e 'Gazi' unvanı ve 'Mareşal' rütbesi hangi savaştan sonra verilmiştir?",
+      "options": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Kütahya-Eskişehir Savaşları",
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Mudanya Ateşkes Antlaşması'nı TBMM adına imzalayan heyetin başkanı kimdir?",
+      "options": [
+        "Mustafa Kemal Paşa",
+        "Rauf Orbay",
+        "İsmet İnönü",
+        "Fevzi Çakmak",
+        "Kazım Karabekir"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Soyadı Kanunu (1934) ile 'Ağa, Bey, Paşa, Hacı' gibi unvanların yasaklanması, aşağıdaki Atatürk ilkelerinden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Laiklik",
+        "Devletçilik",
+        "Cumhuriyetçilik",
+        "Milliyetçilik",
+        "Halkçılık"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Türkiye Cumhuriyeti'nin ilk özel bankası olan ve ilk genel müdürlüğünü Celal Bayar'ın yaptığı banka hangisidir?",
+      "options": [
+        "Sümerbank",
+        "Etibank",
+        "İş Bankası",
+        "Halkbank",
+        "Ziraat Bankası"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Atatürk döneminde uygulanan I. Beş Yıllık Sanayi Planı'nın başarılı olmasının temel nedeni nedir?",
+      "options": [
+        "Teşvik-i Sanayi Kanunu",
+        "Özel sektörün gücü",
+        "1929 Dünya Ekonomik Buhranı'nın etkilerinin azalması",
+        "SSCB'den teknik ve mali destek alınması",
+        "Liberal ekonomiye geçilmesi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "1929 Dünya Ekonomik Buhranı'nın etkilerini azaltmak ve hükümeti denetlemek amacıyla kurulan ilk deneme partisi Serbest Cumhuriyet Fırkası'nın kurucusu kimdir?",
+      "options": [
+        "Kazım Karabekir",
+        "İsmet İnönü",
+        "Ali Fethi Okyar",
+        "Rauf Orbay",
+        "Celal Bayar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "1937 yılında imzalanan Sadabat Paktı'na, Hatay sorunu nedeniyle katılmayan Ortadoğu devleti hangisidir?",
+      "options": [
+        "İran",
+        "Irak",
+        "Afganistan",
+        "Suriye",
+        "Suudi Arabistan"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Atatürk'ün vefatından sonra (1939) anavatana katılan Hatay'ın, anavatana katılmadan önceki son Cumhurbaşkanı kimdir?",
+      "options": [
+        "Mustafa Kemal Atatürk",
+        "Tayfur Sökmen",
+        "Abdurrahman Melek",
+        "Celal Bayar",
+        "İsmet İnönü"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sırasında 'Üç Büyükler' (ABD, İngiltere, SSCB) ilk kez hangi konferansta bir araya gelerek İkinci Cephe'nin (Normandiya) açılmasına karar vermiştir?",
+      "options": [
+        "Yalta Konferansı",
+        "Potsdam Konferansı",
+        "Tahran Konferansı",
+        "Casablanca Konferansı",
+        "Kahire Konferansı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "ABD Başkanı Roosevelt ve İngiltere Başbakanı Churchill'in bir araya gelerek, savaş sonrası dünyanın prensiplerini belirlediği (Wilson İlkeleri'ne benzer) belge hangisidir?",
+      "options": [
+        "Monroe Doktrini",
+        "Balfour Deklarasyonu",
+        "Atlantik Bildirisi",
+        "Truman Doktrini",
+        "Paris Şartı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "II. Dünya Savaşı'ndan sonra SSCB'nin, Marshall Planı'na karşı Doğu Bloğu ülkeleriyle ekonomik işbirliğini sağlamak amacıyla kurduğu örgüt hangisidir?",
+      "options": [
+        "Varşova Paktı",
+        "COMINFORM",
+        "COMECON (Karşılıklı Ekonomik Yardımlaşma Konseyi)",
+        "NATO",
+        "Bağlantısızlar Hareketi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

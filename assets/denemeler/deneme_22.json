@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 22",
+  "examCode": "deneme_22",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 22)\n\n**İlk Çağdan Günümüze:** Türklerde 'Kut' (hükmetme yetkisinin Gök Tanrı'dan alınması) anlayışı, devletin hanedan üyelerinin ortak malı sayılmasına ve taht kavgalarına neden olmuştur. Uygurlar, Budizm ve Maniheizm dinlerinin etkisiyle yerleşik hayata geçen ilk Türk devletidir. Büyük Selçuklu Devleti'nde Vezir Nizamülmülk tarafından kurulan Nizamiye Medreseleri, dönemin en büyük bilim merkezidir. Anadolu'da kurulan ilk medrese Danişmentliler'e ait Yağıbasan Medresesi'dir. Anadolu Selçuklu Devleti'nde Ahilik teşkilatı, esnaf ve zanaatkarların mesleki ve ahlaki eğitimini sağlamıştır.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde Pençik Sistemi uygulanmış, Fatih döneminde 'Kardeş Katli' yasallaşmıştır. Yavuz Sultan Selim'in Mısır Seferi ile Halifelik Osmanlı'ya geçmiştir. Lale Devri'ni bitiren Patrona Halil İsyanı'dır (1730). II. Mahmut döneminde (1838) Balta Limanı Ticaret Antlaşması ile Osmanlı, İngiltere'nin açık pazarı haline gelmiştir. İlk yazılı anayasa Kanun-i Esasi (1876)'dir.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, bölgesel amaçlı, düzensiz birliklerdir. Amasya Genelgesi, Milli Mücadele'nin gerekçesini ve yöntemini belirlemiştir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiş, Moskova ve Londra Konferansları toplanmıştır. Medeni Kanun ile kadınlara siyasi haklar verilmemiştir. Montrö Boğazlar Sözleşmesi (1936) ile Türkiye, boğazlar üzerindeki tam egemenliğini sağlamıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Avrupa Hun Devleti’nin en parlak dönemini yaşatan, Hristiyan dünyasında \"Tanrı’nın Kırbacı\" (Flagellum Dei) olarak nitelendirilen hükümdar kimdir?",
+      "options": [
+        "Balamir",
+        "Uldız",
+        "Attila",
+        "Rua",
+        "İlek"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Türklerde devleti yönetme yetkisinin (Kut), kan yoluyla babadan oğula geçtiğine inanılırdı. Kut anlayışının sonuçlarından biri değildir?",
+      "options": [
+        "Hanedan üyelerinin tahta geçme hakkının olması",
+        "Taht kavgalarının yaşanması",
+        "Devletlerin kısa ömürlü olması",
+        "Hükümdarın yetkilerinin sınırsız olması",
+        "Kanın kutsal sayılıp hanedan üyelerinin kanının akıtılmaması"
+      ],
+      "correctOption": "D",
+      "solution": "Türklerde hükümdarın yetkileri Töre ile sınırlıdır, mutlak monarşi tam anlamıyla yoktur."
+    },
+    {
+      "id": 3,
+      "text": "Büyük Selçuklu Devleti’nin Gaznelileri mağlup ederek resmen kurulduğunu ilan ettiği savaş aşağıdakilerden hangisidir?",
+      "options": [
+        "Nesa Savaşı",
+        "Serahs Savaşı",
+        "Pasinler Savaşı",
+        "Katvan Savaşı",
+        "Dandanakan Savaşı"
+      ],
+      "correctOption": "E",
+      "solution": "1040 yılındaki bu savaşla Selçuklu kuruldu, Gazneli yıkılış sürecine girdi."
+    },
+    {
+      "id": 4,
+      "text": "Anadolu’da yapılan ilk medrese olma özelliğine sahip \"Yağıbasan Medresesi\" hangi beylik dönemine aittir?",
+      "options": [
+        "Saltuklular",
+        "Artuklular",
+        "Selçuklular",
+        "Danişmentliler",
+        "Mengücekliler"
+      ],
+      "correctOption": "D",
+      "solution": "Tokat-Niksar'dadır."
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nde Tımar sisteminin uygulandığı, vergilerin doğrudan asker beslemek için kullanıldığı ve merkeze yakın olan eyaletlere ne ad verilir?",
+      "options": [
+        "Salyaneli (Yıllıklı) Eyaletler",
+        "Salyanesiz (Yıllıksız) Eyaletler",
+        "İmtiyazlı Eyaletler",
+        "Yurtluk",
+        "Ocaklık"
+      ],
+      "correctOption": "B",
+      "solution": "Salyane \"Yıllık Maaş\" demektir. Salyanesiz demek, memura maaş yok, toprak geliri var demektir."
+    },
+    {
+      "id": 6,
+      "text": "Divan-ı Hümayun’da eğitim ve adalet işlerinden sorumlu olan, Kadı ve Müderrislerin atamasını yapan divan üyesi kimdir?",
+      "options": [
+        "Nişancı",
+        "Defterdar",
+        "Kazasker (Kadıasker)",
+        "Şeyhülislam",
+        "Reisülküttab"
+      ],
+      "correctOption": "C",
+      "solution": "Günümüzün Adalet ve Milli Eğitim Bakanı gibidir."
+    },
+    {
+      "id": 7,
+      "text": "II. Mahmut döneminde Yeniçeri Ocağı’nın kaldırılılarak yerine Asakir-i Mansure-i Muhammediye ordusunun kurulması olayına (1826) ne ad verilir?",
+      "options": [
+        "Vaka-i Vakvakiye",
+        "Kuleli Olayı",
+        "Edirne Vakası",
+        "Babıali Baskını",
+        "Vaka-i Hayriye (Hayırlı Olay)"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti’nin Rusya ile imzaladığı ve Kırım’ın Rusya’ya ait olduğunu kabul ettiği antlaşma hangisidir?",
+      "options": [
+        "Küçük Kaynarca",
+        "Aynalıkavak",
+        "Yaş",
+        "Bükreş",
+        "Edirne"
+      ],
+      "correctOption": "C",
+      "solution": "1792 - Bu antlaşma ile Dağılma dönemi başlamıştır."
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti’nde Tımar sisteminin uygulandığı, vergilerin doğrudan asker beslemek için kullanıldığı ve merkeze yakın olan eyaletlere ne ad verilir?",
+      "options": [
+        "Salyaneli (Yıllıklı) Eyaletler",
+        "Salyanesiz (Yıllıksız) Eyaletler",
+        "İmtiyazlı Eyaletler",
+        "Yurtluk",
+        "Ocaklık"
+      ],
+      "correctOption": "B",
+      "solution": "Salyane \"Yıllık Maaş\" demektir. Salyanesiz demek, memura maaş yok, toprak geliri var demektir."
+    },
+    {
+      "id": 10,
+      "text": "II. Abdülhamit’in İstibdat döneminde devleti dağılmaktan kurtarmak için uyguladığı resmi devlet politikası (Fikir Akımı) hangisidir?",
+      "options": [
+        "Osmanlıcılık",
+        "Batıcılık",
+        "İslamcılık (Ümmetçilik)",
+        "Türkçülük",
+        "Turancılık"
+      ],
+      "correctOption": "C",
+      "solution": "Halifelik gücünü kullanarak Müslümanları bir arada tutma çabası."
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan belgelerin kronolojik sıralaması nasıldır?",
+      "options": [
+        "Tanzimat - Islahat - Sened-i İttifak - Kanun-i Esasi",
+        "Sened-i İttifak - Tanzimat - Islahat - Kanun-i Esasi",
+        "Kanun-i Esasi - Sened-i İttifak - Tanzimat - Islahat",
+        "Tanzimat - Sened-i İttifak - Islahat - Kanun-i Esasi",
+        "Sened-i İttifak - Kanun-i Esasi - Tanzimat - Islahat"
+      ],
+      "correctOption": "B",
+      "solution": "1808 - 1839 - 1856 - 1876"
+    },
+    {
+      "id": 12,
+      "text": "Uşi Antlaşması’na göre; \"Trablusgarp ve Bingazi İtalya’ya bırakılacak, ancak bölge halkı dini bakımdan Osmanlı Halifesine bağlı kalacaktır.\" Bu maddenin amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Bölge ile kültürel ve dini bağları devam ettirmek",
+        "İtalya ile diplomatik ilişkileri kesmek",
+        "Halifeliği kaldırmak",
+        "Bölgeyi özerk hale getirmek",
+        "İngiltere’den yardım istemek"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "I. Dünya Savaşı sırasında İtilaf Devletleri’nin Osmanlı topraklarını kendi aralarında paylaştıkları antlaşmalara ne ad verilir?",
+      "options": [
+        "Barış Antlaşmaları",
+        "Gizli Antlaşmalar",
+        "Ateşkes Antlaşmaları",
+        "İttifak Antlaşmaları",
+        "Ticaret Antlaşmaları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Erzurum Kongresi’nde oluşturulan ve başkanlığını Mustafa Kemal’in yaptığı, TBMM açılana kadar geçici hükümet gibi çalışan kurulun adı nedir?",
+      "options": [
+        "Heyet-i Nasiha",
+        "Saltanat Şurası",
+        "İcra Vekilleri Heyeti",
+        "Temsil Heyeti (Heyet-i Temsiliye)",
+        "Felah-ı Vatan Grubu"
+      ],
+      "correctOption": "D",
+      "solution": "Erzurum'da kuruldu, Sivas'ta yetkisi tüm yurdu kapsadı, TBMM açılınca görevi bitti."
+    },
+    {
+      "id": 15,
+      "text": "Manda ve Himaye (başka bir devletin koruyuculuğu) fikri ilk kez nerede reddedilmiştir?",
+      "options": [
+        "Lozan",
+        "Erzurum Kongresi",
+        "TBMM",
+        "Amasya Genelgesi",
+        "Sivas Kongresi"
+      ],
+      "correctOption": "B",
+      "solution": "\"Manda ve himaye kabul edilemez.\" - Kesin olarak reddedildiği yer ise Sivas Kongresi'dir."
+    },
+    {
+      "id": 16,
+      "text": "Doğu Cephesi’nde Ermenilere karşı mücadele eden 15. Kolordu’nun komutanı kimdir?",
+      "options": [
+        "İsmet İnönü",
+        "Ali Fuat Cebesoy",
+        "Kazım Karabekir",
+        "Refet Bele",
+        "Fevzi Çakmak"
+      ],
+      "correctOption": "C",
+      "solution": "İstiklal Harbimizin Şark Fatihi"
+    },
+    {
+      "id": 17,
+      "text": "Mustafa Kemal’in Başkomutan sıfatıyla, ordunun ihtiyaçlarını halktan karşılamak için çıkardığı emirlere ne ad verilir?",
+      "options": [
+        "Teşkilat-ı Esasiye",
+        "Hıyanet-i Vataniye",
+        "İskan Kanunu",
+        "Tekalif-i Milliye Emirleri",
+        "Takrir-i Sükun"
+      ],
+      "correctOption": "D",
+      "solution": "Milli Yükümlülükler."
+    },
+    {
+      "id": 18,
+      "text": "Lozan Antlaşması’nda Türkiye’nin savaş tazminatı olarak Yunanistan’dan aldığı yer neresidir?",
+      "options": [
+        "Batı Trakya",
+        "Selanik",
+        "Karaağaç",
+        "Girit",
+        "Midilli"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Türkiye Cumhuriyeti’nin ilk açılan yükseköğretim kurumu (fakültesi) hangisidir?",
+      "options": [
+        "Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi",
+        "İstanbul Üniversitesi",
+        "Ankara Hukuk Mektebi",
+        "Gazi Eğitim Enstitüsü",
+        "Yüksek Ziraat Enstitüsü"
+      ],
+      "correctOption": "C",
+      "solution": "1925 yılında, hukuk devrimini yapacak savcı ve hakim yetiştirmek için açılmıştır."
+    },
+    {
+      "id": 20,
+      "text": "Atatürk’ün \"Hayatta en hakiki mürşit ilimdir, fendir\" sözü, aşağıdaki ilkelerden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Halkçılık",
+        "Laiklik",
+        "Milliyetçilik",
+        "Devletçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctOption": "B",
+      "solution": "Akıl ve bilimi esas aldığı için Laiklik. Aynı zamanda İnkılapçılıkla da ilgilidir."
+    },
+    {
+      "id": 21,
+      "text": "3 Mart 1924 tarihinde yapılan inkılaplar arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Tevhid-i Tedrisat Kanunu'nun kabulü",
+        "Erkan-ı Harbiye Vekaleti'nin kaldırılması",
+        "Halifeliğin kaldırılması",
+        "Tekke, Zaviye ve Türbelerin kapatılması",
+        "Şeriye ve Evkaf Vekaleti'nin kaldırılması"
+      ],
+      "correctOption": "D",
+      "solution": "Tekke ve Zaviyelerin kapatılması 1925 yılındadır."
+    },
+    {
+      "id": 22,
+      "text": "Atatürk'ün sağlığında gerçekleşen ancak sonucunu (Türkiye'ye katıldığını) göremediği dış politika olayı hangisidir?",
+      "options": [
+        "Montrö",
+        "Sadabat Paktı",
+        "Hatay'ın Anavatana Katılması",
+        "Balkan Antantı",
+        "Milletler Cemiyeti üyeliği"
+      ],
+      "correctOption": "C",
+      "solution": "Bağımsız Hatay Cumhuriyeti'ni görmüş, ancak ilhakı görememiştir."
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne girişi (1932) hangi sorunun çözümünden sonra gerçekleşmiştir?",
+      "options": [
+        "Musul",
+        "Kıbrıs",
+        "Boğazlar",
+        "Nüfus Mübadelesi (ve genel olarak Yunanistan ile barış)",
+        "Hatay"
+      ],
+      "correctOption": "D",
+      "solution": "Yunanistan ile barış sağlanınca, Yunanistan Türkiye'nin üyeliğini desteklemiştir."
+    },
+    {
+      "id": 24,
+      "text": "Balkan Antantı'nın imzalanmasında en büyük tehdit olarak görülen devletler hangileridir?",
+      "options": [
+        "Rusya - ABD",
+        "İngiltere - Fransa",
+        "Yunanistan - Bulgaristan",
+        "Almanya - İtalya",
+        "İspanya - Portekiz"
+      ],
+      "correctOption": "D",
+      "solution": "Revizyonist / Yayılmacı devletler."
+    },
+    {
+      "id": 25,
+      "text": "ABD Başkanı Harry Truman'ın, Sovyet tehdidi altındaki ülkelere (özellikle Türkiye ve Yunanistan'a) askeri ve ekonomik yardım yapılmasını öngören ve Soğuk Savaş'ın fiilen başlangıcı sayılan doktrini hangisidir?",
+      "options": [
+        "Eisenhower Doktrini",
+        "Monroe Doktrini",
+        "Truman Doktrini",
+        "Carter Doktrini",
+        "Nixon Doktrini"
+      ],
+      "correctOption": "C",
+      "solution": "(1947 - Komünizmin yayılmasını engellemek için.)"
+    },
+    {
+      "id": 26,
+      "text": "II. Dünya Savaşı sırasında İngiltere Başbakanı olan ve \"Demir Perde\" tabirini kullanarak Soğuk Savaş'ın sinyalini veren lider kimdir?",
+      "options": [
+        "Chamberlain",
+        "Winston Churchill",
+        "Tony Blair",
+        "Thatcher",
+        "Clement Attlee"
+      ],
+      "correctOption": "B",
+      "solution": "Savaşın başında Chamberlain vardı, sonra efsanevi lider Churchill geldi, savaşın sonunda seçimle Attlee geldi."
+    },
+    {
+      "id": 27,
+      "text": "1949 yılında ABD öncülüğünde kurulan ve \"Bir üyeye yapılan saldırı hepsine yapılmış sayılır\" ilkesine dayanan Batı Bloğu askeri ittifakı hangisidir?",
+      "options": [
+        "Avrupa Konseyi",
+        "CENTO",
+        "NATO (Kuzey Atlantik Paktı)",
+        "Birleşmiş Milletler",
+        "SEATO"
+      ],
+      "correctOption": "C",
+      "solution": "(Türkiye 1952'de üye olmuştur.)"
+    }
+  ]
+}

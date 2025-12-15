@@ -1,0 +1,86 @@
+{
+  "konu_adi": "13- OSMANLIDA HUKUK VE TOPLUMSAL YAPI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLIDA HUKUK VE TOPLUMSAL YAPI"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚖️ Osmanlı Hukuk Sistemi"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Hukukun Kaynakları ve Türleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Şer'i Hukuk (İslam Hukuku): Kuran, Sünnet gibi dini kaynaklara dayanır. Aile, miras gibi kişisel hukuku düzenlerdi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Örfi Hukuk (Geleneksel Hukuk): Türk gelenekleri, fermanlar ve Kanunnamelere dayanır. Yönetim, idari işler ve askeri konuları düzenlerdi (Kanunname-i Âli Osman)."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Adalet Teşkilatı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kadılar: Hukuku uygulamak, yargılama yapmak, noterlik ve belediye işlerini yürütmekle görevliydi. Kazasker tarafından atanır ve denetlenirdi.",
+        "Şeyhülislam: Alınan kararların dine uygunluğunu denetler ve Fetva verirdi.",
+        "Kadı Sicilleri: Kadıların verdikleri kararların ve işlemlerin kaydedildiği defterlerdir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👥 Osmanlı Toplumsal Yapısı"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Toplumun Temeli: Millet Sistemi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Halk, etnik kökenden bağımsız olarak dini inançlara göre organize edilmiştir (Müslümanlar, Hristiyanlar, Yahudiler).",
+        "Amaç: Farklı inanç gruplarının kendi iç işlerinde serbest olmalarını sağlayarak toplumsal barışı korumaktır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Sosyal Sınıflar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Yönetenler (Askerî): Vergi ödemeyen, devlet görevlisi olan gruptur (Seyfiye, İlmiye, Kalemiye)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Yönetilenler (Reaya): Yönetici sınıfın dışında kalan, üretimi sağlayan ve vergi ödeyen halktır (Şehirli, Köylü, Göçebe)."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Külliyeler ve Vakıf Sistemi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Vakıf Sistemi: Cami, medrese, hastane gibi sosyal ve dini kurumları finanse etmek amacıyla kurulmuştur.",
+        "Önemi: Sosyal devlet anlayışının temelidir; eğitim, sağlık ve yardımlaşma hizmetlerinin sürekliliğini sağlamıştır.",
+        "Külliyeler: Bir cami etrafında toplanan ve Osmanlı şehir mimarisinin merkezini oluşturan sosyal yapılardır."
+      ]
+    }
+  ]
+}

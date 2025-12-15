@@ -1,0 +1,92 @@
+{
+  "konu_adi": "16- OSMANLIDA ÜLKE YÖNETİMİ, TAŞRA YÖNETİMİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLIDA ÜLKE YÖNETİMİ, TAŞRA YÖNETİMİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👑 Merkez Yönetimi: Padişah ve Saray"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Padişah ve Veraset Sistemi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Padişahın Otoritesi: Devletin mutlak egemenidir, gücünü İlahi ve Örfi hukuktan alırdı.",
+        "Kanunname-i Âli Osman: Fatih Sultan Mehmet döneminde yayımlanmış, kardeş katlini devletin bekası için yasal hale getirmiştir.",
+        "Veraset Sistemi: I. Ahmet döneminde Ekber ve Erşed sistemi getirilmiştir.",
+        "Şehzade Eğitimi: Şehzadeler, Lala denilen eğitmenler eşliğinde Sancaklara gönderilirdi."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Divan-ı Hümayun"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İşlevi: Devletin en yüksek yönetim ve yargı organıdır.",
+        "Başkanlık: Fatih'ten itibaren Sadrazam başkanlık etmeye başlamıştır.",
+        "Divan Üyeleri (Seyfiye/İlmiye/Kalemiye): Sadrazam, Vezirler, Kaptan-ı Derya, Kazasker, Defterdar, Nişancı gibi üyelerden oluşur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🗺️ Taşra (Eyalet) Yönetimi"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Eyaletlerin Sınıflandırılması"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Salyaneli (Yıllıklı) Eyaletler: Gelirleri doğrudan merkez hazinesine aktarılırdı (Mısır, Bağdat). İltizam sistemi uygulanırdı."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Salyanesiz (Yıllıksız) Eyaletler: Gelirleri Tımar (İkta) Sistemi ile askere ayrılırdı (Anadolu, Rumeli). Ordunun ana kaynağını oluştururdu."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Özel Yönetimli (Ayrıcalıklı) Eyaletler: İç işlerinde serbest, dış işlerinde merkeze bağlıdır (Kırım, Hicaz)."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. İkta (Dirlik) Sistemi ve Önemi"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "İkta, devlet arazisinin gelirlerinin, belirli bir hizmet karşılığında (asker yetiştirme, memurluk maaşı) kişilere tahsis edilmesidir."
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Faydası: Hazineye yük olmadan asker ve memur maaşları karşılanır.",
+        "Faydası: Üretim ve düzenli vergi toplanması sağlanır.",
+        "Faydası: Hazır ve masrafsız bir ordu (Tımarlı Sipahi) elde edilir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Taşra Yönetim Birimleri (Büyükten Küçüğe)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Eyalet (Beylerbeyi)",
+        "Sancak (Sancak Beyi)",
+        "Kaza (Kadı ve Subaşı)",
+        "Köy (Köy Kethüdası ve Tımarlı Sipahi)"
+      ]
+    }
+  ]
+}

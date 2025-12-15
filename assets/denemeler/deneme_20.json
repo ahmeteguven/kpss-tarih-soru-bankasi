@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 20",
+  "examCode": "deneme_20",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 20)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı nedeniyle toplumsal sınıf ayrımı (kölelik) görülmemiştir. Uygurlar, Budizm ve Maniheizm dinlerinin etkisiyle yerleşik hayata geçen ilk Türk devletidir. Karahanlılar, Orta Asya'da kurulan ilk Müslüman Türk devletidir ve ilk Burslu Öğrencilik Sistemi'ni uygulamışlardır. Anadolu Selçuklu Devleti'nde ticareti geliştirmek için sigorta sistemi uygulanmış, kervansaraylar inşa edilmiştir.\n\n**Osmanlı ve Islahatlar:** Yıldırım Bayezid, İstanbul'u kuşatan ilk Osmanlı padişahıdır. Yavuz Sultan Selim'in Mısır Seferi ile Halifelik Osmanlı'ya geçmiş ve devletin teokratik gücü artmıştır. II. Mahmut döneminde (1838) Balta Limanı Ticaret Antlaşması ile Osmanlı, İngiltere'nin açık pazarı haline gelmiştir. Tanzimat Fermanı'nın ilanında 'Osmanlıcılık' fikri etkili olmuştur.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, bölgesel amaçlı, düzensiz birliklerdir. Amasya Genelgesi, Milli Mücadele'nin gerekçesini 'Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir' maddesiyle açıklamıştır. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiştir. Medeni Kanun, İsviçre'den alınmıştır. Hatay, Atatürk'ün 'Şahsi Meselem' dediği topraktır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Tarihte bilinen ilk Türk devleti olan Asya Hun Devleti'nin kurucusu aşağıdakilerden hangisidir?",
+      "options": [
+        "Mete Han",
+        "Ki-ok",
+        "Balamir",
+        "Çi-çi",
+        "Teoman"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde \"sosyal devlet\" anlayışının varlığına kanıt olarak gösterilebilir?",
+      "options": [
+        "Hükümdarın töreye uymak zorunda olması",
+        "Kurultay'da boy beylerinin söz hakkının olması",
+        "Hükümdarın açları doyurup, çıplakları giydirmesi",
+        "Ülkenin Doğu-Batı olarak yönetilmesi",
+        "Ordunun onlu sisteme göre düzenlenmesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Türk-İslam Edebiyatı'nın ilk yazılı eseri kabul edilen ve \"Mutluluk Veren Bilgi\" anlamına gelen eser hangisidir?",
+      "options": [
+        "Divan-ı Hikmet",
+        "Kutadgu Bilig",
+        "Atabetü'l Hakayık",
+        "Siyasetname",
+        "Şehname"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti’nde, esnaf ve zanaatkarların oluşturduğu, hem mesleki eğitim veren hem de ahlaki kuralları (fütüvvet) öğreten teşkilatın adı nedir?",
+      "options": [
+        "Ahilik",
+        "Lonca",
+        "Enderun",
+        "Narh",
+        "Gedik"
+      ],
+      "correctOption": "A",
+      "solution": "Lonca Osmanlı'daki adıdır, Selçuklu'da Ahilik denir. Ahilikte gayrimüslimler yoktur, Lonca'da vardır."
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nde Tımar sisteminin uygulandığı, vergilerin doğrudan asker beslemek için kullanıldığı ve merkeze yakın olan eyaletlere ne ad verilir?",
+      "options": [
+        "Salyaneli (Yıllıklı) Eyaletler",
+        "Salyanesiz (Yıllıksız) Eyaletler",
+        "İmtiyazlı Eyaletler",
+        "Yurtluk",
+        "Ocaklık"
+      ],
+      "correctOption": "B",
+      "solution": "Salyane \"Yıllık Maaş\" demektir. Salyanesiz demek, memura maaş yok, toprak geliri var demektir."
+    },
+    {
+      "id": 6,
+      "text": "Kanuni Sultan Süleyman’ın Hint Okyanusu’ndaki faaliyetlerini engellemek ve Müslüman tüccarlara yardım etmek amacıyla Hint Deniz Seferlerini düzenlemiştir. Bu seferlerin başarısız olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Portekiz donanmasının çok zayıf olması",
+        "Hint Müslümanlarının Osmanlı’ya ihanet etmesi",
+        "Seferlerin çok kısa sürmesi",
+        "Osmanlı donanmasının okyanus şartlarına uygun olmaması (Kadırgaların dayanıksızlığı)",
+        "Komutanların yetersizliği"
+      ],
+      "correctOption": "D",
+      "solution": "İç deniz -Akdeniz- gemileri okyanus dalgalarına dayanamamıştır."
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan ilk belge (Sened-i İttifak) ile halkın yönetime katıldığı ilk belge (Kanun-i Esasi) sırasıyla hangi padişahlar döneminde gerçekleşmiştir?",
+      "options": [
+        "III. Selim - II. Abdülhamit",
+        "II. Mahmut - Abdülmecit",
+        "II. Mahmut - II. Abdülhamit",
+        "Abdülmecit - V. Mehmet Reşat",
+        "Abdülaziz - II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": "Sened-i İttifak 1808 (II. Mahmut), Kanun-i Esasi 1876 (II. Abdülhamit)."
+    },
+    {
+      "id": 8,
+      "text": "II. Abdülhamit’in İstibdat döneminde devleti dağılmaktan kurtarmak için uyguladığı resmi devlet politikası (Fikir Akımı) hangisidir?",
+      "options": [
+        "Osmanlıcılık",
+        "Batıcılık",
+        "İslamcılık (Ümmetçilik)",
+        "Türkçülük",
+        "Turancılık"
+      ],
+      "correctOption": "C",
+      "solution": "Halifelik gücünü kullanarak Müslümanları bir arada tutma çabası."
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti’nde Tımar sisteminin uygulandığı, vergilerin doğrudan asker beslemek için kullanıldığı ve merkeze yakın olan eyaletlere ne ad verilir?",
+      "options": [
+        "Salyaneli (Yıllıklı) Eyaletler",
+        "Salyanesiz (Yıllıksız) Eyaletler",
+        "İmtiyazlı Eyaletler",
+        "Yurtluk",
+        "Ocaklık"
+      ],
+      "correctOption": "B",
+      "solution": "Salyane \"Yıllık Maaş\" demektir. Salyanesiz demek, memura maaş yok, toprak geliri var demektir."
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti’nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+      "options": [
+        "Dil birliği",
+        "Irk birliği",
+        "Din ve mezhep birliği",
+        "Toprak bütünlüğü",
+        "Ekonomik işbirliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan belgelerin kronolojik sıralaması nasıldır?",
+      "options": [
+        "Tanzimat - Islahat - Sened-i İttifak - Kanun-i Esasi",
+        "Sened-i İttifak - Tanzimat - Islahat - Kanun-i Esasi",
+        "Kanun-i Esasi - Sened-i İttifak - Tanzimat - Islahat",
+        "Tanzimat - Sened-i İttifak - Islahat - Kanun-i Esasi",
+        "Sened-i İttifak - Kanun-i Esasi - Tanzimat - Islahat"
+      ],
+      "correctOption": "B",
+      "solution": "1808 - 1839 - 1856 - 1876"
+    },
+    {
+      "id": 12,
+      "text": "II. Balkan Savaşı sonunda Osmanlı Devleti ile Bulgaristan arasında imzalanan ve bugünkü Türkiye-Bulgaristan sınırını büyük ölçüde belirleyen antlaşma hangisidir?",
+      "options": [
+        "Atina Antlaşması",
+        "Londra Antlaşması",
+        "İstanbul Antlaşması (1913)",
+        "Bükreş Antlaşması",
+        "Uşi Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Babıali Baskını (1913) ile devrilen hükümet (Sadrazam) aşağıdakilerden hangisidir?",
+      "options": [
+        "Mahmut Şevket Paşa",
+        "Talat Paşa",
+        "Kamil Paşa",
+        "Said Halim Paşa",
+        "Ahmet İzzet Paşa"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Manda ve Himaye (başka bir devletin koruyuculuğu) fikri ilk kez nerede reddedilmiştir?",
+      "options": [
+        "Lozan",
+        "Erzurum Kongresi",
+        "TBMM",
+        "Amasya Genelgesi",
+        "Sivas Kongresi"
+      ],
+      "correctOption": "B",
+      "solution": "\"Manda ve himaye kabul edilemez.\" - Kesin olarak reddedildiği yer ise Sivas Kongresi'dir."
+    },
+    {
+      "id": 15,
+      "text": "Erzurum Kongresi’nde oluşturulan ve başkanlığını Mustafa Kemal’in yaptığı, TBMM açılana kadar geçici hükümet gibi çalışan kurulun adı nedir?",
+      "options": [
+        "Heyet-i Nasiha",
+        "Saltanat Şurası",
+        "İcra Vekilleri Heyeti",
+        "Temsil Heyeti (Heyet-i Temsiliye)",
+        "Felah-ı Vatan Grubu"
+      ],
+      "correctOption": "D",
+      "solution": "Erzurum'da kuruldu, Sivas'ta yetkisi tüm yurdu kapsadı, TBMM açılınca görevi bitti."
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı’nda TBMM’nin açtığı ilk cephe ve kazandığı ilk askeri başarı aşağıdakilerden hangisidir?",
+      "options": [
+        "Batı Cephesi - I. İnönü",
+        "Güney Cephesi - Maraş Savunması",
+        "Doğu Cephesi - Ermenilere karşı zafer",
+        "Irak Cephesi - Kut'ül Amare",
+        "Galiçya Cephesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Kurtuluş Savaşı’nda çok sayıda subayın şehit olması nedeniyle \"Subaylar Savaşı\" olarak da bilinen savaş hangisidir?",
+      "options": [
+        "I. İnönü",
+        "Kütahya-Eskişehir",
+        "Büyük Taarruz",
+        "Sakarya Meydan Muharebesi",
+        "Başkomutanlık Meydan Muharebesi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Antlaşması’nda Türkiye’nin savaş tazminatı olarak Yunanistan’dan aldığı yer neresidir?",
+      "options": [
+        "Batı Trakya",
+        "Selanik",
+        "Karaağaç",
+        "Girit",
+        "Midilli"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Türkiye Cumhuriyeti’nin ilk açılan yükseköğretim kurumu (fakültesi) hangisidir?",
+      "options": [
+        "Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi",
+        "İstanbul Üniversitesi",
+        "Ankara Hukuk Mektebi",
+        "Gazi Eğitim Enstitüsü",
+        "Yüksek Ziraat Enstitüsü"
+      ],
+      "correctOption": "C",
+      "solution": "1925 yılında, hukuk devrimini yapacak savcı ve hakim yetiştirmek için açılmıştır."
+    },
+    {
+      "id": 20,
+      "text": "1924 Anayasası'nda 1928 yılında yapılan değişiklikle anayasadan çıkarılan madde hangisidir?",
+      "options": [
+        "\"Devletin dini İslam'dır.\"",
+        "\"Türkçe resmi dildir.\"",
+        "\"Türkiye Devleti bir Cumhuriyettir.\"",
+        "\"Başkent Ankara'dır.\"",
+        "\"Egemenlik kayıtsız şartsız milletindir.\""
+      ],
+      "correctOption": "A",
+      "solution": "Laikleşme yolunda atılan önemli bir adımdır."
+    },
+    {
+      "id": 21,
+      "text": "\"Milli egemenlik, seçim, meclis, parti, çok partili hayat, kadınlara seçme hakkı\" gibi kavramlar doğrudan hangi Atatürk ilkesi ile ilgilidir?",
+      "options": [
+        "Laiklik",
+        "Halkçılık",
+        "Devletçilik",
+        "Milliyetçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctOption": "E",
+      "solution": "Yönetim ve siyasetle ilgili her şey Cumhuriyetçiliktir."
+    },
+    {
+      "id": 22,
+      "text": "Atatürk'ün sağlığında gerçekleşen ancak sonucunu (Türkiye'ye katıldığını) göremediği dış politika olayı hangisidir?",
+      "options": [
+        "Montrö",
+        "Sadabat Paktı",
+        "Hatay'ın Anavatana Katılması",
+        "Balkan Antantı",
+        "Milletler Cemiyeti üyeliği"
+      ],
+      "correctOption": "C",
+      "solution": "Bağımsız Hatay Cumhuriyeti'ni görmüş, ancak ilhakı görememiştir."
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne girişi (1932) hangi sorunun çözümünden sonra gerçekleşmiştir?",
+      "options": [
+        "Musul",
+        "Kıbrıs",
+        "Boğazlar",
+        "Nüfus Mübadelesi (ve genel olarak Yunanistan ile barış)",
+        "Hatay"
+      ],
+      "correctOption": "D",
+      "solution": "Yunanistan ile barış sağlanınca, Yunanistan Türkiye'nin üyeliğini desteklemiştir."
+    },
+    {
+      "id": 24,
+      "text": "Balkan Antantı'nın imzalanmasında en büyük tehdit olarak görülen devletler hangileridir?",
+      "options": [
+        "Rusya - ABD",
+        "İngiltere - Fransa",
+        "Yunanistan - Bulgaristan",
+        "Almanya - İtalya",
+        "İspanya - Portekiz"
+      ],
+      "correctOption": "D",
+      "solution": "Revizyonist / Yayılmacı devletler."
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sırasında İngiltere Başbakanı olan ve \"Demir Perde\" tabirini kullanarak Soğuk Savaş'ın sinyalini veren lider kimdir?",
+      "options": [
+        "Chamberlain",
+        "Winston Churchill",
+        "Tony Blair",
+        "Thatcher",
+        "Clement Attlee"
+      ],
+      "correctOption": "B",
+      "solution": "Savaşın başında Chamberlain vardı, sonra efsanevi lider Churchill geldi, savaşın sonunda seçimle Attlee geldi."
+    },
+    {
+      "id": 26,
+      "text": "ABD Başkanı Harry Truman'ın, Sovyet tehdidi altındaki ülkelere (özellikle Türkiye ve Yunanistan'a) askeri ve ekonomik yardım yapılmasını öngören ve Soğuk Savaş'ın fiilen başlangıcı sayılan doktrini hangisidir?",
+      "options": [
+        "Eisenhower Doktrini",
+        "Monroe Doktrini",
+        "Truman Doktrini",
+        "Carter Doktrini",
+        "Nixon Doktrini"
+      ],
+      "correctOption": "C",
+      "solution": "(1947 - Komünizmin yayılmasını engellemek için.)"
+    },
+    {
+      "id": 27,
+      "text": "1949 yılında ABD öncülüğünde kurulan ve \"Bir üyeye yapılan saldırı hepsine yapılmış sayılır\" ilkesine dayanan Batı Bloğu askeri ittifakı hangisidir?",
+      "options": [
+        "Avrupa Konseyi",
+        "CENTO",
+        "NATO (Kuzey Atlantik Paktı)",
+        "Birleşmiş Milletler",
+        "SEATO"
+      ],
+      "correctOption": "C",
+      "solution": "(Türkiye 1952'de üye olmuştur.)"
+    }
+  ]
+}

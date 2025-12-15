@@ -1,0 +1,79 @@
+{
+  "konu_adi": "40- AMASYA GENELGESİNİN ÖNEMİ VE MADDELERİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "AMASYA GENELGESİ (22 Haziran 1919)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📢 Genelgenin İlanı ve Nitelikleri"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Amasya Genelgesi, Milli Mücadele'nin temel prensiplerini ve stratejisini belirlemek amacıyla ilan edilmiş, bireysel olmaktan çıkıp güçlü komutanların ortak kararına dayandığını göstermiştir."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Hazırlayanlar ve Onaylayanlar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hazırlayanlar: Mustafa Kemal Paşa, Rauf Orbay, Ali Fuat Cebesoy ve Refet Bele.",
+        "Onaylayanlar: Telgrafla Kazım Karabekir ve Cemal Paşa'nın da onayı alınmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Genelgenin Maddeleri (Amaç, Gerekçe, Yöntem)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Mücadelenin Gerekçesi (Nedenleri)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "\"Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir.\" (Mondros sonrası işgallerin tehlikesi vurgulanmıştır).",
+        "\"İstanbul Hükümeti, üzerine aldığı sorumluluğun gereğini yerine getirememektedir...\" (İstanbul Hükümeti'ne karşı çıkılmasının gerekliliği belirtilmiştir)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Mücadelenin Amacı ve Yöntemi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "\"Milletin bağımsızlığını, yine milletin azim ve kararı kurtaracaktır.\" (Ana Fikir). Bu ifade, hem yöntemi (milletin kararı) hem de amacı (bağımsızlık) belirtir ve ulusal egemenliğe dayalı yönetim kurulacağının ilk işaretidir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Mücadelenin Hazırlık Çağrıları (Kararları)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "\"Her türlü etki ve denetimden uzak ulusal bir kurulun (Temsil Heyeti) varlığı gereklidir.\" (Yetkili bir yürütme organı kurulması fikri ilk kez dile getirilmiştir).",
+        "\"Anadolu'nun en güvenli yeri olan Sivas'ta ulusal bir kongre toplanmalıdır.\" (Mücadelenin halkın temsilcileri tarafından yürütüleceği belirtilmiştir)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Amasya Genelgesi'nin Tarihi Önemi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Nitelik: Ulusal egemenliğe dayalı yönetime geçileceğinin ilk kez üstü kapalı da olsa belirtildiği bir ihtilal bildirisi niteliğindedir.",
+        "Belirleyicilik: Kurtuluş Savaşı'nın amacını, gerekçesini ve yöntemini ilk kez toplu ve yazılı olarak belirten belgedir.",
+        "Siyasi Sonuç: Bu genelgeden sonra Mustafa Kemal, askerlikten istifa ederek (sine-i millete dönerek) sivil bir lider olarak mücadeleye devam etmiştir."
+      ]
+    }
+  ]
+}

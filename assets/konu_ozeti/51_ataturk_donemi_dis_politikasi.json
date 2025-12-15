@@ -1,0 +1,86 @@
+{
+  "konu_adi": "51- ATATÜRK DÖNEMİ TÜRK DIŞ POLİTİKASI (1923-1938)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ATATÜRK DÖNEMİ TÜRK DIŞ POLİTİKASI"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Dış Politikanın Temel İlkeleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yurtta Sulh, Cihanda Sulh: Barışçıl ve dengeci yaklaşım.",
+        "Tam Bağımsızlık: Siyasi ve ekonomik bağımsızlıktan taviz verilmemesi.",
+        "Akılcılık ve Gerçekçilik: Hayalperest (Turancılık gibi) politikalardan uzak durulması."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Lozan'dan Kalan Sorunların Çözümü (1923-1930)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Musul Sorunu (Irak Sınırı)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Durum: Lozan'da çözülememiş, İngiltere ile ikili görüşmelere bırakılmıştır.",
+        "Çözüm: Şeyh Said İsyanı nedeniyle içerde zayıf düşen Türkiye, Milletler Cemiyeti kararıyla Musul'un Irak'a ait olduğunu kabul etmiştir.",
+        "Ankara Antlaşması (1926): Musul petrollerinin gelirinden 25 yıl süreyle %10 pay alınması karşılığında Musul'dan vazgeçilmiştir. (Misak-ı Milli'den verilen en önemli ve son taviz.)"
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Yabancı Okullar ve Dış Borçlar Sorunları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yabancı Okullar: Türkiye, bu okulların tamamen Türk yasalarına uyması zorunluluğunu getirmiştir. (Egemenlik haklarından taviz verilmemiştir.)",
+        "Dış Borçlar: 1933 Paris Sözleşmesi ile borçların ödeme planı Türkiye lehine düzenlenmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ Barış ve Güvenlik Arayışları (1930-1938)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Uluslararası Örgütlenmeler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Milletler Cemiyeti'ne Giriş (1932): Dünya barışına katkıda bulunmak ve uluslararası alanda söz sahibi olmak amacıyla üye olunmuştur.",
+        "Balkan Antantı (1934): Batı sınırlarını güvence altına almak için Türkiye, Yunanistan, Yugoslavya ve Romanya arasında imzalanmıştır.",
+        "Sadabat Paktı (1937): Doğu sınırlarını güvence altına almak için Türkiye, İran, Irak ve Afganistan arasında imzalanmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Boğazlar Sorununun Çözümü (Montrö)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Neden: Almanya ve İtalya'nın silahlanma politikası karşısında Boğazlar'daki güvenliğin tehlikeye girmesi.",
+        "Montrö Boğazlar Sözleşmesi (1936): Boğazlar Komisyonu kaldırılmış, yönetimi ve güvenliği tamamen Türkiye'ye bırakılmıştır. (Misak-ı Milli'ye uygun olarak, Boğazlar üzerinde tam egemenlik sağlanmıştır.)"
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Hatay'ın Anavatana Katılması"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Süreç: Fransa'nın Suriye'den çekilmesi üzerine Hatay'ın bağımsız bir devlet (Hatay Cumhuriyeti) kurması.",
+        "Anavatana Katılım (1939): Hatay Cumhuriyeti Meclisi'nin kararıyla Türkiye Cumhuriyeti'ne katılmıştır. (Misak-ı Milli'nin son başarısıdır.)"
+      ]
+    }
+  ]
+}

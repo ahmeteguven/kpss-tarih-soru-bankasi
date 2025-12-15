@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 47",
+  "examCode": "deneme_47",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 45)\n\n**İlk Çağdan Günümüze:** Celali Takvim, Melikşah adına Ömer Hayyam tarafından hazırlanmıştır. 'Terken', hükümdar eşidir, meclis adı değildir. Harzemşahlar kendilerini Büyük Selçuklu'nun mirasçısı görür. Çaka Bey ilk Türk denizcisidir.\n\n**Osmanlı ve Islahatlar:** Pençik sistemi I. Murat döneminde uygulanmıştır. Yönetenler sınıfına 'Beraya' denir ve vergi vermezler. Prut Antlaşması (1711) kaybedilen toprakların geri alınma umudunu doğurmuştur. Anadolu isyanlarına 'Celali İsyanları' denir. Düyun-u Umumiye 1881'de kurulmuştur. III. Selim dönemi ıslahatlarına 'Nizam-ı Cedid' denir.\n\n**Milli Mücadele ve Cumhuriyet:** Goben ve Breslau, Yavuz ve Midilli adını almıştır. Pontus Rum Cemiyeti, Doğu Karadeniz'de Rum devleti kurmayı amaçlar. Bilecik Görüşmesi, İstanbul Hükümeti ile ilk temastır. Tekalif-i Milliye, Kütahya-Eskişehir yenilgisinden sonra, Sakarya'dan önce çıkarılmıştır. Gediz Taarruzu'nun başarısızlığı düzenli orduya geçişi hızlandırmıştır. İstiklal Marşı I. İnönü'den sonra kabul edilmiştir. 1928'de 'Devletin dini İslam'dır' maddesinin çıkarılması Laiklik yolunda en büyük adımdır. Halkevleri'nin yayın organı 'Ülkü' dergisidir.\n\n**Çağdaş Dünya:** 1973 Petrol Krizi'ne OPEC neden olmuştur. I. Körfez Savaşı Irak'ın Kuveyt'i işgaliyle başlamıştır. Avrupa Birliği'ni kuran antlaşma Maastricht Antlaşması'dır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türklerin kullandığı takvimler arasında, güneş yılı esasına dayanan ve Türklerin İslamiyet'i kabulünden sonra hem mali işleri düzenlemek hem de tarım sezonunu takip etmek amacıyla Büyük Selçuklu Sultanı Melikşah adına Ömer Hayyam başkanlığındaki bir heyete hazırlatılan takvim hangisidir?",
+      "options": [
+        "12 Hayvanlı Türk Takvimi",
+        "Hicri Takvim",
+        "Celali Takvim",
+        "Rumi Takvim",
+        "Miladi Takvim"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde, kağanın başkanlık ettiği, devlet işlerinin görüşülüp karara bağlandığı ve aynı zamanda bir danışma meclisi niteliği taşıyan kuruma verilen isimlerden biri değildir?",
+      "options": [
+        "Toy",
+        "Kengeş",
+        "Kurultay",
+        "Terken",
+        "Meclis"
+      ],
+      "correctOption": "D",
+      "solution": "Terken, hükümdarın eşine (kraliçe) verilen unvandır."
+    },
+    {
+      "id": 3,
+      "text": "Kendilerini Büyük Selçuklu Devleti'nin mirasçısı olarak gören ve 1230 Yassıçemen Savaşı'nda Anadolu Selçuklu Devleti'ne yenilerek yıkılış sürecine giren Türk-İslam devleti hangisidir?",
+      "options": [
+        "Gazneliler",
+        "Harzemşahlar",
+        "Karakoyunlular",
+        "Akkoyunlular",
+        "Timurlular"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "1081 yılında İzmir'de ilk Türk donanmasını kurarak \"İlk Türk Denizcisi\" unvanını alan ve İstanbul'u denizden kuşatmayı planlayan Türk beyi kimdir?",
+      "options": [
+        "Umur Bey",
+        "Çaka Bey",
+        "Aydınoğlu Gazi Bey",
+        "Karamürsel Alp",
+        "Barbaros Hayrettin"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde I. Murat döneminde kurulan ve savaşlarda elde edilen esirlerin beşte birinin asker olarak alınması esasına dayanan sistemin adı nedir?",
+      "options": [
+        "Pençik Sistemi",
+        "Tımar Sistemi",
+        "İltizam Sistemi",
+        "Gulam Sistemi",
+        "Millet Sistemi"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde padişahın ve saray halkının dışındaki devlet görevlilerini, askerleri ve yöneticileri kapsayan, vergi vermeyen sınıfa ne ad verilir?",
+      "options": [
+        "Reaya",
+        "Beraya (Yönetenler)",
+        "İlmiye",
+        "Kalemiye",
+        "Seyfiye"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "1711 yılında Rusya ile yapılan ve Osmanlı Devleti'nde \"Kaybedilen toprakların geri alınabileceği umudunu doğuran\" antlaşma hangisidir? (Rusya, Azak Kalesi'ni geri vermiştir).",
+      "options": [
+        "İstanbul Antlaşması",
+        "Prut Antlaşması",
+        "Pasarofça Antlaşması",
+        "Belgrad Antlaşması",
+        "Küçük Kaynarca Antlaşması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde XVII. yüzyılda (Duraklama Dönemi) Anadolu'da çıkan, ekonomik sıkıntılar, ağır vergiler ve tımarlı sipahilerin bozulması gibi nedenlere dayanan isyanlara genel olarak ne ad verilir?",
+      "options": [
+        "Yeniçeri İsyanları",
+        "Suhte İsyanları",
+        "Celali İsyanları",
+        "Eyalet İsyanları",
+        "Babai İsyanları"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde 1864 yılında yayımlanan \"Vilayet Nizamnamesi\" ile eyalet sisteminden vilayet sistemine geçilmiştir. Aşağıdakilerden hangisi bu nizamname ile oluşturulan yönetim birimlerinden biri değildir?",
+      "options": [
+        "Vilayet",
+        "Liva (Sancak)",
+        "Kaza",
+        "Nahiye (Köy)",
+        "Eyalet"
+      ],
+      "correctOption": "E",
+      "solution": "Eyalet sistemi kaldırılmış, yerine Vilayet sistemi getirilmiştir."
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nin alacaklı Avrupalı devletlerin borçlarını tahsil etmek amacıyla 1881'de kurdukları ve Osmanlı ekonomisinin bağımsızlığını kaybetmesine neden olan kurum hangisidir?",
+      "options": [
+        "Bank-ı Dersaadet",
+        "Düyun-u Umumiye İdaresi",
+        "Reji İdaresi",
+        "Kapitülasyonlar",
+        "İş Bankası"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "III. Selim döneminde yapılan ıslahatlara \"Nizam-ı Cedid\" adı verilir. Aşağıdakilerden hangisi bu dönemde yapılan yeniliklerden biridir?",
+      "options": [
+        "İlk resmi gazetenin çıkarılması",
+        "Yeniçeri Ocağı'nın kaldırılması",
+        "Nizam-ı Cedid ordusunun kurulması ve İrad-ı Cedid hazinesinin oluşturulması",
+        "Posta teşkilatının kurulması",
+        "Divan-ı Hümayun'un kaldırılması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı'nın başlamasında etkili olan, Osmanlı'ya sığınan iki Alman gemisinin (Goben ve Breslau) isimleri Osmanlı donanmasına katıldıktan sonra ne olarak değiştirilmiştir?",
+      "options": [
+        "Hamidiye - Mecidiye",
+        "Yavuz - Midilli",
+        "Nusret - Muavenet",
+        "Barbaros - Turgut Reis",
+        "Ertuğrul - Söğüt"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması'ndan sonra, İstanbul'daki Rum Patrikhanesi tarafından desteklenen ve amacı \"Büyük Bizans İmparatorluğu'nu yeniden kurmak\" (Megali İdea) olan zararlı cemiyet hangisidir?",
+      "options": [
+        "Pontus Rum Cemiyeti",
+        "Mavri Mira Cemiyeti",
+        "Etniki Eterya",
+        "Hınçak ve Taşnak",
+        "Alyans İsrailit"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Milli Mücadele döneminde, İstanbul Hükümeti ile Temsil Heyeti arasında yapılan \"ilk görüşme\" olan (hukuki tanıma değil, ilk temas) ve Mustafa Kemal'in Ahmet İzzet Paşa ile görüştüğü olay hangisidir?",
+      "options": [
+        "Amasya Görüşmeleri",
+        "Bilecik Görüşmesi",
+        "Ali Galip Olayı",
+        "Havza Genelgesi",
+        "Sivas Kongresi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Mustafa Kemal Paşa'nın, Başkomutanlık yetkisiyle ordunun ihtiyaçlarını halktan karşılamak amacıyla yayımladığı \"Tekalif-i Milliye Emirleri\" (Milli Yükümlülükler) hangi savaştan önce yayımlanmıştır?",
+      "options": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Kütahya-Eskişehir Savaşları",
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Batı Cephesi'nde, Kuvayi Milliye'nin Yunanlılara karşı düzenlediği ve başarısız olduğu, sonucunda Ali Fuat Paşa'nın Moskova Büyükelçiliği'ne atandığı taarruz girişimi hangisidir?",
+      "options": [
+        "I. İnönü",
+        "Aslıhanlar",
+        "Dumlupınar",
+        "Gediz Taarruzu",
+        "Sakarya"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "İstiklal Marşı'nın kabulü (1921) hangi savaşın kazanılmasının ardından gerçekleşmiştir?",
+      "options": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Sakarya Savaşı",
+        "Büyük Taarruz",
+        "Kütahya-Eskişehir Savaşları"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda çözüme kavuşturulamayan ve sonraya bırakılan tek sınır sorunu olan \"Musul Sorunu\" (Irak Sınırı) hangi iki ülke arasında görüşülmek üzere ertelenmiştir?",
+      "options": [
+        "Türkiye - Fransa",
+        "Türkiye - Yunanistan",
+        "Türkiye - İtalya",
+        "Türkiye - İngiltere",
+        "Türkiye - SSCB"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "1928 yılında yapılan anayasa değişikliği ile \"Devletin dini İslam'dır\" maddesinin anayasadan çıkarılması, Atatürk'ün hangi ilkesinin yönetimde tam olarak uygulanmasını sağlamıştır?",
+      "options": [
+        "Devletçilik",
+        "Halkçılık",
+        "Laiklik",
+        "İnkılapçılık",
+        "Milliyetçilik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "1932 yılında kurulan \"Halkevleri\"nin yayın organı olan ve halk kültürünü derlemeyi amaçlayan dergi hangisidir?",
+      "options": [
+        "Kadro",
+        "Ülkü",
+        "Varlık",
+        "Türk Yurdu",
+        "Belleten"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Cumhuriyet döneminde madencilik sektörünü finanse etmek, madenleri işletmek ve enerji kaynaklarını değerlendirmek amacıyla 1935 yılında kurulan banka hangisidir?",
+      "options": [
+        "Sümerbank",
+        "İş Bankası",
+        "Etibank",
+        "Halkbank",
+        "Ziraat Bankası"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne (Cemiyet-i Akvam) girişi sırasında (1932), üyeliği için davette bulunan ülke İspanya iken, bu daveti destekleyen komşu ülke hangisidir?",
+      "options": [
+        "İran",
+        "Bulgaristan",
+        "Yunanistan",
+        "Sovyet Rusya",
+        "Irak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "1934 yılında Türkiye, Yunanistan, Yugoslavya ve Romanya arasında imzalanan Balkan Antantı'na, izlediği \"yayılmacı\" (revizyonist) politika nedeniyle katılmayan Balkan devleti hangisidir?",
+      "options": [
+        "Arnavutluk",
+        "Bulgaristan",
+        "Macaristan",
+        "Sırbistan",
+        "Bosna-Hersek"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "1936 yılında imzalanan Montrö Boğazlar Sözleşmesi'ni Türkiye adına Dışişleri Bakanı olarak imzalayan devlet adamı kimdir?",
+      "options": [
+        "İsmet İnönü",
+        "Tevfik Rüştü Aras",
+        "Şükrü Saraçoğlu",
+        "Hasan Saka",
+        "Numan Menemencioğlu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "1973 yılında yaşanan Petrol Krizi'ne neden olan ve petrol fiyatlarının aşırı yükselmesiyle sonuçlanan gelişme, hangi örgütün petrol üretimini kısma kararı almasıyla başlamıştır?",
+      "options": [
+        "NATO",
+        "OPEC (Petrol İhraç Eden Ülkeler Örgütü)",
+        "AB",
+        "IMF",
+        "Dünya Bankası"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1990 yılında Irak'ın Kuveyt'i işgal etmesi üzerine başlayan ve ABD öncülüğündeki koalisyon güçlerinin Irak'a müdahalesiyle sonuçlanan savaş hangisidir?",
+      "options": [
+        "İran-Irak Savaşı",
+        "I. Körfez Savaşı",
+        "Afganistan Savaşı",
+        "Altı Gün Savaşı",
+        "Yom Kippur Savaşı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Avrupa Birliği'nin temellerini atan ve Avrupa Ekonomik Topluluğu'nu (AET) siyasi ve ekonomik birliğe (AB) dönüştüren 1992 tarihli antlaşma hangisidir?",
+      "options": [
+        "Roma Antlaşması",
+        "Maastricht Antlaşması",
+        "Paris Antlaşması",
+        "Ankara Antlaşması",
+        "Lizbon Antlaşması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "categoryName": "ÇAĞDAŞ TÜRK VE DÜNYA TARİHİ",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Rusya’da Çarlık rejimini yıkarak SSCB’yi kuran ihtilal hangisidir?",
+      "answer": "Bolşevik İhtilali (Ekim Devrimi - 1917)"
+    },
+    {
+      "id": 2,
+      "question": "SSCB’nin Orta Asya’yı işgaline karşı Türkistan’da başlayan bağımsızlık mücadelesine ne ad verilir?",
+      "answer": "Basmacı Hareketi"
+    },
+    {
+      "id": 3,
+      "question": "Basmacı Hareketi’ne katılan ünlü Osmanlı komutanı kimdir?",
+      "answer": "Enver Paşa"
+    },
+    {
+      "id": 4,
+      "question": "Azerbaycan Halk Cumhuriyeti’nin kurucusu kimdir?",
+      "answer": "Mehmet Emin Resulzade"
+    },
+    {
+      "id": 5,
+      "question": "Japonya’nın modernleşmesini sağlayan reform sürecine ne ad verilir?",
+      "answer": "Meiji Restorasyonu"
+    },
+    {
+      "id": 6,
+      "question": "1929 Dünya Ekonomik Krizi (Kara Perşembe) hangi ülkede başlamıştır?",
+      "answer": "ABD"
+    },
+    {
+      "id": 7,
+      "question": "1929 Ekonomik Krizi’ne karşı Türkiye’nin aldığı en temel önlem (ekonomik model) nedir?",
+      "answer": "Devletçilik ve \"Milli İktisat ve Tasarruf Cemiyeti\"nin kurulması"
+    },
+    {
+      "id": 8,
+      "question": "İtalya’da Faşist Parti’nin lideri kimdir?",
+      "answer": "Benito Mussolini"
+    },
+    {
+      "id": 9,
+      "question": "Mussolini’nin Akdeniz için kullandığı yayılmacı slogan nedir?",
+      "answer": "\"Bizim Deniz\" (Mare Nostrum)"
+    },
+    {
+      "id": 10,
+      "question": "Almanya’da Nazi Partisi’nin lideri kimdir?",
+      "answer": "Adolf Hitler"
+    },
+    {
+      "id": 11,
+      "question": "Hitler’in Alman ırkını yaymak için ortaya attığı politika nedir?",
+      "answer": "Hayat Sahası (Lebensraum)"
+    },
+    {
+      "id": 12,
+      "question": "II. Dünya Savaşı hangi olayla başlamıştır?",
+      "answer": "Almanya’nın Polonya’yı işgaliyle (1 Eylül 1939)"
+    },
+    {
+      "id": 13,
+      "question": "II. Dünya Savaşı’nda \"Mihver Devletler\" hangileridir?",
+      "answer": "Almanya, İtalya, Japonya"
+    },
+    {
+      "id": 14,
+      "question": "II. Dünya Savaşı’nda \"Müttefik Devletler\"in başlıcaları hangileridir?",
+      "answer": "İngiltere, Fransa, SSCB, ABD"
+    },
+    {
+      "id": 15,
+      "question": "Almanya’nın SSCB’yi işgal etmek için başlattığı harekatın adı nedir?",
+      "answer": "Barbarossa Harekatı"
+    },
+    {
+      "id": 16,
+      "question": "Japonya’nın ABD’ye saldırdığı ve ABD’nin savaşa girmesine neden olan olay nedir?",
+      "answer": "Pearl Harbor Baskını"
+    },
+    {
+      "id": 17,
+      "question": "Müttefiklerin Fransa’yı Alman işgalinden kurtarmak için düzenlediği çıkarma hangisidir?",
+      "answer": "Normandiya Çıkarması"
+    },
+    {
+      "id": 18,
+      "question": "II. Dünya Savaşı’nın seyrini değiştiren (Almanların yenilmeye başladığı) savaş hangisidir?",
+      "answer": "Stalingrad Savaşı"
+    },
+    {
+      "id": 19,
+      "question": "ABD’nin Japonya’ya atom bombası attığı şehirler nerelerdir?",
+      "answer": "Hiroşima ve Nagazaki"
+    },
+    {
+      "id": 20,
+      "question": "Birleşmiş Milletler Teşkilatı’nın (BM) kurulduğu konferans hangisidir?",
+      "answer": "San Francisco Konferansı (1945)"
+    },
+    {
+      "id": 21,
+      "question": "II. Dünya Savaşı sırasında Türkiye’nin Cumhurbaşkanı kimdir?",
+      "answer": "İsmet İnönü"
+    },
+    {
+      "id": 22,
+      "question": "Türkiye’nin II. Dünya Savaşı’nda izlediği politikanın adı nedir?",
+      "answer": "Denge Politikası (Savaş Dışı Kalma / Aktif Tarafsızlık)"
+    },
+    {
+      "id": 23,
+      "question": "Türkiye’de II. Dünya Savaşı yıllarında ekonomiyi kontrol etmek için çıkarılan olağanüstü kanun hangisidir?",
+      "answer": "Milli Korunma Kanunu"
+    },
+    {
+      "id": 24,
+      "question": "Savaş yıllarında haksız kazanç sağlayanlardan alınan vergi hangisidir?",
+      "answer": "Varlık Vergisi"
+    },
+    {
+      "id": 25,
+      "question": "Türkiye’de köylüye eğitim götürmek için 1940’ta kurulan kurumlar hangisidir?",
+      "answer": "Köy Enstitüleri"
+    },
+    {
+      "id": 26,
+      "question": "Türkiye, II. Dünya Savaşı’nın sonunda kime savaş ilan etmiştir?",
+      "answer": "Almanya ve Japonya’ya (BM’ye kurucu üye olabilmek için)"
+    },
+    {
+      "id": 27,
+      "question": "II. Dünya Savaşı’ndan sonra dünya hangi iki bloğa ayrılmıştır?",
+      "answer": "Doğu Bloğu (SSCB) ve Batı Bloğu (ABD)"
+    },
+    {
+      "id": 28,
+      "question": "Doğu ve Batı blokları arasındaki gerginlik dönemine ne ad verilir?",
+      "answer": "Soğuk Savaş Dönemi"
+    },
+    {
+      "id": 29,
+      "question": "ABD’nin SSCB tehdidine karşı Türkiye ve Yunanistan’a yaptığı askeri yardımı içeren doktrin hangisidir?",
+      "answer": "Truman Doktrini"
+    },
+    {
+      "id": 30,
+      "question": "ABD’nin Avrupa’yı kalkındırmak için hazırladığı ekonomik yardım paketi hangisidir?",
+      "answer": "Marshall Planı"
+    },
+    {
+      "id": 31,
+      "question": "Batı Bloğu’nun askeri örgütü (Paktı) hangisidir?",
+      "answer": "NATO (Kuzey Atlantik Paktı)"
+    },
+    {
+      "id": 32,
+      "question": "Doğu Bloğu’nun askeri örgütü hangisidir?",
+      "answer": "Varşova Paktı"
+    },
+    {
+      "id": 33,
+      "question": "İsrail Devleti hangi yıl kurulmuştur?",
+      "answer": "1948"
+    },
+    {
+      "id": 34,
+      "question": "İsrail’i tanıyan ilk Müslüman ülke hangisidir?",
+      "answer": "Türkiye"
+    },
+    {
+      "id": 35,
+      "question": "Kore Savaşı’na (1950) Türkiye neden asker göndermiştir?",
+      "answer": "NATO’ya üye olabilmek için"
+    },
+    {
+      "id": 36,
+      "question": "Türkiye NATO’ya ne zaman üye olmuştur?",
+      "answer": "1952"
+    },
+    {
+      "id": 37,
+      "question": "Türkiye’de çok partili hayata geçişin ilk muhalefet partisi hangisidir?",
+      "answer": "Milli Kalkınma Partisi (Nuri Demirağ - 1945)"
+    },
+    {
+      "id": 38,
+      "question": "Türkiye’de kesintisiz çok partili hayatı başlatan parti hangisidir?",
+      "answer": "Demokrat Parti (1946)"
+    },
+    {
+      "id": 39,
+      "question": "Demokrat Parti’nin kurucuları kimlerdir? (Dörtlü Takrir)",
+      "answer": "Celal Bayar, Adnan Menderes, Fuat Köprülü, Refik Koraltan"
+    },
+    {
+      "id": 40,
+      "question": "Demokrat Parti’nin iktidara geldiği \"Beyaz İhtilal\" olarak bilinen seçim hangisidir?",
+      "answer": "1950 Seçimleri"
+    },
+    {
+      "id": 41,
+      "question": "1950-1960 yılları arasında Cumhurbaşkanı ve Başbakan kimdir?",
+      "answer": "Cumhurbaşkanı: Celal Bayar, Başbakan: Adnan Menderes"
+    },
+    {
+      "id": 42,
+      "question": "Demokrat Parti döneminde ezanın diliyle ilgili yapılan değişiklik nedir?",
+      "answer": "Tekrar Arapça okunması serbest bırakılmıştır."
+    },
+    {
+      "id": 43,
+      "question": "Türkiye, Yunanistan ve Yugoslavya arasında 1953’te kurulan pakt hangisidir?",
+      "answer": "Balkan Paktı"
+    },
+    {
+      "id": 44,
+      "question": "Türkiye, İran, Irak, Pakistan ve İngiltere arasında 1955’te kurulan pakt hangisidir?",
+      "answer": "Bağdat Paktı (Sonraki adı CENTO)"
+    },
+    {
+      "id": 45,
+      "question": "6-7 Eylül Olayları (1955) kime karşı yapılmıştır?",
+      "answer": "İstanbul’daki Rum azınlığa karşı (Atatürk’ün evinin bombalandığı haberi üzerine)"
+    },
+    {
+      "id": 46,
+      "question": "Demokrat Parti iktidarına son veren askeri darbe hangisidir?",
+      "answer": "27 Mayıs 1960 Darbesi"
+    },
+    {
+      "id": 47,
+      "question": "27 Mayıs Darbesi’nden sonra idam edilen Başbakan kimdir?",
+      "answer": "Adnan Menderes (Fatin Rüştü Zorlu ve Hasan Polatkan ile birlikte)"
+    },
+    {
+      "id": 48,
+      "question": "1961 Anayasası ile kurulan ve kanunları denetleyen mahkeme hangisidir?",
+      "answer": "Anayasa Mahkemesi"
+    },
+    {
+      "id": 49,
+      "question": "Küba Krizi (1962) hangi iki ülke arasında çıkmıştır?",
+      "answer": "ABD ve SSCB (Nükleer savaş riski)"
+    },
+    {
+      "id": 50,
+      "question": "ABD Başkanı Johnson’ın Türkiye’ye Kıbrıs harekatını yapmaması için gönderdiği mektup hangisidir?",
+      "answer": "Johnson Mektubu (1964)"
+    },
+    {
+      "id": 51,
+      "question": "Kıbrıs Barış Harekatı hangi yıl yapılmıştır?",
+      "answer": "1974"
+    },
+    {
+      "id": 52,
+      "question": "Kıbrıs Barış Harekatı sırasındaki Başbakan ve Başbakan Yardımcısı kimdir?",
+      "answer": "Bülent Ecevit ve Necmettin Erbakan"
+    },
+    {
+      "id": 53,
+      "question": "Kıbrıs Barış Harekatı’nın parolası nedir?",
+      "answer": "\"Ayşe tatile çıksın.\""
+    },
+    {
+      "id": 54,
+      "question": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) ne zaman kurulmuştur?",
+      "answer": "1983"
+    },
+    {
+      "id": 55,
+      "question": "KKTC’nin kurucu Cumhurbaşkanı kimdir?",
+      "answer": "Rauf Denktaş"
+    },
+    {
+      "id": 56,
+      "question": "Ermeni terör örgütü ASALA, hangi yıllarda Türk diplomatlarını şehit etmiştir?",
+      "answer": "1970'ler ve 80'ler"
+    },
+    {
+      "id": 57,
+      "question": "Türkiye’de 12 Eylül 1980 askeri darbesini yapan komutan kimdir?",
+      "answer": "Kenan Evren"
+    },
+    {
+      "id": 58,
+      "question": "1982 Anayasası hangi darbe sonrasında hazırlanmıştır?",
+      "answer": "12 Eylül 1980 Darbesi"
+    },
+    {
+      "id": 59,
+      "question": "Türkiye ekonomisinin dışa açılmasını sağlayan kararlar hangisidir?",
+      "answer": "24 Ocak Kararları (1980)"
+    },
+    {
+      "id": 60,
+      "question": "24 Ocak Kararları’nın mimarı ve 1983’te Başbakan olan lider kimdir?",
+      "answer": "Turgut Özal"
+    },
+    {
+      "id": 61,
+      "question": "SSCB’nin dağılmasına neden olan \"Açıklık\" ve \"Yeniden Yapılanma\" politikalarını başlatan lider kimdir?",
+      "answer": "Mihail Gorbaçov"
+    },
+    {
+      "id": 62,
+      "question": "SSCB’nin dağılmasıyla bağımsız olan Türk Cumhuriyetleri hangileridir?",
+      "answer": "Azerbaycan, Kazakistan, Kırgızistan, Özbekistan, Türkmenistan"
+    },
+    {
+      "id": 63,
+      "question": "Azerbaycan’ın bağımsızlık lideri kimdir?",
+      "answer": "Ebulfez Elçibey"
+    },
+    {
+      "id": 64,
+      "question": "\"Biz bir millet, iki devletiz\" sözü kime aittir?",
+      "answer": "Haydar Aliyev (Azerbaycan)"
+    },
+    {
+      "id": 65,
+      "question": "Türk dünyasının UNESCO’su sayılan kültür teşkilatı hangisidir?",
+      "answer": "TÜRKSOY"
+    },
+    {
+      "id": 66,
+      "question": "Berlin Duvarı ne zaman yıkılmıştır?",
+      "answer": "1989 (Soğuk Savaş’ın sonu)"
+    },
+    {
+      "id": 67,
+      "question": "Bosna-Hersek’in bağımsızlık lideri \"Bilge Kral\" kimdir?",
+      "answer": "Aliya İzzetbegoviç"
+    },
+    {
+      "id": 68,
+      "question": "Bosna Savaşı’nı sona erdiren antlaşma hangisidir?",
+      "answer": "Dayton Antlaşması (1995)"
+    },
+    {
+      "id": 69,
+      "question": "Srebrenitsa Katliamı hangi savaşta yaşanmıştır?",
+      "answer": "Bosna Savaşı"
+    },
+    {
+      "id": 70,
+      "question": "1990’da Irak’ın Kuveyt’i işgal etmesiyle başlayan savaş hangisidir?",
+      "answer": "I. Körfez Savaşı"
+    },
+    {
+      "id": 71,
+      "question": "I. Körfez Savaşı sonrası Kuzey Irak’taki otorite boşluğunu kontrol etmek için Türkiye’de konuşlanan güç nedir?",
+      "answer": "Çekiç Güç"
+    },
+    {
+      "id": 72,
+      "question": "Türkiye, Avrupa Birliği’ne (AET) tam üyelik başvurusunu ne zaman yapmıştır?",
+      "answer": "1987 (Turgut Özal dönemi)"
+    },
+    {
+      "id": 73,
+      "question": "Türkiye ile AB arasında Gümrük Birliği ne zaman yürürlüğe girmiştir?",
+      "answer": "1996"
+    },
+    {
+      "id": 74,
+      "question": "Türkiye’nin AB’ye \"Aday Üye\" ilan edildiği zirve hangisidir?",
+      "answer": "1999 Helsinki Zirvesi"
+    },
+    {
+      "id": 75,
+      "question": "Türkiye ile AB katılım müzakereleri ne zaman başlamıştır?",
+      "answer": "2005"
+    },
+    {
+      "id": 76,
+      "question": "1997’de Türkiye öncülüğünde kurulan, gelişmekte olan 8 İslam ülkesinin örgütü hangisidir?",
+      "answer": "D-8 (Developing 8)"
+    },
+    {
+      "id": 77,
+      "question": "1996’da Türkiye ve Yunanistan’ı savaşın eşiğine getiren kriz hangisidir?",
+      "answer": "Kardak Kayalıkları Krizi"
+    },
+    {
+      "id": 78,
+      "question": "2001’de ABD’deki İkiz Kulelere yapılan terör saldırısı hangisidir?",
+      "answer": "11 Eylül Saldırıları"
+    },
+    {
+      "id": 79,
+      "question": "11 Eylül saldırıları sonrası ABD hangi ülkeleri işgal etmiştir?",
+      "answer": "Afganistan ve Irak"
+    },
+    {
+      "id": 80,
+      "question": "2010’da Tunus’ta başlayıp Ortadoğu’ya yayılan halk hareketlerine ne ad verilir?",
+      "answer": "Arap Baharı"
+    },
+    {
+      "id": 81,
+      "question": "Suriye İç Savaşı ne zaman başlamıştır?",
+      "answer": "2011"
+    },
+    {
+      "id": 82,
+      "question": "Türkiye’nin ilk yerli otomobili girişimi (1961) hangisidir?",
+      "answer": "Devrim Arabaları"
+    },
+    {
+      "id": 83,
+      "question": "Türkiye’nin 2023’te yollara çıkan yerli elektrikli otomobili hangisidir?",
+      "answer": "TOGG"
+    },
+    {
+      "id": 84,
+      "question": "Nobel Kimya Ödülü’nü (2015) kazanan Türk bilim insanı kimdir?",
+      "answer": "Aziz Sancar"
+    },
+    {
+      "id": 85,
+      "question": "Nobel Edebiyat Ödülü’nü (2006) kazanan Türk yazar kimdir?",
+      "answer": "Orhan Pamuk"
+    },
+    {
+      "id": 86,
+      "question": "\"Cep Herkülü\" lakaplı dünyaca ünlü milli haltercimiz kimdir?",
+      "answer": "Naim Süleymanoğlu"
+    },
+    {
+      "id": 87,
+      "question": "Euro hangi birliğin ortak para birimidir?",
+      "answer": "Avrupa Birliği"
+    },
+    {
+      "id": 88,
+      "question": "İngiltere’nin Avrupa Birliği’nden ayrılmasına ne ad verilir?",
+      "answer": "Brexit"
+    },
+    {
+      "id": 89,
+      "question": "Küresel ısınmaya karşı imzalanan uluslararası protokol hangisidir?",
+      "answer": "Kyoto Protokolü (ve Paris İklim Anlaşması)"
+    },
+    {
+      "id": 90,
+      "question": "15 Temmuz 2016 darbe girişiminin kahramanı ve simge ismi olan şehit astsubayımız kimdir?",
+      "answer": "Ömer Halisdemir"
+    },
+    {
+      "id": 91,
+      "question": "Azerbaycan’ın Karabağ topraklarını Ermenistan işgalinden kurtardığı savaş hangisidir?",
+      "answer": "II. Karabağ Savaşı (44 Gün Savaşı - 2020)"
+    },
+    {
+      "id": 92,
+      "question": "Karabağ Zaferi sonrası açılması planlanan, Türkiye ile Azerbaycan’ı birbirine bağlayacak koridor hangisidir?",
+      "answer": "Zengezur Koridoru"
+    },
+    {
+      "id": 93,
+      "question": "Türkiye’nin Somali, Katar ve Balkanlar’da askeri üs bulundurması neyin göstergesidir?",
+      "answer": "Bölgesel ve küresel bir güç olma hedefinin"
+    },
+    {
+      "id": 94,
+      "question": "Türkiye’nin geliştirdiği yerli İHA ve SİHA’ların (Bayraktar vb.) en çok ses getirdiği savaş hangisidir?",
+      "answer": "Karabağ Savaşı ve Ukrayna-Rusya Savaşı"
+    },
+    {
+      "id": 95,
+      "question": "Bakü-Tiflis-Ceyhan (BTC) Boru Hattı ne taşır?",
+      "answer": "Petrol"
+    },
+    {
+      "id": 96,
+      "question": "TANAP (Trans Anadolu Doğalgaz Boru Hattı) projesi hangi iki ülke arasındadır?",
+      "answer": "Türkiye ve Azerbaycan"
+    },
+    {
+      "id": 97,
+      "question": "Dünyanın en büyük 20 ekonomisini oluşturan grup hangisidir?",
+      "answer": "G-20"
+    },
+    {
+      "id": 98,
+      "question": "Kovid-19 pandemisi ilk nerede ortaya çıkmıştır?",
+      "answer": "Çin (Wuhan)"
+    },
+    {
+      "id": 99,
+      "question": "Kıbrıs Rumlarının adayı Yunanistan’a bağlama hayaline ne ad verilir?",
+      "answer": "Enosis"
+    },
+    {
+      "id": 100,
+      "question": "Türkiye’nin \"Yurtta Sulh, Cihanda Sulh\" ilkesi hangi lidere aittir?",
+      "answer": "Mustafa Kemal Atatürk"
+    }
+  ]
+}

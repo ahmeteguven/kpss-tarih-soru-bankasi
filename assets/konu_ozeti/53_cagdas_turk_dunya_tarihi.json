@@ -1,0 +1,61 @@
+{
+  "konu_adi": "53- ÇAĞDAŞ TÜRK VE DÜNYA TARİHİ (Giriş)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ÇAĞDAŞ TÜRK VE DÜNYA TARİHİ (1900 – Günümüz)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🚨 Çağdaş Dünya Tarihine Geçiş ve Krizler"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Yeni İdeolojiler ve Totaliter Rejimler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Komünizm: Rusya'da Bolşevik İhtilali ile kurulmuştur (SSCB).",
+        "Faşizm: İtalya'da Benito Mussolini liderliğinde kurulmuştur.",
+        "Nazizm: Almanya'da Adolf Hitler liderliğinde kurulmuştur.",
+        "Ekonomik Bunalım: 1929 Dünya Ekonomik Krizi (Büyük Buhran), totaliter rejimlerin güçlenmesine zemin hazırlamıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. II. Dünya Savaşı'nın Başlangıcı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yayılmacılık: Almanya (Yaşam Alanı) ve İtalya (Bizim Denizimiz) gibi revizyonist devletlerin saldırgan politikaları.",
+        "Uluslararası Örgütlerin Yetersizliği: Milletler Cemiyeti'nin bu saldırganlıkları durdurmakta başarısız kalması."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Türkiye Cumhuriyeti'nin Gelişimi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Atatürk Dönemi Dış Politikası: Yurtta Sulh, Cihanda Sulh ilkesiyle bölgesel ittifaklar (Balkan Antantı, Sadabat Paktı) kurulmuştur.",
+        "Montrö: Montrö Boğazlar Sözleşmesi (1936) ile Boğazlar üzerinde tam egemenlik sağlanmıştır.",
+        "Hatay: Hatay'ın Anavatana katılması (1939), Misak-ı Milli'nin son başarısıdır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🥶 Soğuk Savaş ve Sonrası (II. Dünya Savaşı Sonrası)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İki Kutuplu Dünya: ABD önderliğindeki Batı Bloku (Kapitalizm) ve SSCB önderliğindeki Doğu Bloku (Komünizm) arasındaki ideolojik çatışma.",
+        "Türkiye'nin Yönelimi: Türkiye, Soğuk Savaş döneminde Batı Bloku'na yönelmiş ve NATO'ya katılmıştır.",
+        "Küreselleşme: SSCB'nin dağılması (1991) ile başlayan, tek kutuplu bir düzene geçiş ve serbest piyasa ekonomisinin yayılması."
+      ]
+    }
+  ]
+}

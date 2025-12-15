@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 01",
+  "examCode": "deneme_01",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 01)\n\n**Kurtuluş Savaşı ve TBMM Dönemi:** Teşkilat-ı Esasiye (1921 Anayasası) ile Güçler Birliği ilkesi benimsenerek hızlı karar alma amaçlanmıştır. Kurtuluş Savaşı'nda Güney Cephesi'nde Kuva-yi Milliye (halk) direnişi etkili olmuş, düzenli ordu savaşmamıştır. Amasya Genelgesi, Milli Mücadele'nin Gerekçe, Amaç ve Yöntemini belirleyen bir İhtilal Beyannamesi niteliğindedir. Misak-ı Milli kararlarının kabulü, İtilaf Devletlerinin İstanbul'u resmen işgal etmesine ve Mebusan Meclisi'ni dağıtmasına neden olmuştur.\n\n**Osmanlı ve İlk Türk-İslam:** Osmanlı'da denizcilikle uğraşan ilk beylik olan Karesioğulları, Orhan Bey döneminde Osmanlı'ya katılan ilk beyliktir. Mısır'da kurulan ilk Türk devleti Tolunoğulları'dır. Büyük Selçuklu'da Nizamülmülk'ün kurduğu Nizamiye Medreseleri, Batınilik akımına karşı Sünni İslam'ı savunmayı amaçlamıştır. Duraklama Dönemi'nde (17. Yüzyıl) Osmanlı'nın Avrupa'dan geri olduğunu düşünmesi, Batı tarzı ıslahat yapılmamasının temel nedenidir.\n\n**Cumhuriyet ve Çağdaş:** Soyadı Kanunu (1934) ile ayrıcalık bildiren unvanların (Paşa, Bey, Ağa) yasaklanması Halkçılık ilkesinin gereğidir. Türkiye, Sovyet tehdidine karşı Batı Bloğu'na girmek amacıyla Kore Savaşı'na asker göndermiştir. Küba Füze Krizi'nin çözümü sırasında, ABD Türkiye'deki Jüpiter füzelerini sökme sözü vermiştir. Şeyh Said İsyanı'nın Musul'un kaybına neden olması, dış politikanın iç gelişmelerden etkilendiğini gösterir.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Tarihte bilinen ilk Türk devleti olan Asya Hun Devleti'nin kurucusu aşağıdakilerden hangisidir?",
+      "options": [
+        "Mete Han",
+        "Ki-ok",
+        "Balamir",
+        "Çi-çi",
+        "Teoman"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Avrupa Hun Devleti’nin en parlak dönemini yaşatan, Hristiyan dünyasında \"Tanrı’nın Kırbacı\" (Flagellum Dei) olarak nitelendirilen hükümdar kimdir?",
+      "options": [
+        "Balamir",
+        "Uldız",
+        "Attila",
+        "Rua",
+        "İlek"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Türk-İslam tarihinde, kağıdın Çin dışında üretildiği ilk şehir olması nedeniyle \"Şehirlerin Şahı\" unvanıyla anılan merkez aşağıdakilerden hangisidir?",
+      "options": [
+        "Semerkant",
+        "Buhara",
+        "Kaşgar",
+        "Bağdat",
+        "Nişabur"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Gazneli Mahmut’un \"Sarayımın en değerli hazinesi\" dediği ünlü bilim insanı kimdir?",
+      "options": [
+        "İbni Sina",
+        "Farabi",
+        "Harezmi",
+        "Ömer Hayyam",
+        "Biruni"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nin Rumeli’ye geçişini sağlayan ve Rumeli’de ele geçirilen ilk toprak parçası olan yer neresidir?",
+      "options": [
+        "Gelibolu",
+        "Çimpe Kalesi",
+        "Edirne",
+        "Selanik",
+        "Varna"
+      ],
+      "correctOption": "B",
+      "solution": "Kantakuzen'e yapılan yardım karşılığı hediye edilmiştir."
+    },
+    {
+      "id": 6,
+      "text": "Ankara Savaşı’ndan sonra Yıldırım Bayezid’in oğulları arasında yaşanan taht kavgaları nedeniyle devletin başsız kaldığı 11 yıllık döneme (1402-1413) ne ad verilir?",
+      "options": [
+        "Lale Devri",
+        "Fetret Devri",
+        "Duraklama Devri",
+        "Meşrutiyet Devri",
+        "Tanzimat Devri"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Fatih Sultan Mehmet’in, Divan-ı Hümayun başkanlığını sadrazama bırakarak divan toplantılarını \"Kasr-ı Adl\" denilen pencereden izlemeye başlamasının temel amacı nedir?",
+      "options": [
+        "İş yükünü hafifletmek",
+        "Sadrazamın yetkilerini kısıtlamak",
+        "Padişahın otoritesini ve ulaşılmazlığını artırmak (Mutlakiyet)",
+        "Divan üyeleriyle yüz yüze gelmekten kaçınmak",
+        "Devlet işlerinden çekilmek"
+      ],
+      "correctOption": "C",
+      "solution": "Divan üyeleri padişahın yanında çekinerek konuşmasın diye de yapılmıştır, son karar yine padişahındır."
+    },
+    {
+      "id": 8,
+      "text": "Yavuz Sultan Selim’in Mısır Seferi sırasında (1516) Memlük hükümdarı Kansu Gavri’yi mağlup ettiği ve Suriye-Filistin topraklarının Osmanlı’ya katıldığı savaş hangisidir?",
+      "options": [
+        "Ridaniye",
+        "Mercidabık",
+        "Çaldıran",
+        "Mohaç",
+        "Preveze"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Kanuni Sultan Süleyman’ın son seferi olan ve kale kuşatması devam ederken vefat ettiği sefer hangisidir?",
+      "options": [
+        "Viyana",
+        "Belgrad",
+        "Rodos",
+        "Bağdat",
+        "Zigetvar"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti’nde \"Ekber ve Erşed\" (En yaşlı ve en olgun kişinin tahta geçmesi) sistemini getirerek taht kavgalarını hukuken sona erdiren padişah kimdir?",
+      "options": [
+        "IV. Murat",
+        "Genç Osman",
+        "III. Mehmet",
+        "IV. Mehmet",
+        "I. Ahmet"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti’nde ilk bakır para (Mangır) hangi padişah döneminde bastırılmıştır?",
+      "options": [
+        "Osman Bey",
+        "Orhan Bey",
+        "I. Murat",
+        "Yıldırım Bayezid",
+        "Fatih Sultan Mehmet"
+      ],
+      "correctOption": "A",
+      "solution": "Osman Bey bağımsızlık sembolü olarak hutbe okutmuş ve bakır para bastırmıştır."
+    },
+    {
+      "id": 12,
+      "text": "I. Balkan Savaşı’nın çıkmasında etkili olan, Rusya’nın Balkan milletlerini Osmanlı’ya karşı kışkırtma politikasına ne ad verilir?",
+      "options": [
+        "Panislamizm",
+        "Pantürkizm",
+        "Panslavizm",
+        "Merkantilizm",
+        "Sömürgecilik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Babıali Baskını (1913) ile devrilen hükümet (Sadrazam) aşağıdakilerden hangisidir?",
+      "options": [
+        "Mahmut Şevket Paşa",
+        "Talat Paşa",
+        "Kamil Paşa",
+        "Said Halim Paşa",
+        "Ahmet İzzet Paşa"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Manda ve himaye fikrinin tartışmaya yer bırakmayacak şekilde kesin olarak reddedildiği yer neresidir?",
+      "options": [
+        "Erzurum Kongresi",
+        "Lozan Antlaşması",
+        "Sivas Kongresi",
+        "TBMM",
+        "Amasya Genelgesi"
+      ],
+      "correctOption": "C",
+      "solution": "Mustafa Kemal: \"Ya istiklal ya ölüm!\""
+    },
+    {
+      "id": 15,
+      "text": "Son Osmanlı Mebusan Meclisi’nde, Milli Mücadele yanlısı milletvekillerinin (Mustafa Kemal’in isteğiyle Müdafaa-i Hukuk grubu kurulamayınca) oluşturduğu grup hangisidir?",
+      "options": [
+        "Halk Zümresi",
+        "Tesanüt Grubu",
+        "Felah-ı Vatan",
+        "Islahat Grubu",
+        "İttihat Grubu"
+      ],
+      "correctOption": "C",
+      "solution": "Başkanı Rauf Orbay'dır."
+    },
+    {
+      "id": 16,
+      "text": "Gümrü Antlaşması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "TBMM’nin ilk siyasi başarısıdır.",
+        "Ermenistan, Sevr Antlaşması’nın geçersiz olduğunu kabul etmiştir.",
+        "Ermenistan, Doğu Anadolu’daki toprak taleplerinden vazgeçmiştir.",
+        "Doğu sınırı kesin olarak çizilmiştir.",
+        "TBMM’yi tanıyan ilk devlet Ermenistan olmuştur."
+      ],
+      "correctOption": "D",
+      "solution": "Gümrü ile sınır şekillenmiş ancak kesin halini Kars Antlaşması ile almıştır."
+    },
+    {
+      "id": 17,
+      "text": "Mustafa Kemal’in, \"Siz orada yalnız düşmanı değil, milletin makus (kötü) talihini de yendiniz\" telgrafını çektiği savaş hangisidir?",
+      "options": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Sakarya Savaşı",
+        "Büyük Taarruz",
+        "Kütahya-Eskişehir Savaşları"
+      ],
+      "correctOption": "B",
+      "solution": "İsmet Paşa'ya çekmiştir."
+    },
+    {
+      "id": 18,
+      "text": "Büyük Taarruz’daki başarılarından dolayı TBMM tarafından \"Mareşal\" rütbesi verilen ikinci komutanımız kimdir?",
+      "options": [
+        "İsmet İnönü",
+        "Fevzi Çakmak",
+        "Kazım Karabekir",
+        "Refet Bele",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctOption": "B",
+      "solution": "Mustafa Kemal'den sonraki ikinci ve son Mareşalimizdir."
+    },
+    {
+      "id": 19,
+      "text": "1926 yılında Türkiye Cumhuriyeti, Türk Medeni Kanunu’nu hangi ülkeden uyarlayarak almıştır?",
+      "options": [
+        "Almanya",
+        "İsviçre",
+        "Fransa",
+        "İsveç",
+        "İtalya"
+      ],
+      "correctOption": "B",
+      "solution": "Pratik, laik ve demokratik olması nedeniyle."
+    },
+    {
+      "id": 20,
+      "text": "Atatürk’ün \"Türk çocuğu ecdadını tanıdıkça daha büyük işler yapmak için kendinde kuvvet bulacaktır\" sözü doğrultusunda 1931 yılında kurulan kurum hangisidir?",
+      "options": [
+        "Ankara Dil ve Tarih-Coğrafya Fakültesi",
+        "Anadolu Medeniyetleri Müzesi",
+        "Türk Tarih Kurumu",
+        "Türk Dil Kurumu",
+        "Milli Kütüphane"
+      ],
+      "correctOption": "C",
+      "solution": "Ümmet tarihinden ulus tarihine geçiş."
+    },
+    {
+      "id": 21,
+      "text": "1935 yılında hafta tatilinin Cuma gününden Pazar gününe alınmasının temel nedeni nedir?",
+      "options": [
+        "Dini nedenler",
+        "Avrupa ile olan ekonomik ve ticari ilişkilerde uyum sağlamak",
+        "Çalışanların dinlenmesini engellemek",
+        "Tatil süresini uzatmak",
+        "Yahudilerin isteği"
+      ],
+      "correctOption": "B",
+      "solution": "Avrupa pazar günü tatilken biz çalışıyorduk, biz cuma tatilken onlar çalışıyordu; iletişim kopukluğu oluyordu."
+    },
+    {
+      "id": 22,
+      "text": "Musul sorununun çözümü için 1924 yılında İstanbul'da toplanan ve Türkiye'yi Ali Fethi Okyar'ın temsil ettiği konferans hangisidir?",
+      "options": [
+        "Londra Konferansı",
+        "Haliç Konferansı",
+        "San Remo Konferansı",
+        "Lozan Konferansı",
+        "Paris Konferansı"
+      ],
+      "correctOption": "B",
+      "solution": "Sonuç alınamayınca konu Milletler Cemiyeti'ne gitmiştir."
+    },
+    {
+      "id": 23,
+      "text": "Atatürk'ün \"Kırk asırlık Türk yurdu düşman eline bırakılamaz\" ve \"Benim şahsi meselem\" dediği yer neresidir?",
+      "options": [
+        "Kerkük",
+        "Selanik",
+        "Hatay (İskenderun Sancağı)",
+        "Batum",
+        "Musul"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne (Cemiyet-i Akvam) üye olması (1932) hangi dış politika ilkesinin bir sonucudur?",
+      "options": [
+        "Turancılık",
+        "Yalnızlık",
+        "İslamcılık",
+        "Yurtta Sulh Cihanda Sulh",
+        "Yayılmacılık"
+      ],
+      "correctOption": "D",
+      "solution": "Barışçı politika."
+    },
+    {
+      "id": 25,
+      "text": "SSCB'nin kurucusu Lenin'in, ekonomiyi düzeltmek ve köylünün desteğini almak için \"özel mülkiyete kısmen izin verdiği\" ekonomi politikası hangisidir?",
+      "options": [
+        "Perestroika",
+        "NEP (Novaya Ekonomiçeskaya Politika)",
+        "Demir Perde",
+        "Glasnost",
+        "Kolkhoz"
+      ],
+      "correctOption": "B",
+      "solution": "Yeni Ekonomi Politikası. Stalin döneminde kaldırılarak yerine sert devletçilik gelmiştir."
+    },
+    {
+      "id": 26,
+      "text": "Ortadoğu'da İsrail Devleti'nin kurulmasına zemin hazırlayan, İngiltere Dışişleri Bakanı'nın Siyonist liderlere yazdığı 1917 tarihli mektuba ne ad verilir?",
+      "options": [
+        "Sykes-Picot",
+        "Truman Doktrini",
+        "Balfour Deklarasyonu",
+        "Wilson İlkeleri",
+        "Monroe Doktrini"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "II. Dünya Savaşı'nda yaklaşık 60 milyon insan ölmüştür. Bu savaşın sonucunda dünya siyaseti \"İki Kutuplu\" hale gelmiştir.Bu iki kutubun liderleri hangi devletlerdir?",
+      "options": [
+        "Almanya - Japonya",
+        "Çin - ABD",
+        "İngiltere - Rusya",
+        "İngiltere - Fransa",
+        "ABD (Batı Bloğu) - SSCB (Doğu Bloğu)"
+      ],
+      "correctOption": "E",
+      "solution": "Soğuk Savaş dönemi başlamıştır."
+    }
+  ]
+}

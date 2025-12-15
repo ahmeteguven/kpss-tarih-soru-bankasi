@@ -1,0 +1,1229 @@
+{
+  "topicName": "XX. Yüzyılda Osmanlı Devleti",
+  "testSets": [
+    {
+      "testName": "Mini Test - 1",
+      "preTestNote": "Trablusgarp Savaşı (1911-1912):\nNeden: İtalya'nın siyasi birliğini geç tamamlayıp sömürge (hammade/pazar) arayışına girmesi.\nOsmanlı'nın Durumu: Karadan asker gönderemedi (Mısır İngiliz işgalinde), denizden gönderemedi (Donanma Haliç'te çürümeye terk edilmiş).\nGönüllüler Hareketi: Mustafa Kemal (Gazeteci Şerif Bey) Derne ve Tobruk'ta; Enver Paşa (Kuyumcu Hamdi) Bingazi'de halkı örgütledi.\nİlkler: Dünya tarihinde savaş uçağı ilk kez İtalya tarafından burada kullanıldı.\nUşi Antlaşması: Kuzey Afrika'daki son toprak kaybedildi. On İki Ada, Balkan Savaşları bitene kadar geçici olarak İtalya'ya bırakıldı (Bir daha geri alınamadı).\n\nI. Balkan Savaşı (1912-1913):\nSaldıranlar: Karadağ (ilk saldıran), Bulgaristan, Sırbistan, Yunanistan.\nNeden Kaybedildi? Ordunun siyasete karışması (İttihatçı-Hürriyetçi çekişmesi), ordunun bir kısmının terhis edilmiş olması.\nSonuç: Edirne ve Kırklareli dahil tüm Rumeli kaybedildi. (Sınır: Midye-Enez Hattı).\nArnavutluk: Osmanlı'dan ayrılan son Balkan devleti oldu.\nBabıali Baskını (1913): Savaşın kötü gidişatını bahane eden İttihat ve Terakki'nin (Enver ve Talat Paşa) Kamil Paşa hükümetini devirip Mahmut Şevket Paşa hükümetini kurduğu askeri darbedir. (Rejim değil, hükümet değişikliğidir).\n\nII. Balkan Savaşı (1913):\nNeden: Bulgaristan'ın I. Balkan Savaşı'nda en büyük payı alması.\nGelişme: Diğer Balkan devletleri + Romanya (I. Balkanda yoktu) Bulgaristan'a saldırdı.\nOsmanlı'nın Hamlesi: Bu kargaşadan yararlanarak Edirne ve Kırklareli'yi (Doğu Trakya) geri aldı. (Edirne Fatihi: Enver Paşa).\nHamidiye Kahramanı: Rauf Orbay (Ege denizindeki başarılarından dolayı).",
+      "questions": [
+        {
+          "text": "İtalya’nın 1911 yılında Osmanlı Devleti’nin Kuzey Afrika’daki son toprağı olan Trablusgarp’ı işgal etmesinin temel nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Osmanlı’nın bölge halkına baskı yapması",
+            "İngiltere’nin İtalya’yı kışkırtması",
+            "İtalya’nın sömürgecilik yarışında geç kalarak hammadde ve pazar arayışına girmesi",
+            "Trablusgarp’ın İtalya’ya coğrafi olarak uzak olması",
+            "Rusya’nın sıcak denizlere inme politikası"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti, Trablusgarp Savaşı sırasında bölgeye karadan asker gönderememiştir. Bunun temel nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Donanmanın yetersiz olması",
+            "Balkan Savaşlarının başlaması",
+            "Ordunun terhis edilmiş olması",
+            "Bölge halkının İtalyanları desteklemesi",
+            "Mısır’ın İngiliz işgali altında olması"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal, Trablusgarp Savaşı’na gönüllü olarak katılmış ve yerel halkı İtalyanlara karşı örgütlemiştir. Mustafa Kemal’in bu savaşa giderken kullandığı takma ad ve meslek aşağıdakilerden hangisidir?",
+          "options": [
+            "Kuyumcu Hamdi",
+            "Tüccar Mehmet",
+            "Muallim Naci",
+            "Gazeteci Şerif Bey",
+            "Doktor Refik"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Trablusgarp Savaşı devam ederken İtalya, Osmanlı Devleti’ni barışa zorlamak amacıyla aşağıdaki yerlerden hangisini işgal etmiştir?",
+          "options": [
+            "Girit ve Kıbrıs",
+            "Rodos ve On İki Ada",
+            "Midilli ve Sakız",
+            "Selanik ve Manastır",
+            "Çanakkale Boğazı"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti ile İtalya arasında imzalanan Uşi Antlaşması’na göre; \"Trablusgarp ve Bingazi İtalya’ya bırakılacak, ancak bölge halkı dini bakımdan Osmanlı Halifesine bağlı kalacaktır.\" Bu maddenin amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "Bölge ile kültürel ve dini bağları devam ettirmek",
+            "İtalya ile diplomatik ilişkileri kesmek",
+            "Halifeliği kaldırmak",
+            "Bölgeyi özerk hale getirmek",
+            "İngiltere’den yardım istemek"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "I. Balkan Savaşı’nın çıkmasında etkili olan, Rusya’nın Balkan milletlerini Osmanlı’ya karşı kışkırtma politikasına ne ad verilir?",
+          "options": [
+            "Panislamizm",
+            "Pantürkizm",
+            "Panslavizm",
+            "Merkantilizm",
+            "Sömürgecilik"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "I. Balkan Savaşı sırasında Osmanlı ordusunun başarısız olmasının en önemli nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Ordunun silah ve cephane eksikliği",
+            "Donanmanın Haliç’te olması",
+            "Ordunun siyasete karışması (Mektepli-Alaylı çatışması)",
+            "Arap ihanetleri",
+            "Almanların desteğini çekmesi"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti, I. Balkan Savaşı sırasında aşağıdaki yerlerden hangisini kaybetmemiştir?",
+          "options": [
+            "İzmir",
+            "Edirne",
+            "Selanik",
+            "Manastır",
+            "Üsküp"
+          ],
+          "correctOption": "A",
+          "solution": "İzmir, daha sonra I. Dünya Savaşı sonrasında işgal edilmiştir."
+        },
+        {
+          "text": "I. Balkan Savaşı sırasında Osmanlı Devleti’nden ayrılarak bağımsızlığını ilan eden son Balkan devleti hangisidir?",
+          "options": [
+            "Bulgaristan",
+            "Yunanistan",
+            "Arnavutluk",
+            "Sırbistan",
+            "Karadağ"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "I. Balkan Savaşı’ndaki yenilgiden hükümeti sorumlu tutan İttihat ve Terakki Cemiyeti’nin, yönetimi ele geçirdiği askeri darbe aşağıdakilerden hangisidir?",
+          "options": [
+            "31 Mart Vakası",
+            "Babıali Baskını",
+            "Kuleli Vakası",
+            "Çırağan Baskını",
+            "Vaka-i Vakvakiye"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "II. Balkan Savaşı’nın çıkmasının temel nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Osmanlı’nın topraklarını geri istemesi",
+            "Bulgaristan’ın I. Balkan Savaşı’nda en büyük payı alması üzerine diğer Balkan devletlerinin buna karşı çıkması",
+            "Rusya’nın kışkırtması",
+            "Arnavutluk’un bağımsız olması",
+            "Avusturya-Macaristan’ın baskısı"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti, II. Balkan Savaşı’ndaki karışıklıktan yararlanarak hangi şehri geri almayı başarmıştır?",
+          "options": [
+            "Selanik",
+            "Manastır",
+            "Yanya",
+            "Edirne",
+            "Üsküp"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Edirne’nin geri alınmasındaki rolü nedeniyle \"Edirne Fatihi\" unvanı verilen Osmanlı komutanı kimdir?",
+          "options": [
+            "Mustafa Kemal",
+            "Enver Paşa",
+            "Rauf Orbay",
+            "Talat Paşa",
+            "Cemal Paşa"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Balkan Savaşları sırasında Ege Denizi’nde Hamidiye Kruvazörü ile Yunan donanmasına karşı gösterdiği başarılardan dolayı \"Hamidiye Kahramanı\" olarak tanınan komutan kimdir?",
+          "options": [
+            "Rauf Orbay",
+            "Fevzi Çakmak",
+            "Refet Bele",
+            "Kazım Karabekir",
+            "Ali Fuat Cebesoy"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "II. Balkan Savaşı sonunda Osmanlı Devleti ile Bulgaristan arasında imzalanan ve bugünkü Türkiye-Bulgaristan sınırını büyük ölçüde belirleyen antlaşma hangisidir?",
+          "options": [
+            "Atina Antlaşması",
+            "Londra Antlaşması",
+            "İstanbul Antlaşması (1913)",
+            "Bükreş Antlaşması",
+            "Uşi Antlaşması"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Balkan Savaşları sonucunda kaybedilen topraklardan Anadolu’ya yoğun bir Türk göçü yaşanmıştır. Bu durum Osmanlı Devleti’nde aşağıdaki fikir akımlarından hangisinin güçlenmesine neden olmuştur?",
+          "options": [
+            "Osmanlıcılık",
+            "Batıcılık",
+            "Türkçülük",
+            "Adem-i Merkeziyetçilik",
+            "Ümmetçilik"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Trablusgarp Savaşı’nda dünya tarihinde ilk kez uçak kullanan devlet hangisidir?",
+          "options": [
+            "İngiltere",
+            "Almanya",
+            "İtalya",
+            "Fransa",
+            "Rusya"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’in Trablusgarp Savaşı’nda yerel halkı İtalyanlara karşı örgütlediği cepheler aşağıdakilerden hangisinde doğru verilmiştir?",
+          "options": [
+            "Trablus - Bingazi",
+            "Derne - Tobruk",
+            "Bingazi - Derne",
+            "Tobruk - Fizan",
+            "Derne - Trablus"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Babıali Baskını (1913) ile devrilen hükümet (Sadrazam) aşağıdakilerden hangisidir?",
+          "options": [
+            "Mahmut Şevket Paşa",
+            "Talat Paşa",
+            "Kamil Paşa",
+            "Said Halim Paşa",
+            "Ahmet İzzet Paşa"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Uşi Antlaşması ile İtalya’ya geçici olarak bırakılan On İki Ada, hangi gelişme sonucunda kesin olarak İtalya hakimiyetine girmiştir?",
+          "options": [
+            "I. Dünya Savaşı",
+            "Lozan Antlaşması",
+            "II. Balkan Savaşı",
+            "Paris Barış Konferansı",
+            "Mondros Ateşkesi"
+          ],
+          "correctOption": "D",
+          "solution": "Lozan Antlaşması ile adalar hukuken İtalya'ya bırakılmıştır."
+        },
+        {
+          "text": "I. Balkan Savaşı’na katılmayıp, II. Balkan Savaşı’na katılarak Bulgaristan’dan Dobruca bölgesini alan devlet hangisidir?",
+          "options": [
+            "Sırbistan",
+            "Karadağ",
+            "Romanya",
+            "Yunanistan",
+            "Arnavutluk"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin Balkan Savaşları sonunda kaybettiği topraklar arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Arnavutluk",
+            "Batı Trakya",
+            "Makedonya",
+            "Ege Adaları",
+            "Doğu Trakya"
+          ],
+          "correctOption": "E",
+          "solution": "Doğu Trakya -Edirne ve Kırklareli- II. Balkan Savaşı ile geri alınmıştır."
+        },
+        {
+          "text": "Osmanlı Devleti’nde ordunun gençleştirilmesi ve modernleştirilmesi çalışmaları hangi olaydan sonra ve hangi parti döneminde hız kazanmıştır?",
+          "options": [
+            "31 Mart Vakası - Hürriyet ve İtilaf",
+            "Balkan Savaşları Yenilgisi - İttihat ve Terakki",
+            "Trablusgarp Savaşı - Ahrar Fırkası",
+            "I. Dünya Savaşı - İttihat ve Terakki",
+            "Kurtuluş Savaşı - CHP"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Trablusgarp Savaşı, Mustafa Kemal’in emperyalizme (sömürgeciliğe) karşı verdiği ilk mücadeledir. Mustafa Kemal bu savaşta hangi rütbe ile görev yapmıştır?",
+          "options": [
+            "Yüzbaşı",
+            "Kolağası",
+            "Binbaşı",
+            "Yarbay",
+            "Albay"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin Kuzey Afrika’daki varlığı hangi antlaşma ile tamamen sona ermiştir?",
+          "options": [
+            "Berlin Antlaşması",
+            "Uşi Antlaşması",
+            "Londra Antlaşması",
+            "Atina Antlaşması",
+            "İstanbul Antlaşması"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 2",
+      "preTestNote": "Savaşın Nedenleri:\nGenel: Fransız İhtilali (Milliyetçilik) ve Sanayi İnkılabı (Sömürgecilik/Hammadde).\nÖzel: Almanya-Fransa arasındaki Alsas-Loren sorunu, Rusya'nın Panslavizm politikası.\nKıvılcım: Avusturya-Macaristan veliahtının Saraybosna'da bir Sırp milliyetçisi tarafından öldürülmesi.\n\nOsmanlı'nın Girişi:\nAlmanya'nın Osmanlı'yı isteme nedeni: Jeopolitik konum (Yeni cepheler açıp kendi yükünü hafifletmek) ve Halifelik gücü (İngiliz sömürgelerindeki Müslümanları ayaklandırmak - Cihad-ı Ekber).\nOlay: Goben ve Breslau (Yavuz ve Midilli) gemilerinin Rus limanlarını (Sivastopol ve Odessa) bombalaması.\n\nCepheler:\nTaarruz (Saldırı) Cepheleri (2K):\nKafkas: Enver Paşa komutasında Sarıkamış Harekatı (Başarısızlık). Mustafa Kemal Muş ve Bitlis'i geri aldı. Ermeni olayları üzerine Tehcir Kanunu çıkarıldı. Rusya Brest-Litovsk ile çekildi (Kars, Ardahan, Batum'u geri verdi). Toprak kazanılan tek cephedir.\nKanal: Cemal Paşa komutasında Mısır'ı geri almak ve İngiltere'nin sömürge yolunu kesmek için açıldı. Başarısız olundu.\n\nSavunma Cepheleri:\nÇanakkale: İtilaf devletlerinin Rusya'ya yardım götürmek ve İstanbul'u alıp savaşı bitirmek istemesi. Sonuç: Savaş 2 yıl uzadı, Rusya'ya yardım gidemedi (Çarlık yıkıldı), Bulgaristan İttifak bloğuna katıldı.\nIrak: İngilizlerin petrole ulaşma çabası. Halil (Kut) Paşa, Kut'ül Amare'de İngiliz ordusunu esir aldı (Büyük zaferdir ama savaşın genel sonucunu değiştirmemiştir).\nHicaz-Yemen: Fahrettin Paşa (Çöl Kaplanı) Medine'yi savundu.\nSuriye-Filistin: Mustafa Kemal'in savaştığı son cephedir (Yıldırım Orduları).\n\nYardım Cepheleri (Sınır Dışı): Galiçya, Makedonya, Romanya.\n\nGizli Antlaşmalar: İtilaf devletlerinin Osmanlı topraklarını paylaştığı antlaşmalar. (Sykes-Picot, St. Jean de Maurienne vb.). Rusya savaştan çekilince Sarı Kitap ile bunları dünyaya duyurdu.",
+      "questions": [
+        {
+          "text": "I. Dünya Savaşı’nın genel nedeni olarak kabul edilen ve Fransız İhtilali ile dünyaya yayılan fikir akımı hangisidir?",
+          "options": [
+            "Milliyetçilik",
+            "Sömürgecilik",
+            "Liberalizm",
+            "Sosyalizm",
+            "Panislamizm"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "I. Dünya Savaşı’nın başlamasına neden olan (görünürdeki) olay nedir?",
+          "options": [
+            "Almanya’nın Polonya’yı işgali",
+            "Goben ve Breslau gemilerinin Rusya’yı bombalaması",
+            "Rusya’nın Balkanları işgali",
+            "İngiltere’nin Osmanlı’ya savaş ilanı",
+            "Avusturya-Macaristan veliahtının Saraybosna’da bir Sırp milliyetçisi tarafından öldürülmesi"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Almanya’nın, Osmanlı Devleti’ni kendi yanında savaşa sokmak istemesinin en önemli nedeni nedir?",
+          "options": [
+            "Osmanlı’nın askeri gücünden yararlanmak",
+            "Osmanlı’nın teknolojik gücünden yararlanmak",
+            "Osmanlı’nın ekonomik gücünden faydalanmak",
+            "Yeni cepheler açarak kendi savaş yükünü hafifletmek ve Osmanlı’nın jeopolitik konumunu kullanmak",
+            "Halifelik gücüyle ABD’yi savaşa sokmak"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin I. Dünya Savaşı’na girmesine neden olan Goben ve Breslau gemilerine, Osmanlı donanmasına katıldıktan sonra hangi isimler verilmiştir?",
+          "options": [
+            "Hamidiye ve Mecidiye",
+            "Nusret ve Muavenet",
+            "Ertuğrul ve Söğüt",
+            "Yavuz ve Midilli",
+            "Barbaros ve Turgut Reis"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Padişahı V. Mehmet Reşat, I. Dünya Savaşı’na girerken halifelik gücünü kullanarak dünya Müslümanlarını İngiltere ve Fransa’ya karşı ayaklandırmak için ne ilan etmiştir?",
+          "options": [
+            "Seferberlik",
+            "Cihad-ı Ekber (Kutsal Cihat)",
+            "Islahat Fermanı",
+            "Tanzimat Fermanı",
+            "Tekalif-i Milliye"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin I. Dünya Savaşı’nda toprak kazanmak amacıyla açtığı taarruz cepheleri aşağıdakilerden hangisidir?",
+          "options": [
+            "Çanakkale - Irak",
+            "Hicaz - Yemen",
+            "Kafkas - Kanal",
+            "Suriye - Filistin",
+            "Galiçya - Romanya"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Kafkas Cephesi’nde Ruslara karşı düzenlenen, ancak ağır kış şartları ve donanım eksikliği nedeniyle 90 bin askerin donarak şehit olduğu harekat hangisidir?",
+          "options": [
+            "Kanal Harekatı",
+            "Kut’ül Amare",
+            "Sarıkamış Harekatı",
+            "Taarruz-u Milli",
+            "Büyük Taarruz"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Kafkas Cephesi’nde Ruslarla işbirliği yapan Ermenilerin, bölgedeki Türk halkına zarar vermesini önlemek amacıyla 1915 yılında çıkarılan kanun hangisidir?",
+          "options": [
+            "Hıyanet-i Vataniye Kanunu",
+            "Tehcir Kanunu (Sevk ve İskan)",
+            "Takrir-i Sükun Kanunu",
+            "Teşkilat-ı Esasiye",
+            "İskan Kanunu"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal, I. Dünya Savaşı’nda Kafkas Cephesi’ne atandığında Ruslardan hangi iki ili geri almayı başarmıştır?",
+          "options": [
+            "Erzurum ve Erzincan",
+            "Kars ve Ardahan",
+            "Muş ve Bitlis",
+            "Trabzon ve Rize",
+            "Van ve Hakkari"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Rusya’da Bolşevik İhtilali’nin çıkması üzerine Rusya’nın I. Dünya Savaşı’ndan çekilmesini sağlayan antlaşma hangisidir?",
+          "options": [
+            "Moskova Antlaşması",
+            "Brest-Litovsk Antlaşması",
+            "Berlin Antlaşması",
+            "Kars Antlaşması",
+            "Paris Antlaşması"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Brest-Litovsk Antlaşması ile Rusya; daha önce Berlin Antlaşması ile aldığı Kars, Ardahan ve Batum’u (Elviye-i Selase) Osmanlı’ya geri vermiştir. Buna göre Osmanlı Devleti’nin toprak kazandığı tek cephe hangisidir?",
+          "options": [
+            "Çanakkale",
+            "Kanal",
+            "Kafkas",
+            "Irak",
+            "Suriye"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin, İngiltere’nin sömürgeleriyle (Hindistan) olan bağlantısını kesmek ve Mısır’ı geri almak amacıyla açtığı cephe hangisidir?",
+          "options": [
+            "Irak Cephesi",
+            "Kanal Cephesi",
+            "Hicaz Cephesi",
+            "Suriye Cephesi",
+            "Çanakkale Cephesi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "İtilaf Devletleri’nin; Rusya’ya yardım göndermek, İstanbul’u alarak Osmanlı’yı savaş dışı bırakmak ve savaşı kısa sürede bitirmek amacıyla açtığı cephe hangisidir?",
+          "options": [
+            "Kafkas Cephesi",
+            "Çanakkale Cephesi",
+            "Kanal Cephesi",
+            "Galiçya Cephesi",
+            "Irak Cephesi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’in \"Ben size taarruzu değil, ölmeyi emrediyorum\" sözünü söylediği ve savaşın kaderini değiştirdiği cephe hangisidir?",
+          "options": [
+            "Kafkas",
+            "Suriye",
+            "Çanakkale (Conkbayırı)",
+            "Trablusgarp",
+            "Sakarya"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "18 Mart 1915’te kazanılan Çanakkale Deniz Zaferi’nin mimarı olan ve \"18 Mart Kahramanı\" olarak bilinen komutan kimdir?",
+          "options": [
+            "Enver Paşa",
+            "Mustafa Kemal",
+            "Cevat Paşa (Çobanlı)",
+            "Kazım Karabekir",
+            "Fevzi Çakmak"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Çanakkale Savaşı’nın sonuçlarından biri değildir?",
+          "options": [
+            "I. Dünya Savaşı’nın süresi uzamıştır.",
+            "Rusya’ya yardım gidememiş ve Çarlık rejimi yıkılmıştır.",
+            "Bulgaristan İttifak Devletleri yanında savaşa girmiştir.",
+            "Mustafa Kemal ulusal bir kahraman olarak tanınmıştır.",
+            "Osmanlı Devleti savaştan çekilmiştir."
+          ],
+          "correctOption": "A",
+          "solution": "Aksine, zafer kazandığı için savaşa moralli devam etmiştir."
+        },
+        {
+          "text": "Irak Cephesi’nde Halil (Kut) Paşa komutasındaki Osmanlı ordusunun İngilizleri yendiği ve General Townshend’i esir aldığı zafer hangisidir?",
+          "options": [
+            "Kut’ül Amare Zaferi",
+            "Selman-ı Pak Zaferi",
+            "Bağdat Zaferi",
+            "Gazze Zaferi",
+            "Kanal Zaferi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Hicaz-Yemen Cephesi’nde, Medine’yi İngilizlere ve isyancı Araplara karşı çekirge yiyerek savunan ve \"Çöl Kaplanı\" lakabıyla bilinen komutan kimdir?",
+          "options": [
+            "Cemal Paşa",
+            "Fahrettin Paşa (Türkkan)",
+            "Enver Paşa",
+            "Talat Paşa",
+            "Mustafa Kemal"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal’in I. Dünya Savaşı’nda görev aldığı son cephe hangisidir?",
+          "options": [
+            "Çanakkale",
+            "Kafkas",
+            "Suriye-Filistin",
+            "Galiçya",
+            "Trablusgarp"
+          ],
+          "correctOption": "C",
+          "solution": "Yıldırım Orduları Grup Komutanı olarak."
+        },
+        {
+          "text": "Osmanlı Devleti’nin sınırları dışında, müttefiklerine (Almanya, Avusturya) yardım etmek amacıyla asker gönderdiği cepheler hangileridir?",
+          "options": [
+            "Kafkas - Kanal - Irak",
+            "Galiçya - Makedonya - Romanya",
+            "Hicaz - Yemen - Suriye",
+            "Çanakkale - Kafkas - Kanal",
+            "İran - Irak - Suriye"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "I. Dünya Savaşı sırasında İtilaf Devletleri’nin Osmanlı topraklarını kendi aralarında paylaştıkları antlaşmalara ne ad verilir?",
+          "options": [
+            "Barış Antlaşmaları",
+            "Gizli Antlaşmalar",
+            "Ateşkes Antlaşmaları",
+            "İttifak Antlaşmaları",
+            "Ticaret Antlaşmaları"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "İngiltere ve Fransa arasında yapılan ve Ortadoğu’yu (Irak, Suriye, Lübnan vb.) paylaştıkları gizli antlaşma hangisidir?",
+          "options": [
+            "Sykes-Picot Antlaşması",
+            "Mac Mahon Antlaşması",
+            "St. Jean de Maurienne",
+            "Londra Antlaşması",
+            "İstanbul Antlaşması"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "İtilaf Devletleri’nin yaptığı gizli antlaşmaları, Çarlık rejimini yıktıktan sonra dünya kamuoyuna açıklayan devlet hangisidir?",
+          "options": [
+            "ABD",
+            "Sovyet Rusya",
+            "Almanya",
+            "Osmanlı",
+            "İtalya"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "ABD Başkanı Wilson’un yayınladığı ilkelerin \"Yenen devletler yenilenlerden toprak ve savaş tazminatı almayacak\" maddesi, İtilaf Devletleri’nin hangi sisteme geçmesine neden olmuştur?",
+          "options": [
+            "Sömürgecilik",
+            "Manda ve Himaye",
+            "İlhak",
+            "Kolonicilik",
+            "Bağımsızlık"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Wilson İlkeleri’nde yer alan \"Her millet çoğunlukta olduğu bölgede kendi kaderini tayin etme hakkına sahiptir\" maddesi, Osmanlı topraklarında neye zemin hazırlamıştır?",
+          "options": [
+            "Demokratikleşmeye",
+            "Azınlıkların bağımsızlık hayalleri kurmasına ve devlet kurma çabalarına",
+            "Halifeliğin güçlenmesine",
+            "Ekonomik kalkınmaya",
+            "Ordunun güçlenmesine"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 3",
+      "preTestNote": "Wilson İlkeleri (1918): ABD Başkanı Wilson'ın yayınladığı 14 maddelik bildiri.\nÖnemli Madde: \"Yenenler yenilenlerden toprak ve tazminat almayacak.\" (Bu madde Osmanlı'yı ateşkes imzalamaya cesaretlendirmiştir. İtilaf devletleri bu maddeyi aşmak için Manda ve Himaye sistemini geliştirmiştir).\nSelf-Determinasyon: \"Türklerin çoğunlukta olduğu yerlerde Türklere, azınlıkların çoğunlukta olduğu yerlerde azınlıklara egemenlik hakkı tanınacaktır.\" (Azınlık isyanlarını körüklemiştir).\n\nMondros Ateşkes Antlaşması (30 Ekim 1918):\nİmzalayanlar: Rauf Orbay (Osmanlı) - Amiral Calthorpe (İtilaf).\nÖnemi: Osmanlı Devleti fiilen sona ermiştir.\nMadde 7 (En Tehlikeli): İtilaf devletleri güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal edebilecektir. (Anadolu'nun işgaline hukuki zemin hazırlamıştır).\nMadde 24: Vilayet-i Sitte'de (6 Doğu ili: Bitlis, Erzurum, Sivas, Van, Elazığ, Diyarbakır - Kod: BESVED) karışıklık çıkarsa işgal edilecektir. (Amaç: Megali Armenia / Ermeni Devleti kurmak).\n\nİşgaller:\nİlk İşgal Edilen Yer: Musul (İngiltere).\nAnadolu'da İlk İşgal: Hatay/Dörtyol (Fransa).\nİzmir'in İşgali (15 Mayıs 1919): Yunanlılar işgal etti. Hasan Tahsin ilk kurşunu sıktı.\nAmiral Bristol Raporu: İzmir işgalinin haksız olduğunu ve Türklerin haklılığını dünyaya duyuran ilk uluslararası belgedir.\n\nCemiyetler:\nZararlı (Azınlıklar): Mavri Mira (Rum-Bizans), Pontus Rum (Trabzon), Hınçak ve Taşnak (Ermeni).\nZararlı (Türkler): İngiliz Muhipleri (Mandacı), Wilson Prensipleri (Mandacı), Teali İslam (Saltanatçı), Kürt Teali.\nYararlı (Milli): Trakya Paşaeli (İlk kurulan), İzmir Müdafaa-i Hukuk (Redd-i İlhak), Kilikyalılar (Adana), Şark Vilayetleri (Doğu Anadolu), Milli Kongre (Basın-Yayın yoluyla mücadele / Dr. Esat Işık).",
+      "questions": [
+        {
+          "text": "ABD Başkanı Wilson’un yayınladığı ilkelerin \"Yenen devletler yenilenlerden toprak ve savaş tazminatı almayacak\" maddesi, İtilaf Devletleri’nin sömürgecilik yerine hangi sistemi geliştirmelerine neden olmuştur?",
+          "options": [
+            "İlhak",
+            "Manda ve Himaye",
+            "Kapitülasyon",
+            "Özerklik",
+            "Asimilasyon"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Wilson İlkeleri’nde yer alan \"Her millet çoğunlukta olduğu bölgede kendi kaderini tayin etme hakkına sahiptir\" maddesi, Osmanlı topraklarında aşağıdakilerden hangisine zemin hazırlamıştır?",
+          "options": [
+            "Osmanlıcılık fikrinin güçlenmesine",
+            "Azınlıkların devlet kurma ümidiyle isyan etmelerine ve cemiyetler kurmalarına",
+            "Ekonomik kalkınmaya",
+            "Halifeliğin otoritesinin artmasına",
+            "Ordunun güçlenmesine"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’nin I. Dünya Savaşı’ndan çekilmesini sağlayan ve devleti fiilen bitiren ateşkes antlaşması hangisidir?",
+          "options": [
+            "Sevr Antlaşması",
+            "Mondros Ateşkes Antlaşması",
+            "Mudanya Ateşkes Antlaşması",
+            "Lozan Antlaşması",
+            "Paris Antlaşması"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mondros Ateşkes Antlaşması’nı Osmanlı Devleti adına imzalayan Bahriye Nazırı kimdir?",
+          "options": [
+            "Damat Ferit Paşa",
+            "Rauf Orbay",
+            "Ali Fethi Okyar",
+            "Salih Paşa",
+            "Ahmet İzzet Paşa"
+          ],
+          "correctOption": "C",
+          "solution": "Limni Adası'nın Mondros Limanı'nda, Agamemnon zırhlısında imzalanmıştır."
+        },
+        {
+          "text": "Mondros Ateşkes Antlaşması’nın, Anadolu’nun işgaline hukuki zemin hazırlayan ve İtilaf Devletleri’ne \"Güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal etme\" hakkı veren en tehlikeli maddesi kaçıncı maddedir?",
+          "options": [
+            "1. Madde",
+            "7. Madde",
+            "24. Madde",
+            "10. Madde",
+            "12. Madde"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Mondros Ateşkes Antlaşması’nın 24. maddesinde geçen \"Vilayet-i Sitte\" (Altı İl) ifadesiyle kastedilen iller arasında aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Erzurum",
+            "Van",
+            "Diyarbakır",
+            "Trabzon",
+            "Sivas"
+          ],
+          "correctOption": "A",
+          "solution": "Trabzon Vilayet-i Sitte içinde değildir. Kodlama: BESVED - Bitlis, Erzurum, Sivas, Van, Elazığ, Diyarbakır"
+        },
+        {
+          "text": "Mondros Ateşkes Antlaşması’nın 24. maddesinin (Vilayet-i Sitte’de karışıklık çıkarsa işgal edilecek) asıl amacı nedir?",
+          "options": [
+            "Bölge halkının güvenliğini sağlamak",
+            "Doğu Anadolu’da bir Ermeni Devleti kurmak",
+            "Rusya’nın bölgeye inmesini engellemek",
+            "Petrol kaynaklarını korumak",
+            "Kürt devleti kurmak"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mondros Ateşkes Antlaşması’ndan sonra işgal edilen ilk Osmanlı toprağı neresidir?",
+          "options": [
+            "İzmir",
+            "İstanbul",
+            "Musul",
+            "İskenderun",
+            "Antalya"
+          ],
+          "correctOption": "C",
+          "solution": "İngiltere tarafından işgal edilmiştir."
+        },
+        {
+          "text": "Mondros’tan sonra Anadolu topraklarında işgal edilen ilk yer neresidir?",
+          "options": [
+            "İzmir",
+            "Hatay - Dörtyol",
+            "Antalya",
+            "Konya",
+            "Antep"
+          ],
+          "correctOption": "A",
+          "solution": "Fransa tarafından işgal edilmiştir. İlk kurşun da burada sıkılmıştır - Kara Mehmet Çavuş)."
+        },
+        {
+          "text": "İzmir’in Yunanlılar tarafından işgali ne zaman gerçekleşmiştir?",
+          "options": [
+            "30 Ekim 1918",
+            "15 Mayıs 1919",
+            "19 Mayıs 1919",
+            "16 Mart 1920",
+            "23 Nisan 1920"
+          ],
+          "correctOption": "B",
+          "solution": "Paris Barış Konferansı kararıyla."
+        },
+        {
+          "text": "İzmir’in işgali sırasında Yunan askerine ilk kurşunu sıkan ve şehit edilen Hukuk-u Beşer gazetesi yazarı kimdir?",
+          "options": [
+            "Hasan Tahsin (Osman Nevres)",
+            "Süleyman Fethi Bey",
+            "Yörük Ali Efe",
+            "Çerkez Ethem",
+            "Demirci Mehmet Efe"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "İzmir’in işgalinin haksız olduğunu, Rumların bölgede çoğunlukta olmadığını ve Türklerin katledildiğini belirten ilk uluslararası belge hangisidir?",
+          "options": [
+            "General Harbord Raporu",
+            "Amiral Bristol Raporu",
+            "Milne Hattı Raporu",
+            "Sandler Raporu",
+            "Hrisantos Raporu"
+          ],
+          "correctOption": "D",
+          "solution": "Milli Mücadele'nin haklılığını dünyaya duyuran ilk belgedir."
+        },
+        {
+          "text": "Doğu Anadolu’da Ermeni nüfusunun çoğunlukta olmadığını ve Türklerin soykırım yapmadığını belgeleyen ABD kaynaklı rapor hangisidir?",
+          "options": [
+            "Amiral Bristol Raporu",
+            "General Harbord Raporu",
+            "King-Crane Raporu",
+            "Wilson Raporu",
+            "Samsun Raporu"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mondros’tan sonra başlayan işgallere karşı, İstanbul Hükümeti’nin sessiz kalması üzerine Türk halkının kurduğu bölgesel silahlı direniş örgütlerine ne ad verilir?",
+          "options": [
+            "Kuvayi İnzibatiye",
+            "Kuvayi Milliye",
+            "Hamidiye Alayları",
+            "Hareket Ordusu",
+            "Nizam-ı Cedid"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Mondros’tan sonra azınlıklar tarafından kurulan zararlı cemiyetlerden biri değildir?",
+          "options": [
+            "Mavri Mira",
+            "Pontus Rum",
+            "Hınçak ve Taşnak",
+            "Etnik-i Eterya",
+            "Kilikyalılar"
+          ],
+          "correctOption": "C",
+          "solution": "Kilikyalılar Cemiyeti, Adana ve çevresini savunmak için kurulan yararlı bir cemiyettir."
+        },
+        {
+          "text": "Rumların kurduğu, \"Megali İdea\" (Büyük Bizans) amacını taşıyan ve Patrikhane tarafından desteklenen zararlı cemiyet hangisidir?",
+          "options": [
+            "Mavri Mira",
+            "Hınçak",
+            "Alyans İsrailit",
+            "İngiliz Muhipleri",
+            "Wilson Prensipleri"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Karadeniz Bölgesi’nde Samsun merkezli bir Rum devleti kurmayı amaçlayan zararlı cemiyet hangisidir?",
+          "options": [
+            "Etnik-i Eterya",
+            "Pontus Rum Cemiyeti",
+            "Taşnak Sütyun",
+            "Makabi",
+            "Kardos"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Türkler tarafından kurulmasına rağmen Milli Mücadele’ye karşı olan ve İngiliz mandasını savunan cemiyet hangisidir?",
+          "options": [
+            "Wilson Prensipleri Cemiyeti",
+            "İngiliz Muhipleri Cemiyeti",
+            "Teali İslam Cemiyeti",
+            "Sulh ve Selameti Osmaniye",
+            "Kürt Teali Cemiyeti"
+          ],
+          "correctOption": "C",
+          "solution": "Damat Ferit Paşa da üyedir."
+        },
+        {
+          "text": "Aşağıdaki cemiyetlerden hangisi ABD mandasını savunmuştur?",
+          "options": [
+            "İngiliz Muhipleri",
+            "Wilson Prensipleri Cemiyeti",
+            "Teali İslam",
+            "Hürriyet ve İtilaf",
+            "Mavri Mira"
+          ],
+          "correctOption": "E",
+          "solution": "Halide Edip gibi bazı aydınlar da bir dönem savunmuştur."
+        },
+        {
+          "text": "İzmir ve çevresinin Yunanistan’a verilmesini önlemek amacıyla kurulan ve Balıkesir-Alaşehir kongrelerini düzenleyen yararlı cemiyet hangisidir?",
+          "options": [
+            "Trakya Paşaeli",
+            "İzmir Müdafaa-i Hukuk (ve Redd-i İlhak)",
+            "Kilikyalılar",
+            "Trabzon Muhafaza-i Hukuk",
+            "Milli Kongre"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mondros’tan sonra kurulan ilk yararlı cemiyet hangisidir?",
+          "options": [
+            "İzmir Müdafaa-i Hukuk",
+            "Trakya Paşaeli Müdafaa-i Hukuk Cemiyeti",
+            "Doğu Anadolu Müdafaa-i Hukuk",
+            "Kilikyalılar",
+            "Milli Kongre"
+          ],
+          "correctOption": "D",
+          "solution": "Edirne ve çevresini Yunan işgalinden korumak, gerekirse devlet kurmak amacı taşır."
+        },
+        {
+          "text": "Adana ve Çukurova bölgesini Fransız ve Ermeni işgaline karşı savunan yararlı cemiyet hangisidir?",
+          "options": [
+            "Kilikyalılar Cemiyeti",
+            "Redd-i İlhak",
+            "Vilayet-i Şarkiye",
+            "Kars İslam Şurası",
+            "Trakya Paşaeli"
+          ],
+          "correctOption": "C",
+          "solution": "İsmi zararlı cemiyetleri anıdırsa da yararlıdır."
+        },
+        {
+          "text": "Milli Mücadele’nin haklılığını basın ve yayın yoluyla dünyaya duyurmayı amaçlayan ve \"Kuvayi Milliye\" tabirini ilk kez kullanan cemiyet hangisidir?",
+          "options": [
+            "Milli Kongre Cemiyeti",
+            "Anadolu Kadınları Müdafaa-i Vatan",
+            "Gizli Karakol",
+            "Redd-i İlhak",
+            "Mim Mim Grubu"
+          ],
+          "correctOption": "B",
+          "solution": "Dr. Esat Işık tarafından kurulmuştur."
+        },
+        {
+          "text": "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti, hangi gazeteleri çıkararak bölgedeki Türk nüfusunun çoğunluğunu savunmuştur?",
+          "options": [
+            "İrade-i Milliye - Hakimiyet-i Milliye",
+            "Albayrak - Hadisat - Le Pays (Vatan)",
+            "Ceride-i Resmiye - Takvim-i Vekayi",
+            "Minber - İkdam",
+            "Tercüman-ı Ahval - Tasvir-i Efkar"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Mondros Ateşkesi imzalandığında Mustafa Kemal’in görevi neydi?",
+          "options": [
+            "9. Ordu Müfettişi",
+            "Yıldırım Orduları Grup Komutanı",
+            "Çanakkale Anafartalar Komutanı",
+            "Hareket Ordusu Kurmay Başkanı",
+            "Sofya Ataşemiliteri"
+          ],
+          "correctOption": "C",
+          "solution": "Suriye-Filistin cephesindeydi. Ateşkes sonrası İstanbul'a çağrıldı."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 4",
+      "preTestNote": "Paris Barış Konferansı (18 Ocak 1919):\nAmaç: I. Dünya Savaşı'nı kaybeden devletlerle yapılacak barış antlaşmalarını belirlemek.\nÖnemi: Milletler Cemiyeti'nin (Cemiyet-i Akvam) kurulması kararlaştırıldı.\nKırılma Noktası: İngiltere, güçlü bir İtalya yerine zayıf bir Yunanistan'ı tercih ederek İzmir ve çevresini Yunanistan'a verdi. İtilaf Devletleri arasındaki ilk görüş ayrılığı burada yaşandı.\n\nİzmir'in İşgali (15 Mayıs 1919):\nParis Konferansı kararıyla Yunanlılar işgal etti.\nHasan Tahsin (Osman Nevres): İlk kurşunu sıkarak şehit oldu.\nAlbay Süleyman Fethi Bey: \"Zito Venizelos\" (Yaşa Venizelos) demediği için şehit edildi.\nSonuç: İşgalin geçici olmadığı anlaşıldı, Ulusal Bilinç uyandı ve Kuva-yi Milliye hareketi hızlandı.\n\nCemiyetler:\nZararlı (Azınlıklar): Mavri Mira (Rum-Bizans'ı diriltme), Pontus Rum (Karadeniz'de Rum devleti), Hınçak ve Taşnak (Ermeni devleti), Etnik-i Eterya (Rum, en eski cemiyet).\nZararlı (Milli Varlığa Düşman): İngiliz Muhipleri (İngiliz mandası), Wilson Prensipleri (ABD mandası), Teali İslam (Hilafetçi), Kürt Teali, Sulh ve Selameti Osmaniye.\nYararlı (Milli): Trakya Paşaeli (İlk kurulan), İzmir Müdafaa-i Hukuk (Redd-i İlhak), Kilikyalılar (Adana-Fransızlara karşı), Doğu Anadolu Müdafaa-i Hukuk (Ermenilere karşı, Le Pays/Vatan gazetesi), Milli Kongre (Silahlı değil basın-yayın yoluyla mücadele, \"Kuva-yi Milliye\" tabirini ilk kullanan, Dr. Esat Işık).\n\nKuva-yi Milliye: İşgallere karşı halkın kurduğu düzensiz, bölgesel milis güçlerdir. İhtiyaçlarını halktan karşılarlar. Düşmanı yurttan atamazlar ama oyalarlar.\n\nSevr Antlaşması (10 Ağustos 1920):\nTaslağı San Remo Konferansı'nda hazırlandı.\nSaltanat Şurası imzaladı.\nHukuki Durumu: Mebusan Meclisi onaylamadığı için \"Ölü Doğmuş\" bir antlaşmadır, hukuken geçersizdir.",
+      "questions": [
+        {
+          "text": "I. Dünya Savaşı sonunda yenilen devletlerle yapılacak barış antlaşmalarının esaslarını belirlemek amacıyla toplanan uluslararası konferans hangisidir?",
+          "options": [
+            "Londra Konferansı",
+            "Paris Barış Konferansı",
+            "San Remo Konferansı",
+            "Berlin Konferansı",
+            "Yalta Konferansı"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Paris Barış Konferansı’nda İtilaf Devletleri arasında yaşanan ilk görüş ayrılığı aşağıdaki konulardan hangisinde çıkmıştır?",
+          "options": [
+            "Almanya’nın silahsızlandırılması",
+            "İzmir ve çevresinin İtalya yerine Yunanistan’a verilmesi",
+            "Boğazların yönetimi",
+            "Ermeni devletinin kurulması",
+            "Milletler Cemiyeti’nin kurulması"
+          ],
+          "correctOption": "B",
+          "solution": "İngiltere, Akdeniz’de güçlü bir İtalya istemediği için."
+        },
+        {
+          "text": "Dünya barışını korumak amacıyla kurulan Milletler Cemiyeti’nin (Cemiyet-i Akvam) kurulması kararı nerede alınmıştır?",
+          "options": [
+            "Wilson İlkeleri (Fikir olarak) - Paris Barış Konferansı (Karar olarak)",
+            "Lozan Antlaşması",
+            "Berlin Antlaşması",
+            "San Remo Konferansı",
+            "Londra Konferansı"
+          ],
+          "correctOption": "E",
+          "solution": "Fikir Wilson’da atılmış, kuruluş kararı Paris’te verilmiştir."
+        },
+        {
+          "text": "15 Mayıs 1919’da İzmir’in işgali sırasında, \"Zito Venizelos\" (Yaşa Venizelos) demediği için Yunan askerleri tarafından şehit edilen Osmanlı subayı kimdir?",
+          "options": [
+            "Hasan Tahsin",
+            "Süleyman Fethi Bey",
+            "Yörük Ali Efe",
+            "Refet Bele",
+            "Kazım Özalp"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "İzmir’in işgalinin Türk halkı üzerinde yarattığı en önemli etki nedir?",
+          "options": [
+            "İstanbul Hükümeti’ne güven artmıştır.",
+            "İşgalin geçici olmadığı anlaşılmış ve \"Ulusal Bilinç\" uyanarak direniş hızlanmıştır.",
+            "Amerikan mandası kabul edilmiştir.",
+            "Padişahın yetkileri artırılmıştır.",
+            "İngiltere ile ittifak arayışına girilmiştir."
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mondros’tan sonra işgallere karşı halkın oluşturduğu silahlı direniş birliklerine \"Kuva-yi Milliye\" denir. Aşağıdakilerden hangisi Kuva-yi Milliye’nin özelliklerinden biri değildir?",
+          "options": [
+            "Bölgesel amaçlıdırlar.",
+            "Düzensiz birliklerdir, askeri disiplinden yoksundurlar.",
+            "İhtiyaçlarını halktan karşılarlar.",
+            "Düşmanı yurttan tamamen atacak güce sahiptirler.",
+            "İşgalleri yavaşlatmış ve TBMM’ye zaman kazandırmışlardır."
+          ],
+          "correctOption": "C",
+          "solution": "Düşmanı oyaladılar ancak yurttan atacak güçleri yoktu, bu yüzden düzenli ordu kuruldu."
+        },
+        {
+          "text": "Basın ve yayın yoluyla Milli Mücadele’yi savunmak amacıyla İstanbul’da kurulan ve \"Kuva-yi Milliye\" tabirini ilk kez kullanan yararlı cemiyet hangisidir?",
+          "options": [
+            "Milli Kongre Cemiyeti",
+            "Kilikyalılar Cemiyeti",
+            "Trakya Paşaeli Cemiyeti",
+            "Redd-i İlhak Cemiyeti",
+            "Wilson Prensipleri Cemiyeti"
+          ],
+          "correctOption": "A",
+          "solution": "Dr. Esat Işık tarafından kurulmuştur."
+        },
+        {
+          "text": "Aşağıdaki yararlı cemiyetlerden hangisi, bulunduğu bölgeyi (Edirne ve çevresi) kurtaramazsa \"bağımsız bir devlet kurmayı\" bile düşünmüştür?",
+          "options": [
+            "Doğu Anadolu Müdafaa-i Hukuk",
+            "Trakya Paşaeli Cemiyeti",
+            "Trabzon Muhafaza-i Hukuk",
+            "Kilikyalılar",
+            "Milli Kongre"
+          ],
+          "correctOption": "B",
+          "solution": "Osmanlı yıkılırsa Trakya Cumhuriyeti’ni kurmayı planlamışlardır."
+        },
+        {
+          "text": "Çukurova (Adana ve çevresi) bölgesini Fransız ve Ermeni işgallerine karşı savunmak amacıyla kurulan, adı zararlı cemiyetleri andırsa da yararlı olan cemiyet hangisidir?",
+          "options": [
+            "Etnik-i Eterya",
+            "Kilikyalılar Cemiyeti",
+            "Alyans İsrailit",
+            "Mavri Mira",
+            "Hınçak"
+          ],
+          "correctOption": "C",
+          "solution": "Kilikya, bölgenin eski adıdır."
+        },
+        {
+          "text": "Doğu Anadolu’da bir Ermeni devletinin kurulmasını engellemek amacıyla kurulan ve \"Le Pays\" (Vatan), \"Hadisat\", \"Albayrak\" gazetelerini çıkaran cemiyet hangisidir?",
+          "options": [
+            "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti",
+            "Trabzon Muhafaza-i Hukuk Cemiyeti",
+            "Kars İslam Şurası",
+            "Vilayet-i Şarkiye Cemiyeti",
+            "Anadolu Kadınları Cemiyeti"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Rumlar tarafından kurulan ve amacı İstanbul merkezli Bizans İmparatorluğu’nu yeniden diriltmek (Megali İdea) olan zararlı cemiyet hangisidir?",
+          "options": [
+            "Pontus Rum",
+            "Etnik-i Eterya",
+            "Mavri Mira",
+            "Hınçak",
+            "Taşnak"
+          ],
+          "correctOption": "D",
+          "solution": "Kara Gün anlamına gelir."
+        },
+        {
+          "text": "Karadeniz Bölgesi’nde (Samsun-Trabzon) bağımsız bir Rum devleti kurmayı amaçlayan zararlı cemiyet hangisidir?",
+          "options": [
+            "Pontus Rum Cemiyeti",
+            "Mavri Mira",
+            "Etnik-i Eterya",
+            "Kardos",
+            "Alyans İsrailit"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Ermeniler tarafından kurulan ve Doğu Anadolu’da bağımsız bir Ermenistan kurmayı hedefleyen cemiyetler hangileridir?",
+          "options": [
+            "Hınçak ve Taşnak",
+            "Mavri Mira ve Pontus",
+            "Makabi ve Alyans İsrailit",
+            "Etnik-i Eterya",
+            "İngiliz Muhipleri"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türkler tarafından kurulmasına rağmen Milli Mücadele’ye karşı olan (Milli Varlığa Düşman) cemiyetlerden hangisi, kurtuluşun \"Amerikan Mandası\"na girmekle mümkün olacağını savunmuştur?",
+          "options": [
+            "İngiliz Muhipleri Cemiyeti",
+            "Wilson Prensipleri Cemiyeti",
+            "Teali İslam Cemiyeti",
+            "Sulh ve Selameti Osmaniye",
+            "Kürt Teali Cemiyeti"
+          ],
+          "correctOption": "C",
+          "solution": "Halide Edip gibi bazı aydınlar da bir dönem savunmuştur."
+        },
+        {
+          "text": "Padişah ve Halifeye bağlı kalarak kurtuluşun sağlanacağını savunan ve Konya isyanlarında etkili olan zararlı cemiyet hangisidir?",
+          "options": [
+            "Teali İslam Cemiyeti",
+            "Hürriyet ve İtilaf Fırkası",
+            "İngiliz Muhipleri",
+            "Wilson Prensipleri",
+            "Nigehban Cemiyeti"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "İtilaf Devletleri’nin Osmanlı Devleti ile imzalayacağı barış antlaşmasının (Sevr) taslağını hazırladıkları konferans hangisidir?",
+          "options": [
+            "Paris Konferansı",
+            "Londra Konferansı",
+            "San Remo Konferansı",
+            "Yalta Konferansı",
+            "Berlin Konferansı"
+          ],
+          "correctOption": "D",
+          "solution": "İtalya'da toplanmıştır."
+        },
+        {
+          "text": "10 Ağustos 1920’de imzalanan Sevr Barış Antlaşması’nı Osmanlı Devleti adına imzalayan heyete ne ad verilir?",
+          "options": [
+            "Meclis-i Mebusan",
+            "Saltanat Şurası",
+            "Temsil Heyeti",
+            "Ayan Meclisi",
+            "Bakanlar Kurulu"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Sevr Antlaşması’nın hukuken geçersiz (ölü doğmuş) sayılmasının temel nedeni nedir?",
+          "options": [
+            "Padişahın imzalamaması",
+            "Mebusan Meclisi tarafından onaylanmaması (Meclis kapalıydı)",
+            "İtilaf Devletleri’nin aralarında anlaşamaması",
+            "Mustafa Kemal’in karşı çıkması",
+            "Süresinin dolması"
+          ],
+          "correctOption": "B",
+          "solution": "Kanun-i Esasi’ye göre bir antlaşmanın geçerli olması için meclis onayı şarttır."
+        },
+        {
+          "text": "TBMM, Sevr Antlaşması’nı imzalayan Saltanat Şurası üyeleri hakkında hangi kararı almıştır?",
+          "options": [
+            "Sürgün edilmeleri",
+            "Vatan haini sayılmaları",
+            "Affedilmeleri",
+            "Emekli edilmeleri",
+            "Hapse atılmaları"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Sevr Antlaşması’na göre, Doğu Anadolu’da kurulması planlanan iki devlet hangisidir?",
+          "options": [
+            "Ermenistan - Gürcistan",
+            "Ermenistan - Kürdistan",
+            "Pontus - Ermenistan",
+            "Azerbaycan - Ermenistan",
+            "Kürdistan - Gürcistan"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Sevr Antlaşması’na göre İzmir ve çevresi ile Doğu Trakya kime bırakılmıştır?",
+          "options": [
+            "İtalya",
+            "Fransa",
+            "İngiltere",
+            "Yunanistan",
+            "Osmanlı"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Mondros’tan sonra kurulan ilk yararlı cemiyet hangisidir?",
+          "options": [
+            "İzmir Müdafaa-i Hukuk",
+            "Trakya Paşaeli Cemiyeti",
+            "Doğu Anadolu Müdafaa-i Hukuk",
+            "Kilikyalılar",
+            "Milli Kongre"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Kuva-yi Milliye liderlerinden biri değildir?",
+          "options": [
+            "Çerkez Ethem",
+            "Demirci Mehmet Efe",
+            "Yörük Ali Efe",
+            "İpsiz Recep",
+            "Ahmet Anzavur"
+          ],
+          "correctOption": "A",
+          "solution": "Ahmet Anzavur, Kuva-yi Milliye'ye karşı İstanbul Hükümeti tarafından çıkarılan bir isyanın lideridir."
+        },
+        {
+          "text": "Milli Mücadele karşıtı olup, İngiliz mandasını savunan ve Damat Ferit Paşa’nın da üyesi olduğu cemiyet hangisidir?",
+          "options": [
+            "Wilson Prensipleri",
+            "İngiliz Muhipleri Cemiyeti",
+            "Teali İslam",
+            "Kürt Teali",
+            "Hürriyet ve İtilaf"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "I. Dünya Savaşı sonunda imzalanan barış antlaşmaları içinde, uygulanma kabiliyeti bulamayan ve en son imzalanan antlaşma hangisidir?",
+          "options": [
+            "Versay",
+            "Nöyyi",
+            "Sevr",
+            "Triyanon",
+            "Sen Jermen"
+          ],
+          "correctOption": "C",
+          "solution": "Kurtuluş Savaşı’nın başarısı nedeniyle uygulanamamıştır."
+        }
+      ]
+    }
+  ]
+}

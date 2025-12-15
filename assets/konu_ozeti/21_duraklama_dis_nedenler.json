@@ -1,0 +1,72 @@
+{
+  "konu_adi": "21- DURAKLAMA DÖNEMİ DIŞ NEDENLERİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "DURAKLAMA DÖNEMİ DIŞ NEDENLERİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🌍 Batı'nın Üstünlüğü ve Osmanlı'nın Geri Kalması"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Osmanlı'nın 17. yüzyılda girdiği krizin temel dış nedenleri, Avrupa'daki köklü değişimler ve imparatorluğun bu değişimlere (Rönesans, Reform) ayak uyduramamasıdır."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Coğrafi Keşiflerin Etkisi (Ekonomik Vurucu Darbe)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Ticaret Yollarının Yön Değiştirmesi: Yeni ticaret yollarının (Ümit Burnu, Amerika) bulunmasıyla Akdeniz ve Karadeniz ticaret yolları önemini yitirmiştir.",
+        "Osmanlı'nın Gelir Kaybı: İpek ve Baharat Yolu'ndan alınan Gümrük Vergileri azalmış, hazine olumsuz etkilenmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Avrupa'daki Bilimsel ve Teknik Gelişmeler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Rönesans ve Reform: Skolastik düşünce yıkılmış, bilimde özgür düşünce ve ulusal eğitim sistemleri gelişmiştir.",
+        "Bilim ve Teknoloji Farkı: Avrupa, bilimsel ve teknik (özellikle askeri teknoloji) alanda hızla gelişerek Osmanlı'yı geçmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Avrupa'ya Akan Değerli Madenler (Enflasyon)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Sömürgecilik: Amerika kıtasından gelen bol miktardaki altın ve gümüş, Avrupa piyasasına girmiştir.",
+        "Değer Kaybı ve Enflasyon: Artan maden bolluğu paranın değerini düşürmüş ve Osmanlı piyasasında büyük bir enflasyon (Fiyat devrimi) yaşanmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Kapitülasyonların Yükü (İç Ekonomiye Zarar)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Yabancı devletlere verilen ticari ve hukuki ayrıcalıklardır.",
+        "Yerli Sanayinin Çöküşü: Ucuz Avrupa mallarının Osmanlı pazarına girmesi, yerli sanayi ve lonca (esnaf) teşkilatının çöküşüne neden olmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "5. Avrupa'nın Siyasi Güçlenmesi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Merkezi Krallıkların Güçlenmesi: Feodalitenin yıkılmasıyla Avrupa'da kurulan güçlü ve merkezi krallıklar, Osmanlı'ya karşı daha organize mücadele etmeye başlamışlardır.",
+        "Rusya'nın Güçlenmesi: Rusya, 17. yüzyıldan itibaren Batılılaşma yoluna girmiş ve Osmanlı'ya karşı Karadeniz ve Balkanlar üzerinden tehdit oluşturmaya başlamıştır."
+      ]
+    }
+  ]
+}

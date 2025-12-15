@@ -1,0 +1,109 @@
+{
+  "konu_adi": "37- BİRİNCİ DÜNYA SAVAŞI (1914 – 1918)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "BİRİNCİ DÜNYA SAVAŞI (1914 – 1918)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🌍 Genel Nedenler ve Bloklaşma"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Genel Nedenler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Sömürgecilik ve Ekonomik Rekabet: Almanya'nın hammadde ve pazar arayışı.",
+        "Milliyetçilik: Rusya'nın Panslavizm politikası ve Avusturya-Macaristan/Osmanlı'nın parçalanma süreci.",
+        "Savaşın Görünen Nedeni: Avusturya-Macaristan veliahdı Franz Ferdinand'ın Saraybosna'da öldürülmesi (28 Haziran 1914)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Siyasi Bloklar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İtilaf Devletleri: İngiltere, Fransa, Rusya, ABD, İtalya (sonradan).",
+        "İttifak Devletleri (Merkezi Güçler): Almanya, Avusturya-Macaristan, Osmanlı (1914), Bulgaristan (1915)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Osmanlı'nın Savaşa Girişi (1914)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Savaşa Girme Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Toprakları Geri Alma İsteği (Turancılık ideali).",
+        "Siyasi Yalnızlıktan Kurtulma çabası.",
+        "İttihat ve Terakki'nin Alman hayranlığı ve baskısı.",
+        "Savaşı Başlatan Olay: Alman gemileri Yavuz ve Midilli'nin Rus limanlarını bombalaması."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Osmanlı Cepheleri (Ana Cepheler)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Saldırı (Taarruz) Cepheleri: Kafkas (Bakü petrolleri ve Turancılık amacı, Sarıkamış faciası) ve Kanal (Süveyş Kanalı'nı kesme amacı, başarısız)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Savunma (Müdafaa) Cepheleri: Çanakkale (En büyük zafer, Mustafa Kemal'in ünü), Irak, Hicaz-Yemen (İslamcılığın çöktüğü cephe), Suriye-Filistin (Mustafa Kemal'in son başarılı savunması)."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Çanakkale Zaferi'nin Önemi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İstanbul'un işgali engellenmiş, savaş uzamıştır.",
+        "Mustafa Kemal'in tüm yurtta tanınan bir kahraman olmasını sağlamıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛑 Savaşın Sonu ve Sonuçları"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Osmanlı'nın Savaştan Çekilmesi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Nedenler: Müttefik (Bulgaristan) çekilince Almanya ile kara bağlantısının kesilmesi ve askeri tükenme.",
+        "Sonuç: 30 Ekim 1918'de Mondros Ateşkes Antlaşması'nı imzalayarak savaştan çekilmiştir (Fiilen sona ermiştir)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Genel Sonuçlar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Dört Büyük İmparatorluk (Osmanlı, Alman, Avusturya-Macaristan, Rus Çarlığı) yıkılmıştır.",
+        "Milletler Cemiyeti (Cemiyet-i Akvam) kurulmuştur.",
+        "Sömürgecilik, Manda ve Himaye sistemi adı altında devam etmiştir.",
+        "Türkiye Cumhuriyeti'nin kuruluş süreci başlamıştır."
+      ]
+    }
+  ]
+}

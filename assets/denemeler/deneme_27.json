@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 27",
+  "examCode": "deneme_27",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 30)\n\n**İlk Çağdan Günümüze:** Türklerde göçebe yaşam tarzı, Hayvan Üslubu sanatının gelişmesine neden olmuştur. Orhun Abideleri'nin yazarının Yollug Tigin olduğu kabul edilir. Büyük Selçuklu Devleti'nde Vezir Nizamülmülk tarafından kurulan Nizamiye Medreseleri, dönemin en büyük bilim merkezidir. Anadolu'da kurulan ilk medrese Danişmentliler'e ait Yağıbasan Medresesi'dir. Anadolu Selçuklu Devleti'nde Ahilik teşkilatı, esnaf ve zanaatkarların mesleki ve ahlaki eğitimini sağlamıştır.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde Pençik Sistemi uygulanmış, Fatih döneminde 'Kardeş Katli' yasallaşmıştır. Yavuz Sultan Selim'in Mısır Seferi ile Halifelik Osmanlı'ya geçmiştir. Lale Devri'ni bitiren Patrona Halil İsyanı'dır (1730). II. Mahmut döneminde (1838) Balta Limanı Ticaret Antlaşması ile Osmanlı, İngiltere'nin açık pazarı haline gelmiştir. İlk yazılı anayasa Kanun-i Esasi (1876)'dir.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, bölgesel amaçlı, düzensiz birliklerdir. Amasya Genelgesi, Milli Mücadele'nin gerekçesini ve yöntemini belirlemiştir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiş, Moskova ve Londra Konferansları toplanmıştır. Medeni Kanun ile kadınlara siyasi haklar verilmemiştir. Montrö Boğazlar Sözleşmesi (1936) ile Türkiye, boğazlar üzerindeki tam egemenliğini sağlamıştır.\n\n**Çağdaş Dünya:** Truman Doktrini (1947), Soğuk Savaş'ın başlangıcı sayılır. Türkiye, SSCB tehdidine karşı Batı Bloğu'na dahil olmuştur.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Bozkırın Kuyumcuları olarak bilinen ilk Türk topluluğu hangisidir?",
+      "options": [
+        "Avrupa Hunları",
+        "Asya Hunları",
+        "İskitler (Sakalar)",
+        "Göktürkler",
+        "Uygurlar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Orta Asya'da Türklerin en eski kültürü kabul edilen yerleşim merkezi hangisidir?",
+      "options": [
+        "Anav",
+        "Afanasyevo",
+        "Tagar",
+        "Karasuk",
+        "Andronova"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Büyük Selçuklu Devleti'nde ordu mensuplarına ve devlet memurlarına maaş karşılığı olarak belirli bir arazinin vergi gelirlerinin tahsis edildiği sisteme ne ad verilir?",
+      "options": [
+        "İltizam Sistemi",
+        "Müsadere Sistemi",
+        "Vakıf Sistemi",
+        "Pençik Sistemi",
+        "İkta Sistemi"
+      ],
+      "correctOption": "E",
+      "solution": "Devlet hazinesinden para çıkmaz, üretimde süreklilik sağlanır, taşrada güvenlik sağlanır."
+    },
+    {
+      "id": 4,
+      "text": "Büyük Selçuklu Devleti’nin yıkılış sürecine girmesine neden olan 1141 Katvan Savaşı hangi devlete karşı yapılmıştır?",
+      "options": [
+        "Bizans",
+        "Gazneliler",
+        "Haçlılar",
+        "Karahitaylar",
+        "Abbasi Halifeliği"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nde ilk düzenli ordu (Yaya ve Müsellem) hangi padişah döneminde kurulmuştur?",
+      "options": [
+        "Osman Bey",
+        "Orhan Bey",
+        "I. Murat",
+        "Yıldırım Bayezid",
+        "Fatih Sultan Mehmet"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Yavuz Sultan Selim’in Mısır Seferi’nin (1517) sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Memlük Devleti yıkıldı.",
+        "Halifelik Osmanlı'ya geçti.",
+        "Baharat Yolu Osmanlı'nın denetimine girdi.",
+        "Kutsal Emanetler İstanbul'a getirildi.",
+        "Anadolu Türk Birliği kesin olarak sağlandı."
+      ],
+      "correctOption": "E",
+      "solution": "Anadolu Türk Birliği Turnadağ Savaşı (1515) ile Mısır Seferi'nden önce sağlanmıştır."
+    },
+    {
+      "id": 7,
+      "text": "Kanuni Sultan Süleyman döneminde Barbaros Hayrettin Paşa komutasındaki Osmanlı donanmasının Haçlı donanmasını yendiği ve Akdeniz'i Türk Gölü haline getiren savaş hangisidir?",
+      "options": [
+        "Cerbe Deniz Savaşı",
+        "İnebahtı Deniz Savaşı",
+        "Preveze Deniz Savaşı",
+        "Rodos Kuşatması",
+        "Malta Kuşatması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan ilk belge hangisidir?",
+      "options": [
+        "Tanzimat Fermanı",
+        "Islahat Fermanı",
+        "Kanun-i Esasi",
+        "Sened-i İttifak",
+        "Gülhane Hatt-ı Hümayunu"
+      ],
+      "correctOption": "D",
+      "solution": "II. Mahmut ile Ayanlar arasında imzalanmıştır."
+    },
+    {
+      "id": 9,
+      "text": "II. Abdülhamit döneminde Doğu Anadolu'da Ermeni çetelerine karşı kurulan yerel askerî birliklere ne ad verilir?",
+      "options": [
+        "Nizam-ı Cedid",
+        "Hamidiye Alayları",
+        "Sekban-ı Cedid",
+        "Eşkinci Ocağı",
+        "Redif Birlikleri"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti’nin Rusya ile imzaladığı ve Kırım’ın Rusya’ya ait olduğunu kabul ettiği antlaşma hangisidir?",
+      "options": [
+        "Küçük Kaynarca",
+        "Aynalıkavak",
+        "Yaş",
+        "Bükreş",
+        "Edirne"
+      ],
+      "correctOption": "C",
+      "solution": "1792 - Bu antlaşma ile Dağılma dönemi başlamıştır."
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde Divan-ı Hümayun'un Karar Organı olmaktan çıkıp Danışma Organı haline gelmesinin temel nedeni hangi padişah döneminde başlar?",
+      "options": [
+        "II. Bayezid",
+        "Yavuz Sultan Selim",
+        "Fatih Sultan Mehmet",
+        "Kanuni Sultan Süleyman",
+        "III. Murat"
+      ],
+      "correctOption": "C",
+      "solution": "Fatih döneminde divan başkanlığını Sadrazam'a bırakmıştır."
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı sırasında İngiltere ve Fransa'nın, Osmanlı topraklarını kendi aralarında paylaştıkları antlaşma hangisidir?",
+      "options": [
+        "Londra Antlaşması",
+        "Sykes-Picot Antlaşması",
+        "St. Jean de Maurienne",
+        "Paris Barış Antlaşması",
+        "Mondros Ateşkesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mustafa Kemal, I. Dünya Savaşı'nda Kafkas Cephesi'nde Ruslardan hangi şehirleri geri almıştır?",
+      "options": [
+        "Erzurum ve Erzincan",
+        "Kars ve Ardahan",
+        "Muş ve Bitlis",
+        "Trabzon ve Rize",
+        "Van ve Hakkari"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Erzurum Kongresi’ne sivil olarak katılan Mustafa Kemal’in kongre başkanı seçilmesine en büyük desteği veren ve \"Ben ve kolordum emrinizdeyiz Paşam\" diyen komutan kimdir?",
+      "options": [
+        "Ali Fuat Paşa",
+        "Rauf Orbay",
+        "Refet Bele",
+        "Kazım Karabekir",
+        "İsmet Paşa"
+      ],
+      "correctOption": "D",
+      "solution": "15. Kolordu Komutanı. Bu destek Mustafa Kemal'in liderliğini perçinlemiştir."
+    },
+    {
+      "id": 15,
+      "text": "Milli Mücadele’nin hazırlık safhasında yayımlanan ilk ulusal genelge hangisidir?",
+      "options": [
+        "Erzurum Kongresi",
+        "Tekalif-i Milliye",
+        "Amasya Genelgesi",
+        "Sivas Kongresi",
+        "Havza Genelgesi"
+      ],
+      "correctOption": "E",
+      "solution": "Havza Genelgesi, ulusal bilinci uyandırmak için yayımlanan ilk belgedir. Amasya ise bir ihtilal bildirisi."
+    },
+    {
+      "id": 16,
+      "text": "Yunanlıların Batı Anadolu'daki işgalinin haksız olduğunu belirten ilk uluslararası belge hangisidir?",
+      "options": [
+        "General Harbord Raporu",
+        "Amiral Bristol Raporu",
+        "Milne Hattı Raporu",
+        "Sandler Raporu",
+        "Hrisantos Raporu"
+      ],
+      "correctOption": "B",
+      "solution": "Milli Mücadele'nin haklılığını dünyaya duyuran ilk belgedir."
+    },
+    {
+      "id": 17,
+      "text": "Büyük Taarruz öncesinde ordunun taarruz eğitimini tamamlaması ve eksiklerin giderilmesi için yaklaşık ne kadar süre beklenmiştir?",
+      "options": [
+        "1 yıl",
+        "2 yıl",
+        "3 ay",
+        "6 ay",
+        "1 ay"
+      ],
+      "correctOption": "A",
+      "solution": "Sakarya 1921 Eylül, Büyük Taarruz 1922 Ağustos. \"Yarım hazırlıkla, yarım tedbirle yapılacak taarruz, hiç taarruz etmemekten daha kötüdür\" denilmiştir."
+    },
+    {
+      "id": 18,
+      "text": "Mudanya Ateşkes Antlaşması’na göre, barış antlaşması imzalanana kadar İtilaf Devletleri askerleri nerede kalmaya devam edecektir?",
+      "options": [
+        "Doğu Trakya",
+        "İstanbul ve Boğazlar",
+        "İzmir",
+        "Ankara",
+        "Antalya"
+      ],
+      "correctOption": "B",
+      "solution": "Yönetim TBMM'ye bırakılmış ancak askeri varlıkları barışa kadar sürmüştür."
+    },
+    {
+      "id": 19,
+      "text": "Türkiye Cumhuriyeti’nin ilk açılan yükseköğretim kurumu (fakültesi) hangisidir?",
+      "options": [
+        "Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi",
+        "İstanbul Üniversitesi",
+        "Ankara Hukuk Mektebi",
+        "Gazi Eğitim Enstitüsü",
+        "Yüksek Ziraat Enstitüsü"
+      ],
+      "correctOption": "C",
+      "solution": "1925 yılında, hukuk devrimini yapacak savcı ve hakim yetiştirmek için açılmıştır."
+    },
+    {
+      "id": 20,
+      "text": "1924 Anayasası'nda 1928 yılında yapılan değişiklikle anayasadan çıkarılan madde hangisidir?",
+      "options": [
+        "\"Devletin dini İslam'dır.\"",
+        "\"Türkçe resmi dildir.\"",
+        "\"Türkiye Devleti bir Cumhuriyettir.\"",
+        "\"Başkent Ankara'dır.\"",
+        "\"Egemenlik kayıtsız şartsız milletindir.\""
+      ],
+      "correctOption": "A",
+      "solution": "Laikleşme yolunda atılan önemli bir adımdır."
+    },
+    {
+      "id": 21,
+      "text": "Atatürk’ün \"Hayatta en hakiki mürşit ilimdir, fendir\" sözü, aşağıdaki ilkelerden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Halkçılık",
+        "Laiklik",
+        "Milliyetçilik",
+        "Devletçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctOption": "B",
+      "solution": "Akıl ve bilimi esas aldığı için Laiklik. Aynı zamanda İnkılapçılıkla da ilgilidir."
+    },
+    {
+      "id": 22,
+      "text": "Musul sorununun çözümü için 1924 yılında İstanbul'da toplanan ve Türkiye'yi Ali Fethi Okyar'ın temsil ettiği konferans hangisidir?",
+      "options": [
+        "Londra Konferansı",
+        "Haliç Konferansı",
+        "San Remo Konferansı",
+        "Lozan Konferansı",
+        "Paris Konferansı"
+      ],
+      "correctOption": "B",
+      "solution": "Sonuç alınamayınca konu Milletler Cemiyeti'ne gitmiştir."
+    },
+    {
+      "id": 23,
+      "text": "Atatürk'ün sağlığında gerçekleşen ancak sonucunu (Türkiye'ye katıldığını) göremediği dış politika olayı hangisidir?",
+      "options": [
+        "Montrö",
+        "Sadabat Paktı",
+        "Hatay'ın Anavatana Katılması",
+        "Balkan Antantı",
+        "Milletler Cemiyeti üyeliği"
+      ],
+      "correctOption": "C",
+      "solution": "Bağımsız Hatay Cumhuriyeti'ni görmüş, ancak ilhakı görememiştir."
+    },
+    {
+      "id": 24,
+      "text": "Türkiye'nin Milletler Cemiyeti'ne girişi (1932) hangi sorunun çözümünden sonra gerçekleşmiştir?",
+      "options": [
+        "Musul",
+        "Kıbrıs",
+        "Boğazlar",
+        "Nüfus Mübadelesi (ve genel olarak Yunanistan ile barış)",
+        "Hatay"
+      ],
+      "correctOption": "D",
+      "solution": "Yunanistan ile barış sağlanınca, Yunanistan Türkiye'nin üyeliğini desteklemiştir."
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sırasında İngiltere Başbakanı olan ve \"Demir Perde\" tabirini kullanarak Soğuk Savaş'ın sinyalini veren lider kimdir?",
+      "options": [
+        "Chamberlain",
+        "Winston Churchill",
+        "Tony Blair",
+        "Thatcher",
+        "Clement Attlee"
+      ],
+      "correctOption": "B",
+      "solution": "Savaşın başında Chamberlain vardı, sonra efsanevi lider Churchill geldi, savaşın sonunda seçimle Attlee geldi."
+    },
+    {
+      "id": 26,
+      "text": "1948 yılında SSCB'nin Batı Berlin'i abluka altına alması üzerine, Batılı devletlerin şehri havadan beslemek için kurdukları lojistik operasyona ne ad verilir?",
+      "options": [
+        "Normandiya Çıkarması",
+        "Berlin Hava Köprüsü",
+        "Özgürlük Yolu",
+        "Barbarossa Harekatı",
+        "Demir Perde Operasyonu"
+      ],
+      "correctOption": "B",
+      "solution": "(Berlin Buhranı.)"
+    },
+    {
+      "id": 27,
+      "text": "1949 yılında ABD öncülüğünde kurulan ve \"Bir üyeye yapılan saldırı hepsine yapılmış sayılır\" ilkesine dayanan Batı Bloğu askeri ittifakı hangisidir?",
+      "options": [
+        "Avrupa Konseyi",
+        "CENTO",
+        "NATO (Kuzey Atlantik Paktı)",
+        "Birleşmiş Milletler",
+        "SEATO"
+      ],
+      "correctOption": "C",
+      "solution": "(Türkiye 1952'de üye olmuştur.)"
+    }
+  ]
+}

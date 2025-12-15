@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 30",
+  "examCode": "deneme_30",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 30)\n\n**İlk Çağdan Günümüze:** Türklerde Ordu-Millet anlayışı hakimdir; askerlik özel bir meslek değil, vatan görevidir. Kırgızlara ait Manas Destanı, dünyanın en uzun destanıdır. İlk Türk-İslam devletlerinden Karahanlılar, Uygur alfabesini kullanmaya devam ederek milliyetçi kimliğini korumuştur. Anadolu Selçuklu Devleti'nde Ahilik teşkilatı, Ahi Evran tarafından kurulmuş ve Bacıyan-ı Rum (Anadolu Kadınlar Teşkilatı) ile desteklenmiştir.\n\n**Osmanlı Yükseliş ve Gerileme:** Fatih Sultan Mehmet, karada Belgrad'ı, denizde Rodos'u kuşatıp alamamıştır. Kanuni döneminde Avusturya Kralı, 1533 İstanbul Antlaşması'nda Osmanlı Sadrazamına denk sayılmıştır (Siyasi üstünlük). II. Mahmut döneminde (1838) Balta Limanı Ticaret Antlaşması ile Osmanlı, İngiltere'nin açık pazarı haline gelmiştir. II. Abdülhamit'in İstibdat dönemi 33 yıl sürmüş, Kanun-i Esasi bu dönemde askıya alınmıştır.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye'nin kaldırılmasının temel nedeni disiplinsizlik ve düşmanı durdurmadaki yetersizliktir. Amasya Genelgesi, Kurtuluş Savaşı'nın gerekçesini 'Vatanın bütünlüğü tehlikededir' maddesiyle açıklamıştır. Sakarya Zaferi, II. Viyana'dan beri süren geri çekilmeye son vermiştir. Cumhuriyetin ilk Başbakanı İsmet İnönü, ilk Meclis Başkanı ise Fethi Okyar'dır. Montrö Boğazlar Sözleşmesi (1936), Almanya ve İtalya'nın saldırgan politikaları nedeniyle imzalanmıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Dünyanın en uzun destanı kabul edilen ve hala canlı bir şekilde anlatılmaya devam eden Manas Destanı hangi Türk topluluğuna aittir?",
+      "options": [
+        "Oğuzlar",
+        "Hunlar",
+        "Kırgızlar",
+        "Uygurlar",
+        "İskitler"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türklerde 'Balbal' adı verilen, mezar başına dikilen heykeller neyi simgeler?",
+      "options": [
+        "Ölen kişinin ruhunu",
+        "Ölen kişinin hayattayken öldürdüğü düşman sayısını",
+        "Hükümdarın tahtını",
+        "Ahiret inancının olmadığını",
+        "Kutsal kabul edilen hayvanları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Karahanlılar döneminde inşa edilen, sınır güvenliği ve ticaret amacıyla kullanılan, İslam mimarisinin ilk kervansaray örnekleri olan yapılar hangisidir?",
+      "options": [
+        "Külliye",
+        "Bimarhane",
+        "Ribat",
+        "Bedesten",
+        "Medrese"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti'nin en parlak dönemi hangi hükümdar zamanında yaşanmıştır?",
+      "options": [
+        "I. Kılıçarslan",
+        "I. Mesut",
+        "II. Kılıçarslan",
+        "I. Alaaddin Keykubat",
+        "I. Gıyaseddin Keyhüsrev"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde Kapıkulu askerlerinin üç ayda bir aldıkları maaşa ne ad verilir?",
+      "options": [
+        "Cülus Bahşişi",
+        "Ulufe",
+        "Tımar",
+        "Zeamet",
+        "Arpalık"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Fatih Sultan Mehmet'in, İstanbul'u fethettikten sonra Roma İmparatorluğu'nun varisi olduğu iddiasıyla kullandığı unvan hangisidir?",
+      "options": [
+        "Sultan-ı İklim-i Rum",
+        "Gazi",
+        "Halife",
+        "Kayser-i Rum",
+        "Hüdavendigar"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde Divan-ı Hümayun toplantılarının, padişahın mutlak otoritesini ve ulaşılmazlığını vurgulamak amacıyla Sadrazam'ın başkanlığına devredilmesi hangi padişah döneminde başlamıştır?",
+      "options": [
+        "Orhan Bey",
+        "I. Murat",
+        "Fatih Sultan Mehmet",
+        "Kanuni Sultan Süleyman",
+        "II. Mahmut"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde ilk kağıt para (Kaime) hangi padişah döneminde bastırılmıştır?",
+      "options": [
+        "II. Mahmut",
+        "Sultan Abdülmecit",
+        "Sultan Abdülaziz",
+        "V. Mehmet Reşat",
+        "II. Abdülhamit"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "93 Harbi'nden (1877-1878) sonra imzalanan ve Sırbistan, Karadağ, Romanya'nın bağımsız olduğu, Kars, Ardahan, Batum'un Rusya'ya verildiği antlaşma hangisidir?",
+      "options": [
+        "Ayastefanos Antlaşması",
+        "Edirne Antlaşması",
+        "Berlin Antlaşması",
+        "Yaş Antlaşması",
+        "Paris Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "II. Abdülhamit döneminde, Alman İmparatoru II. Wilhelm'in de desteğiyle yapımına başlanan ve Osmanlı'nın İslamcılık politikasını destekleyen demiryolu hattı hangisidir?",
+      "options": [
+        "Hicaz Demiryolu",
+        "Bağdat Demiryolu",
+        "İzmir-Aydın Demiryolu",
+        "Şam-Halep Demiryolu",
+        "Mısır Demiryolu"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde Tanzimat Fermanı (1839) ile padişahın kabul ettiği en temel hukuki ilke nedir?",
+      "options": [
+        "Mutlak Monarşi",
+        "Meşrutiyet Yönetimi",
+        "Kanun Üstünlüğü",
+        "Saltanatın Kaldırılması",
+        "İslam Birliği (Ümmetçilik)"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Trablusgarp Savaşı'nda İtalyanlara karşı Derne ve Tobruk'ta yerel halkı örgütleyerek önemli başarılar kazanan Osmanlı subayı kimdir?",
+      "options": [
+        "Enver Paşa",
+        "Cemal Paşa",
+        "Mustafa Kemal",
+        "Kazım Karabekir",
+        "Ali Fethi Okyar"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması'nın 'Vilayet-i Sitte' (Altı Doğu İli) ile ilgili 24. maddesinin temel amacı nedir?",
+      "options": [
+        "Doğu'da Tımar sistemini kurmak",
+        "Doğu'da bir Ermeni Devleti'ne zemin hazırlamak",
+        "Rusya'nın bölgeye yayılmasını önlemek",
+        "Osmanlı ordusunu terhis etmek",
+        "Petrol kaynaklarını güvence altına almak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Amasya Genelgesi'nde yer alan ve Milli Mücadele'nin gerekçesini oluşturan iki temel madde nedir?",
+      "options": [
+        "Sivas'ta kongre toplanması - Temsil Heyeti kurulması",
+        "İstanbul Hükümeti'nin acizliği - Vatanın ve bağımsızlığın tehlikede olması",
+        "Manda ve himayenin kabul edilemezliği - Milli iradenin hakim kılınması",
+        "Mebusan Meclisi'nin toplanması - Saltanatın kaldırılması",
+        "Kuvayi Milliye'nin kurulması - Düzenli orduya geçilmesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Erzurum Kongresi'nde alınan 'Manda ve himaye kabul edilemez' kararı, Milli Mücadele'nin hangi özelliğini kesinleştirmiştir?",
+      "options": [
+        "Milli egemenlik",
+        "Ulusal bağımsızlık",
+        "Ulusal birlik",
+        "Temsil Heyeti'nin varlığı",
+        "Halkçılık"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Türk ordusunun 1683 II. Viyana Kuşatması'ndan beri devam eden geri çekilişine son veren, savunmadan taarruza geçişin başlangıcı sayılan savaş hangisidir?",
+      "options": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Kütahya-Eskişehir Savaşları",
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Güney Cephesi'ni resmen kapatan ve TBMM'yi tanıyan ilk İtilaf devleti olan Fransa ile imzalanan antlaşma hangisidir?",
+      "options": [
+        "Gümrü Antlaşması",
+        "Kars Antlaşması",
+        "Moskova Antlaşması",
+        "1921 Ankara Antlaşması",
+        "Mudanya Ateşkesi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda çözülemeyerek Türkiye ile İngiltere arasındaki ikili görüşmelere bırakılan tek sınır sorunu hangisidir?",
+      "options": [
+        "Suriye Sınırı (Hatay)",
+        "Yunanistan Sınırı",
+        "Irak Sınırı (Musul)",
+        "Bulgaristan Sınırı",
+        "Ege Adaları"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Atatürk dönemi inkılaplarından, Batı ile uyumu sağlamak ve ulusal egemenliği güçlendirmek amacıyla yapılan inkılaplara ne ad verilir?",
+      "options": [
+        "Laiklik",
+        "Halkçılık",
+        "İnkılapçılık",
+        "Milliyetçilik",
+        "Devletçilik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Türkçe’nin dünya dillerinin kökeni olduğunu savunan 'Güneş Dil Teorisi', aşağıdaki hangi kurumun çalışmaları sırasında ortaya atılmıştır?",
+      "options": [
+        "Türk Tarih Kurumu",
+        "Halkevleri",
+        "Türk Dil Kurumu",
+        "Millet Mektepleri",
+        "Darülfünun"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?",
+      "options": [
+        "Mustafa Kemal Atatürk",
+        "Ali Fethi Okyar",
+        "Kazım Karabekir",
+        "İsmet İnönü",
+        "Celal Bayar"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "1937 yılında imzalanan Sadabat Paktı'na, Hatay sorunu nedeniyle katılmayan Ortadoğu devleti hangisidir?",
+      "options": [
+        "İran",
+        "Irak",
+        "Afganistan",
+        "Suriye",
+        "Suudi Arabistan"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "1930 yılında Ali Fethi Okyar tarafından (Atatürk'ün isteğiyle) kurulan Serbest Cumhuriyet Fırkası'nın kapatılmasının temel nedeni nedir?",
+      "options": [
+        "Ekonomik programının başarısızlığı",
+        "Partinin rejim karşıtlarının odağı haline gelmesi ve Fethi Bey'in partiyi feshetmesi",
+        "İzmir Suikastı",
+        "Menemen Olayı'nda rol oynaması",
+        "Cumhurbaşkanı'nın müdahalesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Montrö Boğazlar Sözleşmesi (1936) ile Türkiye'nin diplomatik alanda elde ettiği en büyük kazanım nedir?",
+      "options": [
+        "Boğazların tamamen askersizleştirilmesi",
+        "Karadeniz'e kıyısı olmayan devletlerin geçişinin yasaklanması",
+        "Boğazlar Komisyonu'nun kaldırılarak yetkinin tam olarak Türkiye'ye devredilmesi",
+        "Boğazların NATO'ya devredilmesi",
+        "Rusya'nın Boğazlar üzerindeki kontrolünün artması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "İtalya'da Faşist Parti'nin lideri olan ve 'Bizim Deniz' (Mare Nostrum) sloganını kullanan diktatör kimdir?",
+      "options": [
+        "Adolf Hitler",
+        "Benito Mussolini",
+        "Francisco Franco",
+        "Stalin",
+        "Victor Emmanuel"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "II. Dünya Savaşı sırasında ABD'nin Japonya'yı teslime zorlamak için atom bombası attığı iki şehir hangisidir?",
+      "options": [
+        "Tokyo - Kyoto",
+        "Hiroşima - Nagazaki",
+        "Osaka - Kobe",
+        "Yokohama - Sapporo",
+        "Tokyo - Nagazaki"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1960 darbesinden sonra, eski Demokrat Parti üyelerinin yargılandığı mahkeme süreci hangi adada gerçekleştirilmiştir?",
+      "options": [
+        "Büyükada",
+        "Heybeliada",
+        "Yassıada",
+        "Kınalıada",
+        "İmralı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

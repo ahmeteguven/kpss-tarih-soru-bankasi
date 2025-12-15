@@ -1,0 +1,118 @@
+{
+  "konu_adi": "38- YARARLI VE ZARARLI CEMİYETLER",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "MİLLİ MÜCADELE DÖNEMİ CEMİYETLERİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Cemiyetlerin Ortaya Çıkışı ve Ortak Amaçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Neden: Mondros Ateşkes Antlaşması'nın imzalanması ve İtilaf Devletleri'nin işgalleri başlatması.",
+        "Ortak Amaç: Mondros'un 7. ve 24. maddelerine dayanarak başlayan işgalleri protesto etmek ve halkı örgütlemektir.",
+        "Gereklilik: İstanbul Hükümeti'nin işgaller karşısındaki pasif politikası nedeniyle halk kendi bölgelerini savunmak için cemiyetler kurmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Yararlı (Ulusal) Cemiyetler (Milli Cemiyetler)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Ortak Özellikleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kuruluş: Yerel kurulmuşlardır, kuruldukları bölgeyi savunmayı amaçlamışlardır (Genel bir amaçları yoktu).",
+        "Yöntem: Yasal yollarla (mitingler, protestolar) direnmişlerdir.",
+        "Birleşme: Sivas Kongresi'nde tek çatı altında birleştirilmişlerdir (Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Önemli Ulusal Cemiyetler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Trakya Paşaeli Müdafaa-i Hukuk: Trakya'nın Yunanistan'a verilmesini engellemek ve gerekirse bölgede Türk Cumhuriyeti kurmayı amaçlamıştır (Cumhuriyet fikrinin ilk tohumları)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "İzmir Redd-i İlhak: İzmir'in Yunanistan'a bağlanmasını (ilhakını) reddetmek ve Batı Anadolu'da Türk hakimiyetini korumaktır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Doğu Anadolu Müdafaa-i Hukuk: 24. maddenin uygulanmasını engellemek ve Ermeni Devleti kurulmasına karşı koymak. Erzurum Kongresi'ni toplamıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kilikyalılar: Adana ve çevresini Fransız ve Ermeni işgalinden kurtarmaktır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🩸 Zararlı Cemiyetler"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Azınlıkların Kurduğu Zararlı Cemiyetler (İşgalci Destekçileri)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Mavri Mira (Kara Gün): Büyük Yunanistan (Megali İdea) kurmayı amaçlamıştır (İstanbul, Trakya, Batı Anadolu)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Pontus Rum Cemiyeti: Pontus Rum Devleti (Trabzon merkezli) kurulmasını amaçlamıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Hınçak ve Taşnak Cemiyetleri: Doğu Anadolu'da Büyük Ermenistan Devleti kurmayı amaçlamışlardır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. İstanbul Hükümeti'ne Bağlı Zararlı Cemiyetler (Ulusal Direniş Karşıtları)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Sulh ve Selamet-i Osmaniye Fırkası: Tek kurtuluşun Padişahın emirlerine uymak olduğunu savunmuştur."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "İngiliz Muhipleri Cemiyeti: İngiliz himayesine girerek devletin kurtulabileceğini savunmuştur."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Wilson Prensipleri Cemiyeti: ABD mandasına girerek devletin dağılmasını engellemeyi savunmuştur."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📝 Cemiyetlerin Milli Mücadele'deki Yeri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yararlı Cemiyetler: Milli Mücadele'nin ilk temelini oluşturmuşlardır. Yerel direniş ruhunu örgütlemiş ve Kongrelerin (Erzurum, Sivas) toplanmasına zemin hazırlamışlardır."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "konu_adi": "48- ATATÜRK’ÜN ÖĞRENİM HAYATI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ATATÜRK’ÜN ÖĞRENİM HAYATI"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👶 Erken Yaşam ve İlk Öğrenim Yılları"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Mustafa Kemal, 1881 yılında Selanik'te doğdu. Selanik'in çok yönlü kültürel ortamı, Atatürk'ün fikir yapısının gelişmesine zemin hazırlamıştır."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Öğrenim Hayatına Başlangıç"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Mahalle Mektebi: Annesi Zübeyde Hanım'ın isteğiyle başladığı geleneksel okul.",
+        "Şemsi Efendi Mektebi: Babası Ali Rıza Efendi'nin isteğiyle geçmiştir (Modern eğitime ilk adım)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Askeri Okul Yılları ve \"Kemal\" Adını Alışı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Selanik Askeri Rüştiyesi (1893): Matematik öğretmeni Yüzbaşı Mustafa tarafından kendisine \"Kemal\" adı verilmiştir (Mustafa Kemal adını ilk kez bu okulda almıştır)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Manastır Askeri İdadisi (1896-1899): Fikir hayatının en çok geliştiği okuldur. Tarih öğretmeni Mehmet Tevfik Bey'in etkisiyle özgürlük ve milliyetçilik fikirleri pekişmiştir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Fikir Hayatının Oluşumu"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. İstanbul Harp Okulu ve Harp Akademisi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Harp Okulu (1899-1902): Teğmen rütbesiyle mezun olmuştur. Meşrutiyet fikirlerini okumuş, ülke sorunlarıyla ilgilenmeye başlamıştır.",
+        "Harp Akademisi (1902-1905): Kurmay Yüzbaşı rütbesiyle mezun olmuştur. Liderlik yeteneği burada netleşmiştir.",
+        "Gizli Faaliyetler: Ülkenin kötü gidişatını gören Mustafa Kemal, arkadaşlarıyla birlikte el yazması gazeteler çıkarmış ve siyasi bilincini göstermiştir.",
+        "Etkilendiği Düşünürler: Namık Kemal, Tevfik Fikret (Türk aydınları); Montesquieu ve Jean Jacques Rousseau (Fransız düşünürler)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Öğrenim Hayatının Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Çok Yönlülük: Selanik'teki ortam ve modern eğitim sayesinde Batı'ya açık, çok yönlü bir fikir yapısı oluşmuştur.",
+        "Vatanseverlik ve Liderlik: Askeri okullardaki disiplin ve hitabet yeteneği, onun gelecekte Milli Mücadele'ye liderlik yapacak bir kurmay olmasını sağlamıştır.",
+        "Siyasi Faaliyetlerin Başlangıcı: Okul sıralarında başlayan Meşrutiyet düşüncesine olan inancı, onu Jön Türk (İttihatçı) kadrolara yaklaştırmıştır."
+      ]
+    }
+  ]
+}

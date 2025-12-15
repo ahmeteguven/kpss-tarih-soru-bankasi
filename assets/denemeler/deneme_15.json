@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 15",
+  "examCode": "deneme_15",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 15)\n\n**İlk Çağdan Günümüze:** Bilinen ilk Türk topluluğu İskitler'dir (Sakalar). Türk tarihinde 'Türk' adını siyasi olarak kullanan ilk devlet I. Göktürkler'dir. Talas Savaşı'nda (751) Türklerin Abbasileri desteklemesiyle İslamiyet Türkler arasında yayılmaya başlamış ve kağıt Çin dışına çıkmıştır. Anadolu Selçuklu Devleti'nde ilk altın parayı II. Kılıçarslan bastırmıştır. Anadolu'da kurulan ilk medrese Danişmentliler'e ait Yağıbasan Medresesi'dir.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde savaş alanında şehit düşen tek Osmanlı padişahıdır. Fatih Sultan Mehmet döneminde İstanbul'un fethi, Orta Çağ'ı kapatıp Yeni Çağ'ı başlatmıştır. Kanuni Sultan Süleyman döneminde Preveze Deniz Savaşı (1538) ile Akdeniz Türk Gölü olmuştur. Lale Devri (1718-1730) Batı'nın üstünlüğünün kabul edildiği Pasarofça Antlaşması ile başlamıştır. 1876'da ilan edilen Kanun-i Esasi, Türk tarihinin ilk yazılı anayasasıdır.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, işgallere karşı ilk direniş örgütleridir. Amasya Genelgesi, Milli Mücadele'nin gerekçesini 'Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir' maddesiyle açıklamıştır. I. İnönü Savaşı sonucunda Moskova Antlaşması ile Batum Misak-ı Milli'den ilk taviz olmuştur. Medeni Kanun, İsviçre'den alınmıştır. Montrö Boğazlar Sözleşmesi (1936) ile Türkiye, boğazlar üzerindeki tam egemenliğini sağlamıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk adının \"Türemek\" anlamına geldiğini belirten, Türk tarihine dair önemli araştırmalar yapmış Macar Türkolog kimdir?",
+      "options": [
+        "W. Radloff",
+        "A. Vambery",
+        "V. Thomsen",
+        "Barthold",
+        "Zeki Velidi Togan"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Uygurların yerleşik hayata geçmesiyle birlikte Türk kültüründe aşağıdakilerden hangisinde bir değişim yaşandığı söylenemez?",
+      "options": [
+        "Veraset sistemi ve Kut anlayışı",
+        "Askeri stratejiler ve savunma anlayışı",
+        "Sanat anlayışı ve uğraş alanları",
+        "Hukuk kuralları ve cezaların süresi",
+        "Dini inanış ve tapınak mimarisi"
+      ],
+      "correctOption": "A",
+      "solution": "Yerleşik hayata geçmek veya din değiştirmek, hükümdarın yönetme yetkisini Tanrı'dan aldığı \"Kut\" inancını ve veraset sistemini değiştirmemiştir."
+    },
+    {
+      "id": 3,
+      "text": "Hindistan’a 17 sefer düzenleyerek bölgede İslamiyet’in yayılmasını sağlayan ve bugünkü Pakistan-Hindistan Müslüman nüfusunun temellerini atan Türk hükümdarı kimdir?",
+      "options": [
+        "Babür Şah",
+        "Timur",
+        "Şah Cihan",
+        "Gazneli Mahmut",
+        "Sultan Mesut"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti’nde donanma komutanlarına ne ad verilirdi?",
+      "options": [
+        "Subaşı",
+        "Atabey",
+        "Pervaneci",
+        "Emir-i Dad",
+        "Melikü's-Sevahil (Sahillerin Meliki)"
+      ],
+      "correctOption": "E",
+      "solution": "Veya Reisü'l-Bahr"
+    },
+    {
+      "id": 5,
+      "text": "I. Murat döneminde savaş alanını gezerken bir Sırp askeri tarafından şehit edilen ve savaş alanında şehit düşen ilk ve tek Osmanlı padişahı kimdir?",
+      "options": [
+        "I. Mehmet",
+        "II. Murat",
+        "I. Murat (Hüdavendigar)",
+        "Osman Bey",
+        "Orhan Bey"
+      ],
+      "correctOption": "C",
+      "solution": "I. Kosova Savaşı sonrası."
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti’nin Rumeli’ye geçişini sağlayan ve Rumeli’de ele geçirilen ilk toprak parçası olan yer neresidir?",
+      "options": [
+        "Gelibolu",
+        "Çimpe Kalesi",
+        "Edirne",
+        "Selanik",
+        "Varna"
+      ],
+      "correctOption": "B",
+      "solution": "Kantakuzen'e yapılan yardım karşılığı hediye edilmiştir."
+    },
+    {
+      "id": 7,
+      "text": "Kanuni Sultan Süleyman’ın Hint Okyanusu’ndaki faaliyetlerini engellemek ve Müslüman tüccarlara yardım etmek amacıyla Hint Deniz Seferlerini düzenlemiştir. Bu seferlerin başarısız olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Portekiz donanmasının çok zayıf olması",
+        "Hint Müslümanlarının Osmanlı’ya ihanet etmesi",
+        "Seferlerin çok kısa sürmesi",
+        "Osmanlı donanmasının okyanus şartlarına uygun olmaması (Kadırgaların dayanıksızlığı)",
+        "Komutanların yetersizliği"
+      ],
+      "correctOption": "D",
+      "solution": "İç deniz -Akdeniz- gemileri okyanus dalgalarına dayanamamıştır."
+    },
+    {
+      "id": 8,
+      "text": "1718 yılında Avusturya ile imzalanan, Osmanlı’nın Batı’nın teknik üstünlüğünü ilk kez kabul ettiği ve Lale Devri’nin başlamasına neden olan antlaşma hangisidir?",
+      "options": [
+        "Prut",
+        "Belgrad",
+        "Pasarofça",
+        "Küçük Kaynarca",
+        "Yaş"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti’nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+      "options": [
+        "Dil birliği",
+        "Irk birliği",
+        "Din ve mezhep birliği",
+        "Toprak bütünlüğü",
+        "Ekonomik işbirliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan ilk belge (Sened-i İttifak) ile halkın yönetime katıldığı ilk belge (Kanun-i Esasi) sırasıyla hangi padişahlar döneminde gerçekleşmiştir?",
+      "options": [
+        "III. Selim - II. Abdülhamit",
+        "II. Mahmut - Abdülmecit",
+        "II. Mahmut - II. Abdülhamit",
+        "Abdülmecit - V. Mehmet Reşat",
+        "Abdülaziz - II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": "Sened-i İttifak 1808 (II. Mahmut), Kanun-i Esasi 1876 (II. Abdülhamit)."
+    },
+    {
+      "id": 11,
+      "text": "II. Abdülhamit’in, 93 Harbi’ndeki yenilgiyi ve meclis içindeki azınlık milletvekillerinin zararlı faaliyetlerini gerekçe göstererek kapattığı ve 33 yıl süren döneme ne ad verilir?",
+      "options": [
+        "Lale Devri",
+        "İstibdat Dönemi",
+        "Fetret Devri",
+        "Meşrutiyet Devri",
+        "Tanzimat Devri"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Trablusgarp Savaşı’nın çıkmasında etkili olan, Rusya’nın Balkan milletlerini Osmanlı’ya karşı kışkırtma politikasına ne ad verilir?",
+      "options": [
+        "Panislamizm",
+        "Pantürkizm",
+        "Panslavizm",
+        "Merkantilizm",
+        "Sömürgecilik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması’nın 24. maddesinin (Vilayet-i Sitte’de karışıklık çıkarsa işgal edilecek) asıl amacı nedir?",
+      "options": [
+        "Bölge halkının güvenliğini sağlamak",
+        "Doğu Anadolu’da bir Ermeni Devleti kurmak",
+        "Rusya’nın bölgeye inmesini engellemek",
+        "Petrol kaynaklarını korumak",
+        "Kürt devleti kurmak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Toplanış şekli ve amacı bakımından bölgesel, aldığı kararlar bakımından ulusal olan kongre hangisidir?",
+      "options": [
+        "Sivas Kongresi",
+        "Pozantı Kongresi",
+        "Erzurum Kongresi",
+        "Alaşehir Kongresi",
+        "Balıkesir Kongresi"
+      ],
+      "correctOption": "C",
+      "solution": "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti tarafından Ermeni tehlikesine karşı toplanmıştır."
+    },
+    {
+      "id": 15,
+      "text": "Son Osmanlı Mebusan Meclisi’nde, Milli Mücadele yanlısı milletvekillerinin (Mustafa Kemal’in isteğiyle Müdafaa-i Hukuk grubu kurulamayınca) oluşturduğu grup hangisidir?",
+      "options": [
+        "Halk Zümresi",
+        "Tesanüt Grubu",
+        "Felah-ı Vatan",
+        "Islahat Grubu",
+        "İttihat Grubu"
+      ],
+      "correctOption": "C",
+      "solution": "Başkanı Rauf Orbay'dır."
+    },
+    {
+      "id": 16,
+      "text": "Doğu Cephesi’nde Ermenilere karşı mücadele eden 15. Kolordu’nun komutanı kimdir?",
+      "options": [
+        "İsmet İnönü",
+        "Ali Fuat Cebesoy",
+        "Kazım Karabekir",
+        "Refet Bele",
+        "Fevzi Çakmak"
+      ],
+      "correctOption": "C",
+      "solution": "İstiklal Harbimizin Şark Fatihi"
+    },
+    {
+      "id": 17,
+      "text": "Lozan Antlaşması’nın geçerlilik süresi ne kadardır?",
+      "options": [
+        "100 yıl",
+        "Süresizdir",
+        "20 yıl",
+        "50 yıl",
+        "II. Dünya Savaşı’na kadardır"
+      ],
+      "correctOption": "B",
+      "solution": "Lozan süreli bir antlaşma değildir, \"Gizli maddesi var, 100 yıl sonra bitecek\" iddiaları tarihsel gerçeklikle bağdaşmaz."
+    },
+    {
+      "id": 18,
+      "text": "Kurtuluş Savaşı’nın silahlı mücadelesini bitiren ve diplomatik safhasını başlatan ateşkes antlaşması hangisidir?",
+      "options": [
+        "Mondros",
+        "Mudanya",
+        "Sevr",
+        "Gümrü",
+        "Moskova"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "3 Mart 1924 tarihinde yapılan inkılaplar arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Tevhid-i Tedrisat Kanunu'nun kabulü",
+        "Erkan-ı Harbiye Vekaleti'nin kaldırılması",
+        "Halifeliğin kaldırılması",
+        "Tekke, Zaviye ve Türbelerin kapatılması",
+        "Şeriye ve Evkaf Vekaleti'nin kaldırılması"
+      ],
+      "correctOption": "D",
+      "solution": "Tekke ve Zaviyelerin kapatılması 1925 yılındadır."
+    },
+    {
+      "id": 20,
+      "text": "Aşar (Öşür) Vergisinin kaldırılması hangi Atatürk ilkesinin bir sonucudur?",
+      "options": [
+        "Devletçilik",
+        "Laiklik",
+        "Cumhuriyetçilik",
+        "Milliyetçilik",
+        "Halkçılık"
+      ],
+      "correctOption": "E",
+      "solution": "Köylünün üzerindeki ağır vergi yükünü kaldırdığı için doğrudan Halkçılık ilkesiyle ilgilidir."
+    },
+    {
+      "id": 21,
+      "text": "Atatürk’ün \"Hayatta en hakiki mürşit ilimdir, fendir\" sözü, aşağıdaki ilkelerden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Halkçılık",
+        "Laiklik",
+        "Milliyetçilik",
+        "Devletçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctOption": "B",
+      "solution": "Akıl ve bilimi esas aldığı için Laiklik. Aynı zamanda İnkılapçılıkla da ilgilidir."
+    },
+    {
+      "id": 22,
+      "text": "Türkiye Cumhuriyeti'nde çok partili hayata geçiş denemelerinin ilki olan TCF'nin kapatılmasıyla Türkiye'de nasıl bir siyasi süreç başlamıştır?",
+      "options": [
+        "Halifelik geri gelmiştir.",
+        "Meclis kapatılmıştır.",
+        "Hemen yeni bir parti kurulmuştur.",
+        "1930'a kadar sürecek olan \"Tek Parti Dönemi\" devam etmiştir.",
+        "Demokratikleşme hızlanmıştır."
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin dış borçlar konusunda en çok sorun yaşadığı ülke Fransa'dır. Borçların ödenmesi sırasında çıkan krizde Türkiye'nin \"Borçları ödeyeceğiz ancak bu bizim paramızla (TL) veya sizin paranızla (Frank) olur\" diyerek reddettiği para birimi hangisidir?",
+      "options": [
+        "Sterlin",
+        "Riyal",
+        "Dolar",
+        "Mark",
+        "Altın"
+      ],
+      "correctOption": "E",
+      "solution": "Veya Altın/Sterlin gibi değerli maden/döviz talepleri reddedilmiş, kağıt para üzerinden ödeme kabul ettirilmiştir."
+    },
+    {
+      "id": 24,
+      "text": "Atatürk'ün sağlığında gerçekleşen ancak sonucunu (Türkiye'ye katıldığını) göremediği dış politika olayı hangisidir?",
+      "options": [
+        "Montrö",
+        "Sadabat Paktı",
+        "Hatay'ın Anavatana Katılması",
+        "Balkan Antantı",
+        "Milletler Cemiyeti üyeliği"
+      ],
+      "correctOption": "C",
+      "solution": "Bağımsız Hatay Cumhuriyeti'ni görmüş, ancak ilhakı görememiştir."
+    },
+    {
+      "id": 25,
+      "text": "ABD Başkanı Harry Truman'ın, Sovyet tehdidi altındaki ülkelere (özellikle Türkiye ve Yunanistan'a) askeri ve ekonomik yardım yapılmasını öngören ve Soğuk Savaş'ın fiilen başlangıcı sayılan doktrini hangisidir?",
+      "options": [
+        "Eisenhower Doktrini",
+        "Monroe Doktrini",
+        "Truman Doktrini",
+        "Carter Doktrini",
+        "Nixon Doktrini"
+      ],
+      "correctOption": "C",
+      "solution": "(1947 - Komünizmin yayılmasını engellemek için.)"
+    },
+    {
+      "id": 26,
+      "text": "1948 yılında SSCB'nin Batı Berlin'i abluka altına alması üzerine, Batılı devletlerin şehri havadan beslemek için kurdukları lojistik operasyona ne ad verilir?",
+      "options": [
+        "Normandiya Çıkarması",
+        "Berlin Hava Köprüsü",
+        "Özgürlük Yolu",
+        "Barbarossa Harekatı",
+        "Demir Perde Operasyonu"
+      ],
+      "correctOption": "B",
+      "solution": "(Berlin Buhranı.)"
+    },
+    {
+      "id": 27,
+      "text": "1949 yılında ABD öncülüğünde kurulan ve \"Bir üyeye yapılan saldırı hepsine yapılmış sayılır\" ilkesine dayanan Batı Bloğu askeri ittifakı hangisidir?",
+      "options": [
+        "Avrupa Konseyi",
+        "CENTO",
+        "NATO (Kuzey Atlantik Paktı)",
+        "Birleşmiş Milletler",
+        "SEATO"
+      ],
+      "correctOption": "C",
+      "solution": "(Türkiye 1952'de üye olmuştur.)"
+    }
+  ]
+}

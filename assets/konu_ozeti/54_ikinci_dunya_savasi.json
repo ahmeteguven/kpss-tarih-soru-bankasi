@@ -1,0 +1,74 @@
+{
+  "konu_adi": "54- İKİNCİ DÜNYA SAVAŞI (1939 – 1945)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "İKİNCİ DÜNYA SAVAŞI (1939 – 1945)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Savaşın Nedenleri ve Başlangıcı"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Savaşın Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Versailles Antlaşması'nın Ağır Şartları: Almanya'yı aşağılayan antlaşma, Nazi rejiminin yükselişine zemin hazırlamıştır.",
+        "Yayılmacı İdeolojiler (Totaliterizm): Almanya (Yaşam Alanı) ve İtalya (Bizim Denizimiz) gibi revizyonist politikalar.",
+        "Bloklaşma: Mihver Devletleri (Almanya, İtalya, Japonya) ve Müttefik Devletler (İngiltere, Fransa, SSCB, ABD)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Savaşın Başlaması"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kıvılcım: 1 Eylül 1939'da Almanya'nın Polonya'yı işgali ile savaş resmen başlamıştır.",
+        "Blitzkrieg: Almanya'nın Yıldırım Savaşı taktiğiyle kısa sürede Fransa dahil birçok Avrupa ülkesini işgal etmesi."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💥 Savaşın Seyri ve Dönüm Noktaları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Barbarossa Harekatı (1941): Almanya'nın SSCB'ye saldırması. Almanya'nın iki cephede savaşma zorunluluğu nedeniyle yenilgisinde önemli bir dönüm noktasıdır.",
+        "Pearl Harbor (1941): Japonya'nın saldırısıyla ABD savaşa katılmış, savaş küresel hale gelmiştir.",
+        "Stalingrad Savaşı (1942-1943): SSCB'nin Almanya'yı yenmesiyle Müttefikler lehine denge değişmiştir.",
+        "Normandiya Çıkarması (1944): Müttefik Devletlerin Avrupa'yı kurtarmak için yaptığı çıkarma."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇹🇷 Türkiye'nin II. Dünya Savaşı Sırasındaki Politikası"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Politika: Tarafsızlık politikası korunmaya çalışılmıştır (İsmet İnönü dönemi).",
+        "Ekonomi: Askere alma işlemi uzun süre devam etmiştir (Ekonomik zorluk yaratmıştır).",
+        "Savaşa Katılım: Birleşmiş Milletler'e kurucu üye olabilmek amacıyla, savaşın sonlarında (Şubat 1945'te) Müttefikler lehine Almanya ve Japonya'ya savaş ilan edilmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛑 Savaşın Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Büyük Yıkım: Tarihin en büyük yıkımı yaşanmıştır.",
+        "Atom Bombası: Nükleer çağın başladığını göstermiştir.",
+        "Yeni Kurumlar: Dünya barışını korumak için Birleşmiş Milletler (BM) kurulmuştur.",
+        "İki Kutuplu Dünya: ABD ve SSCB'nin süper güç olarak ortaya çıkmasıyla, dünya Soğuk Savaş dönemine girmiştir."
+      ]
+    }
+  ]
+}

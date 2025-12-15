@@ -1,0 +1,76 @@
+{
+  "konu_adi": "55- SOĞUK SAVAŞ DÖNEMİ (1947 – 1991)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "SOĞUK SAVAŞ DÖNEMİ (1947 – 1991)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🥶 Soğuk Savaşın Başlangıcı ve İki Kutuplu Dünya"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Savaşın Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İdeolojik Ayrılık: ABD (Kapitalizm) ile SSCB (Komünizm) arasındaki temel hayat görüşü çatışması.",
+        "Truman Doktrini (1947): ABD'nin SSCB tehdidi altındaki ülkelere (Türkiye ve Yunanistan) yardım etme kararı (Soğuk Savaş'ın başlangıcı)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. İki Ana Blok"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Batı Bloku (ABD): Askeri Örgüt: NATO (1949). Ekonomik Örgüt: Marshall Planı."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Doğu Bloku (SSCB): Askeri Örgüt: Varşova Paktı (1955). Ekonomik Örgüt: COMECON."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🚨 Soğuk Savaşın Kritik Gelişmeleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Berlin Buhranları: Berlin Duvarı'nın inşası (1961), Soğuk Savaş'ın en somut sembolü olmuştur.",
+        "Kore Savaşı (1950-1953): Soğuk Savaş'ın ilk büyük vekalet savaşıdır.",
+        "Uzay Yarışı: SSCB'nin Sputnik uydusunu göndermesiyle başlayan bilimsel ve teknolojik rekabet."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🌎 Bağlantısızlar Hareketi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Her iki bloğa da katılmak istemeyen, bağımsızlıklarını yeni kazanmış Asya ve Afrika ülkelerinin oluşturduğu gruptur.",
+        "Liderler: Hindistan (Nehru), Mısır (Nasır), Yugoslavya (Tito)."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛑 Soğuk Savaşın Sonu"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Gorbaçov Dönemi: Glasnost (Açıklık) ve Perestroyka (Yeniden Yapılanma) reformları Komünist rejimlerin çöküşünü hızlandırmıştır.",
+        "Berlin Duvarı'nın Yıkılması (1989): Soğuk Savaş'ın sembolünün yıkılması.",
+        "SSCB'nin Dağılması (1991): Sovyetler Birliği'nin resmen dağılmasıyla Soğuk Savaş sona ermiştir."
+      ]
+    }
+  ]
+}

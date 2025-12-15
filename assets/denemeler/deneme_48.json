@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 48",
+  "examCode": "deneme_48",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 46)\n\n**İlk Çağdan Günümüze:** İskitlerin efsanevi kadın lideri Tomris Hatun'dur. Eski Türk inancında kutsal sembollere 'Ongun' denir. Selahaddin Eyyubi, Hıttin Savaşı ile Kudüs'ü geri almıştır. Ahilik teşkilatının tüzüklerine 'Fütüvvetname' adı verilir.\n\n**Osmanlı ve Islahatlar:** Maltepe (Palekanon) Savaşı, Bizans'ın Anadolu umutlarını kıran ilk meydan savaşıdır. Geliri doğrudan hazineye giden topraklara 'Mukataa' denir. İlk Türk matbaasının kurulmasında Sait Efendi etkilidir. Çırağan Baskını, II. Abdülhamit'e karşı yapılan başarısız darbe girişimidir. Ramazan Kararnamesi ile devlet faizleri ödeyemeyeceğini ilan etmiştir. Darülmuallimin, erkek öğretmen okuludur. Meclis-i Ayan üyelerini padişah seçer.\n\n**Milli Mücadele ve Cumhuriyet:** Tehcir Kanunu, Ermeni isyanlarına karşı çıkarılmıştır. Kilikyalılar Cemiyeti, Adana bölgesini savunmuştur. Amasya Genelgesi'ni Cemal Paşa (Mersinli) Konya'dan onaylamıştır. Balıkesir-Alaşehir Kongreleri padişaha bağlılık bildirmiştir. Moskova Antlaşması'ndaki 'eski antlaşmaların geçersizliği' maddesi rejim değişikliğini gösterir. Trikopis, esir alınan Yunan generalidir. Caber Kalesi (Süleyman Şah), Suriye'deki Türk toprağıdır. Nutuk, 1919-1927 yıllarını kapsar.\n\n**Çağdaş Dünya:** Dayton Antlaşması Bosna Savaşı'nı bitirmiştir. Helsinki Nihai Senedi (1975) Yumuşama döneminin belgesidir. 24 Ocak Kararları'nın mimarı Turgut Özal'dır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "İslamiyet öncesi Türk topluluklarından İskitlerin (Sakalar) başında bulunan ve dünyanın bilinen ilk kadın hükümdarı olarak kabul edilen efsanevi lider kimdir?",
+      "options": [
+        "Terken Hatun",
+        "Tomris Hatun",
+        "Ayşe Hatun",
+        "Börteçine",
+        "Umay Ana"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Eski Türk inancında, bazı hayvanların ve nesnelerin kutsal sayılmasına ve her boyun bir sembolü olduğuna inanılan kavrama ne ad verilir? (Totemizm benzeri anlayış).",
+      "options": [
+        "Yuğ",
+        "Kurgan",
+        "Ongun",
+        "Şaman",
+        "Tamu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Selahaddin Eyyubi'nin 1187 yılında Haçlı ordusunu ağır bir yenilgiye uğratarak Kudüs'ü geri aldığı ve III. Haçlı Seferi'nin başlamasına neden olan savaş hangisidir?",
+      "options": [
+        "Yermük Savaşı",
+        "Hıttin Savaşı",
+        "Ayn Calut Savaşı",
+        "Niğbolu Savaşı",
+        "Mercidabık Savaşı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti'nde ve Osmanlı'nın kuruluş döneminde etkili olan \"Ahilik\" teşkilatının kurallarının, ahlaki ilkelerinin ve işleyişinin yazılı olduğu kitaplara (tüzüklere) genel olarak ne ad verilir?",
+      "options": [
+        "Fütüvvetname",
+        "Siyasetname",
+        "Seyahatname",
+        "Vakıfname",
+        "İcazetname"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde Orhan Bey döneminde Bizans ile yapılan ve Osmanlıların kazandığı ilk meydan muharebesi olarak kabul edilen (Bizans'ın Anadolu'daki umutlarını kıran) savaş hangisidir?",
+      "options": [
+        "Koyunhisar (Bafeus) Savaşı",
+        "Sırpsındığı Savaşı",
+        "Maltepe (Palekanon) Savaşı",
+        "Çirmen Savaşı",
+        "I. Kosova Savaşı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde, merkeze uzak olan ve \"Tımar\" sisteminin uygulanmadığı eyaletlerde (Salyaneli Eyaletler), vergi gelirlerinin açık artırma usulüyle (İltizam) peşin olarak toplanıp hazineye aktarıldığı sisteme ne ad verilir?",
+      "options": [
+        "Dirlik",
+        "Vakıf",
+        "Malikane",
+        "Mukataa",
+        "Ocaklık"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Lale Devri'nde, İbrahim Müteferrika ile birlikte ilk Türk matbaasını kuran ve matbaanın açılması için fetva alınmasında etkili olan devlet adamı kimdir?",
+      "options": [
+        "Yirmi Sekiz Çelebi Mehmet",
+        "Sait Efendi",
+        "Humbaracı Ahmet Paşa",
+        "Nevşehirli Damat İbrahim Paşa",
+        "Patrona Halil"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "II. Abdülhamit'i tahttan indirip yerine V. Murat'ı geçirmek amacıyla 1878 yılında gazeteci Ali Suavi tarafından organize edilen ancak başarısızlıkla sonuçlanan darbe girişimi hangisidir?",
+      "options": [
+        "Kuleli Olayı",
+        "Babıali Baskını",
+        "Çırağan Baskını",
+        "31 Mart Vakası",
+        "Edirne Vakası"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nin ekonomik sıkıntılar nedeniyle dış borçların faizini bile ödeyemeyeceğini ilan ettiği 1875 tarihli kararname hangisidir? (Bu kararname Düyun-u Umumiye'ye giden yolu açmıştır).",
+      "options": [
+        "Muharrem Kararnamesi",
+        "Ramazan Kararnamesi",
+        "Vilayet Nizamnamesi",
+        "Kanun-i Esasi",
+        "Islahat Fermanı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde, Tanzimat döneminde (1848) erkek öğretmen yetiştirmek amacıyla açılan okul hangisidir?",
+      "options": [
+        "Darülfünun",
+        "Darülmuallimin",
+        "Darülmuallimat",
+        "Mekteb-i Mülkiye",
+        "Galatasaray Sultanisi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "1876 yılında ilan edilen I. Meşrutiyet anayasası Kanun-i Esasi'ye göre, üyeleri padişah tarafından seçilen ve ömür boyu görevde kalan meclis kanadı hangisidir?",
+      "options": [
+        "Meclis-i Mebusan",
+        "Meclis-i Ayan",
+        "Divan-ı Hümayun",
+        "Şura-yı Devlet",
+        "Meclis-i Vâlâ"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı sürerken, 1915 yılında Ermeni çetelerinin isyanları ve Ruslarla işbirliği yapmaları üzerine, bölge halkının güvenliğini sağlamak amacıyla çıkarılan \"Zorunlu Göç\" kanununun adı nedir?",
+      "options": [
+        "Takrir-i Sükun Kanunu",
+        "Tehcir (Sevk ve İskan) Kanunu",
+        "Hıyanet-i Vataniye Kanunu",
+        "İskan Kanunu",
+        "Teşkilat-ı Esasiye Kanunu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması'ndan sonra Adana ve Çukurova bölgesini Fransız ve Ermeni işgallerine karşı savunmak amacıyla kurulan \"yararlı\" cemiyet hangisidir?",
+      "options": [
+        "Milli Kongre Cemiyeti",
+        "Kilikyalılar Cemiyeti",
+        "Redd-i İlhak Cemiyeti",
+        "Trakya Paşaeli Cemiyeti",
+        "Kars İslam Şurası"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Mustafa Kemal'in 9. Ordu Müfettişi olarak Havza'dan sonra geçtiği Amasya'da yayımladığı Amasya Genelgesi'ni, o sırada orada bulunmadığı için telgraf yoluyla Konya'dan onaylayan komutan kimdir?",
+      "options": [
+        "Kazım Karabekir",
+        "Rauf Orbay",
+        "Refet Bele",
+        "Cemal Paşa (Mersinli)",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Milli Mücadele döneminde toplanan Balıkesir ve Alaşehir Kongreleri'nin, Erzurum ve Sivas Kongreleri'nden ayrılan en temel özelliği (farkı) nedir?",
+      "options": [
+        "Bölgesel olmaları",
+        "Yunan işgaline karşı toplanmaları",
+        "Padişaha ve Halifeye bağlılık bildirmeleri (Saltanatı kaldırma amaçlarının olmaması)",
+        "Kuvayi Milliye'yi desteklemeleri",
+        "Batı Cephesi'ni oluşturmaları"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "I. İnönü Savaşı'ndan sonra Sovyet Rusya ile imzalanan Moskova Antlaşması'nda yer alan \"Osmanlı Devleti ile Çarlık Rusyası arasında imzalanan antlaşmalar geçersizdir\" maddesinin diplomatik yorumu nedir?",
+      "options": [
+        "İki ülkede de rejim değişikliği olduğunun ve yeni yönetimlerin birbirini tanıdığının göstergesidir.",
+        "Rusya'nın Osmanlı borçlarını üstlendiği anlamına gelir.",
+        "Kapitülasyonların devam edeceği anlamına gelir.",
+        "Boğazların Rusya'ya bırakıldığı anlamına gelir.",
+        "Osmanlı'nın yıkıldığının ilk kez bir Avrupa devleti tarafından reddedilmesidir."
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Büyük Taarruz sırasında Yunan ordusu başkomutanı olan ve Türk ordusu tarafından esir alınan general kimdir?",
+      "options": [
+        "Venizelos",
+        "Trikopis",
+        "Hacianestis",
+        "Papulas",
+        "Metaksas"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "1921 yılında Fransa ile imzalanan Ankara Antlaşması'nda, Suriye sınırları dışında kalmasına rağmen (Suriye sınırları içinde) Türk toprağı sayılan ve Türk bayrağının dalgalanacağı kabul edilen yer neresidir?",
+      "options": [
+        "Süleyman Şah Türbesi (Caber Kalesi)",
+        "Kerkük Kalesi",
+        "Halep Kalesi",
+        "Batum Limanı",
+        "Mescid-i Aksa"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "1924 Anayasası'nda 1937 yılında yapılan değişiklikle anayasaya giren ve devletin niteliklerini tamamlayan unsur nedir?",
+      "options": [
+        "Cumhuriyetin ilanı",
+        "Atatürk İlkeleri (6 Ok)",
+        "Kadınlara seçme ve seçilme hakkı",
+        "Çok partili hayata geçiş",
+        "Hilafetin kaldırılması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "1925 yılında, sanayi sektörünü desteklemek ve özel teşebbüsü sanayi yatırımlarına yönlendirmek amacıyla kurulan, Osmanlı'dan kalan şirketlerin devredildiği banka hangisidir?",
+      "options": [
+        "İş Bankası",
+        "Sanayi ve Maadin Bankası",
+        "Etibank",
+        "Sümerbank",
+        "İller Bankası"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Atatürk'ün 1919-1927 yılları arasındaki olayları, belgeleriyle birlikte anlattığı ve Cumhuriyet Halk Partisi'nin 2. Kurultayı'nda (1927) okuduğu dev eseri hangisidir?",
+      "options": [
+        "Geometri Kitabı",
+        "Medeni Bilgiler",
+        "Nutuk (Söylev)",
+        "Zabit ve Kumandan ile Hasbihal",
+        "Cumalı Ordugahı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "1937 yılında İtalya'nın Akdeniz'deki korsanlık faaliyetlerine karşı İngiltere, Fransa, Türkiye ve diğer kıyı devletlerinin katılımıyla İsviçre'de imzalanan antlaşma hangisidir?",
+      "options": [
+        "Montrö Sözleşmesi",
+        "Sadabat Paktı",
+        "Nyon Antlaşması",
+        "Akdeniz Paktı",
+        "Locarno Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "1934 yılında kurulan Balkan Antantı'na, Bulgaristan'ın katılmamasının temel nedeni, komşusu Romanya ile yaşadığı hangi sınır sorunudur?",
+      "options": [
+        "Makedonya Sorunu",
+        "Batı Trakya Sorunu",
+        "Dobruca Sorunu",
+        "Ege Adaları Sorunu",
+        "Transilvanya Sorunu"
+      ],
+      "correctOption": "C",
+      "solution": "Bulgaristan, II. Balkan Savaşı'nda Romanya'ya kaptırdığı Dobruca'yı geri almak istiyordu."
+    },
+    {
+      "id": 24,
+      "text": "Hatay sorunu sürecinde, bölgenin adı henüz \"Hatay\" değilken (Sancak iken), bölgeye \"Hatay\" adını veren devlet adamı kimdir?",
+      "options": [
+        "Tayfur Sökmen",
+        "İsmet İnönü",
+        "Şükrü Saraçoğlu",
+        "Mustafa Kemal Atatürk",
+        "Fevzi Çakmak"
+      ],
+      "correctOption": "D",
+      "solution": "Atatürk, Hata Türklerinden esinlenerek bu ismi vermiştir."
+    },
+    {
+      "id": 25,
+      "text": "1995 yılında Bosna Savaşı'nı sona erdiren, Bosna-Hersek'in bağımsızlığını tanıyan ve ülkenin siyasi yapısını (Boşnak-Hırvat Federasyonu ve Sırp Cumhuriyeti) belirleyen antlaşma hangisidir?",
+      "options": [
+        "Dayton Antlaşması",
+        "Paris Antlaşması",
+        "Roma Antlaşması",
+        "Lizbon Antlaşması",
+        "Maastricht Antlaşması"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1975 yılında imzalanan ve Soğuk Savaş döneminde Doğu ve Batı blokları arasındaki gerginliği azaltmayı (Yumuşama/Detente), insan haklarına saygıyı ve sınırların dokunulmazlığını amaçlayan belge hangisidir?",
+      "options": [
+        "Helsinki Nihai Senedi",
+        "Salt-1 Antlaşması",
+        "Camp David Antlaşması",
+        "Kyoto Protokolü",
+        "Viyana Sözleşmesi"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Türkiye'de 1980 sonrası dönemde ekonomide serbest piyasa (liberal) modeline geçişi sağlayan ve \"24 Ocak Kararları\"nın mimarı olan devlet adamı kimdir?",
+      "options": [
+        "Süleyman Demirel",
+        "Bülent Ecevit",
+        "Turgut Özal",
+        "Necmettin Erbakan",
+        "Adnan Menderes"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

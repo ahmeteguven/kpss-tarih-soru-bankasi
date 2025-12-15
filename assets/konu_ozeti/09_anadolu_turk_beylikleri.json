@@ -1,0 +1,137 @@
+{
+  "konu_adi": "09- ANADOLU TÜRK BEYLİKLERİ (II. Dönem)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ANADOLU TÜRK BEYLİKLERİ (II. Dönem)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💥 İkinci Beylikler Döneminin Başlangıcı"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "İkinci Türk Beylikleri Dönemi, 1243 Kösedağ Savaşı sonrasında Anadolu Selçuklu Devleti'nin (ASD) Moğol (İlhanlı) egemenliğine girmesi ve merkezi otoritenin tamamen çökmesiyle başlamıştır."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Kuruluş Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Merkezi Otoritenin Çöküşü: Kösedağ yenilgisi sonrası Selçuklu sultanlarının Moğollara bağlanması, beyliklerin bağımsızlıklarını ilan etmesini kolaylaştırdı.",
+        "Türkmen Göçleri: Moğol baskısından kaçan Türkmenler, Batı Anadolu'daki Bizans sınırlarına (Uçlara) yığıldı ve burada beylikler kurdu.",
+        "Ekonomik Durum: Batı Anadolu Beylikleri deniz ticareti ve tarım sayesinde güçlü bir ekonomik yapıya sahipti."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. İkinci Beyliklerin Ortak Özellikleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yer: Çoğu beylik, Batı Anadolu'da (Ege ve Marmara kıyıları) Bizans sınırları üzerinde kurulmuştur.",
+        "Denizcilik: Birçoğu denizcilikle uğraşmış ve Ege ile Akdeniz'de Türk varlığını güçlendirmiştir.",
+        "Sonuç: Bu beylikler arasında en güçlü olanı ve Anadolu Türk Siyasi Birliği'ni (ATSB) sağlama görevini üstlenen Osmanlı Beyliği olmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🗺️ Başlıca İkinci Türk Beylikleri ve Özellikleri"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Karamanoğulları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: Konya ve çevresi (Eski Selçuklu başkenti).",
+        "Önemi: Kendilerini ASD'nin varisi olarak gördüklerinden, Osmanlı Devleti'ni en çok uğraştıran beylik olmuşlardır.",
+        "Kültürel Katkı: Türkçeyi resmi dil ilan eden beyliktir (1277)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Karesioğulları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: Balıkesir ve Çanakkale çevresi (Marmara).",
+        "Önemi: Osmanlı'ya katılan ilk beyliktir. Bu katılım ile Osmanlı, ilk kez deniz gücüne ve Rumeli'ye geçiş imkanına sahip olmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Germiyanoğulları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: Kütahya ve çevresi.",
+        "Önemi: Topraklarının büyük bir kısmını çeyiz yoluyla (I. Murat'ın oğlu Yıldırım Bayezid'in evliliği) Osmanlı'ya vermiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Hamitoğulları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: Isparta ve Eğirdir çevresi (Göller Bölgesi).",
+        "Önemi: Topraklarının bir kısmı para karşılığında (satın alma) Osmanlı'ya katılmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "5. Aydınoğulları ve Saruhanoğulları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Ege'de denizcilikle uğraşan güçlü beyliklerdir.",
+        "Aydınoğulları (Aydın) ve Saruhanoğulları (Manisa) önemli limanlara sahipti."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "6. Dulkadiroğulları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: Maraş ve Elbistan çevresi (Güneydoğu Anadolu).",
+        "Önemi: Osmanlı'ya en son katılan beyliktir (1515, Turnadağ Savaşı). Bu beyliğin katılmasıyla, ATSB kesin olarak sağlanmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Beyliklerin Osmanlı'ya Katılım Yolları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Savaş ve Fetih: Karamanoğulları, Dulkadiroğulları (Turnadağ Savaşı).",
+        "Satın Alma: Hamitoğulları.",
+        "Çeyiz Yolu: Germiyanoğulları.",
+        "Miras Yolu: Karesioğulları."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🕌 Anadolu Türk Kültürüne Katkıları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Türkçe'nin Güçlenmesi: Karamanoğlu Mehmet Bey'in Türkçeyi resmi dil ilan etmesiyle Türkçe bilinci güçlenmiştir.",
+        "Sanat ve Mimari: Selçuklu geleneğini sürdürerek Anadolu'yu cami ve medreselerle donatmışlardır.",
+        "Sosyal Hayat: Ahilik Teşkilatı, esnaf ve Türkmenlerin sosyal hayatını düzenlemede önemli rol oynamıştır."
+      ]
+    }
+  ]
+}

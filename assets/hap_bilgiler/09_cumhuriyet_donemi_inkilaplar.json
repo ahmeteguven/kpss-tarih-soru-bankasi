@@ -1,0 +1,505 @@
+{
+  "categoryName": "CUMHURİYET DÖNEMİ VE İNKILAPLAR",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Saltanatın kaldırılması (1 Kasım 1922) hangi ilkenin gereğidir?",
+      "answer": "Cumhuriyetçilik (ve Laiklik)"
+    },
+    {
+      "id": 2,
+      "question": "I. TBMM’nin yaptığı tek inkılap hangisidir?",
+      "answer": "Saltanatın Kaldırılması"
+    },
+    {
+      "id": 3,
+      "question": "Saltanatın kaldırılmasıyla ortaya çıkan \"Devlet Başkanlığı\" ve \"Rejim\" sorununu çözen olay nedir?",
+      "answer": "Cumhuriyetin İlanı (29 Ekim 1923)"
+    },
+    {
+      "id": 4,
+      "question": "Türkiye Cumhuriyeti’nin ilk Cumhurbaşkanı kimdir?",
+      "answer": "Mustafa Kemal Atatürk"
+    },
+    {
+      "id": 5,
+      "question": "Türkiye Cumhuriyeti’nin ilk Başbakanı kimdir?",
+      "answer": "İsmet İnönü"
+    },
+    {
+      "id": 6,
+      "question": "Türkiye Cumhuriyeti’nin ilk Meclis Başkanı kimdir?",
+      "answer": "Ali Fethi Okyar"
+    },
+    {
+      "id": 7,
+      "question": "Cumhuriyetin ilanıyla hangi hükümet sistemine geçilmiştir?",
+      "answer": "Kabine Sistemi"
+    },
+    {
+      "id": 8,
+      "question": "Halifeliğin kaldırıldığı tarih nedir?",
+      "answer": "3 Mart 1924"
+    },
+    {
+      "id": 9,
+      "question": "Halifeliğin kaldırılması en çok hangi ilkeyle ilgilidir?",
+      "answer": "Laiklik (ve Cumhuriyetçilik)"
+    },
+    {
+      "id": 10,
+      "question": "Son Halife kimdir?",
+      "answer": "Abdülmecit Efendi"
+    },
+    {
+      "id": 11,
+      "question": "Halifeliğin kaldırıldığı gün yapılan diğer önemli inkılaplar nelerdir?",
+      "answer": "Tevhid-i Tedrisat Kanunu kabul edildi, Şer’iye ve Evkaf Vekaleti kaldırıldı, Erkan-ı Harbiye Vekaleti kaldırıldı, Osmanlı Hanedanı yurt dışına çıkarıldı."
+    },
+    {
+      "id": 12,
+      "question": "Şer’iye ve Evkaf Vekaleti’nin yerine kurulan kurum hangisidir?",
+      "answer": "Diyanet İşleri Başkanlığı (ve Vakıflar Genel Müdürlüğü)"
+    },
+    {
+      "id": 13,
+      "question": "Erkan-ı Harbiye Vekaleti’nin yerine kurulan kurum hangisidir?",
+      "answer": "Genelkurmay Başkanlığı"
+    },
+    {
+      "id": 14,
+      "question": "Ordunun siyasetten ayrılmasını sağlayan düzenleme nedir?",
+      "answer": "Erkan-ı Harbiye’nin kaldırılması ve 1924’te askerlerin milletvekili olmasının yasaklanması"
+    },
+    {
+      "id": 15,
+      "question": "Cumhuriyet tarihinin ilk siyasi partisi hangisidir?",
+      "answer": "Cumhuriyet Halk Fırkası (CHF - 1923)"
+    },
+    {
+      "id": 16,
+      "question": "Cumhuriyet Halk Fırkası’nın ilk kurultayı olarak kabul edilen kongre hangisidir?",
+      "answer": "Sivas Kongresi"
+    },
+    {
+      "id": 17,
+      "question": "Cumhuriyet tarihinin ilk muhalefet partisi hangisidir?",
+      "answer": "Terakkiperver Cumhuriyet Fırkası (1924)"
+    },
+    {
+      "id": 18,
+      "question": "Terakkiperver Cumhuriyet Fırkası’nın kurucuları kimlerdir? (Kod: KARAR)",
+      "answer": "Kazım Karabekir, Ali Fuat Cebesoy, Rauf Orbay, Adnan Adıvar, Refet Bele"
+    },
+    {
+      "id": 19,
+      "question": "Terakkiperver Cumhuriyet Fırkası’nın ekonomide benimsediği ilke nedir?",
+      "answer": "Liberalizm"
+    },
+    {
+      "id": 20,
+      "question": "Terakkiperver Cumhuriyet Fırkası’nın kapatılmasına neden olan isyan hangisidir?",
+      "answer": "Şeyh Said İsyanı (1925)"
+    },
+    {
+      "id": 21,
+      "question": "Türkiye Cumhuriyeti’nde rejime karşı çıkan ilk isyan hangisidir?",
+      "answer": "Şeyh Said İsyanı"
+    },
+    {
+      "id": 22,
+      "question": "Şeyh Said İsyanı’nı bastırmak için çıkarılan kanun hangisidir?",
+      "answer": "Takrir-i Sükun Kanunu"
+    },
+    {
+      "id": 23,
+      "question": "Şeyh Said İsyanı sırasında istifa eden başbakan ve yerine gelen kimdir?",
+      "answer": "Ali Fethi Okyar istifa etti, İsmet İnönü geldi."
+    },
+    {
+      "id": 24,
+      "question": "Şeyh Said İsyanı’nın Türkiye’ye verdiği en büyük dış politika zararı nedir?",
+      "answer": "Musul’un kaybedilmesi (1926 Ankara Antlaşması)"
+    },
+    {
+      "id": 25,
+      "question": "Mustafa Kemal’e yönelik düzenlenen İzmir Suikastı (1926) girişimini ihbar eden kişi kimdir?",
+      "answer": "Giritli Şevki"
+    },
+    {
+      "id": 26,
+      "question": "Mustafa Kemal \"Benim naçiz vücudum elbet bir gün toprak olacaktır...\" sözünü hangi olay üzerine söylemiştir?",
+      "answer": "İzmir Suikastı"
+    },
+    {
+      "id": 27,
+      "question": "İstiklal Mahkemeleri’nin görev yaptığı son olay hangisidir?",
+      "answer": "İzmir Suikastı Davası"
+    },
+    {
+      "id": 28,
+      "question": "1930 yılında Atatürk’ün isteğiyle Ali Fethi Okyar tarafından kurulan parti hangisidir?",
+      "answer": "Serbest Cumhuriyet Fırkası"
+    },
+    {
+      "id": 29,
+      "question": "Serbest Cumhuriyet Fırkası’nın kuruluş amacı nedir?",
+      "answer": "1929 Ekonomik Buhranı’nın etkilerini azaltmak ve hükümeti denetlemek"
+    },
+    {
+      "id": 30,
+      "question": "Serbest Cumhuriyet Fırkası’nın kendi kendini feshetmesinden sonra çıkan rejim karşıtı isyan hangisidir?",
+      "answer": "Menemen Olayı (Kubilay Olayı - 1930)"
+    },
+    {
+      "id": 31,
+      "question": "Menemen Olayı’nda şehit edilen asteğmen kimdir?",
+      "answer": "Mustafa Fehmi Kubilay"
+    },
+    {
+      "id": 32,
+      "question": "Menemen Olayı suçluları hangi mahkemede yargılanmıştır?",
+      "answer": "Divan-ı Harp (Sıkıyönetim Mahkemesi)"
+    },
+    {
+      "id": 33,
+      "question": "Türkiye’de çok partili hayata kesin geçiş ne zaman olmuştur?",
+      "answer": "1945-1946 (Milli Kalkınma Partisi ve Demokrat Parti’nin kurulmasıyla)"
+    },
+    {
+      "id": 34,
+      "question": "Türkiye’de kadınlara verilen siyasi hakların sıralaması nasıldır? (Kod: BMW)",
+      "answer": "Belediye (1930), Muhtar (1933), Vekil (1934)"
+    },
+    {
+      "id": 35,
+      "question": "Kadınların katıldığı ilk genel seçim hangisidir?",
+      "answer": "1935 Seçimleri"
+    },
+    {
+      "id": 36,
+      "question": "Türk Medeni Kanunu (1926) hangi ülkeden alınmıştır?",
+      "answer": "İsviçre"
+    },
+    {
+      "id": 37,
+      "question": "Türk Medeni Kanunu ile kadınlara verilen haklar nelerdir?",
+      "answer": "Resmi nikah, mirasta eşitlik, şahitlikte eşitlik, boşanma hakkı, meslek seçme hakkı"
+    },
+    {
+      "id": 38,
+      "question": "Medeni Kanun’da kadınlara hangi hak verilmemiştir?",
+      "answer": "Siyasi haklar (Seçme ve seçilme)"
+    },
+    {
+      "id": 39,
+      "question": "Patrikhane’nin dünyevi (mahkeme kurma) yetkilerine son veren kanun hangisidir?",
+      "answer": "Türk Medeni Kanunu"
+    },
+    {
+      "id": 40,
+      "question": "Türk Ceza Kanunu hangi ülkeden alınmıştır?",
+      "answer": "İtalya"
+    },
+    {
+      "id": 41,
+      "question": "Eğitim ve öğretimi birleştiren, tüm okulları MEB’e bağlayan kanun hangisidir?",
+      "answer": "Tevhid-i Tedrisat Kanunu (3 Mart 1924)"
+    },
+    {
+      "id": 42,
+      "question": "Medreseler hangi kanuna dayanarak kapatılmıştır?",
+      "answer": "Tevhid-i Tedrisat Kanunu"
+    },
+    {
+      "id": 43,
+      "question": "Yeni Türk Harflerinin (Latin) kabul edildiği tarih nedir?",
+      "answer": "1 Kasım 1928"
+    },
+    {
+      "id": 44,
+      "question": "Yeni harfleri halka öğretmek için açılan kurumlar hangisidir?",
+      "answer": "Millet Mektepleri"
+    },
+    {
+      "id": 45,
+      "question": "Mustafa Kemal’e \"Başöğretmen\" unvanı ne zaman verilmiştir?",
+      "answer": "24 Kasım 1928 (Millet Mektepleri Talimatnamesi ile)"
+    },
+    {
+      "id": 46,
+      "question": "Türk tarihini araştırmak ve ümmet tarihinden ulus tarihine geçmek için 1931’de kurulan kurum hangisidir?",
+      "answer": "Türk Tarih Kurumu (TTK)"
+    },
+    {
+      "id": 47,
+      "question": "Türk Tarih Kurumu’nun ilk başkanı kimdir?",
+      "answer": "Tevfik Bıyıklıoğlu"
+    },
+    {
+      "id": 48,
+      "question": "Türk Tarih Kurumu’nun süreli yayın organı olan dergi hangisidir?",
+      "answer": "Belleten"
+    },
+    {
+      "id": 49,
+      "question": "Türk dilini yabancı kelimelerden arındırmak ve zenginleştirmek için 1932’de kurulan kurum hangisidir?",
+      "answer": "Türk Dil Kurumu (TDK)"
+    },
+    {
+      "id": 50,
+      "question": "Türk Dil Kurumu’nun ilk başkanı kimdir?",
+      "answer": "Samih Rıfat"
+    },
+    {
+      "id": 51,
+      "question": "Atatürk’ün vasiyetiyle İş Bankası’ndaki hisselerinin gelirini bıraktığı iki kurum hangisidir?",
+      "answer": "TTK ve TDK"
+    },
+    {
+      "id": 52,
+      "question": "1933 Üniversite Reformu hangi rapor üzerine yapılmıştır?",
+      "answer": "Albert Malche Raporu"
+    },
+    {
+      "id": 53,
+      "question": "Üniversite Reformu ile kapatılan Darülfünun yerine hangi üniversite kurulmuştur?",
+      "answer": "İstanbul Üniversitesi"
+    },
+    {
+      "id": 54,
+      "question": "Halkevleri (1932) hangi kurumun yerine açılmıştır?",
+      "answer": "Türk Ocakları"
+    },
+    {
+      "id": 55,
+      "question": "Halkevleri’nin yayın organı olan dergi hangisidir?",
+      "answer": "Ülkü Dergisi"
+    },
+    {
+      "id": 56,
+      "question": "Kılık Kıyafet ve Şapka Kanunu’nun (1925) amacı nedir?",
+      "answer": "Toplumda dış görünüşte çağdaşlaşma ve eşitlik sağlamak"
+    },
+    {
+      "id": 57,
+      "question": "Atatürk şapkayı ilk kez nerede tanıtmıştır?",
+      "answer": "Kastamonu"
+    },
+    {
+      "id": 58,
+      "question": "Tekke, Zaviye ve Türbelerin kapatılması (1925) hangi ilke ile doğrudan ilgilidir?",
+      "answer": "Laiklik"
+    },
+    {
+      "id": 59,
+      "question": "\"Efendiler ve ey millet, iyi biliniz ki, Türkiye Cumhuriyeti şeyhler, dervişler, müritler, mensuplar memleketi olamaz\" sözü hangi inkılapla ilgilidir?",
+      "answer": "Tekke ve Zaviyelerin kapatılması"
+    },
+    {
+      "id": 60,
+      "question": "Takvim, Saat ve Ölçülerde yapılan değişikliğin temel amacı nedir?",
+      "answer": "Batı dünyası ile ticari ve ekonomik ilişkileri kolaylaştırmak (İkiliği önlemek)"
+    },
+    {
+      "id": 61,
+      "question": "Miladi Takvim ne zaman kullanılmaya başlanmıştır?",
+      "answer": "1 Ocak 1926"
+    },
+    {
+      "id": 62,
+      "question": "Hafta tatilinin Cuma’dan Pazar’a alınması hangi yıldır?",
+      "answer": "1935"
+    },
+    {
+      "id": 63,
+      "question": "Soyadı Kanunu (1934) neden çıkarılmıştır?",
+      "answer": "Toplumsal eşitliği sağlamak ve resmi işlerdeki karışıklığı önlemek"
+    },
+    {
+      "id": 64,
+      "question": "Mustafa Kemal’e \"Atatürk\" soyadını kim vermiştir?",
+      "answer": "TBMM"
+    },
+    {
+      "id": 65,
+      "question": "Soyadı Kanunu ile kaldırılan unvanlar (Ağa, Paşa, Bey vb.) hangi ilke gereğidir?",
+      "answer": "Halkçılık"
+    },
+    {
+      "id": 66,
+      "question": "Ekonomi alanında bağımsızlığı hedefleyen ve liberalizmi savunan kongre hangisidir?",
+      "answer": "İzmir İktisat Kongresi (1923)"
+    },
+    {
+      "id": 67,
+      "question": "İzmir İktisat Kongresi’nin başkanı kimdir?",
+      "answer": "Kazım Karabekir"
+    },
+    {
+      "id": 68,
+      "question": "İzmir İktisat Kongresi’nde alınan \"Milli Ekonomi\" kararlarına ne ad verilir?",
+      "answer": "Misak-ı İktisadi"
+    },
+    {
+      "id": 69,
+      "question": "Türkiye Cumhuriyeti’nin ilk özel bankası hangisidir?",
+      "answer": "İş Bankası (1924)"
+    },
+    {
+      "id": 70,
+      "question": "İş Bankası’nın ilk genel müdürü kimdir?",
+      "answer": "Celal Bayar"
+    },
+    {
+      "id": 71,
+      "question": "Özel sektörü sanayiye teşvik etmek için 1927’de çıkarılan kanun hangisidir?",
+      "answer": "Teşvik-i Sanayi Kanunu"
+    },
+    {
+      "id": 72,
+      "question": "Teşvik-i Sanayi Kanunu neden başarısız olmuştur?",
+      "answer": "Sermaye ve teknik bilgi yetersizliği, 1929 Dünya Ekonomik Buhranı"
+    },
+    {
+      "id": 73,
+      "question": "1930’dan itibaren Türkiye ekonomisinde uygulanan model hangisidir?",
+      "answer": "Devletçilik"
+    },
+    {
+      "id": 74,
+      "question": "Türkiye’nin ilk kalkınma planı hangisidir?",
+      "answer": "I. Beş Yıllık Sanayi Planı (1933-1938)"
+    },
+    {
+      "id": 75,
+      "question": "I. Beş Yıllık Sanayi Planı’nın uygulanmasında hangi ülkeden kredi ve teknik destek alınmıştır?",
+      "answer": "SSCB (Rusya)"
+    },
+    {
+      "id": 76,
+      "question": "Madenleri işletmek ve enerji üretmek için kurulan kurumlar hangileridir?",
+      "answer": "MTA (Maden Tetkik Arama) ve Etibank (1935)"
+    },
+    {
+      "id": 77,
+      "question": "Tekstil sanayisini geliştirmek için kurulan banka hangisidir?",
+      "answer": "Sümerbank"
+    },
+    {
+      "id": 78,
+      "question": "Türk denizlerinde gemi işletme hakkının (Kabotaj) millileştirildiği kanun hangisidir?",
+      "answer": "Kabotaj Kanunu (1 Temmuz 1926)"
+    },
+    {
+      "id": 79,
+      "question": "Kabotaj Kanunu hangi ilke ile ilgilidir?",
+      "answer": "Milliyetçilik"
+    },
+    {
+      "id": 80,
+      "question": "Tarımı desteklemek için 1925’te kaldırılan vergi hangisidir?",
+      "answer": "Aşar (Öşür) Vergisi"
+    },
+    {
+      "id": 81,
+      "question": "Atatürk Orman Çiftliği’nin kurulma amacı nedir?",
+      "answer": "Modern tarım yöntemlerini halka öğretmek ve örnek olmak"
+    },
+    {
+      "id": 82,
+      "question": "Sağlık alanında kurulan ve aşı/serum üreten kurum hangisidir?",
+      "answer": "Refik Saydam Hıfzıssıhha Enstitüsü"
+    },
+    {
+      "id": 83,
+      "question": "Cumhuriyetin ilk yıllarında en çok mücadele edilen hastalıklar hangileridir?",
+      "answer": "Verem, Sıtma, Frengi, Trahom"
+    },
+    {
+      "id": 84,
+      "question": "Nüfus artışını teşvik etmek için ne yapılmıştır?",
+      "answer": "Çok çocuklu ailelere vergi muafiyeti getirilmiş, göçmenlere toprak verilmiştir."
+    },
+    {
+      "id": 85,
+      "question": "Cumhuriyet döneminin ilk kadın doktoru kimdir?",
+      "answer": "Safiye Ali"
+    },
+    {
+      "id": 86,
+      "question": "Cumhuriyet döneminin ilk kadın avukatı kimdir?",
+      "answer": "Beyhan Hanım"
+    },
+    {
+      "id": 87,
+      "question": "Cumhuriyet döneminin ilk kadın pilotu kimdir?",
+      "answer": "Bedriye Tahir Gökmen"
+    },
+    {
+      "id": 88,
+      "question": "Dünyanın ilk kadın savaş pilotu kimdir?",
+      "answer": "Sabiha Gökçen"
+    },
+    {
+      "id": 89,
+      "question": "İlk kadın milletvekilleri meclise ne zaman girmiştir?",
+      "answer": "1935 Seçimleri (17+1=18 vekil)"
+    },
+    {
+      "id": 90,
+      "question": "İlk kadın belediye başkanı kimdir?",
+      "answer": "Sadiye Hanım (Artvin/Yusufeli)"
+    },
+    {
+      "id": 91,
+      "question": "İlk kadın muhtar kimdir?",
+      "answer": "Gül Esin (Aydın/Çine)"
+    },
+    {
+      "id": 92,
+      "question": "Türkiye’nin ilk operası olan \"Özsoy Operası\"nı besteleyen kimdir?",
+      "answer": "Adnan Saygun"
+    },
+    {
+      "id": 93,
+      "question": "10. Yıl Marşı’nın bestecisi kimdir?",
+      "answer": "Cemal Reşit Rey"
+    },
+    {
+      "id": 94,
+      "question": "Atatürk Dönemi'nde yapılan demiryollarının millileştirilmesi politikası hangi bakan döneminde hız kazanmıştır?",
+      "answer": "Behiç Erkin"
+    },
+    {
+      "id": 95,
+      "question": "\"Demirağlarla ördük anayurdu dört baştan\" sözü neyi ifade eder?",
+      "answer": "Demiryolu yapımına verilen önemi"
+    },
+    {
+      "id": 96,
+      "question": "Atatürk’ün \"Benim şahsi meselem\" dediği dış politika konusu nedir?",
+      "answer": "Hatay Sorunu"
+    },
+    {
+      "id": 97,
+      "question": "Hatay Cumhuriyeti’nin ilk ve tek Cumhurbaşkanı kimdir?",
+      "answer": "Tayfur Sökmen"
+    },
+    {
+      "id": 98,
+      "question": "Hatay anavatana ne zaman katılmıştır?",
+      "answer": "1939 (Atatürk’ün ölümünden sonra)"
+    },
+    {
+      "id": 99,
+      "question": "Boğazlar üzerindeki Türk egemenliğini kesin olarak sağlayan antlaşma hangisidir?",
+      "answer": "Montrö Boğazlar Sözleşmesi (1936)"
+    },
+    {
+      "id": 100,
+      "question": "Türkiye’nin II. Dünya Savaşı tehlikesine karşı sınırlarını korumak için üye olduğu paktlar hangileridir?",
+      "answer": "Balkan Antantı (Batı sınırı) ve Sadabat Paktı (Doğu sınırı)"
+    }
+  ]
+}

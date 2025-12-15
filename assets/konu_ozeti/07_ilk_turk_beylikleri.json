@@ -1,0 +1,118 @@
+{
+  "konu_adi": "07- İLK TÜRK BEYLİKLERİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "İLK TÜRK BEYLİKLERİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🏰 Türk Akınları ve Malazgirt Zaferi'nin Önemi"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Malazgirt Zaferi'nin Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Anadolu Kapıları Açıldı: Anadolu'nun kapıları Türklere kesin olarak açıldı.",
+        "Türk İskânı: Sultan Alparslan'ın \"Fethettiğiniz yer sizin mülkünüzdür\" talimatı ile beylikler kuruldu.",
+        "İlk Beylikler Dönemi: Anadolu'nun Türkleşme ve İslamlaşma süreci başladı.",
+        "Anadolu Selçuklu Devleti'nin Kuruluşu: Bu beylikler, Anadolu Selçuklu Devleti'nin kurulmasına zemin hazırlamışlardır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. İlk Beyliklerin Ortak Özellikleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kuruluş Amaçları: Anadolu'nun fethini tamamlamak, sınırları Bizans ve diğer düşmanlara karşı korumak.",
+        "Statü: Hepsi Büyük Selçuklu Devleti'ne bağlı olarak kurulmuştur.",
+        "Sonları: Genel olarak Anadolu Selçuklu Devleti tarafından ortadan kaldırılmışlardır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ Anadolu'da Kurulan İlk Türk Beylikleri (I. Dönem)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Saltuklular (1072 – 1202)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: Erzurum ve çevresi.",
+        "Önemi: Anadolu’da kurulan ilk Türk beyliğidir.",
+        "Önemli Eserler: Mama Hatun Kümbeti (Tercan/Erzincan), Üç Kümbetler (Erzurum).",
+        "Sonu: Anadolu Selçuklu Sultanı Rüknettin Süleyman Şah tarafından ortadan kaldırılmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Danişmentliler (1071 – 1178)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: Sivas, Tokat, Kayseri ve Malatya çevresi (Orta Anadolu).",
+        "Önemi: Anadolu Selçuklu Devleti'ni en çok uğraştıran beyliktir. Bizans ve Haçlılarla mücadelede önemli rol oynamışlardır.",
+        "Kültürel Önemi: Anadolu’daki ilk medrese olan Yağıbasan Medresesi'ni (Tokat/Niksar) kurmuşlardır.",
+        "Sonu: Anadolu Selçuklu Sultanı II. Kılıç Arslan tarafından ortadan kaldırılmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Mengücekliler (1080 – 1228)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: Erzincan ve Divriği çevresi.",
+        "Önemli Eserler: Divriği Ulu Camii ve Darüşşifası (UNESCO Dünya Mirası Listesi'ndedir).",
+        "Sonu: Anadolu Selçuklu Sultanı I. Alaeddin Keykubat tarafından ortadan kaldırılmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Artuklular (1102 – 1409)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: Güneydoğu Anadolu (Diyarbakır, Mardin, Harput).",
+        "Önemli Eserler: Malabadi Köprüsü.",
+        "Bilimsel Önemi: Robotik biliminin kurucusu sayılan ünlü bilim insanı El-Cezeri, Artuklu sarayında yaşamıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "5. Çaka Beyliği (1081 – 1095)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kurulduğu Yer: İzmir ve Ege Adaları.",
+        "Önemi: Anadolu’da kurulan ilk denizci Türk beyliğidir.",
+        "Türk Denizcilik Tarihinin Başlangıcı: Kuruluş yılı (1081), Türk denizcilik tarihinin başlangıcı kabul edilir.",
+        "Sonu: Anadolu Selçuklu Sultanı I. Kılıç Arslan tarafından ortadan kaldırılmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🗺️ Anadolu'nun Türkleşmesi ve İslamlaşmasına Katkıları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Askeri ve Siyasi Katkılar: Bizans İmparatorluğu'na karşı sınırları koruyarak (Gaza ve Cihat ruhu) Anadolu Selçuklu Devleti'nin kurulması için güvenli bir ortam oluşturmuşlardır.",
+        "Haçlılarla Mücadele: Özellikle Danişmentliler, Haçlı Seferlerinin Anadolu'daki ilerleyişini durdurmada önemli rol oynamışlardır.",
+        "Kültürel ve Mimari Katkılar: İnşa ettikleri camiler, medreseler, kümbetler ve köprüler ile Anadolu'yu bayındır hale getirmişler, bölgeye Türk-İslam mührü vurmuşlardır.",
+        "Demografik Yapı: Göçebe Türkmenlerin Anadolu'ya yerleşmesini sağlayarak, Anadolu'nun demografik yapısını kalıcı olarak Türkler lehine değiştirmişlerdir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "konu_adi": "24- 18’İNCİ YÜZYIL ISLAHATLARI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "18’İNCİ YÜZYIL ISLAHATLARI (Gerileme Dönemi)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🌷 18. Yüzyıl Islahatlarının Genel Özellikleri"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Dönemin Farklılıkları ve Amaçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Model Değişikliği: Batı (Avrupa) ilk kez model alınmaya başlanmıştır.",
+        "Kapsam: Islahatlar genellikle askeri, teknik ve eğitim alanlarında yoğunlaşmıştır.",
+        "Islahatçı Kökeni: Yabancı uzmanlar (Fransız ve İsveçli) getirilmiştir.",
+        "Başarısızlık Nedeni: Yeniçeriler ve ulemanın direnci nedeniyle isyanlarla (Patrona Halil, Kabakçı Mustafa) durdurulmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Islahatçı Padişahlar ve Sadrazamlar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "III. Ahmet (Lale Devri): Batı'yı ilk kez model alan padişahtır. İlk geçici elçilikler açıldı, ilk matbaa kuruldu (İbrahim Müteferrika)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "I. Mahmut: Humbaracı Ahmet Paşa (Comte de Bonneval) gibi Fransız uzmanlar getirilerek ordu modernleştirilmiştir. Hendesehane (Askeri Mühendislik Okulu) kurulmuştur."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "III. Mustafa: Denizcilik reformları yaptı. Esham Sistemi (İç borçlanma) uygulamasına geçildi."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "I. Abdülhamit: Cülus Bahşişi kaldırılmıştır. Yeniçeri sayımı yapılmış ve İstihkâm Okulu açılmıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "III. Selim (Nizam-ı Cedit): En köklü ıslahatçılardan biridir. Batı tarzında eğitimli düzenli ordu (Nizam-ı Cedit) kuruldu. Masrafları için İrad-ı Cedit hazinesi oluşturuldu."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🌳 Önemli Siyasi Olaylar ve Antlaşmalar"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Lale Devri (1718 – 1730)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Başlangıcı: Pasarofça Antlaşması (1718) ile Batı'nın üstünlüğünün kabul edilmesi.",
+        "Önemi: İlk kez Batı kültürü ve yaşam tarzı saray çevresinde etkili olmuştur.",
+        "Sonu: Patrona Halil İsyanı (1730) ile sona ermiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Belgrad Antlaşması (1739)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Önemi: Osmanlı'nın Batı'da imzaladığı son kârlı antlaşmadır.",
+        "Kapitülasyonlar: Fransa'ya verilen kapitülasyonlar, arabuluculuk yapması karşılığında sürekli hale getirilmiştir (1740)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Küçük Kaynarca Antlaşması (1774)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Önemi: Osmanlı tarihinin en ağır antlaşmalarından biridir.",
+        "Kırım: Kırım Hanlığı bağımsız oldu. (Osmanlı'dan ayrılan ilk Müslüman ve Türk toprağıdır.)",
+        "Rusya: Ortodoksların koruyuculuğu hakkı verilerek Rusya'nın Osmanlı'nın iç işlerine karışma hakkı doğmuştur.",
+        "Savaş Tazminatı: Osmanlı, Rusya'ya ilk kez savaş tazminatı ödemiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Yaş Antlaşması (1792)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Önemi: Kırım'ın kesin olarak Rusya'ya ait olduğunu kabul eden antlaşmadır.",
+        "Dönem Sonu: Gerileme Dönemi sona ermiş ve Dağılma Dönemi başlamıştır."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 02",
+  "examCode": "deneme_02",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 02)\n\n**XX. Yüzyıl ve Kuruluş:** Trablusgarp Savaşı'nda (1911) Mustafa Kemal'in kullandığı takma ad Gazeteci Şerif Bey'dir ve bu savaş onun ilk askeri tecrübesidir. I. Balkan Savaşı'nda yenilginin en büyük nedeni ordunun siyasete karışmasıdır. Amasya Genelgesi'nde ilk kez milli egemenlik vurgusu yapılmıştır. Erzurum Kongresi'nin toplanış şekli bölgesel, aldığı kararlar ulusaldır; manda ve himaye ilk kez burada reddedilmiştir.\n\n**Muharebeler ve Antlaşmalar:** I. İnönü Savaşı'nın uluslararası sonucu olarak Londra Konferansı toplanmış ve TBMM'yi tanıyan ilk büyük Avrupa devleti Sovyet Rusya olmuştur (Moskova Antlaşması). Sakarya Zaferi'nden sonra Mustafa Kemal'e Mareşallik rütbesi ve Gazilik unvanı verilmiştir. Lozan'da, Ege Adaları'nın silahsızlandırma şartıyla Yunanistan'a bırakılması ve Boğazların komisyona devredilmesi Türkiye'nin egemenliğini kısıtlayan maddelerdir.\n\n**İnkılaplar ve İlkeler:** II. Mahmut döneminde Yeniçeri Ocağı'nın kaldırılması (1826) Vaka-i Hayriye olarak adlandırılır. Kadınlara Milletvekili seçme ve seçilme hakkı 1934 yılında verilmiştir. Aşar (Öşür) vergisinin kaldırılması (1925) Halkçılık ilkesiyle ilgilidir. \n\n**Çağdaş Dünya:** II. Dünya Savaşı'nda Almanya'nın Yahudilere uyguladığı soykırıma Holocaust denir. Küba Füze Krizi (1962), dünyayı nükleer savaşın eşiğine getiren olaydır. Türkiye, Sovyet tehdidine karşı NATO'ya (1952) Kore Savaşı'na asker göndererek girmiştir.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Tarihte Türkler ile Çinliler arasında imzalanan bilinen ilk yazılı antlaşma aşağıdakilerden hangisidir?",
+      "options": [
+        "Kadeş Antlaşması",
+        "Margus Antlaşması",
+        "Anatolius Antlaşması",
+        "Zitvatorok Antlaşması",
+        "Kuzey Şansi Antlaşması"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde hükümet (bakanlar kurulu) karşılığında kullanılan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Kurultay",
+        "Ayukı",
+        "Aygucı",
+        "Toygun",
+        "Yarlıg"
+      ],
+      "correctOption": "B",
+      "solution": "Aygucı: Başbakan, Ayukı: Hükümet"
+    },
+    {
+      "id": 3,
+      "text": "Türk tarihinde \"Sultan\" unvanını kullanan ilk hükümdar kimdir?",
+      "options": [
+        "Gazneli Mahmut",
+        "Alparslan",
+        "Tuğrul Bey",
+        "Satuk Buğra Han",
+        "Melikşah"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu’da yapılan ilk medrese olma özelliğine sahip \"Yağıbasan Medresesi\" hangi beylik dönemine aittir?",
+      "options": [
+        "Saltuklular",
+        "Artuklular",
+        "Selçuklular",
+        "Danişmentliler",
+        "Mengücekliler"
+      ],
+      "correctOption": "D",
+      "solution": "Tokat-Niksar'dadır."
+    },
+    {
+      "id": 5,
+      "text": "Fatih Sultan Mehmet, İstanbul’u fethettikten sonra Roma İmparatorluğu’nun tek varisi olduğu iddiasıyla hangi unvanı kullanmıştır?",
+      "options": [
+        "Halife",
+        "Hüdavendigar",
+        "Kayser-i Rum",
+        "Sultan-ı İklim-i Rum",
+        "Hadimü'l Haremeyn"
+      ],
+      "correctOption": "C",
+      "solution": "Rum Kayseri / Roma İmparatoru demektir."
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti’nin, fethettiği Balkan topraklarında kalıcılığı sağlamak amacıyla Anadolu’daki göçebe Türkmenleri o bölgelere yerleştirmesi politikasına ne ad verilir?",
+      "options": [
+        "Devşirme",
+        "İstimalet",
+        "İltizam",
+        "İskan",
+        "Müsadere"
+      ],
+      "correctOption": "D",
+      "solution": "Yerleştirme politikası."
+    },
+    {
+      "id": 7,
+      "text": "Kanuni Sultan Süleyman döneminde Avusturya ile imzalanan 1533 İstanbul (İbrahim Paşa) Antlaşması’nın en önemli maddesi şudur: \"Avusturya Arşidükü (Kralı), protokol bakımından Osmanlı Sadrazamına denk sayılacaktır.\"Bu madde Osmanlı Devleti ile ilgili aşağıdakilerden hangisinin göstergesidir?",
+      "options": [
+        "Avusturya’yı vergiye bağladığının",
+        "Avusturya ile eşit şartlarda barış yaptığının",
+        "Ekonomik yaptırımlar uyguladığının",
+        "Halifelik gücünü kullandığının",
+        "Orta Avrupa’daki siyasi üstünlüğünü Avusturya’ya kabul ettirdiğinin"
+      ],
+      "correctOption": "E",
+      "solution": "Kralın Vezire denk olması, Padişahın Kraldan üstün -İmparator- olduğunu gösterir."
+    },
+    {
+      "id": 8,
+      "text": "Tahtı kendi isteğiyle oğlu II. Mehmet’e (Fatih) bırakan, ancak Haçlı tehlikesi üzerine tekrar tahta geçen ve II. Kosova Savaşı ile Balkanları kesin Türk yurdu haline getiren padişah kimdir?",
+      "options": [
+        "I. Murat",
+        "Yıldırım Bayezid",
+        "Çelebi Mehmet",
+        "Yavuz Sultan Selim",
+        "II. Murat"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "1672 yılında Lehistan (Polonya) ile imzalanan ve Osmanlı Devleti’nin Batıda en geniş sınırlara (Podolya arazisi) ulaşmasını sağlayan antlaşma hangisidir?",
+      "options": [
+        "Vasvar",
+        "Zitvatorok",
+        "Bucaş",
+        "Karlofça",
+        "Hotin"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Salyaneli (Yıllıklı) Eyaletler'de (Mısır, Yemen, Bağdat gibi) vergilerin açık artırma usulüyle peşin olarak satılması sistemine \"İltizam\", bu işi yapan kişiye ise ne ad verilir?",
+      "options": [
+        "Mütevelli",
+        "Mütevelli",
+        "Muhtesip",
+        "Voyvoda",
+        "Mültezim"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Divan-ı Hümayun’da eğitim ve adalet işlerinden sorumlu olan, Kadı ve Müderrislerin atamasını yapan divan üyesi kimdir?",
+      "options": [
+        "Nişancı",
+        "Defterdar",
+        "Kazasker (Kadıasker)",
+        "Şeyhülislam",
+        "Reisülküttab"
+      ],
+      "correctOption": "C",
+      "solution": "Günümüzün Adalet ve Milli Eğitim Bakanı gibidir."
+    },
+    {
+      "id": 12,
+      "text": "Osmanlı Devleti’nin Kuzey Afrika’daki varlığı hangi antlaşma ile tamamen sona ermiştir?",
+      "options": [
+        "Berlin Antlaşması",
+        "Uşi Antlaşması",
+        "Londra Antlaşması",
+        "Atina Antlaşması",
+        "İstanbul Antlaşması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros’tan sonra kurulan ilk yararlı cemiyet hangisidir?",
+      "options": [
+        "İzmir Müdafaa-i Hukuk",
+        "Trakya Paşaeli Müdafaa-i Hukuk Cemiyeti",
+        "Doğu Anadolu Müdafaa-i Hukuk",
+        "Kilikyalılar",
+        "Milli Kongre"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Mustafa Kemal’in Amasya Genelgesi’ni yayımladıktan sonra İstanbul Hükümeti’nden görevden alınacağını öğrenmesi üzerine, askerlik mesleğinden istifa etmesi (Sine-i Millete dönmesi) hangi olaydan hemen öncedir?",
+      "options": [
+        "Amasya Genelgesi",
+        "Sivas Kongresi",
+        "TBMM’nin açılması",
+        "Erzurum Kongresi",
+        "Havza Genelgesi"
+      ],
+      "correctOption": "D",
+      "solution": "Erzurum Kongresi'ne sivil olarak katılmıştır."
+    },
+    {
+      "id": 15,
+      "text": "Misak-ı Milli kararlarında \"Ulusal Bağımsızlık\" ile ilgili kararlar alınırken, hangi konuyla ilgili bir karar alınmamıştır?",
+      "options": [
+        "Kapitülasyonlar",
+        "Sınırlar",
+        "Boğazlar",
+        "Azınlıklar",
+        "Ulusal Egemenlik (Rejim değişikliği)"
+      ],
+      "correctOption": "E",
+      "solution": "Misak-ı Milli bir bağımsızlık bildirisidir, padişahın da onayıyla meclisten geçmiştir. Bu yüzden saltanatı kaldıracak veya cumhuriyeti getirecek bir karar içermez."
+    },
+    {
+      "id": 16,
+      "text": "Düzenli Ordunun Batı Cephesi’nde aldığı tek yenilgi hangisidir?",
+      "options": [
+        "I. İnönü",
+        "Aslıhanlar",
+        "Kütahya-Eskişehir Savaşları",
+        "Sakarya",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Mustafa Kemal’in Başkomutan sıfatıyla, ordunun ihtiyaçlarını halktan karşılamak için çıkardığı emirlere ne ad verilir?",
+      "options": [
+        "Teşkilat-ı Esasiye",
+        "Hıyanet-i Vataniye",
+        "İskan Kanunu",
+        "Tekalif-i Milliye Emirleri",
+        "Takrir-i Sükun"
+      ],
+      "correctOption": "D",
+      "solution": "Milli Yükümlülükler."
+    },
+    {
+      "id": 18,
+      "text": "Mudanya Ateşkes Antlaşması ile savaş yapılmadan kurtarılan yerler aşağıdakilerden hangisidir?",
+      "options": [
+        "İzmir ve Aydın",
+        "Kars ve Ardahan",
+        "Batı Trakya ve Selanik",
+        "Doğu Trakya, İstanbul ve Boğazlar",
+        "Antalya ve Konya"
+      ],
+      "correctOption": "D",
+      "solution": "Diplomatik başarıdır."
+    },
+    {
+      "id": 19,
+      "text": "Halifeliğin kaldırılması; I. Laiklik II. Cumhuriyetçilik III. Milliyetçilik ilkelerinden hangileriyle doğrudan ilgilidir?",
+      "options": [
+        "I ve III",
+        "I ve II",
+        "II ve III",
+        "Yalnız I",
+        "I, II ve III"
+      ],
+      "correctOption": "E",
+      "solution": "Laiklik: Din-devlet ayrımı. Cumhuriyetçilik: Egemenliğin millete geçmesi. Milliyetçilik: Ümmet toplumundan ulus topluma geçiş."
+    },
+    {
+      "id": 20,
+      "text": "Türk Tarih Kurumu’nun süreli yayın organı olan ve ismini bizzat Atatürk’ün koyduğu, vefatından önce okuduğu son dergi hangisidir?",
+      "options": [
+        "Belleten",
+        "Ülkü",
+        "Kadro",
+        "Türk Yurdu",
+        "Varlık"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "1931 yılında kabul edilen Ölçüler Kanunu ile \"Okka, arşın, endaze\" gibi geleneksel ölçü birimlerinin yerine \"Kilo, metre\" gibi uluslararası birimlerin getirilmesinin temel amacı nedir?",
+      "options": [
+        "Gelenekleri yok etmek",
+        "Ticari ilişkilerde Batı ile uyum sağlamak ve ülke içindeki ölçü kargaşasını bitirmek",
+        "Vergileri artırmak",
+        "Tarımı geliştirmek",
+        "Nüfusu saymak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Serbest Cumhuriyet Fırkası’nın kurucusu Ali Fethi Okyar’ın, partiyi kendi isteğiyle feshetmesinin (kapatmasının) nedeni nedir?",
+      "options": [
+        "Partinin rejim karşıtlarının (Saltanat ve Hilafet yanlılarının) odağı haline gelmesi",
+        "Seçimleri kaybetmesi",
+        "Atatürk’ün partiyi kapatmasını istemesi",
+        "Ekonomik krizin bitmesi",
+        "Dış baskılar"
+      ],
+      "correctOption": "A",
+      "solution": "Menemen Olayı'ndan hemen önce, tehlikeyi sezerek kapatmıştır."
+    },
+    {
+      "id": 23,
+      "text": "Montrö Boğazlar Sözleşmesi ile Türkiye'nin elde ettiği en önemli kazanım nedir?",
+      "options": [
+        "Boğazlardan geçişin ücretli olması",
+        "Boğazların kapatılması",
+        "Sadece ticaret gemilerinin geçebilmesi",
+        "Boğazlar Komisyonu'nun kaldırılarak yetkilerin Türkiye'ye devredilmesi ve Türk askerinin boğazlara girmesi",
+        "Rusya'nın boğazları koruması"
+      ],
+      "correctOption": "D",
+      "solution": "Misak-ı Milli'ye uygun hale gelmiş ve egemenlik kısıtlaması kalkmıştır."
+    },
+    {
+      "id": 24,
+      "text": "1934 yılında Yunanistan Başbakanı Venizelos, Nobel Barış Ödülü'ne kimi aday göstermiştir?",
+      "options": [
+        "Tevfik Rüştü Aras",
+        "Rauf Orbay",
+        "İsmet İnönü",
+        "Celal Bayar",
+        "Mustafa Kemal Atatürk"
+      ],
+      "correctOption": "E",
+      "solution": "Türkiye-Yunanistan dostluğunun zirve yaptığı dönem."
+    },
+    {
+      "id": 25,
+      "text": "ABD Başkanı Wilson’un yayınladığı ilkelerin \"Yenen devletler yenilenlerden toprak ve savaş tazminatı almayacak\" maddesi, İtilaf Devletleri’nin sömürgecilik yerine hangi sistemi geliştirmelerine neden olmuştur?",
+      "options": [
+        "İlhak",
+        "Manda ve Himaye",
+        "Kapitülasyon",
+        "Özerklik",
+        "Asimilasyon"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "II. Dünya Savaşı sırasında İngiltere Başbakanı olan ve \"Demir Perde\" tabirini kullanarak Soğuk Savaş'ın sinyalini veren lider kimdir?",
+      "options": [
+        "Chamberlain",
+        "Winston Churchill",
+        "Tony Blair",
+        "Thatcher",
+        "Clement Attlee"
+      ],
+      "correctOption": "B",
+      "solution": "Savaşın başında Chamberlain vardı, sonra efsanevi lider Churchill geldi, savaşın sonunda seçimle Attlee geldi."
+    },
+    {
+      "id": 27,
+      "text": "1950-1953 yılları arasında yaşanan Kore Savaşı'nda Kuzey Kore'yi hangi devletler, Güney Kore'yi hangi güç desteklemiştir?",
+      "options": [
+        "Kuzey: Türkiye - Güney: Yunanistan",
+        "Kuzey: Japonya - Güney: Çin",
+        "Kuzey: SSCB/Çin - Güney: ABD/Birleşmiş Milletler",
+        "Kuzey: İngiltere - Güney: Fransa",
+        "Kuzey: ABD - Güney: SSCB"
+      ],
+      "correctOption": "C",
+      "solution": "(Soğuk Savaş'ın ilk sıcak çatışmasıdır.)"
+    }
+  ]
+}

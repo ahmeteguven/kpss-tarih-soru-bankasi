@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 49",
+  "examCode": "deneme_49",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 47)\n\n**İlk Çağdan Günümüze:** Avrupa Hun hükümdarı Attila 'Tanrı'nın Kırbacı' olarak bilinir. Malazgirt'te Peçenekler ve Uzlar taraf değiştirmiştir. Mengücekliler, Divriği Ulu Cami'yi inşa etmiştir. Babai İsyanı, Anadolu Selçuklu'yu zayıflatan ilk büyük dini isyandır.\n\n**Osmanlı ve Islahatlar:** Edirne, Sazlıdere Savaşı ile alınmıştır. Cem Sultan Olayı iç sorunken dış sorun haline gelmiştir. 'Narh' sistemi fiyat belirlemedir. Tarhuncu Ahmet Paşa ilk denk bütçeyi hazırlamıştır. Cezzar Ahmet Paşa, Akka'da Napolyon'u durdurmuştur. Tanzimat Fermanı'nın özü 'Kanun Üstünlüğü'dür. Darüşşafaka, yetim çocukların eğitimi için kurulmuştur.\n\n**Milli Mücadele ve Cumhuriyet:** Uşi Antlaşması ile 12 Ada geçici olarak İtalya'ya bırakılmıştır. Halil (Kut) Paşa, Kut'ül Amare kahramanıdır. Sivas Kongresi'nde kadınlar için 'Anadolu Kadınları Müdafaa-i Vatan' cemiyeti kurulmuştur. Sakarya Savaşı 'Subaylar Savaşı' olarak bilinir. Mudanya'daki başarısı İsmet İnönü'yü Lozan'a taşımıştır. 1921 Anayasası 'Meclis Hükümeti' sistemini benimser. Ankara Hukuk Mektebi, Cumhuriyetin ilk yükseköğretim kurumudur. Razgrad Olayı, milliyetçilik hassasiyetiyle ilgilidir.\n\n**Çağdaş Dünya:** Sadabat Paktı Tahran'da imzalanmıştır. Normandiya Çıkarması ile Avrupa'da ikinci cephe açılmıştır. Eisenhower Doktrini Ortadoğu'ya yardımı amaçlar. Anayasa Mahkemesi 1961 Anayasası ile kurulmuştur.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Avrupa Hun Devleti'nin en parlak dönemini yaşatan, Avrupalılar tarafından \"Tanrı'nın Kırbacı\" (Flagellum Dei) ve Almanların Nibelungen Destanı'nda \"Etzel\" olarak anılan Türk hükümdarı kimdir?",
+      "options": [
+        "Balamir",
+        "Uldız",
+        "Rua",
+        "Attila",
+        "İlek"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Malazgirt Savaşı'nda (1071) Bizans ordusunda paralı askerlik yaparken, savaş sırasında taraf değiştirerek Selçuklu saflarına geçen ve savaşın kazanılmasında etkili olan Türk boyları hangileridir?",
+      "options": [
+        "Avarlar ve Bulgarlar",
+        "Peçenekler ve Uzlar",
+        "Kıpçaklar ve Macarlar",
+        "Karluklar ve Yağmalar",
+        "Hazarlar ve Türgişler"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Erzincan ve çevresinde kurulan, UNESCO Dünya Mirası Listesi'nde yer alan ve mimarlık harikası kabul edilen \"Divriği Ulu Cami ve Darüşşifası\"nı inşa eden Türk beyliği hangisidir?",
+      "options": [
+        "Saltuklular",
+        "Artuklular",
+        "Mengücekliler",
+        "Danişmentliler",
+        "Çaka Beyliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti'nde çıkan ve Türkiye tarihinin ilk dini ve sosyal nitelikli isyanı olarak kabul edilen, devletin zayıflamasına ve Moğol istilasına zemin hazırlamasına neden olan isyan hangisidir?",
+      "options": [
+        "Şeyh Bedrettin İsyanı",
+        "Babai (Baba İshak) İsyanı",
+        "Cimri Olayı",
+        "Celali İsyanları",
+        "Canberdi Gazali İsyanı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nin I. Murat döneminde, Edirne'yi fethederek başkent yapmasının yolunu açan ve Bizans ile Bulgar kuvvetlerine karşı kazanılan savaş hangisidir?",
+      "options": [
+        "Sırpsındığı Savaşı",
+        "Sazlıdere Savaşı",
+        "I. Kosova Savaşı",
+        "Varna Savaşı",
+        "Çirmen Savaşı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Fatih Sultan Mehmet döneminde yaşanan, bir iç sorun iken (taht kavgası) Avrupalı devletlerin karışmasıyla bir dış sorun haline gelen ve Osmanlı'nın Batı'daki fetihlerinin bir süre durmasına neden olan olay hangisidir?",
+      "options": [
+        "Şeyh Bedrettin İsyanı",
+        "Buçuktepe İsyanı",
+        "Cem Sultan Olayı",
+        "Düzmece Mustafa Olayı",
+        "Patrona Halil İsyanı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde piyasadaki malların fiyatlarının devlet tarafından belirlenmesi ve denetlenmesi sistemine ne ad verilir? (Fiyat belirleme usulü).",
+      "options": [
+        "Gedik",
+        "Narh",
+        "İhtisap",
+        "Müsadere",
+        "İltizam"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde, bütçe açıklarını kapatmak amacıyla saray masraflarını kısan ve \"modern anlamda ilk denk bütçeyi\" hazırlayan, ancak çıkarları zedelenenler tarafından idam edilen sadrazam kimdir?",
+      "options": [
+        "Köprülü Mehmet Paşa",
+        "Merzifonlu Kara Mustafa Paşa",
+        "Tarhuncu Ahmet Paşa",
+        "Sokullu Mehmet Paşa",
+        "Nevşehirli Damat İbrahim Paşa"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Napolyon Bonapart komutasındaki Fransız ordusunu Akka Kalesi önlerinde durdurarak, Nizam-ı Cedid ordusunun ilk ve en büyük askeri başarısını kazanan Osmanlı komutanı kimdir?",
+      "options": [
+        "Cezzar Ahmet Paşa",
+        "Alemdar Mustafa Paşa",
+        "Kavalalı Mehmet Ali Paşa",
+        "Tepedelenli Ali Paşa",
+        "Gazi Osman Paşa"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "1839 yılında ilan edilen Tanzimat Fermanı'nın (Gülhane Hatt-ı Hümayunu) en temel özelliği nedir? (Hukuk devleti yolunda atılan ilk adım sayılmasının nedeni).",
+      "options": [
+        "Padişahın kendi gücünün üstünde kanun gücünü tanıması",
+        "İlk kez anayasaya geçilmesi",
+        "Halkın yönetime katılması",
+        "Askerliğin vatan görevi olmaktan çıkarılması",
+        "Laik hukuk sistemine geçilmesi"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde, Müslüman çocukların eğitimi için açılan, yetim ve fakir çocuklara parasız yatılı eğitim veren ve günümüzde de varlığını sürdüren kurum hangisidir?",
+      "options": [
+        "Galatasaray Sultanisi",
+        "Darülfünun",
+        "Darüşşafaka",
+        "Sanayi-i Nefise Mektebi",
+        "Enderun"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Trablusgarp Savaşı sonunda İtalya ile imzalanan Uşi Antlaşması'na göre, On İki Ada'nın durumu ne olmuştur?",
+      "options": [
+        "İtalya'ya bırakılmıştır.",
+        "Yunanistan'a verilmiştir.",
+        "Osmanlı Devleti'ne geri verilmiştir.",
+        "Balkan Savaşları bitene kadar geçici olarak İtalya'ya bırakılmıştır.",
+        "Bağımsız bir yönetim kurulmuştur."
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "I. Dünya Savaşı'nda Irak Cephesi'nde, İngiliz kuvvetlerini Kut'ül Amare'de kuşatarak büyük bir zafer kazanan ve General Townshend'i esir alan Osmanlı komutanı kimdir?",
+      "options": [
+        "Enver Paşa",
+        "Halil (Kut) Paşa",
+        "Fahrettin Paşa",
+        "Kazım Karabekir",
+        "Cemal Paşa"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Sivas Kongresi sırasında kurulan ve Mustafa Kemal Paşa'nın isteğiyle Milli Mücadele'ye kadınların da aktif katılımını sağlamayı amaçlayan yararlı cemiyet hangisidir?",
+      "options": [
+        "Asri Kadınlar Cemiyeti",
+        "Anadolu Kadınları Müdafaa-i Vatan Cemiyeti",
+        "Türk Kadınlar Birliği",
+        "Hilal-i Ahmer Kadınlar Kolu",
+        "Müdafaa-i Hukuk Kadınlar Şubesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Temsil Heyeti'nin Sivas'tan sonra Ankara'yı \"Milli Mücadele'nin Merkezi\" olarak seçmesinde etkili olan nedenlerden biri değildir?",
+      "options": [
+        "Batı Cephesi'ne yakın olması",
+        "İşgal edilmemiş güvenli bir bölge olması",
+        "Ulaşım ve haberleşme imkanlarının (demiryolu) iyi olması",
+        "Halkın Milli Mücadele'ye destek vermesi",
+        "Saltanat Şurası'nın burada toplanması"
+      ],
+      "correctOption": "E",
+      "solution": "Saltanat Şurası İstanbul'da toplanan ve Sevr'i imzalayan organdır, Ankara ile ilgisi yoktur."
+    },
+    {
+      "id": 16,
+      "text": "Mustafa Kemal'in \"Hattı müdafaa yoktur, sathı müdafaa vardır\" diyerek topyekün savaş taktiğini uyguladığı ve \"Subaylar Savaşı\" olarak da bilinen, Türk ordusunun son savunma savaşı hangisidir?",
+      "options": [
+        "I. İnönü",
+        "II. İnönü",
+        "Kütahya-Eskişehir",
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Mudanya Ateşkes Antlaşması görüşmelerinde TBMM'yi temsil eden ve gösterdiği diplomatik başarıyla Lozan'a başdelege olarak gitmenin yolunu açan devlet adamı kimdir?",
+      "options": [
+        "Rauf Orbay",
+        "İsmet İnönü",
+        "Bekir Sami Bey",
+        "Yusuf Kemal Tengirşenk",
+        "Dr. Rıza Nur"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "1921 Anayasası'nda (Teşkilat-ı Esasiye) yer alan ve 1924 Anayasası'na kadar devam eden \"Hükümet Sistemi\" aşağıdakilerden hangisidir?",
+      "options": [
+        "Kabine Sistemi",
+        "Meclis Hükümeti Sistemi",
+        "Başkanlık Sistemi",
+        "Meşrutiyet Sistemi",
+        "Parlamenter Sistem"
+      ],
+      "correctOption": "B",
+      "solution": "Cumhuriyetin ilanıyla (1923) Kabine sistemine geçilmiştir."
+    },
+    {
+      "id": 19,
+      "text": "Türkiye Cumhuriyeti'nde hukuk alanında yapılan inkılapların temelini oluşturan ve hukukçuların yetişmesini sağlamak amacıyla 1925 yılında Ankara'da açılan ilk yükseköğretim kurumu hangisidir?",
+      "options": [
+        "Ankara Üniversitesi Tıp Fakültesi",
+        "Ankara Hukuk Mektebi",
+        "Siyasal Bilgiler Fakültesi",
+        "Gazi Eğitim Enstitüsü",
+        "Dil ve Tarih-Coğrafya Fakültesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Toplumsal alanda eşitliği sağlamak ve resmi işlerdeki karışıklıkları önlemek amacıyla 1934 yılında kabul edilen kanun hangisidir?",
+      "options": [
+        "Şapka Kanunu",
+        "Kılık Kıyafet Kanunu",
+        "Soyadı Kanunu",
+        "Medeni Kanun",
+        "Tekke ve Zaviyelerin Kapatılması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Atatürk döneminde, özel sektörün elinde yeterli sermaye olmadığı için büyük sanayi yatırımlarının devlet eliyle yapılmasını öngören ve 1933'te uygulamaya konulan ekonomik plan hangisidir?",
+      "options": [
+        "İzmir İktisat Kongresi Kararları",
+        "Teşvik-i Sanayi Kanunu",
+        "I. Beş Yıllık Sanayi Planı",
+        "II. Beş Yıllık Sanayi Planı",
+        "Milli Korunma Kanunu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "1933 yılında Bulgaristan'ın Razgrad şehrindeki Türk mezarlığının tahrip edilmesi üzerine, İstanbul Üniversitesi öğrencilerinin protesto gösterileri düzenlediği ve milliyetçilik duygusunun ön plana çıktığı olay hangisidir?",
+      "options": [
+        "Vagon-Li Olayı",
+        "Razgrad Olayı",
+        "Bozkurt-Lotus Olayı",
+        "Bursa Olayı",
+        "6-7 Eylül Olayları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "1934 yılında kurulan Balkan Antantı'nın temel kuruluş amacı nedir?",
+      "options": [
+        "Ekonomik işbirliğini artırmak",
+        "SSCB'nin yayılmasını önlemek",
+        "Almanya ve İtalya'nın yayılmacı politikalarına karşı sınır güvenliğini sağlamak",
+        "İngiltere ile ilişkileri geliştirmek",
+        "Sadabat Paktı'na zemin hazırlamak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Türkiye'nin doğu sınırlarını güvence altına almak amacıyla 1937 yılında İran, Irak ve Afganistan ile imzaladığı Sadabat Paktı nerede (hangi şehirde) imzalanmıştır?",
+      "options": [
+        "Ankara",
+        "Bağdat",
+        "Kabil",
+        "Tahran",
+        "İstanbul"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sırasında Müttefik Devletlerin (ABD ve İngiltere) Fransa'yı Alman işgalinden kurtarmak ve Almanya'ya karşı \"İkinci Cephe\"yi açmak için düzenledikleri tarihin en büyük deniz çıkarma harekatı hangisidir?",
+      "options": [
+        "Barbarossa Harekatı",
+        "Normandiya Çıkarması",
+        "Kartal Hücumu",
+        "Pearl Harbor",
+        "Stalingrad Muharebesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1957 yılında Ortadoğu'da SSCB'nin etkisini kırmak ve komünizme karşı bölge ülkelerine askeri ve ekonomik yardım yapmayı öngören ABD doktrini hangisidir?",
+      "options": [
+        "Truman Doktrini",
+        "Marshall Planı",
+        "Eisenhower Doktrini",
+        "Nixon Doktrini",
+        "Monroe Doktrini"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1961 Anayasası ile Türkiye hukuk sistemine giren, kanunların anayasaya uygunluğunu denetleyen yüksek mahkeme hangisidir?",
+      "options": [
+        "Yargıtay",
+        "Danıştay",
+        "Anayasa Mahkemesi",
+        "Sayıştay",
+        "Uyuşmazlık Mahkemesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

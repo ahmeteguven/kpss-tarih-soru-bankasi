@@ -1,0 +1,96 @@
+{
+  "konu_adi": "27- OSMANLI’NIN DAĞILMASI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLI İMPARATORLUĞU’NUN DAĞILMASI"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🤯 Dağılmayı Hazırlayan Temel Faktörler"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. İdeolojik Baskı: Fransız İhtilali'nin Etkisi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Milliyetçilik Akımı: İhtilal ile yayılan milliyetçilik, imparatorluk içindeki milletleri ulusal devlet kurmaya itmiştir.",
+        "Azınlık İsyanları: Sırplar'ın isyanı (1804) ve Yunanistan'ın bağımsızlığını kazanması (1829), dağılma sürecini hızlandırmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Siyasi Baskı: Şark Meselesi (Doğu Sorunu)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tanım: Avrupa devletlerinin 1815'ten itibaren Osmanlı İmparatorluğu'nun topraklarını paylaşma politikasıdır.",
+        "Avrupalıların Rolü: Büyük güçler, bir yandan Osmanlı'yı paylaşmak için rekabet ederken, diğer yandan kendi çıkarları doğrultusunda azınlıkları kışkırtmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Dağılmayı Durdurma Çabaları (Osmanlı Fikir Akımları)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Osmanlıcılık: Tüm Osmanlı vatandaşlarının eşit haklara sahip olduğu bir üst kimlik oluşturmayı amaçlamıştır (Tanzimat ve Meşrutiyet ile uygulandı)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "İslamcılık (Ümmetçilik): Padişahın Halifelik gücünü kullanarak, tüm Müslümanları Halife çatısı altında birleştirmeyi amaçlamıştır (II. Abdülhamit savundu)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Türkçülük (Turancılık): Tüm Türkleri tek bir bayrak altında toplamayı amaçlamıştır (İttihat ve Terakki Cemiyeti üzerinde etkili olmuştur)."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Askeri ve Siyasi Yıkılış Süreci (20. Yüzyıl Başları)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Trablusgarp Savaşı (1911-1912)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İşgalci: İtalya (Sömürge arayışı).",
+        "Önemi: Mustafa Kemal ve Enver Paşa gibi genç subaylar bölgeye giderek halkı örgütlemiştir.",
+        "Uşi Antlaşması (1912): Osmanlı, Kuzey Afrika'daki son toprağı olan Trablusgarp'ı (Libya) İtalya'ya bırakmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Balkan Savaşları (1912-1913)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "I. Balkan Savaşı: Sırbistan, Yunanistan, Bulgaristan ve Karadağ birleşerek Osmanlı'ya saldırmış ve Osmanlı, Edirne dahil Batı Trakya'yı kaybetmiştir.",
+        "Londra Antlaşması (1913): Midye-Enez hattı sınır kabul edilerek Osmanlı'nın Avrupa'daki toprakları (Doğu Trakya hariç) kaybedilmiştir.",
+        "II. Balkan Savaşı: Osmanlı, fırsatı değerlendirerek Edirne ve Kırklareli'yi geri almıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. I. Dünya Savaşı'na Giriş (1914)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Son Darbe: Balkan Savaşları, Osmanlı'nın askeri ve ekonomik zayıflığını göstermiştir.",
+        "Giriş Nedenleri: İttihat ve Terakki yönetimi, kaybedilen toprakları geri alma ve kapitülasyonlardan kurtulma umuduyla Almanya'nın yanında savaşa girmiştir.",
+        "Sonuç: 1918'de Mondros Ateşkes Antlaşması'nı imzalayarak fiilen teslim olmuş ve işgaller başlamıştır."
+      ]
+    }
+  ]
+}

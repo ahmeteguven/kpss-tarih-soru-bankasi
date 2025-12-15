@@ -1,0 +1,109 @@
+{
+  "konu_adi": "46- KURTULUŞ SAVAŞI MUHAREBELER DÖNEMİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "KURTULUŞ SAVAŞI MUHAREBELER DÖNEMİ (1920-1922)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Düzenli Orduya Geçiş ve Cepheler"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "TBMM Hükümeti, Kuvâ-yi Milliye'nin yetersizliğini görerek düzenli ordu kurma kararı almış ve mücadeleyi Doğu, Güney ve Batı olmak üzere üç ana cephede yürütmüştür."
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ 1. Doğu Cephesi (Ermenistan'a Karşı)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Komutan: Kazım Karabekir Paşa komutasındaki Osmanlı'dan kalan askeri birlikler (15. Kolordu) ile yürütülmüştür.",
+        {
+          "madde_tipi": "tanim",
+          "metin": "Gümrü Antlaşması (3 Aralık 1920): TBMM'nin uluslararası alanda kazandığı ilk siyasi ve askeri zaferdir. Doğu Cephesi resmen kapanmıştır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ 2. Güney Cephesi (Fransa ve Ermenilere Karşı)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yöntem: Düzenli ordu yerine, Kuvâ-yi Milliye birlikleri ve yerel halkın direnişiyle yürütülmüştür.",
+        "Kahramanlıklar: Antep'te Şahin Bey, Maraş'ta Sütçü İmam öne çıkmıştır (Maraş'a \"Kahraman\", Antep'e \"Gazi\" unvanı verilmiştir).",
+        {
+          "madde_tipi": "tanim",
+          "metin": "Ankara Antlaşması (20 Ekim 1921): Fransa ile imzalanmıştır. İtilaf Devletlerinden birinin (Fransa) TBMM Hükümeti'ni ve Misak-ı Milli'yi resmen tanıdığı ilk antlaşmadır. Güney Cephesi kapanmıştır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ 3. Batı Cephesi (Yunanistan'a Karşı)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "A. Savunma Savaşları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "I. İnönü Zaferi (Ocak 1921): Düzenli ordunun Yunanlılara karşı kazandığı ilk zaferdir. (Sonuçları: 1921 Anayasası, İstiklal Marşı'nın kabulü, Londra Konferansı)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "II. İnönü Zaferi (Mart 1921): Mustafa Kemal'in \"Siz orada yalnız düşmanı değil, milletin makûs talihini de yendiniz\" telgrafını çektiği zaferdir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kütahya-Eskişehir Savaşları (Temmuz 1921): Yunan ordusunun kazandığı tek zaferdir. (Sonuç: Ordu Sakarya Nehri'nin doğusuna çekildi. Mustafa Kemal'e Başkomutanlık Yetkisi verildi.)"
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "B. Başkomutanlık Meydan Muharebeleri (Taarruz)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Sakarya Meydan Muharebesi (Eylül 1921): Türk ordusunun son savunma savaşıdır. (Sonuçları: Mustafa Kemal'e Mareşallik rütbesi ve Gazilik unvanı verildi. Taarruz dönemi başladı.)"
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Büyük Taarruz (Ağustos 1922): Türk ordusunun taarruz savaşıdır. Mustafa Kemal, \"Ordular, ilk hedefiniz Akdeniz'dir, ileri!\" emrini vermiştir. Yunan ordusu tamamen yenilgiye uğratılmıştır."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Muharebelerin Siyasi Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Moskova Antlaşması (Mart 1921): SSCB, Misak-ı Milli'yi ve TBMM Hükümeti'ni tanıyan ilk büyük Avrupa devleti olmuştur."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kars Antlaşması (Ekim 1921): Kafkas Cumhuriyetleri ile imzalanmıştır. Doğu sınırı kesinleşmiştir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Mudanya Ateşkes Antlaşması (Ekim 1922): Büyük Taarruz sonrası İtilaf Devletleri ile imzalanmıştır. Türk-Yunan Savaşı'nın askeri safhası sona ermiştir. İstanbul ve Boğazlar, TBMM yönetimine bırakılmıştır (Osmanlı Devleti'nin hukuken sona erdiğinin ilk işaretidir)."
+        }
+      ]
+    }
+  ]
+}

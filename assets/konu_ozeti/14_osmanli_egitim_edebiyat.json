@@ -1,0 +1,110 @@
+{
+  "konu_adi": "14- OSMANLIDA EĞİTİM, YAZI, DİL VE EDEBİYAT",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLIDA EĞİTİM, YAZI, DİL VE EDEBİYAT"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🧠 Osmanlıda Eğitim Sistemi"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Yaygın Eğitim Kurumları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Sıbyan Mektepleri: Çocuklara temel okuma, yazma ve İslami bilgilerin verildiği ilk basamak okullarıdır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Medreseler: Eğitimin en önemli kurumlarıdır. İlk medrese İznik'te (Orhan Bey) açılmıştır. Sahn-ı Seman ve Süleymaniye en yüksek kurumlardır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Müderris: Medreselerde ders veren hocalardır. Atamaları Kazasker tarafından yapılırdı."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Mezuniyet: Medreseden mezun olanlar İcazetname alırdı."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Saray Eğitimi (Enderun Mektebi)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Enderun Mektebi: Devşirme sistemiyle toplanan en yetenekli çocukların alındığı okuldur.",
+        "Amaç: Devletin en üst kademelerine (Sadrazamlık, Vezirlik) yönetici ve komutan yetiştirmektir.",
+        "Önemi: Osmanlı'da dikey hareketliliği sağlayan temel kurumdur; liyakate dayalı yönetici yetiştirme sisteminin merkezidir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Yazı, Dil ve Edebiyat"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Dil Yapısı ve Kullanımı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Osmanlıca (Saray Dili): Arapça ve Farsça kelimelerle zenginleştirilmiş, edebi ve resmi dildir.",
+        "Türkçe (Halk Dili): Halkın konuştuğu sade dildir (Yunus Emre gibi ozanlar kullanmıştır).",
+        "Arapça: Din ve bilim dili.",
+        "Farsça: Edebiyat ve kültür dili."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Edebiyat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Divan Edebiyatı: Saray çevresine hitap eder, dili ağır, sanatsaldır (Fuzuli, Baki)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Halk Edebiyatı: Halkın konuştuğu sade Türkçe ile yazılır, hece vezni kullanılır (Karacaoğlan, Köroğlu)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Tasavvuf Edebiyatı: Anadolu'nun manevi birliğinde rol oynamıştır (Yunus Emre, Mevlana)."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Hattatlık ve Yazı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hattatlık (Hüsn-ü Hat): Arap harflerini estetik kurallara göre güzel yazma sanatıdır. Osmanlı'da en çok değer verilen sanat dallarından biriydi.",
+        "Temsilciler: Şeyh Hamdullah, Hafız Osman."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🖼️ Bilim ve Sanat Kurumları (Kısa Giriş)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Rasathaneler: Astronomi ve coğrafya bilimine önem verilirdi (Takiyüddin Mehmet'in Rasathanesi).",
+        "Mimar Sinan: Kanuni döneminin mimarbaşısı olup, Osmanlı mimarisinin zirve eserlerini vermiştir (Süleymaniye Camii, Selimiye Camii)."
+      ]
+    }
+  ]
+}

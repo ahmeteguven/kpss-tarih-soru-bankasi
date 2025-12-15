@@ -1,0 +1,505 @@
+{
+  "categoryName": "OSMANLI DEVLETİ SİYASİ",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Osmanlı Devleti’nin kurucusu kimdir?",
+      "answer": "Osman Bey"
+    },
+    {
+      "id": 2,
+      "question": "Osmanlı Devleti’nin Bizans ile yaptığı ilk savaş hangisidir?",
+      "answer": "Koyunhisar Savaşı (Bafeus - 1302)"
+    },
+    {
+      "id": 3,
+      "question": "Osmanlılarda parayı ilk bastıran ve ilk vergiyi (Bac) koyan padişah kimdir?",
+      "answer": "Osman Bey"
+    },
+    {
+      "id": 4,
+      "question": "Bursa’yı fethederek başkent yapan Osmanlı padişahı kimdir?",
+      "answer": "Orhan Bey"
+    },
+    {
+      "id": 5,
+      "question": "Osmanlı Devleti’nin Rumeli’de kazandığı ilk toprak parçası neresidir?",
+      "answer": "Çimpe Kalesi"
+    },
+    {
+      "id": 6,
+      "question": "Osmanlı’ya katılan ilk Türk beyliği hangisidir?",
+      "answer": "Karesioğulları"
+    },
+    {
+      "id": 7,
+      "question": "İlk kez \"Sultan\" unvanını kullanan Osmanlı padişahı kimdir?",
+      "answer": "Orhan Bey"
+    },
+    {
+      "id": 8,
+      "question": "Edirne’yi fethederek başkent yapan padişah kimdir?",
+      "answer": "I. Murat (Hüdavendigar)"
+    },
+    {
+      "id": 9,
+      "question": "Haçlılarla yapılan ilk savaş hangisidir?",
+      "answer": "Sırpsındığı Savaşı (1364)"
+    },
+    {
+      "id": 10,
+      "question": "Savaş meydanında şehit düşen ilk ve tek Osmanlı padişahı kimdir?",
+      "answer": "I. Murat (I. Kosova Savaşı)"
+    },
+    {
+      "id": 11,
+      "question": "Yıldırım Bayezid’in İstanbul’u kuşatmak için yaptırdığı hisarın adı nedir?",
+      "answer": "Anadolu Hisarı (Güzelcehisar)"
+    },
+    {
+      "id": 12,
+      "question": "Osmanlı tarihinde İstanbul’u kuşatan ilk padişah kimdir?",
+      "answer": "Yıldırım Bayezid"
+    },
+    {
+      "id": 13,
+      "question": "Niğbolu Savaşı’nı kazandığı için Halife tarafından Yıldırım Bayezid’e verilen unvan nedir?",
+      "answer": "Sultan-ı İklim-i Rum (Anadolu Diyarının Sultanı)"
+    },
+    {
+      "id": 14,
+      "question": "Timur ile Yıldırım Bayezid arasında yapılan ve Osmanlı’nın dağılma tehlikesi geçirdiği savaş hangisidir?",
+      "answer": "Ankara Savaşı (1402)"
+    },
+    {
+      "id": 15,
+      "question": "Ankara Savaşı’ndan sonra başlayan 11 yıllık taht kavgaları dönemine ne ad verilir?",
+      "answer": "Fetret Devri"
+    },
+    {
+      "id": 16,
+      "question": "Fetret Devri’ne son vererek devleti toparladığı için \"Osmanlı’nın İkinci Kurucusu\" sayılan padişah kimdir?",
+      "answer": "I. Mehmet (Çelebi Mehmet)"
+    },
+    {
+      "id": 17,
+      "question": "Osmanlı tarihindeki ilk dini ve sosyal nitelikli isyan hangisidir?",
+      "answer": "Şeyh Bedrettin İsyanı"
+    },
+    {
+      "id": 18,
+      "question": "Osmanlı Devleti ile Venedik arasında yapılan ilk deniz savaşı hangisidir?",
+      "answer": "Çalı Bey Savaşı"
+    },
+    {
+      "id": 19,
+      "question": "II. Murat’ın tahtı gönüllü olarak 12 yaşındaki oğlu II. Mehmet’e (Fatih) bıraktığı olay üzerine çıkan Haçlı savaşı hangisidir?",
+      "answer": "Varna Savaşı (1444)"
+    },
+    {
+      "id": 20,
+      "question": "Balkanların kesin olarak Türk yurdu haline geldiği savaş hangisidir?",
+      "answer": "II. Kosova Savaşı (1448)"
+    },
+    {
+      "id": 21,
+      "question": "İstanbul’un Fethi ile \"Orta Çağı kapatıp Yeni Çağı başlatan\" padişah kimdir?",
+      "answer": "Fatih Sultan Mehmet (II. Mehmet)"
+    },
+    {
+      "id": 22,
+      "question": "Fatih Sultan Mehmet’in İstanbul’un fethi için yaptırdığı hisarın adı nedir?",
+      "answer": "Rumeli Hisarı (Boğazkesen)"
+    },
+    {
+      "id": 23,
+      "question": "İstanbul’un fethinden sonra Fatih Sultan Mehmet’in kullandığı \"Roma İmparatoru\" anlamına gelen unvan nedir?",
+      "answer": "Kayser-i Rum"
+    },
+    {
+      "id": 24,
+      "question": "Karadeniz’in Türk gölü haline gelmesini sağlayan fetih hangisidir?",
+      "answer": "Kırım’ın Fethi (1475)"
+    },
+    {
+      "id": 25,
+      "question": "Fatih Sultan Mehmet’in Akkoyunlu hükümdarı Uzun Hasan’ı yendiği savaş hangisidir?",
+      "answer": "Otlukbeli Savaşı"
+    },
+    {
+      "id": 26,
+      "question": "Fatih döneminde kuşatılıp da alınamayan iki yer neresidir?",
+      "answer": "Belgrad ve Rodos"
+    },
+    {
+      "id": 27,
+      "question": "Osmanlı tarihinde ilk kez \"İç sorun iken dış sorun haline gelen\" olay hangisidir?",
+      "answer": "Cem Sultan Olayı (II. Bayezid Dönemi)"
+    },
+    {
+      "id": 28,
+      "question": "II. Bayezid döneminin sönük geçmesine neden olan, Safevilerin kışkırttığı isyan hangisidir?",
+      "answer": "Şahkulu İsyanı"
+    },
+    {
+      "id": 29,
+      "question": "8 yılda 80 yıllık iş yapan, Osmanlı hazinesini ağzına kadar dolduran padişah kimdir?",
+      "answer": "Yavuz Sultan Selim"
+    },
+    {
+      "id": 30,
+      "question": "Yavuz Sultan Selim’in Safevi hükümdarı Şah İsmail’i yendiği savaş hangisidir?",
+      "answer": "Çaldıran Savaşı (1514)"
+    },
+    {
+      "id": 31,
+      "question": "Anadolu Türk siyasi birliğinin kesin olarak sağlandığı (Dulkadiroğulları’nın alındığı) savaş hangisidir?",
+      "answer": "Turnadağ Savaşı"
+    },
+    {
+      "id": 32,
+      "question": "Memlük Devleti’nin yıkıldığı ve Halifeliğin Osmanlı’ya geçtiği savaş hangisidir?",
+      "answer": "Ridaniye Savaşı (1517)"
+    },
+    {
+      "id": 33,
+      "question": "Baharat Yolu’nun Osmanlı hakimiyetine girdiği sefer hangisidir?",
+      "answer": "Mısır Seferi"
+    },
+    {
+      "id": 34,
+      "question": "\"Hadimü'l-Haremeyn\" (Mekke ve Medine'nin Hizmetkarı) unvanını kullanan ilk Osmanlı padişahı kimdir?",
+      "answer": "Yavuz Sultan Selim"
+    },
+    {
+      "id": 35,
+      "question": "Osmanlı tarihinde en uzun süre (46 yıl) tahtta kalan padişah kimdir?",
+      "answer": "Kanuni Sultan Süleyman"
+    },
+    {
+      "id": 36,
+      "question": "Dünya tarihinin en kısa süren (2 saat) meydan savaşı hangisidir?",
+      "answer": "Mohaç Meydan Muharebesi"
+    },
+    {
+      "id": 37,
+      "question": "Avusturya Arşidükü’nün protokolde Osmanlı Sadrazamına denk sayıldığı antlaşma hangisidir?",
+      "answer": "İstanbul Antlaşması (1533 - İbrahim Paşa Antlaşması)"
+    },
+    {
+      "id": 38,
+      "question": "Akdeniz’in Türk gölü haline geldiği savaş hangisidir?",
+      "answer": "Preveze Deniz Savaşı (1538)"
+    },
+    {
+      "id": 39,
+      "question": "Preveze Deniz Zaferi’nin mimarı ünlü Türk denizcisi kimdir?",
+      "answer": "Barbaros Hayrettin Paşa"
+    },
+    {
+      "id": 40,
+      "question": "Osmanlı’nın Kuzey Afrika hakimiyetini pekiştiren savaş hangisidir?",
+      "answer": "Cerbe Deniz Savaşı"
+    },
+    {
+      "id": 41,
+      "question": "Hint Deniz Seferleri hangi padişah döneminde yapılmıştır?",
+      "answer": "Kanuni Sultan Süleyman"
+    },
+    {
+      "id": 42,
+      "question": "Kanuni Sultan Süleyman’ın son seferi hangisidir?",
+      "answer": "Zigetvar Seferi"
+    },
+    {
+      "id": 43,
+      "question": "Kıbrıs’ın fethi hangi padişah döneminde, kim tarafından gerçekleştirilmiştir?",
+      "answer": "II. Selim döneminde, Lala Mustafa Paşa tarafından (Sokullu'nun emriyle)"
+    },
+    {
+      "id": 44,
+      "question": "İnebahtı’da Osmanlı donanmasının yakılmasına neden olan olay nedir?",
+      "answer": "Kıbrıs’ın Fethi"
+    },
+    {
+      "id": 45,
+      "question": "Osmanlı donanmasının tarih boyunca yakıldığı 4 yer sırasıyla neresidir?",
+      "answer": "İnebahtı, Çeşme, Navarin, Sinop"
+    },
+    {
+      "id": 46,
+      "question": "\"Ordunun başında sefere çıkma\" geleneğini terk eden ilk padişah kimdir?",
+      "answer": "II. Selim (Sarı Selim)"
+    },
+    {
+      "id": 47,
+      "question": "Sokullu Mehmet Paşa’nın ölümüyle (1579) Osmanlı tarihinde hangi dönem başlamıştır?",
+      "answer": "Duraklama Dönemi"
+    },
+    {
+      "id": 48,
+      "question": "Duraklama Dönemi’nde doğuda en geniş sınırlara ulaşılan antlaşma hangisidir?",
+      "answer": "Ferhat Paşa Antlaşması (1590)"
+    },
+    {
+      "id": 49,
+      "question": "Osmanlı’nın Avusturya karşısındaki siyasi üstünlüğünü kaybettiği (Padişah = Kral) antlaşma hangisidir?",
+      "answer": "Zitvatorok Antlaşması (1606)"
+    },
+    {
+      "id": 50,
+      "question": "Sancağa çıkma usulünü kaldıran ve \"Kafes Usulü\"nü getiren padişah kimdir?",
+      "answer": "I. Ahmet"
+    },
+    {
+      "id": 51,
+      "question": "Veraset sisteminde \"Ekber ve Erşed\" (En yaşlı ve en akıllı) sistemini getiren padişah kimdir?",
+      "answer": "I. Ahmet"
+    },
+    {
+      "id": 52,
+      "question": "Osmanlı tarihinde ilk kez \"Saray dışından evlenerek\" saray kadınlarının yönetimdeki etkisini kırmaya çalışan padişah kimdir?",
+      "answer": "II. Osman (Genç Osman)"
+    },
+    {
+      "id": 53,
+      "question": "Yeniçeriler tarafından öldürülen ilk Osmanlı padişahı kimdir?",
+      "answer": "II. Osman (Genç Osman)"
+    },
+    {
+      "id": 54,
+      "question": "\"Bağdat Fatihi\" olarak bilinen, içki ve tütün yasağı getiren, sert tedbirleriyle ünlü padişah kimdir?",
+      "answer": "IV. Murat"
+    },
+    {
+      "id": 55,
+      "question": "Günümüz Türkiye-İran sınırını büyük ölçüde belirleyen antlaşma hangisidir?",
+      "answer": "Kasr-ı Şirin Antlaşması (1639)"
+    },
+    {
+      "id": 56,
+      "question": "Osmanlı’nın batıda en geniş sınırlara ulaştığı antlaşma hangisidir?",
+      "answer": "Bucaş Antlaşması (1672)"
+    },
+    {
+      "id": 57,
+      "question": "Girit Adası’nı 24 yıllık kuşatma sonunda fetheden sadrazam kimdir?",
+      "answer": "Köprülü Fazıl Ahmet Paşa"
+    },
+    {
+      "id": 58,
+      "question": "Osmanlı tarihinde şartlar ileri sürerek sadrazam olan ilk kişi kimdir?",
+      "answer": "Köprülü Mehmet Paşa"
+    },
+    {
+      "id": 59,
+      "question": "Osmanlı Devleti’nde ilk kez modern bütçeyi (denk bütçe) hazırlayan devlet adamı kimdir?",
+      "answer": "Tarhuncu Ahmet Paşa"
+    },
+    {
+      "id": 60,
+      "question": "IV. Mehmet döneminde 30’a yakın devlet adamının çınar ağacına asılarak öldürüldüğü olaya ne ad verilir?",
+      "answer": "Vaka-i Vakvakiye (Çınar Vakası)"
+    },
+    {
+      "id": 61,
+      "question": "II. Viyana Kuşatması’nı gerçekleştiren ancak başarısız olup idam edilen sadrazam kimdir?",
+      "answer": "Merzifonlu Kara Mustafa Paşa"
+    },
+    {
+      "id": 62,
+      "question": "Osmanlı Devleti’nin batıda ilk kez büyük çapta toprak kaybettiği ve Gerileme Dönemi’ni başlatan antlaşma hangisidir?",
+      "answer": "Karlofça Antlaşması (1699)"
+    },
+    {
+      "id": 63,
+      "question": "Rusya’nın Karadeniz’e inme fırsatı bulduğu ve Azak Kalesi’ni aldığı antlaşma hangisidir?",
+      "answer": "İstanbul Antlaşması (1700)"
+    },
+    {
+      "id": 64,
+      "question": "İsveç Kralı Demirbaş Şarl’ın Osmanlı’ya sığınması sonucu Rusya ile yapılan ve Azak Kalesi’nin geri alındığı savaş/antlaşma hangisidir?",
+      "answer": "Prut Savaşı / Antlaşması (1711)"
+    },
+    {
+      "id": 65,
+      "question": "Osmanlı Devleti’nin \"Kaybettiği toprakları geri alma ümidinin sona erdiği\" ve Lale Devri’nin başladığı antlaşma hangisidir?",
+      "answer": "Pasarofça Antlaşması (1718)"
+    },
+    {
+      "id": 66,
+      "question": "Lale Devri hangi olayla başlamış, hangi olayla bitmiştir?",
+      "answer": "Pasarofça Antlaşması ile başlamış, Patrona Halil İsyanı ile bitmiştir."
+    },
+    {
+      "id": 67,
+      "question": "Lale Devri’nin ünlü padişahı ve sadrazamı kimlerdir?",
+      "answer": "Padişah III. Ahmet, Sadrazam Nevşehirli Damat İbrahim Paşa"
+    },
+    {
+      "id": 68,
+      "question": "Lale Devri’nde Avrupa’ya gönderilen ilk geçici elçi kimdir?",
+      "answer": "Yirmisekiz Çelebi Mehmet (Paris)"
+    },
+    {
+      "id": 69,
+      "question": "Osmanlı Devleti’ne matbaayı (ilk Türk matbaası) getiren kişiler kimlerdir?",
+      "answer": "İbrahim Müteferrika ve Sait Efendi"
+    },
+    {
+      "id": 70,
+      "question": "Osmanlı matbaasında basılan ilk eser nedir?",
+      "answer": "Vankulu Lügati"
+    },
+    {
+      "id": 71,
+      "question": "Lale Devri’nde yapılan ıslahatlar arasında \"Askeri\" ıslahat var mıdır?",
+      "answer": "Hayır, yoktur. (Kültürel, sosyal, mimari ağırlıklıdır)."
+    },
+    {
+      "id": 72,
+      "question": "Lale Devri’ni sona erdiren isyan hangisidir?",
+      "answer": "Patrona Halil İsyanı"
+    },
+    {
+      "id": 73,
+      "question": "Osmanlı Devleti’nin 18. yüzyılda imzaladığı \"Son kazançlı antlaşma\" hangisidir?",
+      "answer": "Belgrad Antlaşması (1739)"
+    },
+    {
+      "id": 74,
+      "question": "Karadeniz’in Türk gölü olduğu son kez hangi antlaşma ile kabul edilmiştir?",
+      "answer": "Belgrad Antlaşması"
+    },
+    {
+      "id": 75,
+      "question": "Belgrad Antlaşması’nda arabuluculuk yaptığı için kapitülasyonları \"sürekli\" hale getirilen devlet hangisidir?",
+      "answer": "Fransa (1740)"
+    },
+    {
+      "id": 76,
+      "question": "Osmanlı tarihinde ilk kez savaş tazminatı ödenen ve Kırım’a bağımsızlık verilen antlaşma hangisidir?",
+      "answer": "Küçük Kaynarca Antlaşması (1774)"
+    },
+    {
+      "id": 77,
+      "question": "Rusya’nın, Osmanlı’daki Ortodoksların himayesini aldığı antlaşma hangisidir?",
+      "answer": "Küçük Kaynarca Antlaşması"
+    },
+    {
+      "id": 78,
+      "question": "Halifelik makamının ilk kez siyasi bir güç olarak kullanıldığı antlaşma hangisidir?",
+      "answer": "Küçük Kaynarca Antlaşması (Kırım halkı için)"
+    },
+    {
+      "id": 79,
+      "question": "Kırım’ın Rusya’ya ait olduğunun kabul edildiği antlaşma hangisidir?",
+      "answer": "Yaş Antlaşması (1792)"
+    },
+    {
+      "id": 80,
+      "question": "Osmanlı Devleti’nde Gerileme Dönemi'ni bitirip Dağılma Dönemi'ni başlatan antlaşma hangisidir?",
+      "answer": "Yaş Antlaşması"
+    },
+    {
+      "id": 81,
+      "question": "Osmanlı Devleti’nde Batı tarzı ilk askeri ıslahatları yapan ve \"Hendesehane\"yi kuran padişah kimdir?",
+      "answer": "I. Mahmut"
+    },
+    {
+      "id": 82,
+      "question": "III. Selim döneminde yapılan ıslahatların genel adı nedir?",
+      "answer": "Nizam-ı Cedid"
+    },
+    {
+      "id": 83,
+      "question": "Nizam-ı Cedid ordusunun ihtiyaçlarını karşılamak için kurulan hazineye ne ad verilir?",
+      "answer": "İrad-ı Cedid"
+    },
+    {
+      "id": 84,
+      "question": "Nizam-ı Cedid ordusunun Napolyon’a (Fransa) karşı kazandığı ilk ve tek zafer hangisidir?",
+      "answer": "Akka Savunması"
+    },
+    {
+      "id": 85,
+      "question": "Akka’da Napolyon’u durduran yaşlı Osmanlı komutanı kimdir?",
+      "answer": "Cezzar Ahmet Paşa"
+    },
+    {
+      "id": 86,
+      "question": "III. Selim döneminde Londra’ya gönderilen \"İlk Daimi Elçi\" kimdir?",
+      "answer": "Yusuf Agah Efendi"
+    },
+    {
+      "id": 87,
+      "question": "III. Selim’in tahttan indirilip Nizam-ı Cedid’in son bulmasına neden olan isyan hangisidir?",
+      "answer": "Kabakçı Mustafa İsyanı"
+    },
+    {
+      "id": 88,
+      "question": "Osmanlı’nın Kuzey Afrika’da kaybettiği ilk toprak parçası neresidir?",
+      "answer": "Cezayir (Fransa işgal etti - 1830)"
+    },
+    {
+      "id": 89,
+      "question": "Osmanlı’nın Kuzey Afrika’da kaybettiği son toprak parçası neresidir?",
+      "answer": "Trablusgarp (İtalya işgal etti - 1912)"
+    },
+    {
+      "id": 90,
+      "question": "Osmanlı Devleti’nde ilk kez \"İç Borçlanma\" (Esham Sistemi) hangi padişah döneminde başlamıştır?",
+      "answer": "I. Abdülhamit (Uygulama), III. Mustafa (Fikir)"
+    },
+    {
+      "id": 91,
+      "question": "Yeniçeri sayımı yaptıran ve Cülus Bahşişi’ni kaldıran padişah kimdir?",
+      "answer": "I. Abdülhamit"
+    },
+    {
+      "id": 92,
+      "question": "Rusya ve Avusturya’nın Osmanlı topraklarını paylaşmak için hazırladıkları projenin adı nedir?",
+      "answer": "Grek Projesi"
+    },
+    {
+      "id": 93,
+      "question": "Rusya’nın Karadeniz donanmasını yaktığı \"Çeşme Baskını\" hangi padişah dönemindedir?",
+      "answer": "III. Mustafa"
+    },
+    {
+      "id": 94,
+      "question": "Osmanlı tarihinde Rusya ile yapılan ilk antlaşma hangisidir?",
+      "answer": "Bahçesaray (Çehrin) Antlaşması (1681)"
+    },
+    {
+      "id": 95,
+      "question": "IV. Murat’ın Bağdat Seferi sırasında \"Bağdat’ı almaya çalışmak, Bağdat’ın kendinden daha mı güzeldi?\" sözünü kime atfen söylemiştir?",
+      "answer": "Genç Osman (adına yapılan bir kahramanlık menkıbesi/hikayesi üzerinedir, ancak söz bizzat padişahındır.)"
+    },
+    {
+      "id": 96,
+      "question": "Osmanlı’da sancağa çıkan son padişah kimdir?",
+      "answer": "III. Mehmet"
+    },
+    {
+      "id": 97,
+      "question": "Eğri Fatihi olarak bilinen padişah kimdir?",
+      "answer": "III. Mehmet"
+    },
+    {
+      "id": 98,
+      "question": "Haçova Meydan Muharebesi’ni kazanan padişah kimdir?",
+      "answer": "III. Mehmet"
+    },
+    {
+      "id": 99,
+      "question": "Kanije Kalesi savunmasıyla ünlü Osmanlı komutanı kimdir?",
+      "answer": "Tiryaki Hasan Paşa"
+    },
+    {
+      "id": 100,
+      "question": "Plevne Kahramanı olarak bilinen komutan kimdir?",
+      "answer": "Gazi Osman Paşa"
+    }
+  ]
+}

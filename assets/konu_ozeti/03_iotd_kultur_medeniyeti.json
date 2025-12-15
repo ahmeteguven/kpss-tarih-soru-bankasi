@@ -1,0 +1,204 @@
+{
+  "konu_adi": "03- İSLAMİYET ÖNCESİ TÜRK DEVLETLERİ KÜLTÜR VE MEDENİYETİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "İSLAMİYET ÖNCESİ TÜRK DEVLETLERİ KÜLTÜR VE MEDENİYETİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👑 Devlet Yönetimi ve Egemenlik Anlayışı"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "İslamiyet öncesi Türk devletlerinde siyasi yapının temelini Kağanlık oluşturur. Merkezi otorite, güçlü bir teşkilatlanma ile sağlanmaya çalışılmıştır."
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Kut Anlayışı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kut: Devleti yönetme yetkisinin Gök Tanrı tarafından hükümdara ve ailesine verildiğine inanılmasıdır. Bu yetki kan yoluyla geçtiği için hanedan üyeleri arasında taht kavgaları yaşanmasına yol açmıştır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Hükümdarlık Belirtileri (Semboller): Otağ (Hükümdar çadırı), Örgin (Taht), Sancak (Tuğ), Kama, Yay, Kılıç, Kotuz/Sorguç, Nevbet (Davul)."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Hatun (Kağan Eşi): Yönetimde söz sahibiydi. Kurultay toplantılarına katılır ve elçi kabul edebilirdi."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. İkili Teşkilat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Devletin geniş coğrafyada kolay yönetilmesi amacıyla doğu-batı olarak ikiye ayrılmasıdır.",
+        "Doğu: Yönetimin merkezi kabul edilir ve Kağan tarafından yönetilirdi.",
+        "Batı: Kağan'ın kardeşi olan Yabgu tarafından yönetilirdi. Yabgu, iç işlerinde serbest, dış işlerinde Kağan'a bağlıydı. Zamanla bu ikili yapı, batı kanadının bağımsızlık eğilimi göstermesi nedeniyle devletin bölünmesini hızlandırmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Kurultay (Toy)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Devlet işlerinin görüşülüp karara bağlandığı büyük meclistir.",
+        "Üyeleri: Kağan, Hatun, Boy Beyleri, Komutanlar ve ileri gelen devlet adamları.",
+        "Yetkisi: Kurultay, töreye uygun olduğu sürece Kağan'ı bile denetleyebilir, hatta töreye uymayan Kağan'ı görevden alma yetkisine sahipti.",
+        "Danışma Organı: Uygurlardan sonra Kurultay, daha çok danışma organı niteliği kazanmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚖️ Hukuk ve Sosyal Yaşam"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Töre"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İslamiyet öncesi Türk devletlerinin yazılı olmayan hukuk kurallarıdır.",
+        "Kaynağı: Kurultay kararları, Kağan'ın emirleri ve halkın gelenekleri töreyi oluştururdu.",
+        "Değişmez Hükümler: Dürüstlük (Könilik), eşitlik (Tüz), faydalılık (Usluluk) gibi ilkeler değişmezdi.",
+        "Yargı: Yargı işleri, Kurultay üyelerinden Yargucu (Yargan) adı verilen hakimler tarafından yürütülürdü."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Sosyal Yapı"
+    },
+    {
+      "tip": "paragraf",
+      "metin": "Türk sosyal yapısı, küçükten büyüğe hiyerarşik bir düzen izlerdi:"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Oğuş (Aile) – Urug (Aşiret) – Boy (Oğuz) – Budun (Millet) – İl (Devlet).",
+        "Temel İlke: Sosyal yapının temelinde göçebe yaşam ve sınıf ayrımının olmaması yatar. Kölelik yaygın değildi."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ Ordu ve Askerlik Anlayışı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Ordu-Millet Anlayışı: Kadın erkek ayrımı olmaksızın, eli silah tutan herkes asker sayılırdı.",
+        "Onlu Sistem (Islık Çalan Ok): İlk defa Mete Han tarafından kurulmuştur. Ordunun onluk, yüzlük, binlik gruplara ayrılması esasına dayanır.",
+        "Süvari (Atlı Birlik): Türk ordusunun vurucu gücünü oluştururdu. Atlar, Türklerin en önemli savaş aracıydı.",
+        "Turan (Hilal) Taktiği: Sahte ricat (geri çekilme) adı verilen bu taktik, ordunun çembere alarak düşmanı imha etmesini sağlardı."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💰 Ekonomi ve Ticaret"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Temel Geçim Kaynağı: Hayvancılık (at, koyun, sığır).",
+        "İpek Yolu: Ticari faaliyetlerin en önemli güzergahıydı. Bu yolun hakimiyeti için sürekli mücadele edilmiştir.",
+        "Para (İlkler): İlk parayı (madeni para) kendi adına bastıran devlet Türgişler'dir. Uygurlar, kâğıt para (Çav) kullanmışlardır.",
+        "Tarım: Yerleşik hayata geçişle birlikte Uygurlarda tarım, hayvancılığın önüne geçmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛐 Din ve İnanç"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Gök Tanrı İnancı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Türklerin en yaygın ve orijinal inancıdır. Tek tanrılıdır, soyut bir Tanrı anlayışı vardır.",
+        "Yuğ Törenleri: Cenaze törenleri.",
+        "Kam/Şaman/Baksı: Din adamları veya büyücüler."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Ahiret İnancı (Kanıtlar)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        {
+          "madde_tipi": "tanim",
+          "metin": "Kurgan: Hükümdar ve soyluların mezarlarıdır. Ölen kişinin eşyaları ile gömülmesi ahiret inancının kesin kanıtıdır."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Balbal: Öldürülen düşman sayısı kadar mezarın etrafına dikilen taş heykelciklerdir. Ahirette ölen kişiye hizmet edeceğine inanılırdı."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Din Değiştirenler"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Uygurlar: Maniheizm ve Budizm.",
+        "Hazarlar: Musevilik (yönetici sınıf).",
+        "Tuna Bulgarları, Macarlar: Hristiyanlık."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "✍️ Dil, Edebiyat ve Sanat"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Sözlü Edebiyat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Destanlar, sav (atasözü), sagu (ağıt) ve koşuk (şiir) en önemli türlerdir.",
+        "Önemli Destanlar: Oğuz Kağan Destanı (Hun), Ergenekon ve Bozkurt Destanları (Göktürk), Manas Destanı (Kırgız)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Yazılı Edebiyat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Orhun Abideleri (Göktürk Yazıtları): Türk tarihinin ve edebiyatının ilk yazılı eserleridir.",
+        "Alfabe: Göktürk Alfabesi Türklerin kullandığı ilk ulusal alfabedir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Sanat"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Fresk ve Minyatür: Uygurlar ile birlikte gelişmiştir. Türk resim sanatının başlangıcıdır.",
+        "Hayvan Üslubu: Göçebe yaşamın etkisiyle sanat eserlerinde hayvan motifleri yoğun olarak kullanılmıştır.",
+        "Halıcılık: Dünyanın en eski halısı olan Pazırık Halısı, Asya Hun Devleti'ne ait olup, Türk halı sanatının köklü geçmişini gösterir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2466 @@
+{
+  "topicName": "İlk Türk-İslam Devletleri",
+  "testSets": [
+    {
+      "testName": "Mini Test - 1",
+      "preTestNote": "Talas Savaşı (751): Abbasiler ile Çinliler arasında yapıldı. Türkler (Karluklar) Abbasileri destekledi. Savaşın sonunda Türkler kitleler halinde İslamiyet'e girmeye başladı.\n\nKültürel Sonuç: Kağıt ilk kez Çin dışında Semerkant'ta üretildi.\n\nŞehirlerin Unvanları:\nSemerkant: Şehirlerin Şahı\nBuhara: İslam'ın Roması / Kubbet-ül İslam\nKaşgar: Işıldayan İnci\n\nKarahanlılar (840-1212): Orta Asya'da kurulan ilk Müslüman Türk devletidir.\nKurucu: Bilge Kül Kadir Han.\nİslam'ı Kabul: Satuk Buğra Han (Abdülkerim ismini almıştır).\nÖzellik: Resmi dili Türkçedir (Milliyetçi özellik). İlk Ribat (Kervansaray), ilk Bimarhane (Hastane), ilk Burslu Öğrencilik sistemi.\n\nGazneliler (963-1187): Afganistan'ın Gazne şehrinde kuruldu.\nKurucu: Alp Tigin.\nEn Parlak Dönem: Gazneli Mahmut.\nGazneli Mahmut: Hindistan'a 17 sefer düzenleyerek İslam'ı yaydı. Abbasi halifesini koruduğu için tarihte \"Sultan\" unvanını kullanan ilk hükümdar oldu.\nEser: Firdevsi, \"Şehname\"yi Gazneli Mahmut'a sunmuştur.\n\nMısır'da Kurulanlar:\nTolunoğulları: Mısır'da kurulan ilk Türk devletidir. (Halkı Arap, yöneticisi Türk = Kısa ömürlü).\nİhşidler (Akşitler): Mısır'da kurulan ikinci Türk devletidir. Hicaz'a (Kutsal topraklara) hakim olan ilk Türk devletidir.",
+      "questions": [
+        {
+          "text": "751 yılında yapılan Talas Savaşı’nda Abbasilerin yanında yer alarak savaşın kazanılmasını sağlayan ve İslamiyet’i topluca kabul eden ilk Türk boyu hangisidir?",
+          "options": [
+            "Oğuzlar",
+            "Yağmalar",
+            "Karluklar",
+            "Çiğiller",
+            "Kıpçaklar"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Türk-İslam tarihinde, kağıdın Çin dışında üretildiği ilk şehir olması nedeniyle \"Şehirlerin Şahı\" unvanıyla anılan merkez aşağıdakilerden hangisidir?",
+          "options": [
+            "Semerkant",
+            "Buhara",
+            "Kaşgar",
+            "Bağdat",
+            "Nişabur"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Orta Asya’da kurulan ilk Müslüman Türk devleti aşağıdakilerden hangisidir?",
+          "options": [
+            "İtil Bulgarları",
+            "Gazneliler",
+            "Büyük Selçuklular",
+            "Karahanlılar",
+            "Tolunoğulları"
+          ],
+          "correctOption": "D",
+          "solution": "Dikkat: \"İlk Müslüman Türk Devleti\" İtil Bulgarlarıdır, ancak \"Orta Asya'da kurulan\" diye sorarsa Karahanlılar'dır."
+        },
+        {
+          "text": "Karahanlı hükümdarı Satuk Buğra Han, İslamiyet’i kabul ettikten sonra hangi ismi almıştır?",
+          "options": [
+            "Tuğrul",
+            "Çağrı",
+            "Alemdar",
+            "Melikşah",
+            "Abdülkerim"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Türk-İslam devletleri arasında \"Resmi dili Türkçe\" olan ve Uygur alfabesini kullanmaya devam ederek milliyetçi özelliklerini koruyan devlet hangisidir?",
+          "options": [
+            "Gazneliler",
+            "Karahanlılar",
+            "Büyük Selçuklular",
+            "Tolunoğulları",
+            "Eyyubiler"
+          ],
+          "correctOption": "B",
+          "solution": "Gazneli ve Selçuklu'da bilim dili Arapça, edebiyat dili Farsçadır. Karahanlılar ise Türkçeyi esas almıştır."
+        },
+        {
+          "text": "Karahanlılar döneminde inşa edilen ve sınır güvenliği ile ticaretin gelişmesine katkı sağlayan, Türk İslam mimarisindeki ilk kervansaray örneklerine ne ad verilir?",
+          "options": [
+            "Külliye",
+            "Bedesten",
+            "Arasta",
+            "İmaret",
+            "Ribat"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Türk tarihinde \"Sultan\" unvanını kullanan ilk hükümdar kimdir?",
+          "options": [
+            "Gazneli Mahmut",
+            "Alparslan",
+            "Tuğrul Bey",
+            "Satuk Buğra Han",
+            "Melikşah"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Hindistan’a 17 sefer düzenleyerek bölgede İslamiyet’in yayılmasını sağlayan ve bugünkü Pakistan-Hindistan Müslüman nüfusunun temellerini atan Türk hükümdarı kimdir?",
+          "options": [
+            "Babür Şah",
+            "Timur",
+            "Şah Cihan",
+            "Gazneli Mahmut",
+            "Sultan Mesut"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Ünlü İranlı şair Firdevsi, \"Şehname\" adlı eserini hangi Türk hükümdarına sunmuştur?",
+          "options": [
+            "Alparslan",
+            "Melikşah",
+            "Gazneli Mahmut",
+            "Timur",
+            "Tuğrul Bey"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mısır’da kurulan ilk Türk devleti aşağıdakilerden hangisidir?",
+          "options": [
+            "Tolunoğulları",
+            "Memlükler",
+            "Eyyubiler",
+            "İhşidiler",
+            "Fatımiler"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Mısır’da kurulan Tolunoğulları ve İhşidiler (Akşitler) devletlerinin kısa ömürlü olmalarının temel nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Haçlı seferleri ile mücadele etmeleri",
+            "Ekonomik kriz yaşamaları",
+            "Abbasi halifesine bağlı kalmaları",
+            "Moğol istilasına uğramaları",
+            "Yöneticilerinin Türk, halkının Arap olması"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Kutsal topraklar olan Hicaz Bölgesi’ne (Mekke-Medine) hakim olan ilk Türk devleti aşağıdakilerden hangisidir?",
+          "options": [
+            "Tolunoğulları",
+            "Memlükler",
+            "Osmanlılar",
+            "Eyyubiler",
+            "İhşidiler (Akşitler)"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Karahanlılar devletinde, akıl hastalarının tedavi edildiği hastanelere ne ad verilirdi?",
+          "options": [
+            "Darüşşifa",
+            "İmaret",
+            "Bimarhane",
+            "Darülaceze",
+            "Külliye"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki eser-yazar eşleştirmelerinden hangisi yanlıştır?",
+          "options": [
+            "Şehname - Ömer Hayyam",
+            "Kutadgu Bilig - Yusuf Has Hacip",
+            "Divan-ı Lügati't Türk - Kaşgarlı Mahmut",
+            "Atabetü'l Hakayık - Edip Ahmet Yükneki",
+            "Divan-ı Hikmet - Hoca Ahmet Yesevi"
+          ],
+          "correctOption": "C",
+          "solution": "Şehname Firdevsi'ye aittir."
+        },
+        {
+          "text": "Gazneli Devleti, 1040 yılında Selçuklularla yaptığı hangi savaş sonucunda yıkılış sürecine girmiştir?",
+          "options": [
+            "Pasinler Savaşı",
+            "Malazgirt Savaşı",
+            "Katvan Savaşı",
+            "Talas Savaşı",
+            "Dandanakan Savaşı"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Türk-İslam Edebiyatı'nın ilk yazılı eseri kabul edilen ve \"Mutluluk Veren Bilgi\" anlamına gelen eser hangisidir?",
+          "options": [
+            "Divan-ı Hikmet",
+            "Kutadgu Bilig",
+            "Atabetü'l Hakayık",
+            "Siyasetname",
+            "Şehname"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Kaşgarlı Mahmut tarafından yazılan Divan-ı Lügati't Türk’ün yazılış amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "İslamiyet’i Türklere anlatmak",
+            "Araplara Türkçeyi öğretmek ve Türkçenin zenginliğini göstermek",
+            "Tasavvuf kültürünü yaymak",
+            "Devlet yöneticilerine öğüt vermek",
+            "Ahlak kurallarını öğretmek"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Gazneli Mahmut’un \"Sarayımın en değerli hazinesi\" dediği ünlü bilim insanı kimdir?",
+          "options": [
+            "İbni Sina",
+            "Farabi",
+            "Harezmi",
+            "Ömer Hayyam",
+            "Biruni"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Dünya tarihinde ilk kez \"Burslu Öğrencilik\" sistemini başlatan Türk devleti hangisidir?",
+          "options": [
+            "Büyük Selçuklular",
+            "Gazneliler",
+            "Anadolu Selçukluları",
+            "Osmanlılar",
+            "Karahanlılar"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "\"İslam’ın Roması\" ve \"Kubbet-ül İslam\" unvanlarıyla bilinen, birçok İslam alimini yetiştiren şehir hangisidir?",
+          "options": [
+            "Bağdat",
+            "Şam",
+            "Semerkant",
+            "Kahire",
+            "Buhara"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 2",
+      "preTestNote": "Kuruluş: 1040 Dandanakan Savaşı ile Gaznelileri yenerek resmen kurulmuştur (Tuğrul ve Çağrı Beyler). Başkentler: Nişabur, Rey, İsfahan.\n\nTuğrul Bey: Abbasi Halifesini Şii Büveyhoğulları baskısından kurtardığı için Halife ona \"Doğunun ve Batının Sultanı\" (Sultan-ül Mağrib ve Meşrık) unvanını vermiştir.\n\nPasinler Savaşı (1048): Bizans ile yapılan ilk savaştır (Gürcü kralı Liparit esir alındı).\n\nAlparslan: Kars ve Ani Kalesi'ni aldığı için \"Ebul Feth\" (Fetihlerin Babası) unvanını almıştır.\n\nMalazgirt Savaşı (1071): Bizans İmparatoru Romen Diyojen esir alındı. \"Anadolu'nun kapıları Türklere açıldı.\" Türkiye Tarihi başladı.\n\nMelikşah: Devletin en parlak ve en geniş sınırlara ulaştığı dönemdir.\n\nÖmer Hayyam: Bu dönemde Celali Takvimi'ni hazırlamıştır.\n\nHasan Sabbah (Batınilik): Haşhaşiler tarikatı bu dönemde devleti içten çökertmeye çalışmıştır.\n\nNizamülmülk: Alparslan ve Melikşah'a vezirlik yapmıştır. \"Siyasetname\" adlı eseri yazar. Bağdat'ta Nizamiye Medreseleri'ni kurmuştur (Dünyanın ilk üniversitesi sayılır).\n\nYıkılış: 1141 Katvan Savaşı (Karahitaylara karşı yenilgi), Oğuz İsyanı, Batınilik faaliyetleri ve atabeylerin bağımsızlık ilan etmesi.",
+      "questions": [
+        {
+          "text": "Büyük Selçuklu Devleti’nin Gaznelileri mağlup ederek resmen kurulduğunu ilan ettiği savaş aşağıdakilerden hangisidir?",
+          "options": [
+            "Nesa Savaşı",
+            "Serahs Savaşı",
+            "Pasinler Savaşı",
+            "Katvan Savaşı",
+            "Dandanakan Savaşı"
+          ],
+          "correctOption": "E",
+          "solution": "1040 yılındaki bu savaşla Selçuklu kuruldu, Gazneli yıkılış sürecine girdi."
+        },
+        {
+          "text": "Büyük Selçuklu Sultanı Tuğrul Bey, 1055 yılında Bağdat Seferi’ni düzenleyerek Abbasi Halifesini Şii Büveyhoğulları baskısından kurtarmıştır. Bu hizmetine karşılık Halife, Tuğrul Bey’e hangi unvanı vermiştir?",
+          "options": [
+            "Ebul Feth (Fetihlerin Babası)",
+            "Sultan-ül İklim-i Rum (Anadolu’nun Sultanı)",
+            "Melik-ül Mülk (Hükümdarların Hükümdarı)",
+            "Sultan-ül Mağrib ve Meşrık (Doğunun ve Batının Sultanı)",
+            "Gazi"
+          ],
+          "correctOption": "D",
+          "solution": "Bu olayla İslam dünyasının siyasi liderliği Türklere geçmiştir."
+        },
+        {
+          "text": "Büyük Selçuklular ile Bizans İmparatorluğu arasında yapılan ve Selçukluların zaferiyle sonuçlanan ilk savaş hangisidir?",
+          "options": [
+            "Pasinler",
+            "Malazgirt",
+            "Miryokefalon",
+            "Yassı Çemen",
+            "Kösedağ"
+          ],
+          "correctOption": "A",
+          "solution": "1048 Pasinler Savaşı."
+        },
+        {
+          "text": "Hristiyanlarca kutsal sayılan Ani Kalesi’ni (Kars) fethederek Abbasi Halifesi’nden \"Ebul Feth\" (Fetihlerin Babası) unvanını alan Selçuklu sultanı kimdir?",
+          "options": [
+            "Tuğrul Bey",
+            "Melikşah",
+            "Sultan Alparslan",
+            "Berk Yaruk",
+            "Sultan Sencer"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "1071 Malazgirt Savaşı’nın sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Anadolu’nun kapılarının Türklere açılması",
+            "Anadolu’da ilk Türk beyliklerinin kurulmaya başlaması",
+            "Bizans İmparatoru Romen Diyojen’in esir alınması",
+            "Haçlı Seferleri’nin başlamasına zemin hazırlaması",
+            "Anadolu’nun Türk hakimiyetinin kesinleşmesi"
+          ],
+          "correctOption": "B",
+          "solution": "Anadolu'nun tapusu Miryokefalon Savaşı ile alınmıştır, hakimiyet orada kesinleşir. Malazgirt sadece kapıyı açtı."
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nin en parlak dönemini yaşatan, sınırlarını Orta Asya’dan Marmara Denizi’ne kadar genişleten hükümdar kimdir?",
+          "options": [
+            "Melikşah",
+            "Alparslan",
+            "Tuğrul Bey",
+            "Muhammed Tapar",
+            "Sultan Sencer"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Sultan Melikşah döneminde mali işleri düzenlemek amacıyla Ömer Hayyam başkanlığındaki bir heyete hazırlatılan, Güneş yılı esaslı takvim hangisidir?",
+          "options": [
+            "Hicri Takvim",
+            "Rumi Takvim",
+            "Celali Takvim",
+            "12 Hayvanlı Türk Takvimi",
+            "Miladi Takvim"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nde, devlet adamı yetiştirmek ve Şii-Batıni (Haşhaşi) inançlarına karşı Sünni İslam’ı savunmak amacıyla kurulan ünlü eğitim kurumları hangisidir?",
+          "options": [
+            "Yağıbasan Medresesi",
+            "Karatay Medresesi",
+            "Aziziye Medresesi",
+            "Süleymaniye Medresesi",
+            "Nizamiye Medreseleri"
+          ],
+          "correctOption": "E",
+          "solution": "Bağdat merkezli kurulmuştur, kurucusu vezir Nizamülmülk’tür."
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nin yıkılmasında etkili olan, Hasan Sabbah önderliğinde Alamut Kalesi’ni üs edinerek devlet adamlarına suikastlar düzenleyen zararlı oluşum hangisidir?",
+          "options": [
+            "Babailer",
+            "Hariciler",
+            "Karmatiler",
+            "Batınilik (Haşhaşiler)",
+            "Mazdekçilik"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "\"Siyasetname\" adlı eseriyle tanınan, Alparslan ve Melikşah dönemlerinde vezirlik yapan ve Batıniler tarafından öldürülen ünlü devlet adamı kimdir?",
+          "options": [
+            "Tonyukuk",
+            "Ömer Hayyam",
+            "Nizamülmülk",
+            "Yusuf Has Hacip",
+            "Sadreddin Konevi"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nin 1141 yılında Karahitaylarla yaptığı ve yıkılış sürecine girmesine neden olan savaş aşağıdakilerden hangisidir?",
+          "options": [
+            "Dandanakan",
+            "Kösedağ",
+            "Yassı Çimen",
+            "Hıttin",
+            "Katvan"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nde hükümdar çocuklarını (Melik) eğitmekle görevli olan tecrübeli devlet adamlarına ne ad verilirdi?",
+          "options": [
+            "Lala",
+            "Ataman",
+            "Hace",
+            "Naib",
+            "Atabey"
+          ],
+          "correctOption": "E",
+          "solution": "Melikler illere vali olarak gönderilir, yanlarına Atabey verilir. Devlet zayıflayınca Atabeyler bağımsızlık ilan etmiştir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti’ne bağlı olarak kurulan Atabeyliklerden biri değildir?",
+          "options": [
+            "Zengiler (Musul)",
+            "Böriler (Şam)",
+            "İldenizoğulları (Azerbaycan)",
+            "Begteginliler (Erbil)",
+            "Saltuklular (Erzurum)"
+          ],
+          "correctOption": "C",
+          "solution": "Saltuklular bir Atabeylik değil, Malazgirt sonrası kurulan ilk Türk beyliğidir."
+        },
+        {
+          "text": "Malazgirt Savaşı’ndan sonra Sultan Alparslan’ın komutanlarına \"Toprak fethedenin malıdır\" (Kılıç Hakkı) diyerek emir vermesi aşağıdakilerden hangisine ortam hazırlamıştır?",
+          "options": [
+            "Merkezi otoritenin güçlenmesine",
+            "Bizans ile dostluk kurulmasına",
+            "Haçlı Seferleri’nin sona ermesine",
+            "Taht kavgalarının bitmesine",
+            "Anadolu’da I. Dönem Türk Beyliklerinin kurulmasına"
+          ],
+          "correctOption": "D",
+          "solution": "Anadolu'nun fethini hızlandırmak istemiştir ancak bu durum ileride merkezi otoriteyi zayıflatabilir."
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nde resmi dil ve edebiyat dili Farsça, bilim dili Arapça, saray ve ordu dili Türkçedir. Bu durumun aşağıdakilerden hangisine neden olduğu söylenebilir?",
+          "options": [
+            "Bilimsel çalışmaların durmasına",
+            "Türk dilinin gelişiminin yavaşlamasına",
+            "Yöneticiler ile halk arasındaki bağın güçlenmesine",
+            "Arapça ve Farsçanın unutulmasına",
+            "Ticaretin gelişmesine"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Melikşah’ın ölümünden sonra oğulları (Berk Yaruk, Muhammed Tapar, Mehmet Sencer) arasında yaşanan taht kavgaları dönemine (1092-1118) ne ad verilir?",
+          "options": [
+            "Lale Devri",
+            "Duraklama Devri",
+            "Meşrutiyet Devri",
+            "Tanzimat Devri",
+            "Fetret Devri"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nde ordu mensuplarına ve devlet memurlarına maaş karşılığı olarak belirli bir arazinin vergi gelirlerinin tahsis edildiği sisteme ne ad verilir?",
+          "options": [
+            "İltizam Sistemi",
+            "Müsadere Sistemi",
+            "Vakıf Sistemi",
+            "Pençik Sistemi",
+            "İkta Sistemi"
+          ],
+          "correctOption": "E",
+          "solution": "Devlet hazinesinden para çıkmaz, üretimde süreklilik sağlanır, taşrada güvenlik sağlanır."
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nin son büyük hükümdarı olan ve devletin yıkılışını engellemek için büyük çaba sarf eden sultan kimdir?",
+          "options": [
+            "Melikşah",
+            "Tuğrul Bey",
+            "Berk Yaruk",
+            "Muhammed Tapar",
+            "Sultan Sencer"
+          ],
+          "correctOption": "C",
+          "solution": "Sultan Sencer'in ölümüyle devlet 1157'de tamamen yıkılmıştır."
+        },
+        {
+          "text": "I. Pasinler Savaşı\nII. Malazgirt Savaşı\nIII. Miryokefalon Savaşı\nYukarıdaki savaşların kronolojik sıralaması aşağıdakilerden hangisinde doğru verilmiştir?",
+          "options": [
+            "I - II - III",
+            "I - III - II",
+            "II - I - III",
+            "II - III - I",
+            "III - I - II"
+          ],
+          "correctOption": "A",
+          "solution": "1048 Pasinler - 1071 Malazgirt - 1176 Miryokefalon"
+        },
+        {
+          "text": "Büyük Selçuklu Devleti'nin sembolü olarak kullanılan ve paralarda, armalarda yer alan figür aşağıdakilerden hangisidir?",
+          "options": [
+            "Çift Başlı Kartal",
+            "Bozkurt",
+            "Aslan",
+            "Ok ve Yay",
+            "At"
+          ],
+          "correctOption": "D",
+          "solution": "Dikkat: Çift Başlı Kartal daha çok Anadolu Selçuklu ile özdeşleşmiştir. Büyük Selçuklu'nun Tuğrul Bey döneminden itibaren asli sembolü Ok ve Yay'dır. Ancak bazı kaynaklarda çift başlı kartal da Selçuklu genel sembolü olarak geçer. ÖSYM bağlamında Ok-Yay, egemenlik sembolü olarak daha ayırt edicidir."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 3",
+      "preTestNote": "Kodlama (DSMAÇ): Danişmentliler, Saltuklular, Mengücekliler, Artuklular, Çaka Beyliği.\n\nSaltuklular (Erzurum): Anadolu'da kurulan ilk Türk beyliğidir. Eserleri: Üç Kümbetler, Mama Hatun Külliyesi, Tepsi Minare.\n\nDanişmentliler (Sivas-Tokat-Kayseri): I. Beyliklerin en güçlüsüdür. Anadolu Selçuklu'yu en çok uğraştıran beyliktir. Haçlılara karşı en şiddetli mücadeleyi vermişlerdir.\nEser: Yağıbasan Medresesi (Tokat/Niksar) -> Anadolu'nun ilk medresesidir.\nDestan: Danişmentname.\n\nMengücekliler (Erzincan-Divriği):\nEser: Divriği Ulu Cami ve Darüşşifası (UNESCO Dünya Miras Listesi'ndedir).\nBilim: Fizik alimi Muvaffakidüddin Abdullatif bu dönemde yetişmiştir.\n\nArtuklular (Mardin-Diyarbakır-Harput): Üç kola ayrılmışlardır. En uzun süre yaşayan beyliktir.\nEser: Malabadi Köprüsü (Dünyanın en geniş taş kemerli köprüsüdür).\nBilim: El Cezeri (Robotik ve Sibernetiğin kurucusu) bu beylikte yaşamıştır.\n\nÇaka Beyliği (İzmir):\nÇaka Bey: Tarihteki ilk Türk denizcisidir.\nBeyliğin kuruluş yılı (1081), Türk Deniz Kuvvetleri'nin kuruluş yıl dönümü kabul edilir.",
+      "questions": [
+        {
+          "text": "Malazgirt Savaşı’ndan sonra Anadolu’da kurulan ilk Türk beyliği aşağıdakilerden hangisidir?",
+          "options": [
+            "Danişmentliler",
+            "Mengücekliler",
+            "Artuklular",
+            "Saltuklular",
+            "Çaka Beyliği"
+          ],
+          "correctOption": "D",
+          "solution": "Erzurum civarında Ebul Kasım Saltuk Bey tarafından kurulmuştur."
+        },
+        {
+          "text": "Sivas, Tokat ve Kayseri çevresinde kurulan, Anadolu Selçuklu Devleti’ni en çok uğraştıran ve I. Beylikler döneminin en güçlü beyliği hangisidir?",
+          "options": [
+            "Saltuklular",
+            "Danişmentliler",
+            "Mengücekliler",
+            "Hamitoğulları",
+            "Candaroğulları"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Tarihte bilinen ilk Türk denizcisi kimdir?",
+          "options": [
+            "Barbaros Hayrettin Paşa",
+            "Piri Reis",
+            "Umur Bey",
+            "Karamürsel Alp",
+            "Çaka Bey"
+          ],
+          "correctOption": "E",
+          "solution": "İzmir'de kurduğu beylikle ilk Türk donanmasını oluşturmuştur."
+        },
+        {
+          "text": "Anadolu’da yapılan ilk medrese olma özelliğine sahip \"Yağıbasan Medresesi\" hangi beylik dönemine aittir?",
+          "options": [
+            "Saltuklular",
+            "Artuklular",
+            "Selçuklular",
+            "Danişmentliler",
+            "Mengücekliler"
+          ],
+          "correctOption": "D",
+          "solution": "Tokat-Niksar'dadır."
+        },
+        {
+          "text": "UNESCO tarafından Dünya Miras Listesi’ne alınan, mimari yapısı ve taş işlemeciliğiyle ünlü \"Divriği Ulu Cami ve Darüşşifası\" hangi beyliğe aittir?",
+          "options": [
+            "Artuklular",
+            "Saltuklular",
+            "Danişmentliler",
+            "Ahlatşahlar",
+            "Mengücekliler"
+          ],
+          "correctOption": "E",
+          "solution": "Erzincan/Divriği bölgesi."
+        },
+        {
+          "text": "Sibernetiğin ve robotik biliminin kurucusu kabul edilen, \"Otomat\" adlı eserinde mekanik aletlerin çizimlerini yapan ünlü bilim insanı El-Cezeri hangi beylik döneminde yaşamıştır?",
+          "options": [
+            "Artuklular",
+            "Danişmentliler",
+            "Mengücekliler",
+            "Osmanlılar",
+            "Karahanlılar"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu’daki ilk Türk beylikleri ile kuruldukları yerler eşleştirmelerinden hangisi yanlıştır?",
+          "options": [
+            "Danişmentliler – Konya",
+            "Mengücekliler – Erzincan",
+            "Artuklular – Mardin",
+            "Çaka Beyliği – İzmir",
+            "Saltuklular – Erzurum"
+          ],
+          "correctOption": "A",
+          "solution": "Danişmentliler Sivas-Tokat merkezlidir. Konya, Anadolu Selçuklu Devleti'nin başkentidir."
+        },
+        {
+          "text": "Diyarbakır ve Mardin çevresinde hüküm süren, \"Malabadi Köprüsü\" gibi önemli mimari eserler bırakan Türk beyliği hangisidir?",
+          "options": [
+            "Saltuklular",
+            "Sökmenliler",
+            "Artuklular",
+            "İnaloğulları",
+            "Çubukoğulları"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Malazgirt Savaşı’ndan sonra Anadolu’da kurulan ilk Türk beyliklerinin ortak özelliklerinden biri değildir?",
+          "options": [
+            "Anadolu’yu Türkleştirip İslamlaştırmaları",
+            "Haçlılara karşı mücadele etmeleri",
+            "Kuruldukları bölgelere Türkçe isimler vermeleri",
+            "Anadolu Selçuklu Devleti’nin egemenliğine girmeleri",
+            "Denizcilikle uğraşmaları"
+          ],
+          "correctOption": "E",
+          "solution": "Denizcilikle sadece Çaka Beyliği uğraşmıştır, bu ortak bir özellik değildir."
+        },
+        {
+          "text": "Aşağıdaki mimari eserlerden hangisi Saltuklular dönemine aittir?",
+          "options": [
+            "Gök Medrese",
+            "İnce Minareli Medrese",
+            "Sultan Hanı",
+            "Yivli Minare",
+            "Üç Kümbetler"
+          ],
+          "correctOption": "C",
+          "solution": "Erzurum'daki Üç Kümbetler ve Mama Hatun Külliyesi Saltukluların simgesidir."
+        },
+        {
+          "text": "1081 yılında İzmir’de kurulan Çaka Beyliği’nin kuruluş tarihi, günümüzde hangi kurumun kuruluş yıl dönümü olarak kutlanmaktadır?",
+          "options": [
+            "Kara Kuvvetleri Komutanlığı",
+            "Jandarma Genel Komutanlığı",
+            "Deniz Kuvvetleri Komutanlığı",
+            "Sahil Güvenlik Komutanlığı",
+            "Hava Kuvvetleri Komutanlığı"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Haçlı Seferleri sırasında Anadolu'yu kahramanca savunan ve mücadeleleri \"Danişmentname\" adlı destana konu olan hükümdar kimdir?",
+          "options": [
+            "Battal Gazi",
+            "Mengücek Gazi",
+            "Artuk Bey",
+            "Saltuk Bey",
+            "Danişment Gazi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi I. Dönem Anadolu Beyliklerinden biri değildir?",
+          "options": [
+            "Saltuklular",
+            "Danişmentliler",
+            "Mengücekliler",
+            "Çaka Beyliği",
+            "Karamanoğulları"
+          ],
+          "correctOption": "C",
+          "solution": "Karamanoğulları, Kösedağ Savaşı'ndan sonra kurulan II. Dönem beyliklerindendir."
+        },
+        {
+          "text": "Anadolu’nun Türk yurdu olmasında ve bayındır hale gelmesinde etkili olan \"Kılıç Hakkı\" politikasının tanımı aşağıdakilerden hangisidir?",
+          "options": [
+            "Savaşta elde edilen ganimetin 1/5’inin devlete verilmesi",
+            "Hükümdarın kılıcını oğluna devretmesi",
+            "Ordudaki askerlere kılıç dağıtılması",
+            "Esirlerin fidye karşılığı serbest bırakılması",
+            "Fethedilen toprağın, fetheden komutanın yönetimine verilmesi"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "İlk Türk beylikleri döneminde bilime ve sanata önem verilmiştir. Artuklular döneminde yaşayan \"El-Cezeri\" aşağıdaki alanlardan hangisinde çalışmalar yapmıştır?",
+          "options": [
+            "Tıp",
+            "Astronomi",
+            "Tarih",
+            "Edebiyat",
+            "Mekanik ve Mühendislik"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Erzurum’da bulunan \"Tepsi Minare\" (Saat Kulesi) ve \"Kale Camii\" hangi beylikten günümüze kalan eserlerdir?",
+          "options": [
+            "Artuklular",
+            "Danişmentliler",
+            "Selçuklular",
+            "Osmanlılar",
+            "Saltuklular"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Bizans İmparatorluğu, Türklerin Batı Anadolu'daki ilerleyişini durdurmak için Çaka Bey’i hile yoluyla öldürtmüştür. Bizans bu amaçla hangi Türk hükümdarını kışkırtmıştır?",
+          "options": [
+            "Melikşah",
+            "Alparslan",
+            "Süleyman Şah",
+            "II. Kılıçarslan",
+            "I. Kılıçarslan"
+          ],
+          "correctOption": "E",
+          "solution": "I. Kılıçarslan, Çaka Bey'in damadıdır. Bizans entrikasıyla kayınpederini öldürtmüştür."
+        },
+        {
+          "text": "Bitlis Ulu Cami’yi inşa eden ve Bitlis çevresinde kurulan I. Dönem Türk beyliği hangisidir?",
+          "options": [
+            "Ahlatşahlar (Sökmenliler)",
+            "İnaloğulları",
+            "Tanrıvermişoğulları",
+            "Çubukoğulları",
+            "Dilmaçoğulları"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Van Gölü havzasında (Ahlat-Erciş) kurulan ve \"Kubbet-ül İslam\" olarak bilinen Ahlat şehrini merkez edinen beylik hangisidir?",
+          "options": [
+            "Artuklular",
+            "Saltuklular",
+            "Mengücekliler",
+            "Danişmentliler",
+            "Ahlatşahlar (Sökmenliler)"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Anadolu’da kurulan ilk Türk beyliklerinin isimlerini alırken izledikleri yöntemdir?",
+          "options": [
+            "Kuruldukları bölgenin adını almışlardır.",
+            "Abbasi halifesi tarafından verilen isimleri almışlardır.",
+            "Oğuz boylarının adını almışlardır.",
+            "İslam büyüklerinin adını almışlardır.",
+            "Kurucularının (Beylerinin) adını almışlardır."
+          ],
+          "correctOption": "B",
+          "solution": "Osmanlı, Danişmentli, Artuklu vb. hepsi kurucu beyin adıdır."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 4",
+      "preTestNote": "Kuruluş: Kutalmışoğlu Süleyman Şah tarafından İznik'te kurulmuştur (1077).\nBaşkent Değişikliği: I. Kılıçarslan döneminde I. Haçlı Seferi nedeniyle başkent İznik'ten Konya'ya taşınmıştır.\n\nII. Kılıçarslan:\nMiryokefalon Savaşı (1176): Bizans yenildi. Anadolu'nun Türk yurdu olduğu kesinleşti (Tapu alındı). Bizans'ın Türkleri atma ümidi bitti.\nİlkler: İlk altın para (sikke) bastırıldı. Ülkeyi 11 oğlu arasında paylaştırdı (Veraset geleneği).\n\nTicaret Politikası (Önemli): ASD, ticareti geliştirmek için şunları yapmıştır:\nKervansaraylar inşa edildi.\nDünyada ilk kez Devlet Sigortası sistemi uygulandı (Zarar gören tüccarın malı devletçe ödendi).\nLiman kentleri (Sinop, Antalya, Alanya) fethedildi.\nVenedik ve Kıbrıs krallığı ile ticaret antlaşmaları yapıldı.\n\nÖnemli Fetihler:\nI. İzzettin Keykavus: Sinop alındı (İlk tersane).\nI. Gıyaseddin Keyhüsrev: Antalya ve Samsun alındı.\nI. Alaaddin Keykubat (En Parlak Dönem):\nAlanya (Kandelor) alındı.\nSuğdak Seferi: Kırım'ın Suğdak limanına yapılan bu sefer, ilk denizaşırı seferdir.\nYassı Çemen Savaşı (1230): Harzemşahlar yıkıldı. (Sonuç: Tampon bölge kalktı, Moğol istilasına zemin hazırlandı).",
+      "questions": [
+        {
+          "text": "Anadolu Selçuklu Devleti’nin kurucusu olan ve mezarı Suriye sınırları içerisindeki (günümüzde yeri değişse de hukuken Türk toprağı sayılan) Caber Kalesi’nde bulunan Türk hükümdarı kimdir?",
+          "options": [
+            "I. Kılıçarslan",
+            "Çağrı Bey",
+            "Tuğrul Bey",
+            "Kutalmışoğlu Süleyman Şah",
+            "II. Kılıçarslan"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti, I. Haçlı Seferi sırasında İznik’in işgal edilmesi üzerine başkenti güvenli bir bölge olan hangi şehre taşımıştır?",
+          "options": [
+            "Sivas",
+            "Kayseri",
+            "Erzurum",
+            "Ankara",
+            "Konya"
+          ],
+          "correctOption": "E",
+          "solution": "Taşıyan hükümdar I. Kılıçarslan'dır."
+        },
+        {
+          "text": "1176 yılında Bizans İmparatorluğu ile yapılan ve \"Anadolu’nun Türk yurdu olduğunun kesinleşmesini\" sağlayan savaş aşağıdakilerden hangisidir?",
+          "options": [
+            "Malazgirt",
+            "Pasinler",
+            "Miryokefalon",
+            "Yassı Çemen",
+            "Kösedağ"
+          ],
+          "correctOption": "C",
+          "solution": "Yurttutan Savaşı olarak da bilinir."
+        },
+        {
+          "text": "Miryokefalon Savaşı'ndan sonra Anadolu'ya batı kaynaklarında hangi isim verilmeye başlanmıştır?",
+          "options": [
+            "Anatolia",
+            "Küçük Asya",
+            "Doğu Roma",
+            "Barbaria",
+            "Turchia (Türkiye)"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nde ilk \"altın parayı\" bastıran ve yaşlandığı gerekçesiyle ülkeyi 11 oğlu arasında paylaştırarak taht kavgalarına neden olan hükümdar kimdir?",
+          "options": [
+            "I. Mesut",
+            "Alaaddin Keykubat",
+            "Gıyaseddin Keyhüsrev",
+            "Rükneddin Süleyman Şah",
+            "II. Kılıçarslan"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti, ticareti geliştirmek amacıyla dünyada bir ilk olan \"Sigorta Sistemi\"ni uygulamıştır. Bu uygulamanın temel amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "Yabancı tüccarları Anadolu'ya çekmek",
+            "Hazine gelirlerini artırmak",
+            "Yerli üretimi sınırlamak",
+            "Savaş masraflarını karşılamak",
+            "Tarımsal üretimi artırmak"
+          ],
+          "correctOption": "A",
+          "solution": "Malı zarar gören (haydut saldırısı vb.) tüccarın zararı devletçe karşılanarak güven ortamı sağlanmıştır."
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nin en parlak dönemini yaşatan, Alanya’yı fethederek kışlık merkez yapan ve Moğol tehlikesine karşı şehir surlarını güçlendiren hükümdar kimdir?",
+          "options": [
+            "I. İzzettin Keykavus",
+            "I. Alaaddin Keykubat",
+            "II. Gıyaseddin Keyhüsrev",
+            "I. Mesut",
+            "II. Kılıçarslan"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türk denizcilik tarihinde \"İlk denizaşırı sefer\" olarak kabul edilen ve Karadeniz ticaretini kontrol etmek amacıyla Kırım’ın Suğdak limanına yapılan sefer hangi hükümdar döneminde gerçekleşmiştir?",
+          "options": [
+            "İzzettin Keykavus",
+            "Çaka Bey",
+            "Umur Bey",
+            "Gıyaseddin Keyhüsrev",
+            "Alaaddin Keykubat"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "1230 yılında yapılan Yassı Çemen Savaşı’nın en önemli siyasi sonucu aşağıdakilerden hangisidir?",
+          "options": [
+            "Anadolu Selçuklu Devleti’nin yıkılması",
+            "Haçlı Seferleri’nin başlaması",
+            "Bizans’ın vergiye bağlanması",
+            "Trabzon Rum İmparatorluğu’na son verilmesi",
+            "Harzemşahların yıkılarak Anadolu ile Moğollar arasındaki tampon bölgenin kalkması"
+          ],
+          "correctOption": "C",
+          "solution": "Bu durum Anadolu'nun Moğol istilasına açık hale gelmesine neden olmuştur."
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nde donanma komutanlarına ne ad verilirdi?",
+          "options": [
+            "Subaşı",
+            "Atabey",
+            "Pervaneci",
+            "Emir-i Dad",
+            "Melikü's-Sevahil (Sahillerin Meliki)"
+          ],
+          "correctOption": "D",
+          "solution": "Veya Reisü'l-Bahr"
+        },
+        {
+          "text": "Sinop’u fethederek burada bir tersane kuran ve ticareti geliştirmek için Venediklilerle ticaret antlaşması yapan Anadolu Selçuklu sultanı kimdir?",
+          "options": [
+            "I. Gıyaseddin Keyhüsrev",
+            "Alaaddin Keykubat",
+            "Süleyman Şah",
+            "II. Kılıçarslan",
+            "I. İzzettin Keykavus"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Anadolu Selçuklu Devleti’nin ticareti geliştirmek için aldığı önlemlerden biri değildir?",
+          "options": [
+            "Kervansaraylar inşa etmek",
+            "Yabancı tüccarlara düşük gümrük vergisi uygulamak",
+            "Liman kentlerini (Sinop, Antalya, Alanya) fethetmek",
+            "Devlet sigortası sistemi uygulamak",
+            "Kapitülasyonları sürekli hale getirmek"
+          ],
+          "correctOption": "C",
+          "solution": "Kapitülasyonların sürekli hale gelmesi Osmanlı - I. Mahmut dönemine aittir. Selçuklular ticaret antlaşması yapmıştır ama bu kapitülasyon değildir."
+        },
+        {
+          "text": "Kayseri’de bulunan ve Anadolu’nun ilk uluslararası fuarı (pazarı) olarak kabul edilen ticaret merkezi hangisidir?",
+          "options": [
+            "Kapalı Çarşı",
+            "Mısır Çarşısı",
+            "Bedesten",
+            "Arasta",
+            "Yabanlu Pazarı"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "I. Malazgirt\nII. Miryokefalon\nIII. Büyük Taarruz\nTürk tarihinde yukarıdaki savaşlardan hangileri \"Yurtkurtaran\" olarak nitelendirilir?",
+          "options": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "Yalnız III"
+          ],
+          "correctOption": "E",
+          "solution": "Malazgirt: Yurtaçan, Miryokefalon: Yurttutan/Tapu, Büyük Taarruz: Yurtkurtaran"
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nde, esnaf ve zanaatkarların oluşturduğu, hem mesleki eğitim veren hem de ahlaki kuralları (fütüvvet) öğreten teşkilatın adı nedir?",
+          "options": [
+            "Ahilik",
+            "Lonca",
+            "Enderun",
+            "Narh",
+            "Gedik"
+          ],
+          "correctOption": "A",
+          "solution": "Lonca Osmanlı'daki adıdır, Selçuklu'da Ahilik denir. Ahilikte gayrimüslimler yoktur, Lonca'da vardır."
+        },
+        {
+          "text": "Dünyanın ilk tıp fakültesi olarak da kabul edilen \"Gevher Nesibe Darüşşifası\" hangi şehrimizde bulunmaktadır?",
+          "options": [
+            "Konya",
+            "Sivas",
+            "Kayseri",
+            "Erzurum",
+            "Amasya"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Ahilik teşkilatının kurucusu Ahi Evran’ın eşi Fatma Bacı tarafından kurulan ve dünyanın ilk kadın örgütlenmesi sayılan teşkilat hangisidir?",
+          "options": [
+            "Gaziyan-ı Rum",
+            "Abdalan-ı Rum",
+            "Alperenler",
+            "Hatunlar Meclisi",
+            "Bacıyan-ı Rum"
+          ],
+          "correctOption": "E",
+          "solution": "Anadolu Bacıları"
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nde ordunun ihtiyacını karşılayan, arazilerin kaydını tutan ve bugünkü Milli Savunma Bakanı gibi çalışan divan üyesi kimdir?",
+          "options": [
+            "Müstevfi",
+            "Emir-i Arız",
+            "Tuğrai",
+            "Naib",
+            "Pervaneci"
+          ],
+          "correctOption": "E",
+          "solution": "Pervaneci toprak dağıtır (İkta). Emir-i Arız ordunun ihtiyaçlarına bakar. Ancak Selçuklu'da toprak=asker olduğu için Pervaneci de bu kapsamda çok önemlidir. Soruda \"arazi kaydı\" dediği için net cevap Pervaneci'dir."
+        },
+        {
+          "text": "Anadolu Selçuklu mimarisini Büyük Selçuklu mimarisinden ayıran en temel özellik nedir?",
+          "options": [
+            "Kümbet yapımı",
+            "Çini kullanımı",
+            "Medrese yapımı",
+            "Kubbe kullanımı",
+            "Taş işçiliğinin ön plana çıkması"
+          ],
+          "correctOption": "C",
+          "solution": "Büyük Selçuklu İran coğrafyasında tuğla kullanırken, Anadolu Selçuklu taş işçiliğinde zirveye ulaşmıştır."
+        },
+        {
+          "text": "Anadolu Selçuklu Sultanı I. Gıyaseddin Keyhüsrev, Antalya’yı fethettikten sonra denizcilikle ilgili hangi unvanı kullanmıştır?",
+          "options": [
+            "Sultan-ül Azam",
+            "Şarapsa",
+            "Keyhüsrev",
+            "Emir-ül Müminin",
+            "Sultan-ül Bahr (Denizlerin Sultanı)"
+          ],
+          "correctOption": "B",
+          "solution": "Veya Sultan-ül Bahreyn / İki denizin sultanı"
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 5",
+      "preTestNote": "Baba İshak (Babailer) İsyanı (1240): Anadolu Selçuklu Devleti'nde çıkan ilk dini ve sosyal nitelikli isyandır. Devlet bu isyanı bastırmakta zorlanınca Moğollar devletin güçsüz olduğunu anlamış ve saldırmıştır.\n\nKösedağ Savaşı (1243): ASD ile Moğollar (İlhanlılar) arasında yapıldı. ASD yenildi. Sonuç: Anadolu Türk siyasi birliği bozuldu, II. Beylikler Dönemi başladı. Anadolu Moğol sömürgesi haline geldi.\n\nII. Beylikler (Kösedağ Sonrası):\nKaramanoğulları (Konya/Karaman): Kendilerini Selçuklunun mirasçısı gördüler. En güçlü beyliktir. Karamanoğlu Mehmet Bey, Türkçeyi resmi dil ilan etmiştir.\nKaresioğulları (Balıkesir/Çanakkale): Osmanlı'ya katılan ilk beyliktir. Böylece Osmanlı donanma sahibi olmuş ve Rumeli'ye geçiş kolaylaşmıştır.\nGermiyanoğulları (Kütahya): Osmanlı'ya çeyiz ve vasiyet yoluyla katılmıştır.\nHamitoğulları (Isparta/Antalya): Osmanlı'ya topraklarını para ile satmıştır.\nAydınoğulları (Aydın/İzmir): Dönemin en güçlü donanmasına sahip beyliğidir (Umur Bey).\n\nKültür ve Medeniyet:\nDivan-ı Pervane: İkta topraklarını dağıtan divandır.\nNaib-i Saltanat: Hükümdar başkentte olmadığında ona vekalet eden kişidir.\nTasavvuf: Mevlana (Mesnevi), Yunus Emre (Risaletü'n Nushiyye), Hacı Bektaş Veli (Makalat) bu dönemin manevi mimarlarıdır.",
+      "questions": [
+        {
+          "text": "Anadolu Selçuklu Devleti’nde çıkan ilk dini ve sosyal nitelikli isyan olan ve devletin güçsüzlüğünü ortaya çıkararak Moğol istilasına zemin hazırlayan olay hangisidir?",
+          "options": [
+            "Şeyh Bedrettin İsyanı",
+            "Kalender Çelebi İsyanı",
+            "Cimri Olayı",
+            "Canberdi Gazali İsyanı",
+            "Baba İshak (Babailer) İsyanı"
+          ],
+          "correctOption": "E",
+          "solution": "Şeyh Bedrettin Osmanlı dönemindedir."
+        },
+        {
+          "text": "1243 Kösedağ Savaşı’nın sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Anadolu Türk siyasi birliğinin bozulması",
+            "Anadolu’nun Moğol hakimiyetine girmesi",
+            "II. Dönem Türk Beyliklerinin kurulması",
+            "Anadolu Selçuklu Devleti’nin tamamen yıkılması",
+            "Batı Anadolu’da Türk nüfusunun artması"
+          ],
+          "correctOption": "D",
+          "solution": "Devlet hemen yıkılmamış, 1308'e kadar Moğollara bağlı olarak varlığını sürdürmüştür. Savaşın hemen ardından yıkılan bir devlet yoktur."
+        },
+        {
+          "text": "Kendilerini Anadolu Selçuklu Devleti’nin mirasçısı olarak gören ve Osmanlı Devleti’ni en çok uğraştıran II. Dönem Türk beyliği hangisidir?",
+          "options": [
+            "Germiyanoğulları",
+            "Karamanoğulları",
+            "Candaroğulları",
+            "Karesioğulları",
+            "Aydınoğulları"
+          ],
+          "correctOption": "A",
+          "solution": "Başkent Konya'ya sahip oldukları için mirasçı olduklarını iddia etmişlerdir."
+        },
+        {
+          "text": "1277 yılında yayınladığı fermanla \"Bugünden sonra divanda, dergahta, bargâhta, mecliste ve meydanda Türkçeden başka dil konuşulmayacak\" diyerek Türkçeyi resmi dil ilan eden lider kimdir?",
+          "options": [
+            "Osman Bey",
+            "Germiyanlı Süleyman Şah",
+            "Karamanoğlu Mehmet Bey",
+            "Aydınoğlu Umur Bey",
+            "Alaaddin Keykubat"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Osmanlı Devleti’ne katılan ilk beylik olan, böylece Osmanlı’nın donanma gücüne kavuşmasını ve Rumeli’ye geçişini sağlayan beylik hangisidir?",
+          "options": [
+            "Saruhanoğulları",
+            "Karesioğulları",
+            "Menteşeoğulları",
+            "Aydınoğulları",
+            "Hamitoğulları"
+          ],
+          "correctOption": "B",
+          "solution": "Balıkesir ve Çanakkale çevresi."
+        },
+        {
+          "text": "Aşağıdaki beyliklerden hangisi Osmanlı Devleti’ne \"çeyiz yoluyla\" (Germiyanoğlu Yakup Bey'in kızını I. Murat'ın oğlu Bayezid'e vermesiyle) topraklarının bir kısmını devretmiştir?",
+          "options": [
+            "Hamitoğulları",
+            "Germiyanoğulları",
+            "Candaroğulları",
+            "Eretna Devleti",
+            "Ramazanoğulları"
+          ],
+          "correctOption": "A",
+          "solution": "Kütahya ve çevresi verilmiştir."
+        },
+        {
+          "text": "Isparta ve çevresinde kurulan, topraklarının bir kısmını Osmanlı Devleti’ne \"para karşılığında\" (80 bin altın) satan beylik hangisidir?",
+          "options": [
+            "Germiyanoğulları",
+            "Menteşeoğulları",
+            "Saruhanoğulları",
+            "Tekeoğulları",
+            "Hamitoğulları"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nde hükümdar başkentte olmadığı zamanlarda devlet işlerine vekalet eden ve \"Niyabet-i Saltanat\" divanına başkanlık eden görevli kimdir?",
+          "options": [
+            "Pervaneci",
+            "Müstevfi",
+            "Atabey",
+            "Naib",
+            "Hacip"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Türk-İslam devletlerinde saray teşkilatının en yetkili kişisi olan, hükümdar ile halk ve hükümdar ile divan arasındaki görüşmeleri düzenleyen görevli kimdir?",
+          "options": [
+            "Emir-i Ahur",
+            "Emir-i Candar",
+            "Serhenk",
+            "Çaşnigir",
+            "Hacibü'l Hüccab (Ulu Hacip)"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "\"Gel ne olursan ol yine gel\" sözüyle tüm insanlığı hoşgörüye çağıran, \"Mesnevi\" adlı eseriyle tanınan ünlü Türk-İslam düşünürü kimdir?",
+          "options": [
+            "Yunus Emre",
+            "Hacı Bektaş Veli",
+            "Mevlana Celaleddin-i Rumi",
+            "Hacı Bayram Veli",
+            "Ahmet Yesevi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu’da tasavvufun gelişmesinde etkili olan, \"Makalat\" adlı eseri bulunan ve Yeniçeri Ocağı’nın da manevi kurucusu sayılan düşünür kimdir?",
+          "options": [
+            "Yunus Emre",
+            "Mevlana",
+            "Ahi Evran",
+            "Gülşehri",
+            "Hacı Bektaş Veli"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nde ticari davalara, esnaf sorunlarına ve gayrimüslimlerin kendi aralarındaki davalara bakan mahkeme başkanı kimdir?",
+          "options": [
+            "Kazasker",
+            "Emir-i Dad",
+            "Kadı",
+            "Kadıleşker",
+            "Muhtesip"
+          ],
+          "correctOption": "C",
+          "solution": "Not: Örfi davalara Emir-i Dad bakar, ancak genel davalar ve ticaret hukuku Kadı'nın yetkisindedir. Limanlarda özel ticaret mahkemeleri de vardır."
+        },
+        {
+          "text": "Türk-İslam mimarisinde, anıt mezar niteliği taşıyan ve genellikle silindir veya çokgen gövdeli, konik çatılı yapılara ne ad verilir?",
+          "options": [
+            "Külliye",
+            "Kümbet",
+            "Ribat",
+            "Bedesten",
+            "İmaret"
+          ],
+          "correctOption": "E",
+          "solution": "Çadır formunun taşa yansımış halidir."
+        },
+        {
+          "text": "II. Beylikler döneminde denizcilikle uğraşan beylikler arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Karesioğulları",
+            "Aydınoğulları",
+            "Menteşeoğulları",
+            "Saruhanoğulları",
+            "Germiyanoğulları"
+          ],
+          "correctOption": "E",
+          "solution": "Germiyanoğulları Kütahya merkezlidir, deniz kıyısı yoktur. Diğerlerinin hepsi Ege kıyısındadır."
+        },
+        {
+          "text": "I. Kösedağ Savaşı\nII. Yassı Çemen Savaşı\nIII. Ankara Savaşı\nYukarıdaki savaşlardan hangileri Anadolu’da \"Türk Siyasi Birliği\"nin bozulmasına neden olmuştur?",
+          "options": [
+            "Yalnız I",
+            "I ve II",
+            "II ve III",
+            "I, II ve III",
+            "I ve III"
+          ],
+          "correctOption": "D",
+          "solution": "Kösedağ Savaşı ile birlik bozuldu II. Beylikler kuruldu. Ankara Savaşı ile birlik bozuldu beylikler tekrar kuruldu. Yassı Çemen Harzemşahları yıktı, birliği bozmadı."
+        },
+        {
+          "text": "Aşağıdaki eserlerden hangisi Mevlana Celaleddin-i Rumi’ye ait değildir?",
+          "options": [
+            "Mesnevi",
+            "Divan-ı Kebir",
+            "Fihi Mafih",
+            "Mektubat",
+            "Risaletü’n Nushiyye"
+          ],
+          "correctOption": "A",
+          "solution": "Risaletü’n Nushiyye, Yunus Emre’ye aittir."
+        },
+        {
+          "text": "Türk-İslam devletlerinde \"Vakıf\" sisteminin temel amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ordunun asker ihtiyacını karşılamak",
+            "Sosyal yardımlaşmayı sağlamak ve kamu hizmetlerini yürütmek",
+            "Hazine gelirlerini artırmak",
+            "Fetih hareketlerini hızlandırmak",
+            "Taht kavgalarını önlemek"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nde \"Ülke topraklarının, hanedan üyelerinin ortak malı sayılması\" anlayışı hangi dönemde de devam etmiştir?",
+          "options": [
+            "Osmanlı - I. Ahmet dönemi hariç tüm Türk devletlerinde",
+            "Sadece İslamiyet öncesinde",
+            "Sadece I. Beylikler döneminde",
+            "Cumhuriyet döneminde",
+            "Sadece Gaznelilerde"
+          ],
+          "correctOption": "C",
+          "solution": "Veraset sistemi I. Ahmet'e kadar benzer şekilde \"hanedan ortak malı\" veya \"baba ve oğullarının malı\" şeklinde devam etmiştir. Temel Türk veraset geleneğidir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Moğol İlhanlı Devleti’nin Anadolu’daki etkisinin zayıflamasıyla kurulan beyliklerden biri olan Eretna Devleti’nin merkezidir?",
+          "options": [
+            "Sivas / Kayseri",
+            "Konya",
+            "Bursa",
+            "Erzurum",
+            "Sinop"
+          ],
+          "correctOption": "A",
+          "solution": "Uygur kökenli Eretna Bey tarafından kurulmuştur."
+        },
+        {
+          "text": "Türk-İslam sanatında, kitap süsleme sanatı olarak bilinen, perspektifi olmayan (derinliksiz) resim sanatına ne ad verilir?",
+          "options": [
+            "Hat",
+            "Tezhip",
+            "Minyatür",
+            "Ebru",
+            "Çini"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 6",
+      "preTestNote": "Harezmi: Cebir'in babasıdır. \"0\" (sıfır) rakamını ilk kullanan İslam alimidir. Eseri: Kitabü'l Cebr ve'l Mukabele.\n\nFarabi (Muallim-i Sani): Aristoteles'ten sonraki \"İkinci Öğretmen\"dir. Müziği matematiksel yöntemlerle incelemiştir (Kanun enstrümanını bulduğu söylenir). Eseri: El-Medinetü'l Fazıla (Erdemli Şehir). BM fikrini ilk ortaya atandır.\n\nİbni Sina (Avicenna): Tıbbın hükümdarıdır. Eseri: El Kanun fi't Tıb (Tıbbın Kanunu) Avrupa'da yüzyıllarca ders kitabı okutulmuştur. Mikrobu tanımlamıştır.\n\nBiruni: Gazneli Mahmut'un \"Sarayımın en değerli hazinesi\" dediği kişidir. Astronomi ve coğrafya dehasıdır. Dünyanın çapını hesaplamıştır.\n\nGazali: Büyük Selçuklu döneminde Nizamiye Medreseleri'nin başmüderrisidir. Batınilere karşı fikir mücadelesi vermiştir. Eseri: İhya-u Ulumiddin.\n\nİbni Rüşd (Averroes): Aristo'yu Avrupalılara tanıtan Endülüs Emevi filozofudur. \"Zamanın Oğlu\" denir.\n\nÖmer Hayyam: Matematikçi ve astronomdur. Celali Takvimini hazırlamıştır. Rubaileri ile ünlüdür.\n\nAli Şir Nevai: Timur dönemi çağatay Türkçesi şairidir. Muhakemetü'l Lügateyn adlı eserinde Türkçenin Farsçadan üstün olduğunu savunmuştur.",
+      "questions": [
+        {
+          "text": "Matematiğin bir alt dalı olan \"Cebir\" biliminin kurucusu kabul edilen ve \"0\" (sıfır) rakamını matematikte ilk kez kullanan Türk-İslam bilgini kimdir?",
+          "options": [
+            "Harezmi",
+            "Biruni",
+            "Farabi",
+            "Ömer Hayyam",
+            "İbni Sina"
+          ],
+          "correctOption": "A",
+          "solution": "Batı dünyasında Algorisma olarak bilinir."
+        },
+        {
+          "text": "Aristo’nun fikirlerini en iyi yorumlayan kişi olduğu için \"Muallim-i Sani\" (İkinci Öğretmen) unvanıyla anılan ve Birleşmiş Milletler fikrinin temelini oluşturan \"Erdemli Şehir\" (El-Medinetü'l Fazıla) kitabının yazarı kimdir?",
+          "options": [
+            "İbni Sina",
+            "Farabi",
+            "Gazali",
+            "İbni Rüşd",
+            "Kindi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Batı dünyasında \"Avicenna\" olarak bilinen, \"El Kanun fi't Tıb\" (Tıbbın Kanunu) adlı eseri Avrupa’da yüzyıllarca ders kitabı olarak okutulan \"Tıbbın Hükümdarı\" kimdir?",
+          "options": [
+            "Akşemseddin",
+            "Sabuncuoğlu Şerefeddin",
+            "Farabi",
+            "Razi",
+            "İbni Sina"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Gazneli Mahmut’un Hindistan seferlerine katılan ve onun için \"Sarayımın en değerli hazinesi\" ifadesini kullandığı; astronomi, coğrafya ve matematik alanında uzman bilim insanı kimdir?",
+          "options": [
+            "Harezmi",
+            "Uluğ Bey",
+            "Ali Kuşçu",
+            "Takiyüddin",
+            "Biruni"
+          ],
+          "correctOption": "E",
+          "solution": "Asar-ı Bakiye adlı eseri de önemlidir."
+        },
+        {
+          "text": "Timur Devleti döneminde yaşayan, Semerkant’ta kendi adına bir rasathane kuran ve hazırladığı \"Zic\" (Yıldız Cetveli) ile astronomi bilimine büyük katkı sağlayan hükümdar-bilim insanı kimdir?",
+          "options": [
+            "Uluğ Bey",
+            "Hüseyin Baykara",
+            "Ali Şir Nevai",
+            "Babür Şah",
+            "Şah İsmail"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Türkçenin Farsça kadar zengin ve üstün bir dil olduğunu kanıtlamak amacıyla \"Muhakemetü'l Lügateyn\" (İki Dilin Yargılanması) adlı eseri yazan Çağatay edebiyatının en büyük şairi kimdir?",
+          "options": [
+            "Kaşgarlı Mahmut",
+            "Yusuf Has Hacip",
+            "Edip Ahmet Yükneki",
+            "Hoca Dehhani",
+            "Ali Şir Nevai"
+          ],
+          "correctOption": "E",
+          "solution": "Kaşgarlı Mahmut, Türkçeyi Arapçaya karşı savunmuştur; Ali Şir Nevai ise Farsçaya karşı savunmuştur."
+        },
+        {
+          "text": "Büyük Selçuklu Devleti döneminde yaşayan, Nizamiye Medreseleri’nde müderrislik yapan ve Batınilik tarikatının zararlı fikirlerine karşı ilmi mücadele veren ünlü İslam alimi kimdir?",
+          "options": [
+            "Mevlana",
+            "Yunus Emre",
+            "Ebu Hanife",
+            "Matüridi",
+            "Gazali"
+          ],
+          "correctOption": "D",
+          "solution": "Eseri: İhya-u Ulumiddin."
+        },
+        {
+          "text": "Aşağıdaki bilim insanı ve çalışma alanı eşleştirmelerinden hangisi yanlıştır?",
+          "options": [
+            "İbni Sina - Tıp",
+            "Harezmi - Matematik (Cebir)",
+            "Farabi - Tarih",
+            "İdrisi - Coğrafya",
+            "İbni Rüşd - Felsefe"
+          ],
+          "correctOption": "B",
+          "solution": "Farabi felsefe, mantık ve müzik alanında çalışmalar yapmıştır. Tarihçi değildir."
+        },
+        {
+          "text": "Osmanlı Devleti’nde Fatih Sultan Mehmet’in daveti üzerine İstanbul’a gelen, Ayasofya Medresesi’ne müderris olan ve İstanbul’un enlem-boylamını hesaplayan ünlü astronomi bilgini kimdir?",
+          "options": [
+            "Takiyüddin",
+            "Akşemseddin",
+            "Ali Kuşçu",
+            "Molla Fenari",
+            "Kadızade-i Rumi"
+          ],
+          "correctOption": "C",
+          "solution": "Akkoyunlu Devleti'nden elçi olarak gelip kalmıştır."
+        },
+        {
+          "text": "Mikrobu, Pasteur'den yüzyıllar önce \"Hastalıklar gözle görülmeyen küçük canlılar tarafından yapılır\" diyerek tanımlayan Türk-İslam bilgini kimdir?",
+          "options": [
+            "Akşemseddin",
+            "Farabi",
+            "Sabuncuoğlu Şerefeddin",
+            "İbni Nefis",
+            "İbni Sina"
+          ],
+          "correctOption": "E",
+          "solution": "Bunu Akşemseddin de daha sonra dile getirmiştir ancak ilk tanımlayan İbni Sina'dır. Soruda \"Fatih'in hocası\" derse Akşemseddin, genel tıp bilgini derse İbni Sina önceliklidir."
+        },
+        {
+          "text": "Endülüs Emevi Devleti’nde yetişen, Aristo felsefesini Avrupa’ya tanıtan ve Hristiyan dünyasında \"Averroes\" olarak bilinen filozof kimdir?",
+          "options": [
+            "İbni Rüşd",
+            "İbni Haldun",
+            "İbni Batuta",
+            "Muhyiddin Arabi",
+            "İbni Bacce"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "\"Mukaddime\" adlı eseriyle sosyoloji ve tarih felsefesinin kurucusu kabul edilen ünlü düşünür kimdir?",
+          "options": [
+            "Katip Çelebi",
+            "Evliya Çelebi",
+            "Naima",
+            "Hoca Sadettin",
+            "İbni Haldun"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Türk-İslam dünyasında \"Seyahatname\" denilince akla gelen ilk isim olan, \"Çok gezen mi bilir, çok okuyan mı?\" sorusunun canlı cevabı sayılan, 17. yüzyıl Osmanlı gezgini kimdir?",
+          "options": [
+            "İbni Batuta",
+            "Piri Reis",
+            "Seydi Ali Reis",
+            "Katip Çelebi",
+            "Evliya Çelebi"
+          ],
+          "correctOption": "E",
+          "solution": "İbni Batuta 14. yüzyılda yaşamıştır."
+        },
+        {
+          "text": "Aşağıdaki eserlerden hangisi Kaşgarlı Mahmut’a aittir?",
+          "options": [
+            "Divan-ı Hikmet",
+            "Kutadgu Bilig",
+            "Atabetü'l Hakayık",
+            "Şehname",
+            "Divan-ı Lügati't Türk"
+          ],
+          "correctOption": "B",
+          "solution": "İlk Türkçe sözlük, ilk Türk dünyası haritası."
+        },
+        {
+          "text": "Görme olayının gözden çıkan ışınlarla değil, cisimlerden gelen ışınların göze ulaşmasıyla gerçekleştiğini ispatlayarak \"Optik\" biliminin kurucusu sayılan bilim insanı kimdir?",
+          "options": [
+            "Biruni",
+            "Harezmi",
+            "Farabi",
+            "Cabir bin Hayyan",
+            "İbni Heysem"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Kimya biliminin kurucusu sayılan, ilk hassas teraziyi kullanan ve atomun parçalanabileceği fikrini ilk kez ortaya atan bilgin kimdir?",
+          "options": [
+            "Razi",
+            "El-Cezeri",
+            "Biruni",
+            "İbni Sina",
+            "Cabir bin Hayyan"
+          ],
+          "correctOption": "D",
+          "solution": "Modern kimyanın babası sayılır."
+        },
+        {
+          "text": "Fatih Sultan Mehmet döneminde yaşayan, cerrahlık alanında çalışmalar yapan ve \"Cerrahiyyetü'l Haniye\" adlı eserinde ameliyat aletlerini resimlerle anlatan ünlü Türk hekimi kimdir?",
+          "options": [
+            "Altunizade",
+            "Akşemseddin",
+            "Ahi Çelebi",
+            "Merkez Efendi",
+            "Sabuncuoğlu Şerefeddin"
+          ],
+          "correctOption": "A",
+          "solution": "Amasya'da yaşamıştır."
+        },
+        {
+          "text": "Piri Reis’in Yavuz Sultan Selim’e sunduğu, Amerika kıtasını da gösteren ünlü eserinin adı nedir?",
+          "options": [
+            "Kitab-ı Bahriye",
+            "Miratü'l Memalik",
+            "Cihannüma",
+            "Seyahatname",
+            "Fezleke"
+          ],
+          "correctOption": "B",
+          "solution": "Miratü'l Memalik Seydi Ali Reis'e, Cihannüma Katip Çelebi'ye aittir."
+        },
+        {
+          "text": "\"Hacı Kalfa\" unvanıyla tanınan, bibliyografya eseri \"Keşfü'z Zünun\" ve coğrafya eseri \"Cihannüma\" ile ünlü 17. yüzyıl Osmanlı bilim insanı kimdir?",
+          "options": [
+            "Koçi Bey",
+            "Lagari Hasan Çelebi",
+            "Hazerfen Ahmet Çelebi",
+            "Naima",
+            "Katip Çelebi"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "\"Müzik, ruhun gıdasıdır\" anlayışıyla akıl hastalarını müzik ve su sesiyle tedavi eden merkezleri (Bimarhane) ilk kez geliştiren Türk devleti hangisidir?",
+          "options": [
+            "Gazneliler",
+            "Tolunoğulları",
+            "Eyyubiler",
+            "Memlükler",
+            "Karahanlılar"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 7",
+      "preTestNote": "Hükümdarlık Sembolleri:\nİslam Öncesinden Devam Edenler: Otağ (Çadır), Örgin (Taht), Tuğ (Sancak), Nevbet (Davul), Yay. (Ok bir sembol olsa da bazen tartışmalıdır, ancak Yay kesin semboldür).\nİslamiyet ile Gelenler: Hutbe okutmak, Hilat (Hediye kaftan), Tıraz (İşlemeli elbise), Menşur (Halife onayı), Çetr (Saltanat şemsiyesi).\n\nSaray Görevlileri:\nHacibü'l Hüccab (Ulu Hacip): Saraydaki en yetkili kişidir. Protokolü düzenler. Haksızlığa uğrayanları Divan-ı Mezalim'e çıkarır.\nCandar: Saray muhafızı (Canını koruyan).\nÇeşnigir: Yemekleri tadan (Zehirlenmeye karşı).\nSerhenk (Çavuş): Törenlerde ve seyahatlerde yol açan.\nCamedar: Hükümdarın kıyafetlerinden sorumlu.\n\nDivan Çeşitleri (Bakanlıklar):\nDivan-ı Saltanat (Büyük Divan): Ana meclis.\nDivan-ı İstifa: Maliye (Başkanı: Müstevfi).\nDivan-ı Arz: Ordu/Milli Savunma (Başkanı: Emir-i Arz).\nDivan-ı İşraf: Denetim/Teftiş (Başkanı: Müşrif).\nDivan-ı Tura/İnşa: Yazışma (Başkanı: Tuğrai).\n\nOrdu Sistemi:\nGulam Sistemi: Esir alınan çocukların yetiştirilip asker yapılması (Osmanlı'daki Devşirme'nin atası). Bunlara Bistegani maaşı verilir (3 ayda bir).\nİkta Askerleri (Sipahiler): Topraktan elde edilen gelirle beslenen atlı askerler. Devlete yük olmazlar, maaş almazlar.",
+      "questions": [
+        {
+          "text": "Türk-İslam devletlerinde hükümdarın saraydaki en yetkili yardımcısı olan, protokolü düzenleyen, haksızlığa uğrayanları Divan-ı Mezalim'e çıkaran görevli kimdir?",
+          "options": [
+            "Emir-i Dad",
+            "Serhenk",
+            "Vekil-i Has",
+            "Pervaneci",
+            "Hacibü'l Hüccab"
+          ],
+          "correctOption": "E",
+          "solution": "Hacip; perdeci/aracı demektir. En yetkilisi Ulu Hacip'tir."
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nde mali işlerden sorumlu olan, devletin gelir ve giderlerini hesaplayan divan aşağıdakilerden hangisidir?",
+          "options": [
+            "Divan-ı İstifa",
+            "Divan-ı Arz",
+            "Divan-ı Tura",
+            "Divan-ı İşraf",
+            "Divan-ı Mezalim"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Divan-ı İstifa’nın başkanına (Maliye Bakanı) verilen unvan aşağıdakilerden hangisidir?",
+          "options": [
+            "Tuğrai",
+            "Müstevfi",
+            "Müşrif",
+            "Emir-i Arz",
+            "Muhtesip"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Ordunun ihtiyaçlarını karşılayan, maaşlarını dağıtan ve askerlerin kayıtlarını tutan divan (Savunma Bakanlığı) hangisidir?",
+          "options": [
+            "Divan-ı İstifa",
+            "Divan-ı İnşa",
+            "Divan-ı Saltanat",
+            "Niyabet-i Saltanat",
+            "Divan-ı Arz"
+          ],
+          "correctOption": "E",
+          "solution": "Başkanı: Emir-i Arz"
+        },
+        {
+          "text": "Türk-İslam devletlerinde idari ve mali kurumları denetleyen, devletin \"iç denetim mekanizması\" olarak çalışan divan hangisidir?",
+          "options": [
+            "Divan-ı Mezalim",
+            "Divan-ı İşraf",
+            "Divan-ı Arz",
+            "Divan-ı Tura",
+            "Divan-ı Berid"
+          ],
+          "correctOption": "B",
+          "solution": "Başkanı: Müşrif. İşraf = Müfettişlik"
+        },
+        {
+          "text": "Aşağıdakilerden hangisi İslamiyet’in kabulüyle birlikte Türk hükümdarlık sembolleri arasına girenlerden biri değildir?",
+          "options": [
+            "Hutbe okutmak",
+            "Menşur (Halife onayı) almak",
+            "Hilat giymek",
+            "Tıraz (İsmin yazılı olduğu elbise) giymek",
+            "Tuğ (Sancak) taşımak"
+          ],
+          "correctOption": "E",
+          "solution": "Tuğ, İslamiyet öncesinde de kullanılan milli bir semboldür. Diğerleri İslam etkisiyle gelmiştir."
+        },
+        {
+          "text": "Hükümdarın yemeklerini tadan, sofra hizmetlerini gören ve yemeklerin zehirli olup olmadığını kontrol eden saray görevlisi kimdir?",
+          "options": [
+            "Emir-i Candar",
+            "Çaşnigir",
+            "Emir-i Ahur",
+            "Camedar",
+            "Şarabdar (İdişçibaşı)"
+          ],
+          "correctOption": "B",
+          "solution": "Çeşni'den aklına gelebilir."
+        },
+        {
+          "text": "Türk-İslam devletlerinde, savaş esirlerinin veya satın alınan kölelerin özel olarak yetiştirilmesiyle oluşturulan, hükümdarın özel muhafız birliğini de kapsayan askeri sisteme ne ad verilir?",
+          "options": [
+            "İkta Sistemi",
+            "Veraset Sistemi",
+            "Tımar Sistemi",
+            "Kafes Sistemi",
+            "Gulam Sistemi"
+          ],
+          "correctOption": "C",
+          "solution": "Osmanlı'da Kapıkulu/Devşirme sistemi halini alacaktır."
+        },
+        {
+          "text": "Gulam askerlerinin (Hassa Ordusu) üç ayda bir aldıkları maaşa ne ad verilir?",
+          "options": [
+            "Ulufe",
+            "Cülus",
+            "İkta",
+            "Bistegani",
+            "Ganimet"
+          ],
+          "correctOption": "D",
+          "solution": "Ulufe Osmanlı'daki adıdır, Selçuklu'da Bistegani denir."
+        },
+        {
+          "text": "I. Hazineye yük olmamaları\nII. Taşrada güvenliği sağlamaları\nIII. Üretimde sürekliliği sağlamaları\nYukarıdakilerden hangileri İkta (Toprak) askerlerinin devlete sağladığı faydalar arasındadır?",
+          "options": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+          ],
+          "correctOption": "C",
+          "solution": "İkta sistemi, devletin kasasından para çıkmadan devasa bir ordu beslemesini sağlar."
+        },
+        {
+          "text": "Türk-İslam devletlerinde eyaletlerin başında bulunan askeri valilere ne ad verilir?",
+          "options": [
+            "Muhtesip",
+            "Şıhne",
+            "Kadı",
+            "Melik",
+            "Subaşı"
+          ],
+          "correctOption": "B",
+          "solution": "Melik: Hanedan üyesi vali, Şıhne: Askeri vali, Amil: Vergi toplayan sivil vali."
+        },
+        {
+          "text": "Çarşı ve pazarları denetleyen, tartı aletlerini kontrol eden, fiyatları (Narh) denetleyen ve belediye işlerine bakan görevli kimdir?",
+          "options": [
+            "Subaşı",
+            "Kadı",
+            "Atabey",
+            "Müşrif",
+            "Muhtesip"
+          ],
+          "correctOption": "E",
+          "solution": "Zabıta görevi görür."
+        },
+        {
+          "text": "Hükümdarın kıyafetleriyle ilgilenen saray görevlisi aşağıdakilerden hangisidir?",
+          "options": [
+            "Alemdar",
+            "Silahdar",
+            "Emir-i Ahur",
+            "Emir-i Şikar",
+            "Camedar"
+          ],
+          "correctOption": "D",
+          "solution": "Came = Giysi"
+        },
+        {
+          "text": "Türk-İslam devletlerinde \"Posta ve Haberleşme\" işlerini yürüten teşkilat hangisidir?",
+          "options": [
+            "Divan-ı Mezalim",
+            "Divan-ı İnşa",
+            "Divan-ı Arz",
+            "Divan-ı Has",
+            "Divan-ı Berid"
+          ],
+          "correctOption": "D",
+          "solution": "Casusluk faaliyetlerini de yürütür."
+        },
+        {
+          "text": "Hükümdar başkentte olmadığında devlet işlerine vekalet eden \"Niyabet-i Saltanat\" divanı, aşağıdaki devletlerden hangisinde görülür?",
+          "options": [
+            "Karahanlılar",
+            "Gazneliler",
+            "Tolunoğulları",
+            "Eyyubiler",
+            "Anadolu Selçuklu Devleti"
+          ],
+          "correctOption": "E",
+          "solution": "Bu divan Türkiye Selçuklularına özgüdür."
+        },
+        {
+          "text": "Hükümdar tarafından atanan, ağır siyasi suçlara ve devlet memurlarının şikayetlerine bakan yüksek mahkeme hangisidir?",
+          "options": [
+            "Divan-ı Mezalim",
+            "Şer'i Mahkeme",
+            "Cemaat Mahkemesi",
+            "Konsolosluk Mahkemesi",
+            "Ticaret Mahkemesi"
+          ],
+          "correctOption": "A",
+          "solution": "Hükümdar başkanlık eder, halkın şikayetlerini dinler. Modern Yargıtay/Danıştay ve Anayasa Mahkemesi karışımıdır."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi hükümdarlık sembolü olan \"Çetr\"in anlamıdır?",
+          "options": [
+            "Hükümdar Asası",
+            "Hükümdar Yüzüğü",
+            "Hükümdar Koltuğu",
+            "Savaş Davulu",
+            "Saltanat Şemsiyesi"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Türk-İslam devletlerinde, hükümdarın av partilerini düzenleyen saray görevlisi kimdir?",
+          "options": [
+            "Emir-i Ahur",
+            "Emir-i Alem",
+            "Serhenk",
+            "Emir-i Şikar",
+            "Candar"
+          ],
+          "correctOption": "A",
+          "solution": "Şikar = Av"
+        },
+        {
+          "text": "Saraydaki atların bakımından ve ahırlardan sorumlu olan görevli kimdir?",
+          "options": [
+            "Emir-i Candar",
+            "Alemdar",
+            "Silahtar",
+            "Hansalar",
+            "Emir-i Ahur"
+          ],
+          "correctOption": "B",
+          "solution": "Ahır kelimesinden hatırlanabilir."
+        },
+        {
+          "text": "Selçuklularda resmi yazışmalarda hükümdarın tuğrasını çeken, iç ve dış yazışmaları yöneten divan başkanı kimdir?",
+          "options": [
+            "Müstevfi",
+            "Müşrif",
+            "Tuğrai (Münşi)",
+            "Pervaneci",
+            "Emir-i Dad"
+          ],
+          "correctOption": "D",
+          "solution": "Divan-ı Tura veya Divan-ı İnşa'nın başkanıdır."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 8",
+      "preTestNote": "Hukuk Sistemi: İkiye ayrılır.\nŞer'i Hukuk: Kaynağı İslam dinidir (Kuran, Sünnet, İcma, Kıyas). Aile, miras, ticaret davalarına bakar. Başında Kadı bulunur. En üst yetkili Kadı'l Kudat'tır.\nÖrfi Hukuk: Kaynağı Türk gelenekleri (Töre) ve hükümdar emirleridir. Yönetim, asayiş ve mali davalara bakar. Başında Emir-i Dad bulunur.\nAskeri Hukuk: Askerlerin davalarına Kadıleşker (Kazasker) bakar.\n\nToprak Yönetimi:\nMiri Arazi: Mülkiyeti devlete ait topraklardır. Satılamaz, devredilemez.\nHas: Geliri hükümdara ayrılır.\nİkta: Geliri devlet memuru ve askerlere maaş yerine verilir (En yaygın toprak).\nMülk Arazi: Şahsa aittir (Öşri: Müslüman, Haraci: Gayrimüslim). Satılabilir, miras bırakılabilir.\nVakıf Arazi: Geliri hayır kurumlarına (Cami, hastane, medrese) ayrılır. Asla satılamaz.\n\nEğitim (Medrese):\nİlk Türk-İslam medresesi Karahanlılarda (Semerkant Medresesi).\nAnadolu'da ilk medrese Danişmentlilerde (Yağıbasan).\nKavramlar: Müderris (Öğretmen), Suhte/Danişment (Öğrenci), İcazetname (Diploma).\n\nSanat: İslamiyet'te putperestliği çağrıştırdığı için Heykel ve Resim sanatı gelişmemiştir. Bunun yerine Hat (Güzel yazı), Tezhip (Süsleme), Minyatür, Ebru, Oymacılık (Ahşap/Taş) gelişmiştir.",
+      "questions": [
+        {
+          "text": "Türk-İslam devletlerinde hukuk sistemi \"Şer'i\" ve \"Örfi\" olmak üzere ikiye ayrılırdı. Aşağıdakilerden hangisi Şer'i hukukun kaynaklarından biri değildir?",
+          "options": [
+            "Kuran-ı Kerim",
+            "Sünnet",
+            "Kıyas",
+            "İcma",
+            "Töre"
+          ],
+          "correctOption": "E",
+          "solution": "Töre, Örfi hukukun kaynağıdır."
+        },
+        {
+          "text": "Türk-İslam devletlerinde \"Örfi Hukuk\" sisteminin başında bulunan ve veziri bile yargılama yetkisine sahip olan görevli kimdir?",
+          "options": [
+            "Kadı",
+            "Kadıleşker",
+            "Emir-i Dad",
+            "Muhtesip",
+            "Nişancı"
+          ],
+          "correctOption": "C",
+          "solution": "Adalet Emiri"
+        },
+        {
+          "text": "Ordudaki askerlerin davalarına bakan ve askeri yargıdan sorumlu olan görevli aşağıdakilerden hangisidir?",
+          "options": [
+            "Kadı'l Kudat",
+            "Kadıleşker (Kazasker)",
+            "Subaşı",
+            "Emir-i Dad",
+            "Müşrif"
+          ],
+          "correctOption": "D",
+          "solution": "Leşker: Asker demektir."
+        },
+        {
+          "text": "Türk-İslam devletlerinde mülkiyeti devlete ait olan topraklara \"Miri Arazi\" denir. Aşağıdakilerden hangisi Miri arazinin bölümlerinden biri olan ve geliri doğrudan hükümdara ayrılan topraklardır?",
+          "options": [
+            "Has",
+            "Vakıf",
+            "İkta",
+            "Öşri",
+            "Haraci"
+          ],
+          "correctOption": "A",
+          "solution": "Has: Hükümdara has olan."
+        },
+        {
+          "text": "Geliri cami, medrese, hastane gibi hayır kurumlarının giderleri için ayrılan, alınıp satılması ve miras bırakılması yasak olan topraklara ne ad verilir?",
+          "options": [
+            "Mülk Arazi",
+            "Vakıf Arazi",
+            "İkta Arazi",
+            "Has Arazi",
+            "Ocaklık Arazi"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Türk-İslam devletlerinde medrese eğitimi sonucunda mezun olan öğrencilere verilen diplomanın adı nedir?",
+          "options": [
+            "Berat",
+            "Ferman",
+            "İcazetname",
+            "Menşur",
+            "Ahidname"
+          ],
+          "correctOption": "A",
+          "solution": "İcazet: İzin vermek/yeterlilik."
+        },
+        {
+          "text": "İslamiyet’te putperestliği çağrıştırdığı düşüncesiyle yasaklanan veya hoş karşılanmayan sanat dalları hangileridir?",
+          "options": [
+            "Hat ve Tezhip",
+            "Mimari ve Musiki",
+            "Resim ve Heykel",
+            "Minyatür ve Çini",
+            "Ebru ve Ciltçilik"
+          ],
+          "correctOption": "C",
+          "solution": "Bu nedenle Türkler soyut sanatlara ve süslemeye -arabesk- yönelmiştir."
+        },
+        {
+          "text": "Kitap sayfalarının kenarlarını altın tozu ve boyalarla süsleme sanatına ne ad verilir?",
+          "options": [
+            "Hat",
+            "Tezhip",
+            "Minyatür",
+            "Ebru",
+            "Fresko"
+          ],
+          "correctOption": "E",
+          "solution": "Bu sanatı icra edene Müzehhip denir."
+        },
+        {
+          "text": "Arap harfleriyle \"Güzel Yazı Yazma\" sanatı olan ve Türklerin İslamiyet’i kabulünden sonra büyük gelişme gösterdiği sanat dalı hangisidir?",
+          "options": [
+            "Oymacılık",
+            "Kakmacılık",
+            "Minyatür",
+            "Vitray",
+            "Hat"
+          ],
+          "correctOption": "D",
+          "solution": "Türkler için \"Kuran Mekke'de indi, Kahire'de okundu, İstanbul'da yazıldı\" denir."
+        },
+        {
+          "text": "Türk-İslam devletlerinde esnaf ve zanaatkarların oluşturduğu \"Ahilik\" teşkilatının temel prensiplerini, ahlak kurallarını ve yönetmeliklerini içeren kitaplara ne ad verilir?",
+          "options": [
+            "Siyasetname",
+            "Seyahatname",
+            "Fütüvvetname",
+            "Surname",
+            "Salname"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi \"İkta Sistemi\"nin (Toprağa dayalı askerlik ve maaş sistemi) devlete sağladığı yararlardan biri değildir?",
+          "options": [
+            "Hazineden para çıkmadan ordunun yetiştirilmesi",
+            "Merkezi otoritenin zayıflaması",
+            "Tarımsal üretimde sürekliliğin sağlanması",
+            "Göçebe Türkmenlerin yerleşik hayata geçirilmesi",
+            "Taşrada güvenliğin sağlanması"
+          ],
+          "correctOption": "B",
+          "solution": "Tam tersine, devletin valisi ve askeri her yerde olduğu için merkezi otorite ülkenin en ücra köşesine kadar taşınır ve güçlenir."
+        },
+        {
+          "text": "Türk-İslam mimarisinde yoksullara, öğrencilere ve yolculara ücretsiz yemek dağıtılan hayır kurumuna ne ad verilir?",
+          "options": [
+            "Kümbet",
+            "Külliye",
+            "İmaret",
+            "Bedesten",
+            "Arasta"
+          ],
+          "correctOption": "D",
+          "solution": "İmar etmekten değil, \"ömür\" kelimesinden -yaşam veren yer- gelir. Aşevi."
+        },
+        {
+          "text": "Bir caminin çevresinde kurulan medrese, hamam, kütüphane, hastane, imaret gibi yapıların oluşturduğu topluluğa (Yapı kompleksi) ne ad verilir?",
+          "options": [
+            "Tekke",
+            "Ribat",
+            "Kervansaray",
+            "Türbe",
+            "Külliye"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi medreselerde görev yapan öğretim elemanına verilen isimdir?",
+          "options": [
+            "Suhte",
+            "Danişment",
+            "Müid",
+            "Atabey",
+            "Müderris"
+          ],
+          "correctOption": "E",
+          "solution": "Müderris: Ders veren profesör. Müid: Asistan. Suhte/Danişment: Öğrenci."
+        },
+        {
+          "text": "İslamiyet öncesi Türklerdeki \"Kurgan\" (Mezar) mimarisinin İslamiyet ile birleşmesi sonucu ortaya çıkan \"Anıt Mezar\" yapılarına ne ad verilir?",
+          "options": [
+            "Külliye",
+            "Bimarhane",
+            "Ribat",
+            "Şadırvan",
+            "Kümbet / Türbe"
+          ],
+          "correctOption": "C",
+          "solution": "Çadır görünümlü olanlara Kümbet denir."
+        },
+        {
+          "text": "Türk-İslam sanatında perspektifi olmayan (derinliksiz), kişilerin statüsüne göre büyük veya küçük çizildiği kitap resimleme sanatına ne ad verilir?",
+          "options": [
+            "Fresk",
+            "Mozaik",
+            "Heykel",
+            "Rölyef",
+            "Minyatür"
+          ],
+          "correctOption": "E",
+          "solution": "Bu sanatçılara Nakkaş denir."
+        },
+        {
+          "text": "Gayrimüslim halkın sahip olduğu ve devlete vergi ödediği özel mülk arazilerine ne ad verilir?",
+          "options": [
+            "Öşri",
+            "Miri",
+            "Vakıf",
+            "Has",
+            "Haraci"
+          ],
+          "correctOption": "B",
+          "solution": "Öşri: Müslüman mülkü, Haraci: Gayrimüslim mülkü."
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti ve Beylikler döneminde ahşap işçiliği çok gelişmiştir. Ahşap veya taş üzerine desen işleme sanatına ne ad verilir?",
+          "options": [
+            "Oymacılık / Kakmacılık",
+            "Hat",
+            "Tezhip",
+            "Ebru",
+            "Çini"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Hastaların tedavi edildiği ve nekahet (iyileşme) dönemini geçirdikleri sağlık kurumlarına verilen isimlerden biri değildir?",
+          "options": [
+            "Darüşşifa",
+            "Bimarhane",
+            "Maristan",
+            "Tabhane",
+            "Tabakhane"
+          ],
+          "correctOption": "C",
+          "solution": "Tabakhane: Deri işleme atölyesidir. Diğerleri sağlık kurumudur. Tabhane: İyileşen hastaların dinlendiği yer."
+        },
+        {
+          "text": "Ahilik teşkilatında mesleğe yeni giren çırağın, kalfalık ve ustalık mertebesine yükselmesi için yapılan törene ve kuşatılan kuşağa ne ad verilir?",
+          "options": [
+            "İcazet Töreni",
+            "Biat Töreni",
+            "Amin Alayı",
+            "Kılıç Alayı",
+            "Şed Kuşatma"
+          ],
+          "correctOption": "B",
+          "solution": "Şed: Ahilik kemeri."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 9",
+      "preTestNote": "Dört Büyük Eser (Karahanlılar Dönemi):\nKutadgu Bilig (Mutluluk Veren Bilgi): Yusuf Has Hacip. İlk siyasetname, ilk mesnevi, aruzla yazılan ilk eser. (Tabgaç Buğra Han'a sunuldu).\nDivan-ı Lügati't-Türk: Kaşgarlı Mahmut. İlk Türkçe sözlük, ilk dilbilgisi kitabı, ilk Türk dünyası haritası. (Abbasi Halifesine sunuldu).\nAtabetü'l Hakayık (Hakikatlerin Eşiği): Edip Ahmet Yükneki. Dini-ahlaki öğütler.\nDivan-ı Hikmet: Hoca Ahmet Yesevi. İlk tasavvufi eser.\n\nDiğer Önemli Yazılı Eserler:\nSiyasetname: Nizamülmülk (Büyük Selçuklu devlet yönetimi).\nŞehname: Firdevsi (Gazneli Mahmut'a sunuldu, İran-Turan savaşları - Alper Tunga'yı \"Afrasiyab\" olarak anlatır).\nRubailer: Ömer Hayyam.\nMuhakemetü'l Lügateyn: Ali Şir Nevai (Türkçe vs Farsça kıyaslaması).\nŞecere-i Terakime (Türklerin Soyağacı): Ebul Gazi Bahadır Han.\n\nMimari \"İlk\"ler ve \"En\"ler:\nAnadolu'nun İlk Camisi: Ebul Manucehr Camii (Ani Harabeleri / Kars - Büyük Selçuklu).\nAnadolu'nun İlk Medresesi: Yağıbasan Medresesi (Danişmentliler - Tokat).\nAnadolu'nun İlk Külliyesi: Mengücek Gazi Külliyesi (Divriği) veya Hunat Hatun (Kayseri - ASD'ye ait ilk).\nAnadolu'nun İlk Hastanesi (Tıp Fakültesi): Gevher Nesibe Darüşşifası (Kayseri - ASD).\nDünyanın En Geniş Taş Kemerli Köprüsü: Malabadi Köprüsü (Artuklular).\nUNESCO Eseri: Divriği Ulu Cami ve Darüşşifası (Mengücekliler).",
+      "questions": [
+        {
+          "text": "Türk-İslam edebiyatının ilk yazılı eseri kabul edilen, Yusuf Has Hacip tarafından Tabgaç Buğra Han’a sunulan ve \"Siyasetname\" özelliği taşıyan eser hangisidir?",
+          "options": [
+            "Divan-ı Hikmet",
+            "Kutadgu Bilig",
+            "Atabetü'l Hakayık",
+            "Şehname",
+            "Divan-ı Lügati't-Türk"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Kaşgarlı Mahmut tarafından yazılan \"Divan-ı Lügati't-Türk\" adlı eserin sonunda yer alan ve Türk topluluklarının yaşadığı yerleri gösteren harita, dünya haritacılık tarihinde neden önemlidir?",
+          "options": [
+            "Amerika kıtasını göstermesi",
+            "Piri Reis tarafından çizilmesi",
+            "İlk Türk Dünyası haritası olması",
+            "Yönlerin farklı gösterilmesi",
+            "Renkli çizilen ilk harita olması"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "İranlı şair Firdevsi’nin kaleme aldığı \"Şehname\" adlı eserde \"Afrasiyab\" olarak bahsedilen ünlü Türk hükümdarı kimdir?",
+          "options": [
+            "Mete Han",
+            "Atilla",
+            "Tomris Hatun",
+            "Oğuz Kağan",
+            "Alp Er Tunga"
+          ],
+          "correctOption": "E",
+          "solution": "İskit hükümdarı."
+        },
+        {
+          "text": "Aşağıdaki eser-yazar eşleştirmelerinden hangisi yanlıştır?",
+          "options": [
+            "Divan-ı Hikmet - Hoca Ahmet Yesevi",
+            "Atabetü'l Hakayık - Edip Ahmet Yükneki",
+            "Siyasetname - Nizamülmülk",
+            "Kutadgu Bilig - Kaşgarlı Mahmut",
+            "Rubailer - Ömer Hayyam"
+          ],
+          "correctOption": "D",
+          "solution": "Kutadgu Bilig, Yusuf Has Hacip'e aittir."
+        },
+        {
+          "text": "Timur Devleti dönemi şairlerinden Ali Şir Nevai, \"Muhakemetü'l Lügateyn\" adlı eserinde Türkçeyi hangi dille kıyaslayarak Türkçenin daha zengin olduğunu savunmuştur?",
+          "options": [
+            "Farsça",
+            "Arapça",
+            "Çince",
+            "Rusça",
+            "Yunanca"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu’da inşa edilen ilk medrese olma özelliğine sahip \"Yağıbasan Medresesi\" (Çukur Medrese) hangi beylik tarafından yapılmıştır?",
+          "options": [
+            "Saltuklular",
+            "Mengücekliler",
+            "Artuklular",
+            "Danişmentliler",
+            "Çaka Beyliği"
+          ],
+          "correctOption": "D",
+          "solution": "Tokat-Niksar'dadır."
+        },
+        {
+          "text": "UNESCO Dünya Miras Listesi’nde yer alan, taş işlemeciliğinin zirvesi sayılan ve \"Anadolu'nun El-Hamra'sı\" olarak da benzetilen Divriği Ulu Cami ve Darüşşifası hangi devlete/beyliğe aittir?",
+          "options": [
+            "Anadolu Selçuklu",
+            "Mengücekliler",
+            "Artuklular",
+            "Osmanlılar",
+            "Saltuklular"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Dünyanın en geniş taş kemerli köprüsü olan ve Batman çayı üzerinde bulunan Malabadi Köprüsü hangi beylik dönemine aittir?",
+          "options": [
+            "Akkoyunlular",
+            "Saltuklular",
+            "Danişmentliler",
+            "Selçuklular",
+            "Artuklular"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Kayseri’de bulunan, Anadolu Selçuklu Devleti döneminde inşa edilen ve dünyanın ilk tıp fakültesi/hastanesi kompleksi kabul edilen eser hangisidir?",
+          "options": [
+            "Turan Melek Darüşşifası",
+            "Divriği Darüşşifası",
+            "Şifaiye Medresesi",
+            "Gök Medrese",
+            "Gevher Nesibe Darüşşifası"
+          ],
+          "correctOption": "A",
+          "solution": "II. Kılıçarslan'ın kızı Gevher Nesibe Sultan vasiyetiyle yapılmıştır."
+        },
+        {
+          "text": "Aşağıdaki mimari eserlerden hangisi Saltuklular (Erzurum) dönemine aittir?",
+          "options": [
+            "İnce Minareli Medrese",
+            "Karatay Medresesi",
+            "Mama Hatun Külliyesi",
+            "Hunat Hatun Külliyesi",
+            "Cacabey Medresesi"
+          ],
+          "correctOption": "C",
+          "solution": "Erzincan/Tercan'dadır. Saltuklulara aittir."
+        },
+        {
+          "text": "Kırşehir’de bulunan ve minaresi aynı zamanda \"Gözlemevi\" (Rasathane) olarak kullanılan, Anadolu Selçuklu dönemi eseri Cacabey Medresesi hangi alanda eğitim vermiştir?",
+          "options": [
+            "Tıp",
+            "Hukuk",
+            "Hadis",
+            "Edebiyat",
+            "Astronomi"
+          ],
+          "correctOption": "E",
+          "solution": "Dünyanın ilk astronomi okullarından biridir."
+        },
+        {
+          "text": "Konya’da bulunan ve kapısındaki taş işçiliği ile ünlü İnce Minareli Medrese ve Karatay Medresesi hangi devlet dönemine aittir?",
+          "options": [
+            "Büyük Selçuklu",
+            "Karamanoğulları",
+            "Osmanlı",
+            "Danişmentliler",
+            "Anadolu Selçuklu"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Erzurum’daki Çifte Minareli Medrese ve Sivas’taki Gök Medrese hangi devletin mimari şaheserlerindendir?",
+          "options": [
+            "İlhanlılar",
+            "Saltuklular",
+            "Danişmentliler",
+            "Artuklular",
+            "Anadolu Selçuklu Devleti"
+          ],
+          "correctOption": "B",
+          "solution": "Anadolu Selçuklu'nun en görkemli yapılarındandır."
+        },
+        {
+          "text": "Aşağıdaki bilim insanlarından hangisi, kaleme aldığı \"Cerrahiyyetü'l Haniye\" adlı eserinde cerrahide kullanılan aletlerin çizimlerini yapmıştır?",
+          "options": [
+            "Akşemseddin",
+            "Altunizade",
+            "İbni Nefis",
+            "İbni Sina",
+            "Sabuncuoğlu Şerefeddin"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Büyük Selçuklu Devleti’nin ünlü veziri Nizamülmülk tarafından Bağdat’ta kurulan ve dönemin en büyük üniversitesi kabul edilen eğitim kurumu hangisidir?",
+          "options": [
+            "Aziziye Medresesi",
+            "Sahn-ı Seman Medresesi",
+            "Süleymaniye Medresesi",
+            "Yakutiye Medresesi",
+            "Nizamiye Medreseleri"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Türk tarihinde ilk kez \"Vakıf\" sistemiyle yönetilen hastane (Bimarhane) ve kervansaray (Ribat) örneklerini veren devlet hangisidir?",
+          "options": [
+            "Gazneliler",
+            "Göktürkler",
+            "Uygurlar",
+            "Selçuklular",
+            "Karahanlılar"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu'da bilinen en eski cami olan \"Ebul Manucehr Camii\" hangi antik kentte yer almaktadır?",
+          "options": [
+            "Efes",
+            "Hattuşaş",
+            "Gordion",
+            "Truva",
+            "Ani"
+          ],
+          "correctOption": "A",
+          "solution": "Kars/Ani Harabeleri. Büyük Selçuklu fethi sonrası yapılmıştır."
+        },
+        {
+          "text": "Aşağıdaki eserlerden hangisi Mevlana'nın eserlerinden biri değildir?",
+          "options": [
+            "Makalat",
+            "Mesnevi",
+            "Divan-ı Kebir",
+            "Fihi Mafih",
+            "Mektubat"
+          ],
+          "correctOption": "A",
+          "solution": "Makalat, Hacı Bektaş Veli'ye aittir."
+        },
+        {
+          "text": "Seyahatnamesinde Anadolu için \"Abad (Bayındır) olmuş, güzel bir ülke\" ifadesini kullanan ve 14. yüzyılda Anadolu'yu gezen ünlü Arap seyyah kimdir?",
+          "options": [
+            "Evliya Çelebi",
+            "Marco Polo",
+            "İbni Fadlan",
+            "Biruni",
+            "İbni Batuta"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Mimar Sinan’ın eserlerinden biri değildir?",
+          "options": [
+            "Selimiye Camii",
+            "Süleymaniye Camii",
+            "Şehzade Camii",
+            "Mihrimah Sultan Camii",
+            "Sultanahmet Camii"
+          ],
+          "correctOption": "B",
+          "solution": "Sultanahmet Camii, Sedefkar Mehmet Ağa tarafından yapılmıştır. Bu soru Türk-İslam genel kültür bilgisi olarak araya serpiştirilmiştir."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 10",
+      "preTestNote": "Savaşların Karakteri:\nDandanakan (1040): Kuruluş savaşı (Büyük Selçuklu).\nPasinler (1048): Bizans'la ilk ciddi kapışma (Keşif).\nMalazgirt (1071): Yurtaçan (Kapı).\nMiryokefalon (1176): Yurttutan (Tapu).\nYassı Çemen (1230): Tampon bölgeyi yıkan (Hata).\nKösedağ (1243): Yıkılış getiren (Moğol İstilası).\n\nKarıştırılan Terimler:\nAtaman: İslam öncesi eğitmen.\nAtabey: İslam sonrası (Selçuklu) eğitmen.\nLala: Osmanlı dönemi eğitmen.\n\nİlkler Zinciri:\nİlk Müslüman Türk Devleti: İtil Bulgarları (Avrupa).\nOrta Asya'da İlk Müslüman Türk Devleti: Karahanlılar.\nMısır'da İlk Türk Devleti: Tolunoğulları.\nAnadolu'da İlk Türk Beyliği: Saltuklular.\n\nEser-Yazar Ayrımı:\nDivan-ı Hikmet: Ahmet Yesevi (Tasavvuf).\nDivan-ı Lügati't Türk: Kaşgarlı Mahmut (Sözlük/Harita).\nMesnevi: Mevlana.",
+      "questions": [
+        {
+          "text": "Karahanlılar döneminde inşa edilen \"Ribat\"lar, başlangıçta sınır güvenliği ve askeri amaçla yapılmışken, zamanla sınırların genişlemesiyle hangi amaca hizmet etmeye başlamıştır?",
+          "options": [
+            "Ticaret merkezi (Kervansaray)",
+            "Eğitim kurumu (Medrese)",
+            "Yönetim merkezi (Saray)",
+            "Sağlık merkezi (Darüşşifa)",
+            "Hapishane"
+          ],
+          "correctOption": "A",
+          "solution": "Gaziler için karakoldu, tüccarlar için konaklama yeri oldu."
+        },
+        {
+          "text": "Türk-İslam devletlerinde \"Vakıf\" arazilerin alınıp satılması, miras bırakılması veya devredilmesi yasaktır. Bu yasağın temel amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "Devletin vergi gelirlerini artırmak",
+            "Kurumların ve sosyal hizmetlerin sürekliliğini sağlamak",
+            "Toprak ağalığının oluşmasını engellemek",
+            "Tarımsal üretimi denetim altında tutmak",
+            "Merkezi otoriteyi güçlendirmek"
+          ],
+          "correctOption": "C",
+          "solution": "Vakfın geliri kesilirse hastane, medrese kapanır; bu yüzden satılamaz."
+        },
+        {
+          "text": "Aşağıdaki savaşlardan hangisi Büyük Selçuklu Devleti’nin yıkılış sürecine girmesine neden olmuştur?",
+          "options": [
+            "Talas",
+            "Pasinler",
+            "Dandanakan",
+            "Malazgirt",
+            "Katvan"
+          ],
+          "correctOption": "B",
+          "solution": "1141 - Karahitaylarla yapılmıştır."
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nde şehzadelerin (Melik) illere vali olarak gönderilmesi uygulamasının temel amacı nedir?",
+          "options": [
+            "Merkezi otoriteyi zayıflatmak",
+            "Ordunun başında sefere çıkmalarını engellemek",
+            "Taht kavgalarını hızlandırmak",
+            "Devlet yönetiminde tecrübe kazanmalarını sağlamak",
+            "Yerel halkla kaynaşmalarını önlemek"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Türk tarihinde \"Büyük Selçuklu\" ve \"Anadolu Selçuklu\" devletlerinin ortak özelliklerinden biri değildir?",
+          "options": [
+            "Resmi dil olarak Farsçayı kullanmaları",
+            "İkta sistemini uygulamaları",
+            "Haçlı Seferleri ile mücadele etmeleri",
+            "Veraset sisteminin aynı olması",
+            "Donanma gücüne sahip olmaları"
+          ],
+          "correctOption": "E",
+          "solution": "Büyük Selçuklu İran coğrafyasında kurulduğu için donanması yoktur. Anadolu Selçuklu'nun donanması vardır."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi 1243 Kösedağ Savaşı’nın sonuçlarından biridir?",
+          "options": [
+            "Anadolu'da Türk birliğinin kesin olarak sağlanması",
+            "Anadolu Selçuklu Devleti'nin en parlak dönemine girmesi",
+            "Bizans İmparatorluğu'nun yıkılması",
+            "Osmanlı Devleti'nin tarih sahnesinden silinmesi",
+            "Anadolu'nun Moğol tahakkümü (baskısı) altına girmesi"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu Beylikleri döneminde \"Aydınoğulları, Saruhanoğulları, Karesioğulları ve Menteşeoğulları\"nın ortak özelliği nedir?",
+          "options": [
+            "İç Anadolu'da kurulmuş olmaları",
+            "Moğollara karşı başarılı olmaları",
+            "Denizcilikle uğraşmaları",
+            "Haçlı seferlerine katılmaları",
+            "Osmanlı'ya savaşarak katılmaları"
+          ],
+          "correctOption": "C",
+          "solution": "Hepsi Ege kıyısındadır."
+        },
+        {
+          "text": "Türk-İslam dünyasında \"Şeyhü'r Reis\" (Reislerin Şeyhi) olarak bilinen, Avrupa'da \"Avicenna\" adıyla tanınan ünlü tıp bilgini kimdir?",
+          "options": [
+            "Farabi",
+            "İbni Rüşd",
+            "Harezmi",
+            "İbni Sina",
+            "Biruni"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nin sembolü olarak kabul edilen, gücü ve asaleti temsil eden figür hangisidir?",
+          "options": [
+            "Bozkurt",
+            "Aslan",
+            "At",
+            "Ejderha",
+            "Çift Başlı Kartal"
+          ],
+          "correctOption": "E",
+          "solution": "Doğu'nun ve Batı'nın hakimi."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Türklerin İslamiyet’e geçişini kolaylaştıran etkenlerden biri değildir?",
+          "options": [
+            "Gök Tanrı inancı ile İslam'ın tek tanrı inancının benzemesi",
+            "Türklerdeki \"Cihan Hakimiyeti\" ülküsü ile İslam'daki \"Cihat\" anlayışının örtüşmesi",
+            "Abbasilerin Türklere karşı hoşgörülü politika izlemesi",
+            "Ahiret inancı ve kurban ibadetinin her iki dinde de olması",
+            "Türklerin savaşçı özelliklerini kaybetmek istemesi"
+          ],
+          "correctOption": "D",
+          "solution": "Türkler savaşçı özelliklerini kaybetmek istememiş, aksine İslam, Gaza/Cihat anlayışıyla bu özelliği desteklemiştir."
+        },
+        {
+          "text": "Büyük Selçuklu Devleti veziri Nizamülmülk'ün \"Siyasetname\" adlı eserinde en çok uyardığı ve tehlikeli gördüğü yapılanma hangisidir?",
+          "options": [
+            "Batınilik (Haşhaşiler)",
+            "Ahilik",
+            "Bektaşilik",
+            "Mevlevilik",
+            "Yesevilik"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Anadolu Selçuklu Sultanı Alaaddin Keykubat'ın, Moğol tehlikesine karşı aldığı önlemlerden biri değildir?",
+          "options": [
+            "Şehir surlarını (Konya, Kayseri, Sivas) onarmak",
+            "Eyyubiler ve Harzemşahlarla ittifak kurmaya çalışmak",
+            "Doğudaki kaleleri güçlendirmek",
+            "Moğollarla iyi geçinmeye çalışmak (Elçi göndermek)",
+            "Harzemşahları Yassı Çemen Savaşı'nda yok etmek"
+          ],
+          "correctOption": "E",
+          "solution": "Harzemşahları yok etmesi bir önlem değil, stratejik bir hatadır. Tampon bölge kalkmış, Moğollara komşu olunmuştur."
+        },
+        {
+          "text": "\"Dede Korkut Hikayeleri\"nin yazılı hale getirilmesi hangi devlet döneminde gerçekleşmiştir?",
+          "options": [
+            "Osmanlılar",
+            "Anadolu Selçukluları",
+            "Karahanlılar",
+            "Gazneliler",
+            "Akkoyunlular"
+          ],
+          "correctOption": "D",
+          "solution": "Genellikle Akkoyunlular dönemi kabul edilir, 15. yy."
+        },
+        {
+          "text": "Aşağıdaki beyliklerden hangisi Osmanlı Devleti’ne \"vasiyet\" yoluyla katılmıştır?",
+          "options": [
+            "Karesioğulları",
+            "Hamitoğulları",
+            "Aydınoğulları",
+            "Karamanoğulları",
+            "Germiyanoğulları"
+          ],
+          "correctOption": "A",
+          "solution": "Germiyanoğlu Yakup Bey, oğlu olmadığı için ülkesini II. Murat'a vasiyet etmiştir. Çeyiz olayı ise I. Murat dönemindedir."
+        },
+        {
+          "text": "Türk-İslam devletlerinde \"Emir-i Dad\"ın görevi nedir?",
+          "options": [
+            "Ordu komutanlığı",
+            "Adalet işlerine bakmak (Örfi hukuk)",
+            "Maliyeyi yönetmek",
+            "Yazışmaları yapmak",
+            "Saray güvenliğini sağlamak"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki medreselerden hangisi Anadolu Selçuklu Devleti dönemine ait değildir?",
+          "options": [
+            "Yağıbasan Medresesi (Tokat)",
+            "Karatay Medresesi (Konya)",
+            "İnce Minareli Medrese (Konya)",
+            "Gök Medrese (Sivas)",
+            "Cacabey Medresesi (Kırşehir)"
+          ],
+          "correctOption": "C",
+          "solution": "Yağıbasan, Danişmentliler dönemine aittir. Diğerleri ASD eseridir."
+        },
+        {
+          "text": "Türk-İslam tarihinde \"Pozitif bilimlerin\" medreselerde okutulmasını sağlayan ve bilimi \"Akli\" ve \"Nakli\" ilimler olarak sınıflandıran sistemin temellerini kim atmıştır?",
+          "options": [
+            "Farabi (Medrese öncesi fikir)",
+            "Nizamülmülk (Nizamiye Medreseleri ile)",
+            "Gazali",
+            "Mevlana",
+            "Hoca Ahmet Yesevi"
+          ],
+          "correctOption": "A",
+          "solution": "Nizamiye Medreseleri ile bu sistem kurumsallaşmıştır."
+        },
+        {
+          "text": "Aşağıdaki devletlerden hangisi Mısır'da kurulmamıştır?",
+          "options": [
+            "Tolunoğulları",
+            "İhşidiler",
+            "Eyyubiler",
+            "Memlükler",
+            "Gazneliler"
+          ],
+          "correctOption": "E",
+          "solution": "Gazneliler Afganistan, Hindistan, İran bölgesinde kurulmuştur."
+        },
+        {
+          "text": "Anadolu Selçuklu Devleti’nde donanma komutanına ne ad verilirdi?",
+          "options": [
+            "Reisü'l Küttab",
+            "Levent",
+            "Subaşı",
+            "Melikü's Sevahil",
+            "Serasker"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Kösedağ Savaşı’ndan sonra Anadolu’da kurulan II. Beylikler Dönemi’nin, Anadolu Türk tarihine en büyük katkısı ne olmuştur?",
+          "options": [
+            "Haçlı seferlerini durdurmaları",
+            "Moğolları Anadolu'dan atmaları",
+            "Bizans ile dostluk kurmaları",
+            "Ticaret yollarını değiştirmeleri",
+            "Anadolu’nun Türkleşmesi ve Batı Anadolu’da Türk nüfusunun artması"
+          ],
+          "correctOption": "E",
+          "solution": "Uçlara yerleşerek Batı Anadolu'yu tamamen Türkleştirmişler, bugünkü Ege'nin Türk yurdu olmasını sağlamışlardır."
+        }
+      ]
+    }
+
+  ]
+}

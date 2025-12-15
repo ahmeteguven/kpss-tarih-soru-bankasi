@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 28",
+  "examCode": "deneme_28",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 28)\n\n**İslamiyet Öncesi ve Türk-İslam:** İslamiyet öncesi Türklerde hapis cezalarının kısa süreli olması, göçebe yaşam tarzının bir sonucudur. Yerleşik hayata kesin olarak geçen ilk Türk devleti Uygurlardır. Türk-İslam devletlerinde resmî dilin Türkçe olmasıyla milliyetçi yönüyle öne çıkan Karahanlılar, aynı zamanda ilk burslu öğrencilik sistemini uygulamıştır. Anadolu Selçuklu Devleti'nin yıkılışında Baba İshak (Babailer) İsyanı'nın bastırılamaması büyük rol oynamıştır.\n\n**Osmanlı Yükseliş ve Gerileme:** Osmanlı Devleti'nde Devşirme sisteminin temeli I. Murat döneminde atılan Pençik sistemidir. Kapıkulu askerleri Kapıkulu Ocaklarına Acemi Oğlanlar Ocağı'ndan 'Kapıya Çıkma' (Çıkma) töreniyle geçerler. Lale Devri'nde (1718-1730) Batı'nın üstünlüğü kabul edilmiş, ancak Patrona Halil İsyanı ile bu dönem sona ermiştir. II. Abdülhamit'in İstibdat dönemi, anayasal yönetime (Meşrutiyet'e) geçişi ertelemiştir.\n\n**Milli Mücadele ve Cumhuriyet:** Mustafa Kemal'in Samsun'a çıkışı (19 Mayıs 1919), Milli Mücadele'nin başlangıcı kabul edilir. Amasya Genelgesi, 'Milletin azim ve kararı' ile milli egemenliği vurgulayan ilk belgedir. Batı Cephesi'ndeki tek yenilgi Kütahya-Eskişehir Savaşları'dır. Lozan Barış Antlaşması'nın en önemli kazanımı kapitülasyonların tamamen kaldırılmasıdır. Cumhuriyetin ilk muhalefet partisi Terakkiperver Cumhuriyet Fırkası, Şeyh Said İsyanı ile kapatılmıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "İslamiyet öncesi Türk devletlerinde yerleşik yaşam tarzına geçildiğinin kesin kanıtı sayılan uygulamalar arasında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Hayvan Üslubu'nda sanat eserleri yapmak",
+        "Balbal adı verilen mezar taşları dikmek",
+        "Saray ve tapınak mimarisi geliştirmek",
+        "Onlu Sistemi orduya uygulamak",
+        "Taşınabilir eşyalar kullanmak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İlk Türk devletlerinde hükümdarın, devleti yönetme yetkisini Gök Tanrı'dan aldığı inancına ne ad verilir?",
+      "options": [
+        "Töre",
+        "Ülüş",
+        "Kut",
+        "Kün",
+        "Yarlıg"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Anadolu Selçuklu Devleti döneminde inşa edilen, akıl hastalarının müzikle ve su sesiyle tedavi edildiği kurumlar aşağıdakilerden hangisidir?",
+      "options": [
+        "Külliye",
+        "Ribat",
+        "Bimarhane (Darüşşifa)",
+        "Kümbet",
+        "Tekke"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Türk tarihinde 'Sultan' unvanını kullanan ilk hükümdar olarak bilinen, Hindistan'a seferler düzenleyerek İslam'ın yayılmasını sağlayan lider kimdir?",
+      "options": [
+        "Tuğrul Bey",
+        "Sultan Alparslan",
+        "Satuk Buğra Han",
+        "Gazneli Mahmut",
+        "Kutalmışoğlu Süleyman Şah"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde Kapıkulu Ocaklarına asker yetiştirmek amacıyla Hristiyan çocuklarının toplanıp eğitilmesi sistemine ne ad verilir?",
+      "options": [
+        "Pençik",
+        "Müsadere",
+        "İltizam",
+        "Devşirme",
+        "Gulam"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı tarihinde ilk kez Yeniçerilerin isyan ederek IV. Mehmet döneminde devlet adamlarını Çınar Ağacına astıkları olayın adı nedir?",
+      "options": [
+        "Vaka-i Hayriye",
+        "Edirne Vakası",
+        "Patrona Halil İsyanı",
+        "Vaka-i Vakvakiye (Çınar Vakası)",
+        "Kabakçı Mustafa İsyanı"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde Divan-ı Hümayun'da, padişahın tuğrasını çeken, fethedilen toprakların kaydını tutan ve dirlik (tımar) dağıtımından sorumlu olan görevli kimdir?",
+      "options": [
+        "Defterdar",
+        "Kazasker",
+        "Nişancı",
+        "Reisülküttab",
+        "Sadrazam"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde tarımsal üretimin devamlılığını sağlamak amacıyla, toprağını üst üste üç yıl ekmeyen köylüden alınan ceza vergisi hangisidir?",
+      "options": [
+        "Aşar (Öşür)",
+        "Haraç",
+        "Cizye",
+        "Avarız",
+        "Çiftbozan"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "II. Mahmut döneminde Avrupa'dan gelen elçilerin yazdığı raporları tercüme etmek amacıyla kurulan ve Tanzimat döneminde diplomat yetiştiren önemli bir kurum haline gelen merkez hangisidir?",
+      "options": [
+        "Mekteb-i Maarif-i Adliye",
+        "Tercüme Odası",
+        "Encümen-i Daniş",
+        "Darülfünun",
+        "Darülmaarif"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde Kanun-i Esasi'nin (1876) hazırlanmasında ve I. Meşrutiyet'in ilan edilmesinde etkili olan, Meşrutiyet yanlısı aydın grubu hangisidir?",
+      "options": [
+        "İttihat ve Terakki",
+        "Jön Türkler (Genç Osmanlılar)",
+        "Halaskar Zabitan",
+        "Ahrar Fırkası",
+        "Hürriyet ve İtilaf"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde Padişahın yetkilerini sınırlandıran ilk hukuki belge ve halkın yönetime katıldığı ilk anayasal belge sırasıyla hangi şıkta doğru verilmiştir?",
+      "options": [
+        "Tanzimat Fermanı - Islahat Fermanı",
+        "Sened-i İttifak - Kanun-i Esasi",
+        "Kanun-i Esasi - Teşkilat-ı Esasiye",
+        "Sened-i İttifak - Tanzimat Fermanı",
+        "Islahat Fermanı - Kanun-i Esasi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı'nın genel nedenlerinden olan, Fransız İhtilali'nin yaydığı ve Osmanlı İmparatorluğu'nun dağılmasını hızlandıran fikir akımı hangisidir?",
+      "options": [
+        "Turancılık",
+        "Panslavizm",
+        "Sömürgecilik",
+        "Milliyetçilik",
+        "Osmanlıcılık"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması'na göre 'İtilaf Devletleri, güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal edebilecektir' maddesinin numarası kaçtır?",
+      "options": [
+        "3. Madde",
+        "7. Madde",
+        "10. Madde",
+        "12. Madde",
+        "24. Madde"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Kurtuluş Savaşı'nın amaç ve yöntemini belirleyen, 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır' maddesiyle üstü kapalı olarak milli egemenliği vurgulayan belge hangisidir?",
+      "options": [
+        "Havza Genelgesi",
+        "Amasya Genelgesi",
+        "Erzurum Kongresi",
+        "Sivas Kongresi",
+        "Misak-ı Milli"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Manda ve himaye fikrinin ilk kez gündeme geldiği ve reddedildiği, milli sınırların ilk kez belirlendiği kongre hangisidir?",
+      "options": [
+        "Amasya Genelgesi",
+        "Sivas Kongresi",
+        "Balıkesir Kongresi",
+        "Erzurum Kongresi",
+        "Nazilli Kongresi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı'nda, Yunanlıların ilerlemesini durdurmak için Mustafa Kemal'in orduyu Sakarya Nehri'nin doğusuna çektiği savaş hangisidir?",
+      "options": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Kütahya-Eskişehir Savaşları",
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Kurtuluş Savaşı'nın askeri safhasını sona erdiren ve Osmanlı Devleti'ni hukuken sona erdiren antlaşma hangisidir?",
+      "options": [
+        "Mondros Ateşkesi",
+        "Gümrü Antlaşması",
+        "Mudanya Ateşkes Antlaşması",
+        "Lozan Barış Antlaşması",
+        "Ankara Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nda 'Azınlıklar' sorununun Türkiye lehine çözülmesinin (Azınlıkların Türk vatandaşı sayılması) temel amacı nedir?",
+      "options": [
+        "Türk nüfusunu artırmak",
+        "Ekonomik entegrasyonu sağlamak",
+        "Yabancı devletlerin iç işlerimize karışmasını önlemek",
+        "Eğitimde birliği sağlamak",
+        "Ermeni sorununu çözmek"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Tehvid-i Tedrisat Kanunu (1924) ile eğitim ve öğretimde birliğin sağlanması, aşağıdaki Atatürk ilkelerinden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Milliyetçilik ve Halkçılık",
+        "Devletçilik ve İnkılapçılık",
+        "Laiklik ve Halkçılık",
+        "Cumhuriyetçilik ve Laiklik",
+        "Milliyetçilik ve Cumhuriyetçilik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Atatürk'e 'Başöğretmen' unvanı hangi olayın ardından verilmiştir?",
+      "options": [
+        "Tevhid-i Tedrisat Kanunu'nun kabulü",
+        "Harf İnkılabı'nın kabulü ve Millet Mekteplerinin açılması",
+        "Türk Tarih Kurumu'nun kurulması",
+        "Maarif Kongresi'nin toplanması",
+        "Üniversite Reformu'nun yapılması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Türkiye Cumhuriyeti'nde kadınlara siyasi hakların (seçme ve seçilme) verildiği anayasal düzenlemeler, aşağıdaki ilkelerden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Yalnız Halkçılık",
+        "Yalnız Cumhuriyetçilik",
+        "Laiklik ve Milliyetçilik",
+        "Halkçılık ve Cumhuriyetçilik",
+        "Devletçilik ve İnkılapçılık"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Montrö Boğazlar Sözleşmesi (1936) ile Türkiye'nin Boğazlar üzerindeki tam egemenliğini sağlayan temel kazanım nedir?",
+      "options": [
+        "Boğazların tamamen ticarete kapatılması",
+        "Boğazlar Komisyonu'nun kaldırılarak yetkinin Türkiye'ye devredilmesi",
+        "Sadece Karadeniz'e kıyısı olan devletlere geçiş hakkı verilmesi",
+        "Rusya'nın Boğazları koruma garantisi vermesi",
+        "Lozan'ın süresinin uzatılması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye ile Fransa arasında yaşanan ve Lahey Adalet Divanı'na taşınan (1926) 'Bozkurt-Lotus' davası, aşağıdaki sorunlardan hangisiyle ilgilidir?",
+      "options": [
+        "Dış Borçlar",
+        "Yabancı Okullar",
+        "Deniz Yetki Alanı ve Kaza Yargısı",
+        "Hatay Sorunu",
+        "Nüfus Mübadelesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Sadabat Paktı'na (1937) katılan ülkeler arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Türkiye",
+        "İran",
+        "Irak",
+        "Suriye",
+        "Afganistan"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "ABD'nin Avrupa ülkelerine ekonomik yardım yaparak komünizmin yayılmasını engellemeyi amaçladığı büyük yardım programı (1948) hangisidir?",
+      "options": [
+        "Truman Doktrini",
+        "Marshall Planı",
+        "Molotov Planı",
+        "Eisenhower Doktrini",
+        "NATO"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "II. Dünya Savaşı sırasında Almanya'nın SSCB'ye karşı başlattığı, tarihin en geniş kara harekatı olarak bilinen operasyonun adı nedir?",
+      "options": [
+        "Deniz Aslanı Harekatı",
+        "Kartal Hücumu",
+        "Barbarossa Harekatı",
+        "Overlord Harekatı (Normandiya)",
+        "Yıldırım Savaşı (Blitzkrieg)"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Türkiye, NATO'ya üye olabilmek amacıyla Kore Savaşı'na hangi askeri gücü göndermiştir?",
+      "options": [
+        "Milli Savunma Gücü",
+        "Türk Barış Tugayı",
+        "Türk İşbirliği Birliği",
+        "Mavi Bereliler",
+        "BM Barış Gücü"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    }
+  ]
+}

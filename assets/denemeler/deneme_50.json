@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 50",
+  "examCode": "deneme_50",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 50)\n\n**İlk Çağdan Günümüze:** İslamiyet öncesi Türklerde 'Oguş' aile demektir. Göktürkler 'Tötö Kanalı'nı açarak tarımı geliştirmiştir. Karahanlılar döneminde 'Atabetü'l Hakayık' Edip Ahmet Yükneki tarafından yazılmıştır. Türk-İslam devletlerinde saray teşrifatçısı 'Hacip'tir.\n\n**Osmanlı ve Islahatlar:** Osman Bey döneminin ilk kadısı Dursun Fakih'tir. Piri Reis 'Kitab-ı Bahriye' eserini yazmıştır. Fatih, 'Kardeş Katli'ni yasallaştırmıştır. Belgrad Antlaşması (1739), 18. yüzyılın son kazançlı antlaşmasıdır. Millet Sistemi ırka değil, dine dayanır. II. Mahmut muhtarlık teşkilatını kurmuştur. 93 Harbi nedeniyle Meclis-i Mebusan kapatılmıştır.\n\n**Milli Mücadele ve Cumhuriyet:** İlk uçak Trablusgarp Savaşı'nda kullanılmıştır. Balfour Deklarasyonu İsrail devletinin temelidir. 'Kuvayi Milliye' tabirini ilk kez Milli Kongre Cemiyeti kullanmıştır. Ali Galip, Sivas Kongresi'ni engellemeye çalışmıştır. Karaağaç savaş tazminatı olarak alınmıştır. Kars Antlaşması ile doğu sınırı kesinleşmiştir. İstiklal Mahkemeleri son olarak İzmir Suikastı davasında görev yapmıştır. Türk Ceza Kanunu İtalya'dan alınmıştır.\n\n**Çağdaş Dünya:** Atlantik Bildirisi BM'nin kuruluş ilkelerini belirler. Küba Füze Krizi'nde ABD Türkiye'deki Jüpiter füzelerini sökmüştür. KKTC'nin kurucusu Rauf Denktaş'tır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "İslamiyet öncesi Türk toplum yapısında \"Oguş\" kavramı neyi ifade eder?",
+      "options": [
+        "Aile",
+        "Sülale (Urug)",
+        "Boy (Ok)",
+        "Millet (Budun)",
+        "Devlet (İl)"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Göktürkler döneminde açılan ve tarımsal sulamada kullanılan ünlü su kanalı hangisidir?",
+      "options": [
+        "Tötö Kanalı",
+        "Karikum Kanalı",
+        "Fergana Kanalı",
+        "İdil Kanalı",
+        "Don Kanalı"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Karahanlılar döneminde Edip Ahmet Yükneki tarafından yazılan, \"Gerçeklerin Eşiği\" anlamına gelen ve ahlaki öğütler içeren eser hangisidir?",
+      "options": [
+        "Kutadgu Bilig",
+        "Divan-ı Hikmet",
+        "Atabetü'l Hakayık",
+        "Divan-ı Lügati't Türk",
+        "Şehname"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Türk-İslam devletlerinde, hükümdarın saraydaki günlük işlerini düzenleyen, törenleri (teşrifat) yöneten ve hükümdar ile halk/divan arasındaki görüşmeleri ayarlayan görevli kimdir?",
+      "options": [
+        "Hacip (Ulu Hacip)",
+        "Emir-i Dad",
+        "Atabey",
+        "Subaşı",
+        "Muhtesip"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nin kuruluş döneminde, Osman Bey adına ilk hutbeyi okuyan ve Osmanlı'nın ilk kadısı olarak kabul edilen kişi kimdir?",
+      "options": [
+        "Şeyh Edebali",
+        "Dursun Fakih",
+        "Molla Fenari",
+        "Çandarlı Halil Paşa",
+        "Davud-i Kayseri"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Kanuni Sultan Süleyman döneminde yaşayan, çizdiği dünya haritası ve yazdığı \"Kitab-ı Bahriye\" adlı eseriyle tanınan ünlü Türk denizcisi kimdir?",
+      "options": [
+        "Barbaros Hayrettin Paşa",
+        "Turgut Reis",
+        "Piri Reis",
+        "Seydi Ali Reis",
+        "Murat Reis"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde Fatih Sultan Mehmet tarafından hazırlanan \"Kanunname-i Ali Osman\" ile yasallaşan ve devletin bekası için (Nizam-ı Alem) gerekli görülen uygulama nedir?",
+      "options": [
+        "Sancağa Çıkma",
+        "Devşirme Sistemi",
+        "Kardeş Katli",
+        "Müsadere",
+        "Cülus Bahşişi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nin 1739 yılında Avusturya ve Rusya ile imzaladığı, Karadeniz'in Türk gölü olduğunun son kez kabul edildiği ve Osmanlı'nın 18. yüzyılda imzaladığı son kazançlı antlaşma hangisidir?",
+      "options": [
+        "Prut Antlaşması",
+        "Pasarofça Antlaşması",
+        "Belgrad Antlaşması",
+        "Ziştovi Antlaşması",
+        "Yaş Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı toplum yapısında, halkın din veya ırk esasına göre değil, \"Müslüman\" ve \"Gayrimüslim\" olarak inanç sistemine göre teşkilatlandırılmasına ne ad verilir?",
+      "options": [
+        "İltizam Sistemi",
+        "Millet Sistemi",
+        "Vakıf Sistemi",
+        "Lonca Sistemi",
+        "Pençik Sistemi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "II. Mahmut döneminde, köylerde ve mahallelerde güvenliği sağlamak ve devletin temsilcisi olmak üzere oluşturulan ilk yerel yönetim birimi (yöneticisi) hangisidir?",
+      "options": [
+        "Ayan",
+        "Muhtarlık",
+        "Belediye",
+        "Eyalet Meclisi",
+        "Şûra-yı Devlet"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "93 Harbi (1877-78 Osmanlı-Rus Savaşı) sırasındaki yenilgiler bahane edilerek II. Abdülhamit tarafından süresiz olarak tatil edilen (kapatılan) kurum hangisidir?",
+      "options": [
+        "Divan-ı Hümayun",
+        "Yeniçeri Ocağı",
+        "Meclis-i Mebusan",
+        "Enderun Mektebi",
+        "Duyun-u Umumiye"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Tarihte \"uçak\" teknolojisinin savaş aracı olarak ilk kez kullanıldığı ve Osmanlı Devleti'nin İtalya'ya karşı savaştığı savaş hangisidir?",
+      "options": [
+        "I. Balkan Savaşı",
+        "Trablusgarp Savaşı",
+        "Dömeke Meydan Savaşı",
+        "I. Dünya Savaşı",
+        "Yemen İsyanları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "I. Dünya Savaşı sırasında İngiltere Dışişleri Bakanı tarafından yayımlanan ve Filistin topraklarında bir Yahudi devletinin kurulmasını öngören 1917 tarihli belge hangisidir?",
+      "options": [
+        "Sykes-Picot Antlaşması",
+        "Balfour Deklarasyonu",
+        "Mac-Mahon Antlaşması",
+        "Saint Jean de Maurienne",
+        "Paris Barış Konferansı Kararları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "İzmir'in işgali sonrasında kurulan ve işgallerin haksızlığını dünyaya duyurmak amacıyla \"Kuvayi Milliye\" tabirini raporunda ilk kez kullanan cemiyet (veya kişi) hangisidir?",
+      "options": [
+        "Milli Kongre Cemiyeti (Dr. Esat Işık)",
+        "Redd-i İlhak Cemiyeti",
+        "İzmir Müdafaa-i Hukuk Cemiyeti",
+        "Trakya Paşaeli Cemiyeti",
+        "Kilikyalılar Cemiyeti"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Sivas Kongresi'nin toplanmasını engellemek amacıyla, İstanbul Hükümeti (Damat Ferit Paşa) tarafından görevlendirilen Elazığ Valisi kimdir?",
+      "options": [
+        "Ali Galip",
+        "Anzavur Ahmet",
+        "Çerkez Ethem",
+        "Ali Batı",
+        "Cemil Cahit Toydemir"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Lozan Barış Antlaşması'na göre, Yunanistan'ın savaş tazminatı olarak Türkiye'ye vermeyi kabul ettiği yer neresidir?",
+      "options": [
+        "Dedeağaç",
+        "Selanik",
+        "Karaağaç (ve Bosnaköy)",
+        "Batı Trakya",
+        "Gökçeada"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Türkiye'nin doğu sınırının kesin olarak çizildiği (son şeklini aldığı) antlaşma hangisidir?",
+      "options": [
+        "Gümrü Antlaşması",
+        "Moskova Antlaşması",
+        "Kars Antlaşması",
+        "Ankara Antlaşması",
+        "Lozan Antlaşması"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Büyük Taarruz'dan sonra imzalanan Mudanya Ateşkes Antlaşması'na, savaşta taraf olmasına rağmen doğrudan katılmayıp temsil yetkisini İngiltere'ye veren devlet hangisidir?",
+      "options": [
+        "Fransa",
+        "İtalya",
+        "Yunanistan",
+        "Rusya",
+        "ABD"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Türkiye Cumhuriyeti'nde hukuk sistemini çağdaşlaştırmak amacıyla 1926 yılında kabul edilen Türk Ceza Kanunu, hangi ülkeden uyarlanarak alınmıştır?",
+      "options": [
+        "İsviçre",
+        "Almanya",
+        "İtalya",
+        "Fransa",
+        "İsveç"
+      ],
+      "correctOption": "C",
+      "solution": "Medeni Kanun İsviçre'den, Ceza Kanunu İtalya'dan alınmıştır."
+    },
+    {
+      "id": 20,
+      "text": "1933 yılında İsviçreli Profesör Albert Malche'nin hazırladığı rapor doğrultusunda gerçekleştirilen ve Darülfünun'un kapatılıp İstanbul Üniversitesi'ne dönüştürülmesini sağlayan inkılap hangisidir?",
+      "options": [
+        "Tevhid-i Tedrisat",
+        "Harf İnkılabı",
+        "Üniversite Reformu",
+        "Millet Mektepleri",
+        "Türk Tarih Tezi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "İzmir Suikastı girişimi sonrasında tutuklananların yargılandığı ve İstiklal Mahkemeleri'nin görev yaptığı son olay hangisidir?",
+      "options": [
+        "Şeyh Said İsyanı",
+        "Çerkez Ethem İsyanı",
+        "İzmir Suikastı Davası",
+        "Menemen Olayı",
+        "Dersim Olayları"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Türkiye'nin 1932 yılında Milletler Cemiyeti'ne üye olması ve 1934 yılında Balkan Antantı'nı imzalaması, dış politikada öncelikle hangi amaca hizmet etmiştir?",
+      "options": [
+        "Sınırları genişletmek",
+        "Barışı korumak ve sınır güvenliğini sağlamak",
+        "İslam dünyasına liderlik etmek",
+        "Ekonomik yardım almak",
+        "Hatay'ı anavatana katmak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Atatürk döneminde, Türk lirasının değerini korumak ve merkez bankasının kurulmasına zemin hazırlamak amacıyla 1930 yılında çıkarılan kanun hangisidir?",
+      "options": [
+        "Teşvik-i Sanayi Kanunu",
+        "Türk Parasını Koruma Kanunu",
+        "Varlık Vergisi Kanunu",
+        "Kabotaj Kanunu",
+        "Milli Korunma Kanunu"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "1926 yılında İngiltere ile imzalanan Ankara Antlaşması ile Musul ve Kerkük Irak'a bırakılmış, ancak Türkiye bölgedeki petrolden 25 yıl süreyle %10 pay alma hakkı elde etmiştir. Türkiye'nin bu haktan nakit para karşılığı vazgeçmesinin temel nedeni nedir?",
+      "options": [
+        "İngiltere ile ilişkileri bozmamak",
+        "Dünya ekonomik krizinin etkileri ve nakit ihtiyacı",
+        "Petrolün değersiz görülmesi",
+        "Bölge halkının isteği",
+        "Milletler Cemiyeti'nin baskısı"
+      ],
+      "correctOption": "B",
+      "solution": "1929 Dünya Ekonomik Buhranı'nın yaklaşması ve devletin nakit ihtiyacı etkili olmuştur."
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sırasında Müttefik Devletler tarafından yayımlanan ve savaş sonrası kurulacak düzenin (Birleşmiş Milletler'in) temel ilkelerini belirleyen, Wilson İlkeleri'ne benzeyen belge hangisidir?",
+      "options": [
+        "Yalta Kararları",
+        "Atlantik Bildirisi",
+        "Potsdam Deklarasyonu",
+        "Kahire Bildirisi",
+        "Casablanca Kararları"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1962 yılında ABD ile SSCB'yi nükleer savaşın eşiğine getiren, ABD'nin Türkiye'deki Jüpiter füzelerini, SSCB'nin ise Küba'daki füzelerini sökmesiyle sonuçlanan kriz hangisidir?",
+      "options": [
+        "Berlin Buhranı",
+        "Kore Savaşı",
+        "Küba Füze Krizi (Ekim Füzeleri)",
+        "U-2 Krizi",
+        "Vietnam Savaşı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) kurucusu ve ilk Cumhurbaşkanı olan devlet adamı kimdir?",
+      "options": [
+        "Dr. Fazıl Küçük",
+        "Rauf Denktaş",
+        "Derviş Eroğlu",
+        "Mehmet Ali Talat",
+        "Mustafa Akıncı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    }
+  ]
+}

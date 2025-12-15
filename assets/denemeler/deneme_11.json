@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 11",
+  "examCode": "deneme_11",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 11)\n\n**İlk Çağdan Günümüze:** Kavimler Göçü'nün sonuçları arasında Roma İmparatorluğu'nun ikiye ayrılması, feodalite rejiminin ortaya çıkması ve skolastik düşüncenin yayılması yer alır. Uygurlar, yerleşik hayata geçerek ilk kez matbaa, kütüphane ve mimari eserler vermişlerdir. İlk Türk-İslam devletlerinden Karahanlılar'da Burslu Öğrencilik Sistemi uygulanmış ve Ribat adı verilen kervansaraylar inşa edilmiştir. Büyük Selçuklu Devleti'nin yıkılışını hızlandıran olay 1141 Katvan Savaşı'dır.\n\n**Osmanlı ve Islahatlar:** I. Murat döneminde Pençik Sistemi uygulanmıştır. Fatih Sultan Mehmet, Kırım'ı alarak Karadeniz'i Türk Gölü haline getirmiştir. Kanuni döneminde Piri Reis Hint Deniz Seferlerine katılmış, ancak seferler başarısız olmuştur. II. Mahmut döneminde (1838) imzalanan Balta Limanı Antlaşması, Osmanlı ekonomisini dışa bağımlı hale getirmiştir. İlk kez Kanun-i Esasi (1876) ile halk yönetime katılmıştır.\n\n**Milli Mücadele ve Cumhuriyet:** I. Dünya Savaşı'nda Osmanlı'nın taarruz cepheleri Kafkas ve Kanal'dır. Erzurum Kongresi'nde Milli Sınırlar içinde vatanın bir bütün olduğu kararı alınmıştır. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiş, Moskova ve Londra Konferansları toplanmıştır. 1924 Anayasası'nda, Cumhurbaşkanının aynı zamanda parti genel başkanı olmasına izin veren 'Partili Cumhurbaşkanlığı' sistemi vardı.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Aşağıdakilerden hangisi Kavimler Göçü’nün sonuçları arasında yer alır?\nI. Avrupa’da feodalite rejiminin ortaya çıkması\nII. Roma İmparatorluğu’nun ikiye ayrılması\nIII. Hristiyanlığın yayılması ve skolastik düşüncenin güçlenmesi",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Uygurlar döneminde inşa edilen şehirlere ne ad verilirdi?",
+      "options": [
+        "Yurt",
+        "Kurgan",
+        "Otağ",
+        "Ribat",
+        "Balıg"
+      ],
+      "correctOption": "E",
+      "solution": "Örn: Beşbalıg, Karabalgasun"
+    },
+    {
+      "id": 3,
+      "text": "Karahanlılar devletinde, akıl hastalarının tedavi edildiği hastanelere ne ad verilirdi?",
+      "options": [
+        "Darüşşifa",
+        "İmaret",
+        "Bimarhane",
+        "Darülaceze",
+        "Külliye"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Aşağıdakilerden hangisi Malazgirt Savaşı’ndan sonra Anadolu’da kurulan ilk Türk beyliklerinin ortak özelliklerinden biri değildir?",
+      "options": [
+        "Anadolu’yu Türkleştirip İslamlaştırmaları",
+        "Haçlılara karşı mücadele etmeleri",
+        "Kuruldukları bölgelere Türkçe isimler vermeleri",
+        "Anadolu Selçuklu Devleti’nin egemenliğine girmeleri",
+        "Denizcilikle uğraşmaları"
+      ],
+      "correctOption": "E",
+      "solution": "Denizcilikle sadece Çaka Beyliği uğraşmıştır, bu ortak bir özellik değildir."
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nde \"Müsadere\" (Devletin mala el koyması) usulünün kaldırılmasıyla aşağıdakilerden hangisi güvence altına alınmıştır?",
+      "options": [
+        "Can güvenliği",
+        "Askerlik hakkı",
+        "Eğitim hakkı",
+        "Seçme ve seçilme hakkı",
+        "Özel mülkiyet hakkı"
+      ],
+      "correctOption": "E",
+      "solution": "Mülkiyet hakkının güvenceye alınması, sermaye birikiminin önünü açmıştır."
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan ilk belge (Sened-i İttifak) ile halkın yönetime katıldığı ilk belge (Kanun-i Esasi) sırasıyla hangi padişahlar döneminde gerçekleşmiştir?",
+      "options": [
+        "III. Selim - II. Abdülhamit",
+        "II. Mahmut - Abdülmecit",
+        "II. Mahmut - II. Abdülhamit",
+        "Abdülmecit - V. Mehmet Reşat",
+        "Abdülaziz - II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": "Sened-i İttifak 1808 (II. Mahmut), Kanun-i Esasi 1876 (II. Abdülhamit)."
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti’nin Batıda en geniş sınırlara (Podolya arazisi) ulaşmasını sağlayan antlaşma hangisidir?",
+      "options": [
+        "Vasvar",
+        "Zitvatorok",
+        "Bucaş",
+        "Karlofça",
+        "Hotin"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde \"İlk Türk Matbaası\"nın kurulması hangi dönemde ve kimin öncülüğünde gerçekleşmiştir?",
+      "options": [
+        "Tanzimat - Şinasi",
+        "Lale Devri - İbrahim Müteferrika",
+        "Gerileme - Humbaracı Ahmet Paşa",
+        "Yükselme - Fatih Sultan Mehmet",
+        "Meşrutiyet - Namık Kemal"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "1841 Londra Boğazlar Sözleşmesi ile Boğazların, Osmanlı Devleti’nin egemenliğinden çıkarak uluslararası bir statü kazandığı ve Rusya’nın Hünkar İskelesi ile elde ettiği avantajları kaybettiği belge hangisidir?",
+      "options": [
+        "Paris Antlaşması",
+        "1841 Londra Boğazlar Sözleşmesi",
+        "Berlin Antlaşması",
+        "Montrö Boğazlar Sözleşmesi",
+        "Lozan Antlaşması"
+      ],
+      "correctOption": "B",
+      "solution": "Boğazlar savaş zamanı tüm savaş gemilerine kapatılmıştır."
+    },
+    {
+      "id": 10,
+      "text": "II. Abdülhamit’in İstibdat döneminde devleti dağılmaktan kurtarmak için uyguladığı resmi devlet politikası (Fikir Akımı) hangisidir?",
+      "options": [
+        "Osmanlıcılık",
+        "Batıcılık",
+        "İslamcılık (Ümmetçilik)",
+        "Türkçülük",
+        "Turancılık"
+      ],
+      "correctOption": "C",
+      "solution": "Halifelik gücünü kullanarak Müslümanları bir arada tutma çabası."
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti’nde \"Millet Sistemi\"nin temel dayanağı nedir?",
+      "options": [
+        "Dil birliği",
+        "Irk birliği",
+        "Din ve mezhep birliği",
+        "Toprak bütünlüğü",
+        "Ekonomik işbirliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "Osmanlı Devleti’nin I. Dünya Savaşı’nda toprak kazanmak amacıyla açtığı taarruz cepheleri aşağıdakilerden hangisidir?",
+      "options": [
+        "Çanakkale - Irak",
+        "Hicaz - Yemen",
+        "Kafkas - Kanal",
+        "Suriye - Filistin",
+        "Galiçya - Romanya"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "İzmir’in işgali sırasında Yunan askerine ilk kurşunu sıkan ve şehit edilen Hukuk-u Beşer gazetesi yazarı kimdir?",
+      "options": [
+        "Hasan Tahsin (Osman Nevres)",
+        "Süleyman Fethi Bey",
+        "Yörük Ali Efe",
+        "Çerkez Ethem",
+        "Demirci Mehmet Efe"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Mustafa Kemal’in Amasya Genelgesi’ni \"tek başına\" değil de Rauf Orbay, Ali Fuat Cebesoy ve Refet Bele gibi komutanlara da imzalatarak yayımlamasının temel amacı nedir?",
+      "options": [
+        "İstanbul Hükümeti ile anlaşmak",
+        "Padişahın onayını almak",
+        "Milli Mücadele’yi kişisellikten çıkarıp halka mal etmek ve ordu desteğini göstermek",
+        "Sorumluluktan kaçmak",
+        "İtilaf Devletleri’ni korkutmak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "İstanbul’un işgalini Mustafa Kemal’e telgraf çekerek haber veren (kendisi telgraf başındayken İngilizler tarafından basılmıştır) kahraman telgrafçı kimdir?",
+      "options": [
+        "Manastırlı Hamdi Bey",
+        "Yahya Kaptan",
+        "Köprülü Hamdi Bey",
+        "Hasan Tahsin",
+        "Yüzbaşı Mümtaz"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "I. İnönü Savaşı sırasında düzenli orduyu arkadan vurarak Yunanlıların işini kolaylaştıran Kuvayi Milliye lideri kimdir?",
+      "options": [
+        "Çerkez Ethem",
+        "Yörük Ali Efe",
+        "Demirci Mehmet Efe",
+        "Topal Osman",
+        "İpsiz Recep"
+      ],
+      "correctOption": "A",
+      "solution": "Düzenli orduya katılmayı reddedip isyan etmiştir."
+    },
+    {
+      "id": 17,
+      "text": "Kurtuluş Savaşı’nda çok sayıda subayın şehit olması nedeniyle \"Subaylar Savaşı\" olarak da bilinen savaş hangisidir?",
+      "options": [
+        "I. İnönü",
+        "Kütahya-Eskişehir",
+        "Büyük Taarruz",
+        "Sakarya Meydan Muharebesi",
+        "Başkomutanlık Meydan Muharebesi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Antlaşması’nda Türkiye’nin savaş tazminatı olarak Yunanistan’dan aldığı yer neresidir?",
+      "options": [
+        "Batı Trakya",
+        "Selanik",
+        "Karaağaç",
+        "Girit",
+        "Midilli"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Şapka Kanunu’nun kabul edilmesi ve kılık kıyafette yapılan düzenlemeler, Atatürk’ün hangi ilkesiyle doğrudan ilgilidir?",
+      "options": [
+        "Devletçilik",
+        "İnkılapçılık",
+        "Halkçılık",
+        "Milliyetçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctOption": "B",
+      "solution": "Toplumsal alanda çağdaşlaşma ve modernleşme."
+    },
+    {
+      "id": 20,
+      "text": "Atatürk’ün \"Hayatta en hakiki mürşit ilimdir, fendir\" sözü, aşağıdaki ilkelerden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Halkçılık",
+        "Laiklik",
+        "Milliyetçilik",
+        "Devletçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctOption": "B",
+      "solution": "Akıl ve bilimi esas aldığı için Laiklik. Aynı zamanda İnkılapçılıkla da ilgilidir."
+    },
+    {
+      "id": 21,
+      "text": "1931 yılında kabul edilen Ölçüler Kanunu ile \"Okka, arşın, endaze\" gibi geleneksel ölçü birimlerinin yerine \"Kilo, metre\" gibi uluslararası birimlerin getirilmesinin temel amacı nedir?",
+      "options": [
+        "Gelenekleri yok etmek",
+        "Ticari ilişkilerde Batı ile uyum sağlamak ve ülke içindeki ölçü kargaşasını bitirmek",
+        "Vergileri artırmak",
+        "Tarımı geliştirmek",
+        "Nüfusu saymak"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Türkiye Cumhuriyeti tarihinde kurulan ilk siyasi parti hangisidir?",
+      "options": [
+        "Ahali Fırkası",
+        "Demokrat Parti",
+        "Serbest Cumhuriyet Fırkası",
+        "Terakkiperver Cumhuriyet Fırkası",
+        "Cumhuriyet Halk Fırkası"
+      ],
+      "correctOption": "E",
+      "solution": "9 Eylül 1923'te Halk Fırkası adıyla kurulmuş, 1924'te Cumhuriyet Halk Fırkası adını almıştır."
+    },
+    {
+      "id": 23,
+      "text": "Aşağıdakilerden hangisi Terakkiperver Cumhuriyet Fırkası'nın kurucuları arasında (KARAR kodlaması) yer almaz?",
+      "options": [
+        "Rauf Orbay",
+        "Kazım Karabekir",
+        "İsmet İnönü",
+        "Refet Bele",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctOption": "C",
+      "solution": "İsmet İnönü o sırada Başbakan ve CHP'lidir. Fevzi Çakmak ise askerlikten ayrılmadığı için siyasete girmemiştir."
+    },
+    {
+      "id": 24,
+      "text": "Şeyh Said İsyanı'nın çıkmasında etkili olan dış devlet ve bu devletin çözmek istediği sorun hangisidir?",
+      "options": [
+        "Yunanistan - Nüfus Mübadelesi",
+        "Sovyet Rusya - Boğazlar",
+        "İtalya - Antalya",
+        "İngiltere - Musul",
+        "Fransa - Hatay"
+      ],
+      "correctOption": "D",
+      "solution": "Türkiye'nin Musul'a askeri harekat yapmasını engellemek istemiştir."
+    },
+    {
+      "id": 25,
+      "text": "Sovyet Rusya'da Stalin döneminde uygulanan, köylülerin küçük topraklarının birleştirilerek devlet çiftliklerine dönüştürülmesi politikasına ne ad verilir?",
+      "options": [
+        "Perestroika",
+        "Kolkhoz (Kolektifleştirme)",
+        "Gulag",
+        "NEP",
+        "Glasnost"
+      ],
+      "correctOption": "B",
+      "solution": "Bu politika kıtlığa ve milyonlarca insanın ölümüne yol açmıştır."
+    },
+    {
+      "id": 26,
+      "text": "ABD Başkanı Harry Truman'ın, Sovyet tehdidi altındaki ülkelere (özellikle Türkiye ve Yunanistan'a) askeri ve ekonomik yardım yapılmasını öngören ve Soğuk Savaş'ın fiilen başlangıcı sayılan doktrini hangisidir?",
+      "options": [
+        "Eisenhower Doktrini",
+        "Monroe Doktrini",
+        "Truman Doktrini",
+        "Carter Doktrini",
+        "Nixon Doktrini"
+      ],
+      "correctOption": "C",
+      "solution": "(1947 - Komünizmin yayılmasını engellemek için.)"
+    },
+    {
+      "id": 27,
+      "text": "1948 yılında \"Apartheid\" (Irk Ayrımı) rejiminin resmen uygulamaya konulduğu ve Nelson Mandela'nın buna karşı mücadele ettiği ülke hangisidir?",
+      "options": [
+        "Kenya",
+        "ABD",
+        "Hindistan",
+        "Nijerya",
+        "Güney Afrika Cumhuriyeti"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    }
+  ]
+}

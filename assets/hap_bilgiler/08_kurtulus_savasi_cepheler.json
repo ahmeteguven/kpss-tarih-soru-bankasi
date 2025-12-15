@@ -1,0 +1,505 @@
+{
+  "categoryName": "KURTULUŞ SAVAŞI",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Kurtuluş Savaşı’nda ilk açılan cephe hangisidir?",
+      "answer": "Doğu Cephesi"
+    },
+    {
+      "id": 2,
+      "question": "Doğu Cephesi’nde kimlere karşı savaşılmıştır?",
+      "answer": "Ermenilere karşı"
+    },
+    {
+      "id": 3,
+      "question": "Doğu Cephesi komutanı kimdir?",
+      "answer": "Kazım Karabekir (15. Kolordu Komutanı)"
+    },
+    {
+      "id": 4,
+      "question": "TBMM’nin uluslararası alanda imzaladığı ilk antlaşma ve kazandığı ilk siyasi başarı hangisidir?",
+      "answer": "Gümrü Antlaşması (3 Aralık 1920)"
+    },
+    {
+      "id": 5,
+      "question": "Gümrü Antlaşması ile Ermenistan neyi kabul etmiştir?",
+      "answer": "Sevr’in geçersiz olduğunu ve Doğu Anadolu’daki toprak isteklerinden vazgeçtiğini"
+    },
+    {
+      "id": 6,
+      "question": "TBMM’yi ve Misak-ı Milli’yi tanıyan ilk devlet hangisidir?",
+      "answer": "Ermenistan"
+    },
+    {
+      "id": 7,
+      "question": "Türkiye adı ilk kez uluslararası bir belgede nerede geçmiştir?",
+      "answer": "Gümrü Antlaşması"
+    },
+    {
+      "id": 8,
+      "question": "Güney Cephesi’nde (Adana, Antep, Urfa, Maraş) kimlere karşı savaşılmıştır?",
+      "answer": "Fransızlar ve Ermeni İntikam Alayları"
+    },
+    {
+      "id": 9,
+      "question": "Güney Cephesi’nde düzenli ordu savaşmış mıdır?",
+      "answer": "Hayır, sadece Kuvayi Milliye (halk) savaşmıştır."
+    },
+    {
+      "id": 10,
+      "question": "Maraş savunmasının simge ismi ve ilk kurşunu sıkan kahraman kimdir?",
+      "answer": "Sütçü İmam"
+    },
+    {
+      "id": 11,
+      "question": "Antep savunmasının simge ismi kimdir?",
+      "answer": "Şahin Bey"
+    },
+    {
+      "id": 12,
+      "question": "Urfa savunmasının simge ismi kimdir?",
+      "answer": "Ali Saip Bey"
+    },
+    {
+      "id": 13,
+      "question": "TBMM tarafından \"Gazi\" unvanı verilen ilk şehir hangisidir?",
+      "answer": "Antep (1921)"
+    },
+    {
+      "id": 14,
+      "question": "Güney Cephesi’ni sona erdiren antlaşma hangisidir?",
+      "answer": "Ankara Antlaşması (1921 - Sakarya Zaferi sonrası)"
+    },
+    {
+      "id": 15,
+      "question": "Batı Cephesi’nde kimlere karşı savaşılmıştır?",
+      "answer": "Yunanlılar"
+    },
+    {
+      "id": 16,
+      "question": "Batı Cephesi’nde Kuvayi Milliye’nin Yunanlılara karşı yaptığı ve başarısız olduğu taarruz girişimi hangisidir?",
+      "answer": "Gediz Taarruzu"
+    },
+    {
+      "id": 17,
+      "question": "Gediz Taarruzu’nun başarısız olması neyin kurulmasını hızlandırmıştır?",
+      "answer": "Düzenli Ordunun"
+    },
+    {
+      "id": 18,
+      "question": "Düzenli Ordu’nun Batı Cephesi’ndeki ilk komutanı kimdir?",
+      "answer": "İsmet İnönü"
+    },
+    {
+      "id": 19,
+      "question": "Düzenli Ordu’nun Batı Cephesi’nde kazandığı ilk zafer hangisidir?",
+      "answer": "I. İnönü Savaşı"
+    },
+    {
+      "id": 20,
+      "question": "I. İnönü Savaşı’nın en önemli iç sonucu nedir?",
+      "answer": "Teşkilat-ı Esasiye’nin (1921 Anayasası) kabulü ve İstiklal Marşı’nın kabulü"
+    },
+    {
+      "id": 21,
+      "question": "Yeni Türk Devleti’nin ilk anayasası hangisidir?",
+      "answer": "1921 Anayasası (Teşkilat-ı Esasiye)"
+    },
+    {
+      "id": 22,
+      "question": "1921 Anayasası’nın en temel ilkesi nedir?",
+      "answer": "Egemenlik kayıtsız şartsız milletindir."
+    },
+    {
+      "id": 23,
+      "question": "İstiklal Marşı hangi savaşın sonucunda kabul edilmiştir?",
+      "answer": "I. İnönü Savaşı"
+    },
+    {
+      "id": 24,
+      "question": "İstiklal Marşı’nın yazarı ve bestecisi kimlerdir?",
+      "answer": "Yazarı: Mehmet Akif Ersoy, Bestecisi: Osman Zeki Üngör"
+    },
+    {
+      "id": 25,
+      "question": "İstiklal Marşı kime ithaf edilmiştir?",
+      "answer": "Kahraman Türk Ordusu’na"
+    },
+    {
+      "id": 26,
+      "question": "TBMM’yi tanıyan ilk İslam devleti hangisidir?",
+      "answer": "Afganistan (Afganistan Dostluk Antlaşması - 1921)"
+    },
+    {
+      "id": 27,
+      "question": "TBMM’yi tanıyan ilk büyük Avrupa devleti hangisidir?",
+      "answer": "Sovyet Rusya (Moskova Antlaşması - 1921)"
+    },
+    {
+      "id": 28,
+      "question": "Misak-ı Milli’den verilen ilk taviz neresidir?",
+      "answer": "Batum (Moskova Antlaşması ile Gürcistan’a bırakıldı)"
+    },
+    {
+      "id": 29,
+      "question": "İtilaf Devletleri’nin I. İnönü Savaşı’ndan sonra Sevr’i yumuşatıp kabul ettirmek için topladığı konferans hangisidir?",
+      "answer": "Londra Konferansı"
+    },
+    {
+      "id": 30,
+      "question": "Londra Konferansı’na TBMM adına kim katılmıştır?",
+      "answer": "Bekir Sami Bey"
+    },
+    {
+      "id": 31,
+      "question": "Londra Konferansı’nda İstanbul Hükümeti temsilcisi Tevfik Paşa’nın \"Söz milletin gerçek temsilcisi olan TBMM’nindir\" demesi neyi engellemiştir?",
+      "answer": "İtilaf Devletleri’nin ikilik çıkarma planını"
+    },
+    {
+      "id": 32,
+      "question": "TBMM’nin Londra Konferansı’na katılmasının temel amacı nedir?",
+      "answer": "Barışçı olduğunu göstermek ve Misak-ı Milli’yi dünyaya duyurmak"
+    },
+    {
+      "id": 33,
+      "question": "İsmet İnönü’nün \"Generallik\" rütbesine yükseldiği savaş hangisidir?",
+      "answer": "I. İnönü Savaşı"
+    },
+    {
+      "id": 34,
+      "question": "II. İnönü Savaşı’ndan sonra Mustafa Kemal’in İsmet Paşa’ya çektiği telgrafta ne demiştir?",
+      "answer": "\"Siz orada yalnız düşmanı değil, milletin makus (kötü) talihini de yendiniz.\""
+    },
+    {
+      "id": 35,
+      "question": "İtalyanların Anadolu’dan çekilmeye başladığı (ancak durdurduğu) savaş hangisidir?",
+      "answer": "II. İnönü Savaşı"
+    },
+    {
+      "id": 36,
+      "question": "Fransızların barış görüşmelerine başladığı (ancak durdurduğu) savaş hangisidir?",
+      "answer": "II. İnönü Savaşı"
+    },
+    {
+      "id": 37,
+      "question": "Düzenli Ordunun Batı Cephesi’nde aldığı tek yenilgi hangisidir?",
+      "answer": "Kütahya-Eskişehir Savaşları"
+    },
+    {
+      "id": 38,
+      "question": "Kütahya-Eskişehir Savaşları sonucunda kaybedilen yerler nerelerdir?",
+      "answer": "Afyon, Kütahya, Eskişehir"
+    },
+    {
+      "id": 39,
+      "question": "Kütahya-Eskişehir yenilgisi üzerine Mustafa Kemal orduyu nereye çekmiştir?",
+      "answer": "Sakarya Nehri’nin doğusuna"
+    },
+    {
+      "id": 40,
+      "question": "Savaşın en şiddetli zamanında Ankara’da toplanan eğitim kongresi hangisidir?",
+      "answer": "Maarif Kongresi"
+    },
+    {
+      "id": 41,
+      "question": "Kütahya-Eskişehir yenilgisi üzerine Meclis’in Kayseri’ye taşınması tartışmaları sırasında Mustafa Kemal’e verilen yetki nedir?",
+      "answer": "Başkomutanlık Yetkisi"
+    },
+    {
+      "id": 42,
+      "question": "Mustafa Kemal’in askerlik mesleğine geri döndüğü olay nedir?",
+      "answer": "Başkomutanlık Yasası’nın kabulü"
+    },
+    {
+      "id": 43,
+      "question": "Mustafa Kemal’in Başkomutan olarak ordunun ihtiyaçlarını karşılamak için çıkardığı emirler hangisidir?",
+      "answer": "Tekalif-i Milliye Emirleri (Milli Yükümlülükler)"
+    },
+    {
+      "id": 44,
+      "question": "Tekalif-i Milliye Emirleri’nin uygulanması için kurulan mahkemeler hangisidir?",
+      "answer": "İstiklal Mahkemeleri"
+    },
+    {
+      "id": 45,
+      "question": "\"Subaylar Savaşı\" olarak da bilinen, 22 gün 22 gece süren savaş hangisidir?",
+      "answer": "Sakarya Meydan Muharebesi"
+    },
+    {
+      "id": 46,
+      "question": "Mustafa Kemal’in \"Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır\" emrini verdiği savaş hangisidir?",
+      "answer": "Sakarya Meydan Muharebesi"
+    },
+    {
+      "id": 47,
+      "question": "Türk ordusunun 1683 (II. Viyana) ten beri süren geri çekilişinin sona erdiği savaş hangisidir?",
+      "answer": "Sakarya Meydan Muharebesi"
+    },
+    {
+      "id": 48,
+      "question": "Mustafa Kemal’e \"Gazi\" unvanı ve \"Mareşal\" rütbesinin verildiği savaş hangisidir?",
+      "answer": "Sakarya Meydan Muharebesi"
+    },
+    {
+      "id": 49,
+      "question": "Sovyet Rusya’ya bağlı Azerbaycan, Ermenistan ve Gürcistan ile yapılan ve Doğu sınırımızı kesinleştiren antlaşma hangisidir?",
+      "answer": "Kars Antlaşması"
+    },
+    {
+      "id": 50,
+      "question": "Fransa ile yapılan ve Güney Cephesi’ni kapatan antlaşma hangisidir?",
+      "answer": "Ankara Antlaşması (1921)"
+    },
+    {
+      "id": 51,
+      "question": "TBMM’yi tanıyan ilk İtilaf Devleti hangisidir?",
+      "answer": "Fransa"
+    },
+    {
+      "id": 52,
+      "question": "Misak-ı Milli’den verilen ikinci taviz neresidir?",
+      "answer": "Hatay (Ankara Antlaşması ile Fransız mandasındaki Suriye’ye bırakıldı)"
+    },
+    {
+      "id": 53,
+      "question": "İtalya’nın Anadolu’yu tamamen boşalttığı savaş hangisidir?",
+      "answer": "Sakarya Meydan Muharebesi"
+    },
+    {
+      "id": 54,
+      "question": "Ukrayna ile Dostluk Antlaşması hangi savaştan sonra imzalanmıştır?",
+      "answer": "Sakarya Meydan Muharebesi"
+    },
+    {
+      "id": 55,
+      "question": "Büyük Taarruz öncesi yapılan hazırlıklar nelerdir?",
+      "answer": "Orduya taarruz eğitimi verildi, Tekalif-i Milliye emirleri uygulandı, dışişleri bakanı Avrupa’ya gönderildi, ordu merkezi Akşehir’e taşındı."
+    },
+    {
+      "id": 56,
+      "question": "Büyük Taarruz’un diğer adları nelerdir?",
+      "answer": "Başkomutanlık Meydan Muharebesi / Rum Sındığı Savaşı"
+    },
+    {
+      "id": 57,
+      "question": "Mustafa Kemal’in \"Ordular! İlk hedefiniz Akdeniz’dir. İleri!\" emrini verdiği savaş hangisidir?",
+      "answer": "Büyük Taarruz (Başkomutanlık Meydan Muharebesi)"
+    },
+    {
+      "id": 58,
+      "question": "Büyük Taarruz sırasında esir alınan Yunan Başkomutanı kimdir?",
+      "answer": "Trikopis"
+    },
+    {
+      "id": 59,
+      "question": "Kurtuluş Savaşı’nın askeri safhasını bitiren ateşkes antlaşması hangisidir?",
+      "answer": "Mudanya Ateşkes Antlaşması"
+    },
+    {
+      "id": 60,
+      "question": "Mudanya Ateşkes Antlaşması’na TBMM adına kim katılmıştır?",
+      "answer": "İsmet İnönü"
+    },
+    {
+      "id": 61,
+      "question": "Mudanya Ateşkes Antlaşması’na katılmayıp İngiltere tarafından temsil edilen devlet hangisidir?",
+      "answer": "Yunanistan"
+    },
+    {
+      "id": 62,
+      "question": "Mudanya Ateşkes Antlaşması ile savaş yapılmadan kurtarılan yerler nerelerdir?",
+      "answer": "Doğu Trakya, İstanbul ve Boğazlar"
+    },
+    {
+      "id": 63,
+      "question": "Osmanlı Devleti’nin hukuken sona erdiği antlaşma hangisidir?",
+      "answer": "Mudanya Ateşkes Antlaşması (İstanbul’un TBMM’ye verilmesiyle)"
+    },
+    {
+      "id": 64,
+      "question": "Doğu Trakya’yı teslim almakla görevlendirilen \"Trakya Yüksek Komiseri\" kimdir?",
+      "answer": "Refet Bele"
+    },
+    {
+      "id": 65,
+      "question": "Lozan Barış Konferansı’na hem TBMM hem de İstanbul Hükümeti’nin çağrılması üzerine TBMM ne yapmıştır?",
+      "answer": "Saltanatı kaldırmıştır (1 Kasım 1922)"
+    },
+    {
+      "id": 66,
+      "question": "Saltanatın kaldırılmasıyla ne sona ermiştir?",
+      "answer": "Osmanlı Devleti (Resmen)"
+    },
+    {
+      "id": 67,
+      "question": "Lozan Konferansı’nın yapılacağı yer olarak Mustafa Kemal nereyi istemiştir?",
+      "answer": "İzmir (Yunan tahribatını göstermek için)"
+    },
+    {
+      "id": 68,
+      "question": "Lozan Barış Konferansı’na gönderilen heyetin başkanı kimdir?",
+      "answer": "İsmet İnönü (Mudanya’daki başarısından dolayı)"
+    },
+    {
+      "id": 69,
+      "question": "Mustafa Kemal’in Lozan’da \"Asla taviz verilmemesini\" istediği iki konu nedir?",
+      "answer": "Ermeni Yurdu ve Kapitülasyonlar"
+    },
+    {
+      "id": 70,
+      "question": "Lozan Konferansı’nın yarıda kesilmesine neden olan anlaşmazlık konuları nelerdir?",
+      "answer": "Kapitülasyonlar, Musul Sorunu, Dış Borçlar"
+    },
+    {
+      "id": 71,
+      "question": "Lozan görüşmelerinin kesildiği sırada Türkiye’de yapılan önemli ekonomik kongre hangisidir?",
+      "answer": "İzmir İktisat Kongresi"
+    },
+    {
+      "id": 72,
+      "question": "Lozan Barış Antlaşması ne zaman imzalanmıştır?",
+      "answer": "24 Temmuz 1923"
+    },
+    {
+      "id": 73,
+      "question": "Lozan’da Türkiye’nin Karaağaç’ı ne karşılığında aldığı kabul edilmiştir?",
+      "answer": "Yunanistan’dan savaş tazminatı olarak"
+    },
+    {
+      "id": 74,
+      "question": "Lozan’da çözülemeyen ve sonraya bırakılan tek konu hangisidir?",
+      "answer": "Musul Sorunu (Irak Sınırı)"
+    },
+    {
+      "id": 75,
+      "question": "Lozan’da Boğazların durumu nasıl belirlenmiştir?",
+      "answer": "Başkanı Türk olan uluslararası bir komisyon tarafından yönetilecek, asker bulundurulmayacak. (Egemenliği kısıtlayıcı maddedir)"
+    },
+    {
+      "id": 76,
+      "question": "Lozan’da Kapitülasyonların durumu ne olmuştur?",
+      "answer": "Kesin olarak kaldırılmıştır. (Ekonomik bağımsızlık)"
+    },
+    {
+      "id": 77,
+      "question": "Lozan’da azınlıkların durumu ne olmuştur?",
+      "answer": "Tüm azınlıklar Türk vatandaşı kabul edilmiştir. (İç işlere karışılması engellendi)"
+    },
+    {
+      "id": 78,
+      "question": "Lozan’da Fener Rum Patrikhanesi’nin durumu ne olmuştur?",
+      "answer": "İstanbul’da kalacak ancak siyasi yetkileri olmayacak."
+    },
+    {
+      "id": 79,
+      "question": "Lozan’da Nüfus Mübadelesi nasıl karara bağlanmıştır?",
+      "answer": "Batı Trakya Türkleri ve İstanbul Rumları hariç, diğer Türk ve Rum nüfus yer değiştirecek."
+    },
+    {
+      "id": 80,
+      "question": "Lozan’da Dış Borçlar nasıl çözülmüştür?",
+      "answer": "Osmanlı’dan ayrılan devletlere paylaştırılmış, Türkiye payına düşeni taksitler halinde ödemeyi kabul etmiştir."
+    },
+    {
+      "id": 81,
+      "question": "Lozan’da Yabancı Okullar konusu nasıl çözülmüştür?",
+      "answer": "Türk kanunlarına ve Milli Eğitim’e bağlı olacakları kabul edilmiştir."
+    },
+    {
+      "id": 82,
+      "question": "Lozan’da Adalar nasıl paylaşılmıştır?",
+      "answer": "Gökçeada ve Bozcaada Türkiye’ye; On İki Ada İtalya’ya; diğer Ege adaları Yunanistan’a (silahsızlandırma şartıyla) bırakılmıştır."
+    },
+    {
+      "id": 83,
+      "question": "Kurtuluş Savaşı’nın kadın kahramanlarından \"Kara Fatma\" lakaplı kişi kimdir?",
+      "answer": "Fatma Seher Erden"
+    },
+    {
+      "id": 84,
+      "question": "Kastamonu’dan Ankara’ya cephane taşırken donarak şehit olan kadın kahraman kimdir?",
+      "answer": "Şerife Bacı"
+    },
+    {
+      "id": 85,
+      "question": "İstiklal Madalyası alan ilk yerimiz neresidir?",
+      "answer": "İnebolu (1924)"
+    },
+    {
+      "id": 86,
+      "question": "İstiklal Madalyası alan şehirlerimiz hangileridir?",
+      "answer": "Maraş, Antep, Urfa"
+    },
+    {
+      "id": 87,
+      "question": "Mustafa Kemal’in Kurtuluş Savaşı’nda rütbeleri nelerdir?",
+      "answer": "Samsun’a çıkışta 9. Ordu Müfettişi, Sakarya öncesi Başkomutan, Sakarya sonrası Mareşal."
+    },
+    {
+      "id": 88,
+      "question": "Kurtuluş Savaşı’nda Türk ordusunun lojistik hattı olan ve İnebolu-Ankara arasını kapsayan yola ne ad verilir?",
+      "answer": "İstiklal Yolu"
+    },
+    {
+      "id": 89,
+      "question": "TBMM’nin kurduğu düzenli ordunun ilk başarısı nedir?",
+      "answer": "I. İnönü Savaşı"
+    },
+    {
+      "id": 90,
+      "question": "TBMM’nin kurduğu düzenli ordunun savaştığı ilk ve tek cephe hangisidir?",
+      "answer": "Batı Cephesi"
+    },
+    {
+      "id": 91,
+      "question": "Çerkez Ethem İsyanı hangi savaş sırasında çıkmıştır?",
+      "answer": "I. İnönü Savaşı"
+    },
+    {
+      "id": 92,
+      "question": "Koçgiri İsyanı hangi savaş sırasında çıkmıştır?",
+      "answer": "II. İnönü Savaşı"
+    },
+    {
+      "id": 93,
+      "question": "Mustafa Kemal’in \"Siz orada yalnız düşmanı değil, milletin makus talihini de yendiniz\" sözü hangi savaş için söylenmiştir?",
+      "answer": "II. İnönü Savaşı"
+    },
+    {
+      "id": 94,
+      "question": "Mustafa Kemal’in \"Hattı müdafaa yoktur...\" sözü hangi savaş stratejisine örnektir?",
+      "answer": "Topyekün Savaş (Alan Savunması)"
+    },
+    {
+      "id": 95,
+      "question": "\"Büyük Taarruz\"un planlandığı yer neresidir?",
+      "answer": "Akşehir"
+    },
+    {
+      "id": 96,
+      "question": "General Trikopis’in esir alındığı savaş hangisidir?",
+      "answer": "Büyük Taarruz"
+    },
+    {
+      "id": 97,
+      "question": "Mudanya Ateşkesi ile çatışma olmadan kurtarılan bölgeler neresidir?",
+      "answer": "Doğu Trakya, İstanbul, Boğazlar"
+    },
+    {
+      "id": 98,
+      "question": "Lozan’da Türkiye’yi temsil eden heyette kimler vardı?",
+      "answer": "İsmet İnönü, Hasan Saka, Rıza Nur"
+    },
+    {
+      "id": 99,
+      "question": "Lozan Antlaşması hangi meclis tarafından onaylanmıştır?",
+      "answer": "II. TBMM"
+    },
+    {
+      "id": 100,
+      "question": "Türkiye Cumhuriyeti’nin tapusu sayılan antlaşma hangisidir?",
+      "answer": "Lozan Barış Antlaşması"
+    }
+  ]
+}

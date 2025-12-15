@@ -1,0 +1,127 @@
+{
+  "konu_adi": "06- ORTA ASYA TÜRK DEVLETLERİ",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "ORTA ASYA TÜRK DEVLETLERİ"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🏞️ Orta Asya Coğrafyası ve Göçebe Yaşamın Etkileri"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Coğrafya ve Yaşam Tarzı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Coğrafi Zorunluluk: Orta Asya'nın iklimi, Türkleri konar-göçer (göçebe) bir yaşama itmiştir. Temel ekonomik uğraş hayvancılıktır.",
+        "Sosyal Sonuçlar: Göçebe yaşam, sınıf farklılıklarının oluşmasını önlemiş ve toplumda eşitlikçi (sınıfsız) bir yapı hâkim olmuştur.",
+        "Askeri Sonuçlar: Sürekli hareket halinde olmak, Türklerde savaşçılık ruhunu geliştirmiş ve Ordu-Millet anlayışını oluşturmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Türklerin Genel Özellikleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Bağımsızlık Düşkünlüğü (İl/Elti): Türkler için bağımsızlık en kutsal değerdir. Bu nedenle esaret altında yaşamayı reddetmişlerdir.",
+        "Teşkilatçılık: Türkler, gittikleri her coğrafyada (Asya, Avrupa, Anadolu) kısa sürede güçlü ve düzenli devletler kurabilme yeteneğine sahiptir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👑 Başlıca Orta Asya Türk Devletleri"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Büyük Hun Devleti (Asya Hunları)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Öncü Rolü: Türk tarihinin bilinen ilk teşkilatlı devletidir.",
+        "Mete Han (MÖ 209-174): İlk kez Türk siyasi birliğini sağlamış ve Onlu Sistemi kurmuştur.",
+        "Çin Politikası: Çin'i vergiye bağlamış ancak Çin topraklarına yerleşmeyerek Türklerin asimile olmasını engellemiştir.",
+        "Kavimler Göçü (375): Kuzey Hunlarının başlattığı bu hareket, Roma İmparatorluğu'nun parçalanmasına yol açmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Göktürk Devletleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "I. Göktürk Devleti (552-630): Tarihte \"Türk\" adını resmen kullanan ilk devlettir. Bumin Kağan tarafından kurulmuştur.",
+        "II. Göktürk Devleti (Kutluk Devleti): Kutluk İlteriş Kağan tarafından yeniden kurulmuştur.",
+        "Orhun Abideleri: Türk dilinin ve tarihinin ilk yazılı eserleri bu dönemde dikilmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Uygurlar (744-840)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Yerleşik Hayat: Türk tarihinde yerleşik hayata geçen ilk devlettir.",
+        "Din Değişikliği: Maniheizm dinini kabul etmeleri, savaşçılık özelliklerini zayıflatmıştır.",
+        "Kültürel İlkler: Şehir, saray ve tapınak gibi mimari eserler inşa eden, Matbaa ve kâğıdı kullanan ilk Türk devletidir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "4. Karluklar"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İslamiyet'i Kabul Eden İlk Türk Boyu: Talas Savaşı'nda Abbasi Devleti'ni desteklemişlerdir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🛡️ Kültür ve Medeniyetin Temel Unsurları"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Yönetim Anlayışı"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kut İnancı: Yönetme yetkisinin Tanrı'dan alındığına inanılması taht kavgalarını artırmıştır.",
+        "İkili Teşkilat: Devleti Kağan (Doğu) ve Yabgu (Batı) olarak ikiye ayırarak yönetme geleneği.",
+        "Kurultay (Toy): Devlet yönetiminin ve Töre'nin görüşüldüğü meclistir."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Din ve Hukuk"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Gök Tanrı İnancı: Türklerin orijinal ve en yaygın inancıdır (Tek tanrılı).",
+        "Ahiret İnancı: Kurgan (mezar) ve Balbal (mezar taşı) kültü, ahiret inancının kanıtıdır.",
+        "Töre: Yazılı olmayan, ancak herkesi (Kağan dahil) bağlayan hukuk kurallarıdır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "Ekonomi ve Ticaret"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Temel Uğraş: Hayvancılık.",
+        "Önemli Ticaret Yolu: İpek Yolu hakimiyeti, devletler arası ilişkilerin temel nedenini oluşturmuştur.",
+        "Para: İlk madeni parayı kendi adına bastıran devlet Türgişler'dir."
+      ]
+    }
+  ]
+}

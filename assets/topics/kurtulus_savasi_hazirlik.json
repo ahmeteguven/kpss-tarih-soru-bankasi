@@ -1,0 +1,1229 @@
+{
+  "topicName": "Kurtuluş Savaşı Hazırlık Dönemi",
+  "testSets": [
+    {
+      "testName": "Mini Test - 1",
+      "preTestNote": "Samsun'a Çıkış (19 Mayıs 1919):\nGörevi: 9. Ordu Müfettişi.\nResmi Amacı: Bölgedeki Türk-Rum çatışmasını önlemek, Türklerin elindeki silahları toplamak (Yani Mondros'u uygulamak).\nSamsun Raporu: İstanbul'a gönderdiği ilk rapordur. \"Türkler haklıdır, İzmir'in işgali haksızdır\" diyerek yetkisinin dışına çıkmıştır.\n\nHavza Genelgesi (28 Mayıs 1919):\nAmaç: Milli bilinci uyandırmak.\nYöntem: İşgaller mitinglerle protesto edilmeli (İlk miting Havza'da).\nSonuç: Mustafa Kemal ilk kez İstanbul'a geri çağrıldı (Daha gitmedi). \"Artık İstanbul Anadolu'ya hakim değil, tabi olmak zorundadır\" sözünü burada söylemiştir.\n\nAmasya Genelgesi (Tamimi) (22 Haziran 1919):\nÖnemi: Kurtuluş Savaşı'nın Gerekçesi, Amacı ve Yöntemi belirlendi. Bir \"İhtilal Beyannamesi\"dir.\nİmzalayanlar (KARAR): Kazım Karabekir, Ali Fuat Cebesoy, Rauf Orbay, Atatürk, Refet Bele. (Cemal Paşa telgrafla onayladı).\nMaddeler:\nGerekçe: \"Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir.\"\nAmaç/Yöntem: \"Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.\" (Üstü kapalı ilk kez Cumhuriyet/Milli Egemenlik vurgusu).\n\nErzurum Kongresi (23 Temmuz - 7 Ağustos 1919):\nToplanma Amacı: Doğu Anadolu'da Ermeni devleti kurulmasını engellemek (Bölgesel).\nAldığı Kararlar: Ulusal (Tüm yurdu ilgilendirir).\nMustafa Kemal: Kongre öncesi askerlikten istifa etti (Sine-i Millete döndü). Kazım Karabekir \"Emrinizdeyim Paşam\" diyerek en büyük desteği verdi.\nİlkler:\nMilli sınırlardan ilk kez bahsedildi (\"Vatan bir bütündür\").\nManda ve himaye ilk kez reddedildi.\nTemsil Heyeti (9 kişi) ilk kez kuruldu.",
+      "questions": [
+        {
+          "text": "Mustafa Kemal, 19 Mayıs 1919’da Samsun’a hangi resmi görev ve yetkiyle gönderilmiştir?",
+          "options": [
+            "19. Tümen Komutanı",
+            "Hareket Ordusu Komutanı",
+            "Harbiye Nazırı",
+            "Yıldırım Orduları Komutanı",
+            "9. Ordu Müfettişi"
+          ],
+          "correctOption": "E",
+          "solution": "Görevi Samsun ve çevresindeki asayişi sağlamaktı."
+        },
+        {
+          "text": "Mustafa Kemal’in Samsun’a çıktıktan sonra İstanbul Hükümeti’ne gönderdiği ve \"İzmir’in işgalinin haksız olduğunu, Rumların değil Türklerin mağdur olduğunu\" belirttiği ilk resmi belge hangisidir?",
+          "options": [
+            "Minber Gazetesi Yazıları",
+            "Amasya Genelgesi",
+            "Samsun Raporu",
+            "Amasya Görüşmeleri",
+            "Havza Genelgesi"
+          ],
+          "correctOption": "C",
+          "solution": "İstanbul ile ilk görüş ayrılığı burada başlamıştır."
+        },
+        {
+          "text": "Kurtuluş Savaşı sürecinde \"Milli bilinci uyandırmak\" amacıyla yayımlanan ve işgallerin mitinglerle protesto edilmesini isteyen belge hangisidir?",
+          "options": [
+            "Sivas Kongresi Kararları",
+            "Havza Genelgesi",
+            "Misak-ı Milli",
+            "Amasya Genelgesi",
+            "Erzurum Kongresi Kararları"
+          ],
+          "correctOption": "B",
+          "solution": "İlk miting Havza'da, en büyük mitingler İstanbul Sultanahmet'te yapılmıştır."
+        },
+        {
+          "text": "Mustafa Kemal’in \"Artık İstanbul Anadolu’ya hakim değil, tabi (bağlı) olmak zorundadır\" sözünü hangi olay sonrasında söylemiştir?",
+          "options": [
+            "TBMM’nin açılması",
+            "Amasya Genelgesi",
+            "Erzurum Kongresi",
+            "Amasya Görüşmeleri",
+            "Sivas Kongresi"
+          ],
+          "correctOption": "B",
+          "solution": "Amasya Genelgesi'nden sonra, İstanbul hükümetinin acizliğini vurgulamak için söylemiştir."
+        },
+        {
+          "text": "Kurtuluş Savaşı’nın \"Gerekçesi, Amacı ve Yöntemi\"nin belirlendiği ve Milli Mücadele’nin yol haritası olan belge hangisidir?",
+          "options": [
+            "Misak-ı Milli",
+            "Sivas Kongresi",
+            "Havza Genelgesi",
+            "Erzurum Kongresi",
+            "Amasya Genelgesi"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Amasya Genelgesi’nin; \"Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır\" maddesi, Kurtuluş Savaşı’nın hangi özelliğini belirtir?",
+          "options": [
+            "Yöntemini ve Amacını",
+            "Liderini",
+            "Sadece gerekçesini",
+            "Tarihini",
+            "Gerekçesini"
+          ],
+          "correctOption": "A",
+          "solution": "Aynı zamanda \"Milletin kararı\" diyerek üstü kapalı olarak Cumhuriyet rejimine/Milli Egemenliğe işaret edilmiştir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Amasya Genelgesi’nin gerekçesini (neden savaşıyoruz?) belirten maddedir?",
+          "options": [
+            "Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir.",
+            "Doğu illeri adına Erzurum'da bir kongre toplanacaktır.",
+            "Sivas'ta milli bir kongre toplanmalıdır.",
+            "Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.",
+            "Askeri ve sivil örgütler dağıtılmayacaktır."
+          ],
+          "correctOption": "A",
+          "solution": "Diğer gerekçe maddesi: \"İstanbul hükümeti üzerine aldığı sorumluluğu yerine getirememektedir.\""
+        },
+        {
+          "text": "Amasya Genelgesi’ni imzalayan komutanlar arasında aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Refet Bele",
+            "Ali Fuat Cebesoy",
+            "Rauf Orbay",
+            "Kazım Karabekir",
+            "İsmet İnönü"
+          ],
+          "correctOption": "E",
+          "solution": "İsmet İnönü o sırada bu kadronun içinde imza yetkisine sahip değildir, sonradan katılacaktır."
+        },
+        {
+          "text": "Mustafa Kemal’in Amasya Genelgesi’ni yayımladıktan sonra İstanbul Hükümeti tarafından görevden alınacağını öğrenmesi üzerine, askerlik mesleğinden istifa etmesi (Sine-i Millete dönmesi) hangi olaydan hemen öncedir?",
+          "options": [
+            "Amasya Genelgesi",
+            "Sivas Kongresi",
+            "TBMM’nin açılması",
+            "Erzurum Kongresi",
+            "Havza Genelgesi"
+          ],
+          "correctOption": "D",
+          "solution": "Erzurum Kongresi'ne sivil olarak katılmıştır."
+        },
+        {
+          "text": "Toplanış şekli ve amacı bakımından bölgesel, aldığı kararlar bakımından ulusal olan kongre hangisidir?",
+          "options": [
+            "Sivas Kongresi",
+            "Pozantı Kongresi",
+            "Erzurum Kongresi",
+            "Alaşehir Kongresi",
+            "Balıkesir Kongresi"
+          ],
+          "correctOption": "C",
+          "solution": "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti tarafından Ermeni tehlikesine karşı toplanmıştır."
+        },
+        {
+          "text": "\"Milli sınırlar içinde vatan bir bütündür, parçalanamaz\" kararı ile ilk kez milli sınırlardan bahsedilen yer neresidir?",
+          "options": [
+            "Amasya Genelgesi",
+            "Misak-ı Milli",
+            "Erzurum Kongresi",
+            "Sivas Kongresi",
+            "TBMM"
+          ],
+          "correctOption": "C",
+          "solution": "Misak-ı Milli'nin temeli burada atılmıştır."
+        },
+        {
+          "text": "Manda ve Himaye (başka bir devletin koruyuculuğu) fikri ilk kez nerede reddedilmiştir?",
+          "options": [
+            "Lozan",
+            "Erzurum Kongresi",
+            "TBMM",
+            "Amasya Genelgesi",
+            "Sivas Kongresi"
+          ],
+          "correctOption": "B",
+          "solution": "\"Manda ve himaye kabul edilemez.\" - Kesin olarak reddedildiği yer ise Sivas Kongresi'dir."
+        },
+        {
+          "text": "Erzurum Kongresi’ne sivil olarak katılan Mustafa Kemal’in kongre başkanı seçilmesine en büyük desteği veren ve \"Ben ve kolordum emrinizdeyiz Paşam\" diyen komutan kimdir?",
+          "options": [
+            "Ali Fuat Paşa",
+            "Rauf Orbay",
+            "Refet Bele",
+            "Kazım Karabekir",
+            "İsmet Paşa"
+          ],
+          "correctOption": "D",
+          "solution": "15. Kolordu Komutanı. Bu destek Mustafa Kemal'in liderliğini perçinlemiştir."
+        },
+        {
+          "text": "Erzurum Kongresi’nde oluşturulan ve başkanlığını Mustafa Kemal’in yaptığı, TBMM açılana kadar geçici hükümet gibi çalışan kurulun adı nedir?",
+          "options": [
+            "Heyet-i Nasiha",
+            "Saltanat Şurası",
+            "İcra Vekilleri Heyeti",
+            "Temsil Heyeti (Heyet-i Temsiliye)",
+            "Felah-ı Vatan Grubu"
+          ],
+          "correctOption": "B",
+          "solution": "Erzurum'da kuruldu, Sivas'ta yetkisi tüm yurdu kapsadı, TBMM açılınca görevi bitti."
+        },
+        {
+          "text": "Erzurum Kongresi’nde alınan \"Hristiyan azınlıklara siyasi hakimiyetimizi ve sosyal dengemizi bozacak ayrıcalıklar verilemez\" kararı, hangi belgeye bir tepkidir?",
+          "options": [
+            "Kanun-i Esasi",
+            "Sened-i İttifak",
+            "Tanzimat Fermanı",
+            "1921 Anayasası",
+            "Islahat Fermanı"
+          ],
+          "correctOption": "E",
+          "solution": "Islahat Fermanı ile verilen aşırı haklara tepki gösterilmiştir."
+        },
+        {
+          "text": "\"Kuvayi Milliye’yi etkin, Milli İrade’yi hakim kılmak esastır\" kararı ilk kez nerede alınmıştır?",
+          "options": [
+            "Erzurum Kongresi",
+            "Amasya Görüşmeleri",
+            "Son Osmanlı Mebusan Meclisi",
+            "Lozan Antlaşması",
+            "Havza Genelgesi"
+          ],
+          "correctOption": "A",
+          "solution": "Bu karar hem Erzurum hem Sivas'ta vardır, ilk dediği için Erzurum."
+        },
+        {
+          "text": "Mustafa Kemal’in Amasya Genelgesi’ni \"tek başına\" değil de Rauf Orbay, Ali Fuat Cebesoy ve Refet Bele gibi komutanlara da imzalatarak yayımlamasının temel amacı nedir?",
+          "options": [
+            "İstanbul Hükümeti ile anlaşmak",
+            "Padişahın onayını almak",
+            "Milli Mücadele’yi kişisellikten çıkarıp halka mal etmek ve ordu desteğini göstermek",
+            "Sorumluluktan kaçmak",
+            "İtilaf Devletleri’ni korkutmak"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdaki kongrelerden hangisi Mustafa Kemal’in katıldığı kongrelerden biridir?",
+          "options": [
+            "Balıkesir",
+            "Alaşehir",
+            "Nazilli",
+            "Afyon (Pozantı)",
+            "Edirne"
+          ],
+          "correctOption": "D",
+          "solution": "Mustafa Kemal sadece Erzurum, Sivas, Afyon ve Pozantı kongrelerine katılmıştır. Batı Anadolu kongrelerinde yoktur."
+        },
+        {
+          "text": "Erzurum Kongresi’ne katılmak için delegeliklerinden istifa ederek yerlerini Mustafa Kemal ve Rauf Orbay’a bırakan vatanseverler kimlerdir?",
+          "options": [
+            "Cevat Dursunoğlu - Kazım Yurdalan",
+            "Refet Bele - İsmet İnönü",
+            "Ali Galip - Reşit Paşa",
+            "Kazım Karabekir - Ali Fuat",
+            "Bekir Sami - Yusuf Kemal"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Amasya Genelgesi’nde yer alan \"Sivas’ta milli bir kongre toplanacaktır\" kararı üzerine, Sivas Kongresi’ne katılacak delegelerin nasıl seçilmesi istenmiştir?",
+          "options": [
+            "İstanbul Hükümeti tarafından belirlenerek",
+            "Müdafaa-i Hukuk cemiyetleri ve belediyelerce seçilerek",
+            "Sadece askerler arasından",
+            "Padişah tarafından atanarak",
+            "İtilaf Devletleri’nin izniyle"
+          ],
+          "correctOption": "B",
+          "solution": "Halkın güvenini kazanmış kişiler olması ve demokratik yöntem vurgusu."
+        },
+        {
+          "text": "Mustafa Kemal'in Samsun'a çıkarken kullandığı vapurun adı nedir?",
+          "options": [
+            "Nusret",
+            "Gülcemal",
+            "Yavuz",
+            "Hamidiye",
+            "Bandırma"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Erzurum Kongresi’nin toplanmasında etkili olan iki yararlı cemiyet hangisidir?",
+          "options": [
+            "Kilikyalılar - Trakya Paşaeli",
+            "İzmir Müdafaa-i Hukuk - Reddi İlhak",
+            "Milli Kongre - İngiliz Muhipleri",
+            "Şark Vilayetleri (Doğu Anadolu) Müdafaa-i Hukuk - Trabzon Muhafaza-i Hukuk",
+            "Anadolu Kadınları - Teali İslam"
+          ],
+          "correctOption": "E",
+          "solution": "Hem Doğu'dan hem Karadeniz'den -Pontus- tehdit olduğu için."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Milli Mücadele’nin hazırlık safhasında yayımlanan ilk ulusal genelgedir?",
+          "options": [
+            "Erzurum Kongresi",
+            "Tekalif-i Milliye",
+            "Amasya Genelgesi",
+            "Sivas Kongresi",
+            "Havza Genelgesi"
+          ],
+          "correctOption": "E",
+          "solution": "Havza Genelgesi, ulusal bilinci uyandırmak için yayımlanan ilk belgedir. Amasya ise bir ihtilal bildirisi."
+        },
+        {
+          "text": "Erzurum Kongresi'nde alınan kararlardan biri olan \"Mebusan Meclisi derhal toplanmalı ve hükümet denetlenmelidir\" maddesi neyi amaçlamaktadır?",
+          "options": [
+            "Cumhuriyeti ilan etmeyi",
+            "Padişahı tahttan indirmeyi",
+            "İstanbul Hükümeti'ni milli irade denetimi altına almayı",
+            "Yeni bir başkent seçmeyi",
+            "İtilaf devletleriyle anlaşmayı"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal'in askerlikten istifa etmesiyle \"Sine-i Millete\" dönmesi, onun hangi özelliğini gösterir?",
+          "options": [
+            "Siyasetten çekildiğini",
+            "Mandayı kabul ettiğini",
+            "İstanbul Hükümeti ile anlaştığını",
+            "Mücadelesini rütbelerine değil, milletin gücüne dayanarak yapacağını",
+            "Askerliği sevmediğini"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 2",
+      "preTestNote": "Sivas Kongresi (4-11 Eylül 1919):\nÖzelliği: Her yönüyle (toplanış ve kararlar) ULUSAL tek kongredir.\nKararlar:\nTüm cemiyetler \"Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti\" adı altında birleştirildi. (Komuta tek elde toplandı).\nManda ve Himaye KESİN olarak reddedildi. (Parola: Ya İstiklal Ya Ölüm).\nTemsil Heyeti tüm yurdu temsil eder hale geldi.\nYürütme Yetkisi: Ali Fuat Paşa'yı Batı Cephesi Komutanlığına atayarak ilk kez yürütme yetkisini kullandı (Hükümet gibi davrandı).\nGazete: İrade-i Milliye gazetesi çıkarıldı.\nSiyasi Zafer: İstanbul Hükümeti (Damat Ferit) kongreyi engelleyemeyince istifa etti. Bu, Temsil Heyeti'nin ilk siyasi başarısıdır.\n\nAmasya Görüşmeleri (Protokolleri):\nAli Rıza Paşa hükümeti adına Salih Paşa ile Mustafa Kemal görüştü.\nÖnemi: İstanbul Hükümeti, Temsil Heyeti'ni ve Milli Mücadele'yi resmen ve hukuken tanıdı.\nKarar: Mebusan Meclisi açılacak (ama İstanbul'da açıldı, güvenlik sorunu olmasına rağmen).\n\nMisak-ı Milli (Milli Yemin):\nSon Osmanlı Mebusan Meclisi'nde \"Felah-ı Vatan\" grubu tarafından kabul edildi.\nKapsam (Kod: KAPSAR): Kapitülasyonlar (Kaldırılmalı), Azınlıklar, Patrikhaneler/Boğazlar, Sınırlar, Araplar, Referandum.\nÖnem: Ulusal bağımsızlık belgesidir. Ulusal egemenlik (Rejim değişikliği) yoktur.\n\nİstanbul'un İşgali (16 Mart 1920):\nMisak-ı Milli kabul edilince İtilaf Devletleri İstanbul'u resmen işgal etti. Meclisi dağıttı.\nManastırlı Hamdi Bey: İşgali Mustafa Kemal'e telgrafla haber verdi.\nSonuç: TBMM'nin açılışı hızlandı.",
+      "questions": [
+        {
+          "text": "Toplanış şekli, amacı ve aldığı kararlar bakımından \"Her yönüyle ulusal\" olan tek kongre hangisidir?",
+          "options": [
+            "Sivas Kongresi",
+            "Alaşehir Kongresi",
+            "Pozantı Kongresi",
+            "Balıkesir Kongresi",
+            "Erzurum Kongresi"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Manda ve himaye fikrinin tartışmaya yer bırakmayacak şekilde kesin olarak reddedildiği yer neresidir?",
+          "options": [
+            "Erzurum Kongresi",
+            "Lozan Antlaşması",
+            "Sivas Kongresi",
+            "TBMM",
+            "Amasya Genelgesi"
+          ],
+          "correctOption": "A",
+          "solution": "Mustafa Kemal: \"Ya istiklal ya ölüm!\""
+        },
+        {
+          "text": "Milli Mücadele’nin tek elden yönetilmesini sağlamak amacıyla tüm yararlı cemiyetlerin \"Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti\" adı altında birleştirildiği kongre hangisidir?",
+          "options": [
+            "Erzurum",
+            "Afyon",
+            "Sivas",
+            "Edirne",
+            "Nazilli"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Temsil Heyeti, Ali Fuat Paşa’yı Batı Cephesi Komutanlığı’na atayarak ilk kez hangi yetkisini kullanmıştır?",
+          "options": [
+            "Yasama",
+            "Denetleme",
+            "Yargı",
+            "Yürütme",
+            "Af çıkarma"
+          ],
+          "correctOption": "D",
+          "solution": "Bir hükümet gibi hareket ettiğini gösterir."
+        },
+        {
+          "text": "Sivas Kongresi’nden sonra halkı milli mücadele konusunda doğru bilgilendirmek için Mustafa Kemal’in isteğiyle çıkarılan gazete hangisidir?",
+          "options": [
+            "Tasvir-i Efkar",
+            "Hakimiyet-i Milliye",
+            "Ceride-i Resmiye",
+            "Minber",
+            "İrade-i Milliye"
+          ],
+          "correctOption": "E",
+          "solution": "Hakimiyet-i Milliye, TBMM açıldıktan sonra Ankara'da çıkarılmıştır."
+        },
+        {
+          "text": "Sivas Kongresi’nin toplanmasını engelleyemeyen Damat Ferit Paşa hükümetinin istifa etmesi, Temsil Heyeti’nin İstanbul Hükümeti’ne karşı kazandığı ilk siyasi başarıdır. Damat Ferit’in yerine kurulan ve Milli Mücadele’ye daha ılımlı yaklaşan hükümet hangisidir?",
+          "options": [
+            "Ahmet İzzet Paşa Hükümeti",
+            "Ali Rıza Paşa Hükümeti",
+            "Tevfik Paşa Hükümeti",
+            "Ali Fethi Okyar Hükümeti",
+            "Salih Paşa Hükümeti"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "İstanbul Hükümeti’nin Temsil Heyeti’ni ve Milli Mücadele’yi resmen ve hukuken tanıdığı olay hangisidir?",
+          "options": [
+            "Mudanya Ateşkesi",
+            "Londra Konferansı",
+            "Amasya Görüşmeleri (Protokolleri)",
+            "Dolmabahçe Görüşmeleri",
+            "Bilecik Görüşmeleri"
+          ],
+          "correctOption": "C",
+          "solution": "Ali Rıza Paşa hükümeti adına Salih Paşa ile Mustafa Kemal görüşmüştür."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Amasya Görüşmeleri’nde alınan kararlardan biri olmasına rağmen İstanbul Hükümeti tarafından kabul edilmemiştir?",
+          "options": [
+            "Temsil Heyeti'nin varlığının tanınması",
+            "Meclisin İstanbul dışında güvenli bir yerde toplanması",
+            "Mebusan Meclisi'nin açılması",
+            "Barış görüşmelerine Temsil Heyeti'nden de üye katılması",
+            "Seçimlerin yapılması"
+          ],
+          "correctOption": "B",
+          "solution": "Padişah ve hükümet, başkent dışında toplanmayı anayasaya aykırı bulmuş, meclis İstanbul'da toplanmıştır. Bu da meclisin basılmasına neden olmuştur."
+        },
+        {
+          "text": "Temsil Heyeti’nin, Mebusan Meclisi çalışmalarını yakından takip etmek ve Batı Cephesi’ne yakın olmak amacıyla merkez olarak Ankara’yı seçmesinin nedenleri arasında hangisi yer almaz?",
+          "options": [
+            "İşgal edilmemiş güvenli bir bölge olması",
+            "Halkın Milli Mücadele’ye destek vermesi",
+            "Ulaşım ve haberleşme imkanlarının iyi olması",
+            "Batı cephesine yakın olması",
+            "Başkent ilan edilmek istenmesi"
+          ],
+          "correctOption": "A",
+          "solution": "O tarihte başkent olma fikri henüz yoktur, stratejik merkezdir. Başkent oluşu 1923'tedir."
+        },
+        {
+          "text": "ABD’li General Harbord’un Sivas’a gelerek Mustafa Kemal ile görüştüğü ve hazırladığı \"Harbord Raporu\"nun içeriği nedir?",
+          "options": [
+            "İzmir işgalinin haksız olduğu",
+            "Yunanlıların haklı olduğu",
+            "Ermenilerin Doğu Anadolu’da çoğunlukta olmadığı ve Türklerin haklı olduğu",
+            "Mandayı kabul edilmesi gerektiği",
+            "Türk ordusunun terhis edilmesi gerektiği"
+          ],
+          "correctOption": "C",
+          "solution": "Ermeni iddialarını çürüten uluslararası belgedir."
+        },
+        {
+          "text": "Son Osmanlı Mebusan Meclisi’nde, Milli Mücadele yanlısı milletvekillerinin (Mustafa Kemal’in isteğiyle Müdafaa-i Hukuk grubu kurulamayınca) oluşturduğu grup hangisidir?",
+          "options": [
+            "Halk Zümresi",
+            "Tesanüt Grubu",
+            "Felah-ı Vatan",
+            "Islahat Grubu",
+            "İttihat Grubu"
+          ],
+          "correctOption": "C",
+          "solution": "Başkanı Rauf Orbay'dır."
+        },
+        {
+          "text": "28 Ocak 1920’de Son Osmanlı Mebusan Meclisi’nde kabul edilen ve Türk vatanının sınırlarını çizen belge hangisidir?",
+          "options": [
+            "Amasya Genelgesi",
+            "Misak-ı Milli (Milli Yemin)",
+            "Takrir-i Sükun",
+            "Teşkilat-ı Esasiye",
+            "Lozan Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Misak-ı Milli’de; \"Siyasi, adli ve mali gelişmemizi engelleyen sınırlamalar kaldırılmalıdır\" maddesiyle ilk kez neye karşı çıkılmıştır?",
+          "options": [
+            "Boğazlar Komisyonu’na",
+            "Kapitülasyonlara",
+            "Dış Borçlara",
+            "Azınlık okullarına",
+            "Saltanata"
+          ],
+          "correctOption": "E",
+          "solution": "Kapitülasyonların kaldırılması ilk kez burada hedeflenmiştir."
+        },
+        {
+          "text": "Misak-ı Milli kararlarına göre halk oylaması (Referandum) yapılması istenen bölgeler arasında aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Elviye-i Selase (Kars, Ardahan, Batum)",
+            "Batı Trakya",
+            "Arap Toprakları",
+            "İzmir ve çevresi",
+            "(Şık yok, üç bölge var)"
+          ],
+          "correctOption": "D",
+          "solution": "İzmir Türk çoğunlukta olduğu için referanduma gerek duyulmamış, doğrudan vatan toprağı sayılmıştır."
+        },
+        {
+          "text": "İtilaf Devletleri’nin 16 Mart 1920’de İstanbul’u resmen işgal etmelerinin ve Mebusan Meclisi’ni basmalarının temel nedeni nedir?",
+          "options": [
+            "Sivas Kongresi’nin toplanması",
+            "Mustafa Kemal’in Samsun’a çıkması",
+            "Kuvayi Milliye’nin kurulması",
+            "Amasya Genelgesi’nin yayımlanması",
+            "Misak-ı Milli kararlarının kabul edilmesi"
+          ],
+          "correctOption": "D",
+          "solution": "Misak-ı Milli'yi geri aldırmak istemişlerdir."
+        },
+        {
+          "text": "İstanbul’un işgalini Mustafa Kemal’e telgraf çekerek haber veren (kendisi telgraf başındayken İngilizler tarafından basılmıştır) kahraman telgrafçı kimdir?",
+          "options": [
+            "Manastırlı Hamdi Bey",
+            "Yahya Kaptan",
+            "Köprülü Hamdi Bey",
+            "Hasan Tahsin",
+            "Yüzbaşı Mümtaz"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "İstanbul’un işgali ve Mebusan Meclisi’nin dağıtılması, Mustafa Kemal’e neyi gerçekleştirme fırsatı vermiştir?",
+          "options": [
+            "Lozan’ı imzalama",
+            "Halifeliği kaldırma",
+            "Cumhuriyeti ilan etme",
+            "Ankara’da TBMM’yi açma",
+            "Düzenli orduyu kurma"
+          ],
+          "correctOption": "D",
+          "solution": "Milli irade İstanbul'da yok edilince, Ankara'da yeniden tecelli etmiştir."
+        },
+        {
+          "text": "Sivas Kongresi’ni engellemek için Damat Ferit Hükümeti tarafından görevlendirilen Elazığ Valisi kimdir?",
+          "options": [
+            "Anzavur Ahmet",
+            "Cemil Cahit",
+            "Çerkez Ethem",
+            "Ali Galip",
+            "Ali Batı"
+          ],
+          "correctOption": "B",
+          "solution": "Ali Galip Olayı"
+        },
+        {
+          "text": "Misak-ı Milli kararlarında \"Ulusal Bağımsızlık\" ile ilgili kararlar alınırken, hangi konuyla ilgili bir karar alınmamıştır?",
+          "options": [
+            "Kapitülasyonlar",
+            "Sınırlar",
+            "Boğazlar",
+            "Azınlıklar",
+            "Ulusal Egemenlik (Rejim değişikliği)"
+          ],
+          "correctOption": "E",
+          "solution": "Misak-ı Milli bir bağımsızlık bildirisidir, padişahın da onayıyla meclisten geçmiştir. Bu yüzden saltanatı kaldıracak veya cumhuriyeti getirecek bir karar içermez."
+        },
+        {
+          "text": "Mustafa Kemal, İstanbul'un işgalinden sonra İstanbul ile tüm haberleşmeyi kesmiş ve Geyve-Ulukışla demiryollarını tahrip ettirmiştir. Bu önlemin amacı nedir?",
+          "options": [
+            "Padişahın kaçmasını önlemek",
+            "Ticareti durdurmak",
+            "İstanbul'dan Anadolu'ya işgalci sevkiyatını engellemek",
+            "Haberleşmeyi tamamen bitirmek",
+            "İstanbul halkını cezalandırmak"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Misak-ı Milli sınırları belirlenirken hangi antlaşmanın imzalandığı gün eldeki topraklar esas alınmıştır?",
+          "options": [
+            "Sevr Antlaşması",
+            "Mondros Ateşkes Antlaşması (30 Ekim 1918)",
+            "Lozan Antlaşması",
+            "Bükreş Antlaşması",
+            "Berlin Antlaşması"
+          ],
+          "correctOption": "B",
+          "solution": "Mondros imzalandığı an Türk askeri nerede süngü takmış bekliyorsa orası Türk vatanıdır."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Sivas Kongresi'nin sonuçlarından biridir?",
+          "options": [
+            "Saltanatın kaldırılması",
+            "Manda ve himayenin kesin olarak reddedilmesi",
+            "Düzenli ordunun kurulması (Bu TBMM dönemi)",
+            "Temsil Heyeti'nin görevinin sona ermesi (Bu TBMM açılınca)",
+            "İlk kez milli sınırlardan bahsedilmesi (Bu Erzurum)"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Temsil Heyeti'nin Ankara'ya gelmesinden sonra çıkardığı ve TBMM'nin yarı resmi yayın organı haline gelen gazete hangisidir?",
+          "options": [
+            "Açıksöz",
+            "Ceride-i Resmiye",
+            "Hakimiyet-i Milliye",
+            "Albayrak",
+            "İrade-i Milliye"
+          ],
+          "correctOption": "C",
+          "solution": "İrade-i Milliye Sivas'taydı, Ankara'da Hakimiyet-i Milliye oldu."
+        },
+        {
+          "text": "Mustafa Kemal'in Son Osmanlı Mebusan Meclisi'ne katılacak milletvekillerinden istekleri arasında hangisi yoktur?",
+          "options": [
+            "Misak-ı Milli'nin kabul edilmesi",
+            "Saltanatın kaldırılması",
+            "Müdafaa-i Hukuk grubunun kurulması",
+            "Kendisinin meclis başkanı seçilmesi",
+            "Ali Rıza Paşa hükümetine güvenoyu verilmemesi (duruma göre)"
+          ],
+          "correctOption": "D",
+          "solution": "O dönemde saltanatı kaldırmak söz konusu değildir, birlik bozulur."
+        },
+        {
+          "text": "Milli Mücadele’nin \"Hazırlık Dönemi\" resmen hangi olayla sona ermiş ve \"Mücadele Dönemi\" (TBMM Dönemi) başlamıştır?",
+          "options": [
+            "Sivas Kongresi",
+            "Amasya Görüşmeleri",
+            "Sevr Antlaşması",
+            "İstanbul'un İşgali",
+            "TBMM'nin Açılması (23 Nisan 1920)"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 3",
+      "preTestNote": "Yerel Kongreler (Batı Anadolu):\nBalıkesir ve Alaşehir Kongreleri: Yunan işgaline karşı toplandı.\nÖzellikleri: Padişaha bağlılık bildirdiler (Mustafa Kemal'den bağımsız toplandılar). Batı Cephesi'nin kurulmasını sağladılar. Başkanları: Hacim Muhittin Çarıklı.\nNazilli Kongresi: Başkanlığını Galip Hoca takma adıyla Celal Bayar yaptı.\n\nDiğer Kongreler:\nEdirne ve Lüleburgaz: Trakya'nın Yunanistan'a verilmesini önlemek için.\nPozantı Kongresi: Kilikyalılar (Adana) topladı. Mustafa Kemal ve Fevzi Çakmak katıldı. (Mustafa Kemal'in katıldığı son kongredir).\n\nMilli Mücadele Basını:\nİrade-i Milliye: Sivas Kongresi'nde çıkarıldı (Temsil Heyeti'nin ilk yayını).\nHakimiyet-i Milliye: TBMM açılınca Ankara'da çıkarıldı (Yarı resmi).\nCeride-i Resmiye: TBMM'nin çıkardığı kanunları yayımlayan resmi gazete.\nAnadolu Ajansı: Halide Edip ve Yunus Nadi kurdu.\nAlbayrak / Hadisat / Le Pays (Vatan): Doğu Anadolu Müdafaa-i Hukuk Cemiyeti'nin yayınları.\nMinber: Mustafa Kemal'in İstanbul'dayken Fethi Okyar ile çıkardığı gazete.\nAçıksöz: İstiklal Marşı'nın ilk yayımlandığı gazete (Kastamonu).\nSebilürreşad: Mehmet Akif'in başyazarı olduğu dergi (İslamcı, Milli Mücadele yanlısı).",
+      "questions": [
+        {
+          "text": "Milli Mücadele döneminde toplanan kongrelerden hangileri, toplanış amacı ve kararları bakımından bölgesel olmasına rağmen, \"Padişaha bağlılık\" bildirmeleriyle Mustafa Kemal'in hareketinden (Anadolu İhtilali'nden) ayrılırlar?",
+          "options": [
+            "Erzurum - Sivas",
+            "Balıkesir - Alaşehir",
+            "Pozantı - Afyon",
+            "Edirne - Lüleburgaz",
+            "Kars - Ardahan"
+          ],
+          "correctOption": "B",
+          "solution": "Hacim Muhittin Çarıklı başkanlığında toplanmış, Yunan'a karşı direnmişler ama saltanata bağlı kalmışlardır."
+        },
+        {
+          "text": "Batı Anadolu'da Yunan işgaline karşı direnişi örgütlemek için toplanan Nazilli Kongresi'nin başkanlığını \"Galip Hoca\" takma adıyla kim yapmıştır?",
+          "options": [
+            "Celal Bayar",
+            "Rauf Orbay",
+            "Adnan Menderes",
+            "Refet Bele",
+            "Çerkez Ethem"
+          ],
+          "correctOption": "A",
+          "solution": "Türkiye'nin 3. Cumhurbaşkanı."
+        },
+        {
+          "text": "Aşağıdaki kongrelerden hangisine Mustafa Kemal bizzat katılmıştır?",
+          "options": [
+            "Pozantı",
+            "Nazilli",
+            "Balıkesir",
+            "Edirne",
+            "Alaşehir"
+          ],
+          "correctOption": "A",
+          "solution": "Mustafa Kemal sadece Erzurum, Sivas, Afyon ve Pozantı kongrelerine katılmıştır."
+        },
+        {
+          "text": "Kilikyalılar Cemiyeti tarafından Adana ve çevresini Fransız işgalinden kurtarmak amacıyla düzenlenen kongre hangisidir?",
+          "options": [
+            "Alaşehir Kongresi",
+            "Kars İslam Şurası",
+            "Lüleburgaz Kongresi",
+            "Pozantı Kongresi",
+            "Trabzon Kongresi"
+          ],
+          "correctOption": "D",
+          "solution": "1920'de toplanmıştır."
+        },
+        {
+          "text": "Milli Mücadele'nin haklılığını dünya kamuoyuna duyurmak için Sivas Kongresi kararıyla çıkarılan ilk gazete hangisidir?",
+          "options": [
+            "Hakimiyet-i Milliye",
+            "Ceride-i Resmiye",
+            "Tasvir-i Efkar",
+            "Albayrak",
+            "İrade-i Milliye"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "TBMM açıldıktan sonra Ankara'da çıkarılmaya başlanan ve Milli Mücadele'nin \"Yarı Resmi\" yayın organı olan gazete hangisidir?",
+          "options": [
+            "Yenigün",
+            "Hakimiyet-i Milliye",
+            "İrade-i Milliye",
+            "Öğüt",
+            "İkdam"
+          ],
+          "correctOption": "B",
+          "solution": "Mustafa Kemal: \"Benim gazetem\" demiştir. Cumhuriyetten sonra \"Ulus\" adını almıştır."
+        },
+        {
+          "text": "İstiklal Marşı'nın metnini ilk kez yayımlayan (Kastamonu'da çıkan) yerel gazete hangisidir?",
+          "options": [
+            "Sebilürreşad",
+            "Açıksöz",
+            "Hakimiyet-i Milliye",
+            "Ceride-i Resmiye",
+            "Albayrak"
+          ],
+          "correctOption": "B",
+          "solution": "Dergilerden ise ilk Sebilürreşad yayımlamıştır."
+        },
+        {
+          "text": "Mustafa Kemal'in Samsun'a çıkmadan önce İstanbul'da Fethi (Okyar) Bey ile birlikte çıkardığı ve fikirlerini yaymaya çalıştığı gazete hangisidir?",
+          "options": [
+            "İleri",
+            "Tanin",
+            "Minber",
+            "Yenigün",
+            "Tasvir-i Efkar"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Doğu Anadolu Müdafaa-i Hukuk Cemiyeti'nin yayın organı olan ve Doğu illerinin Türk yurdu olduğunu savunan gazeteler hangileridir?",
+          "options": [
+            "Peyam-ı Sabah - Alemdar",
+            "İleri - Yenigün - Akşam",
+            "Albayrak - Hadisat - Le Pays (Vatan)",
+            "Minber - İkdam - Tanin",
+            "Ümit - Zafer"
+          ],
+          "correctOption": "C",
+          "solution": "Fransızca Le Pays ile dünya kamuoyuna seslenilmiştir."
+        },
+        {
+          "text": "Milli Mücadele aleyhine yayın yapan (Zararlı) yayın organları arasında aşağıdakilerden hangisi yer almaz?",
+          "options": [
+            "Peyam-ı Sabah",
+            "Alemdar",
+            "Ümit",
+            "İleri",
+            "Aydede"
+          ],
+          "correctOption": "D",
+          "solution": "İleri gazetesi yararlıdır. Hatta Atatürk'ün isimsiz yazılarını yayımlamıştır."
+        },
+        {
+          "text": "Mondros Ateşkesi'nden sonra İstanbul'dan Anadolu'ya silah ve cephane kaçırmak, istihbarat sağlamak amacıyla kurulan gizli teşkilat hangisidir?",
+          "options": [
+            "Karakol Cemiyeti",
+            "Mim Mim Grubu",
+            "Felah Grubu",
+            "Hamza Grubu",
+            "Hepsi"
+          ],
+          "correctOption": "A",
+          "solution": "Karakol Cemiyeti en bilinenidir, ancak Mim Mim, Hamza gibi gruplar da aynı amaçla çalışmıştır."
+        },
+        {
+          "text": "Mustafa Kemal, İstanbul'un işgalinden sonra İstanbul ile her türlü haberleşmeyi kesmiş ve İstanbul'dan Anadolu'ya yapılan para transferlerini durdurmuştur. Ayrıca İstanbul hükümetinin Anadolu'daki gelirlerine el koymuştur. Bu durum Temsil Heyeti'nin hangi yetkisini kullandığını gösterir?",
+          "options": [
+            "Diploması",
+            "Yürütme",
+            "Yasama",
+            "Yargı",
+            "Askeri"
+          ],
+          "correctOption": "C",
+          "solution": "Devlet gibi vergiye/gelire el koyma."
+        },
+        {
+          "text": "Aşağıdaki cemiyetlerden hangisi ilk kurulan yararlı cemiyettir?",
+          "options": [
+            "Kilikyalılar",
+            "Şark Vilayetleri",
+            "Trabzon Muhafaza-i Hukuk",
+            "İzmir Müdafaa-i Hukuk",
+            "Trakya Paşaeli"
+          ],
+          "correctOption": "E",
+          "solution": "Mondros'tan hemen sonra kurulmuştur."
+        },
+        {
+          "text": "Mustafa Kemal'in \"Sizleri bir kıvılcım olarak gönderiyorum, volkan olup dönmelisiniz\" diyerek yurt dışına (Avrupa'ya) eğitime gönderdiği öğrenciler hangi alanlarda eğitim almıştır?",
+          "options": [
+            "Bilim, Sanat ve Müzik",
+            "Sadece Askerlik",
+            "İlahiyat",
+            "Diplomasi",
+            "Spor"
+          ],
+          "correctOption": "A",
+          "solution": "Sadi Irmak, Ekrem Akurgal gibi isimler."
+        },
+        {
+          "text": "Milli Mücadele döneminde İstanbul Hükümeti'nin Anadolu'daki hareketi \"Bolşeviklik (Komünizm)\" ile suçlaması üzerine, Mustafa Kemal'in bu propagandayı çürütmek için kurdurduğu (danışıklı/taktiksel) parti hangisidir?",
+          "options": [
+            "Yeşil Ordu",
+            "Halk Zümresi",
+            "Amele Fırkası",
+            "Türkiye Komünist Fırkası (Resmi)",
+            "Ahali Fırkası"
+          ],
+          "correctOption": "D",
+          "solution": "Resmi Türkiye Komünist Fırkası'nı bizzat kurdurarak kontrolü elinde tutmak istemiştir."
+        },
+        {
+          "text": "Milli Mücadele'de kadın kahramanlarımızdan \"Kara Fatma\" (Fatma Seher Erden) hangi cephede savaşmıştır?",
+          "options": [
+            "Doğu Cephesi",
+            "Güney Cephesi",
+            "Batı Cephesi (İzmit/Bursa)",
+            "Çanakkale",
+            "Yemen"
+          ],
+          "correctOption": "B",
+          "solution": "Batı cephesinde milis güçlerle savaşmıştır."
+        },
+        {
+          "text": "İstanbul Hükümeti'nin (Şeyhülislam Dürrizade Abdullah) Milli Mücadele aleyhine yayımladığı fetvaya karşılık, Ankara Müftüsü Rıfat Börekçi'nin yayımladığı \"Milli Mücadele'nin dinen caiz olduğu\" yönündeki fetva, hangi kavramın önemini gösterir?",
+          "options": [
+            "Ekonomik gücün",
+            "Dış desteğin",
+            "Askeri gücün",
+            "Eğitim seviyesinin",
+            "Psikolojik harbin (Propaganda ve Din algısı)"
+          ],
+          "correctOption": "E",
+          "solution": "Halkın dini duygularını doğru yönlendirmek için."
+        },
+        {
+          "text": "Milli Mücadele döneminde Amerikan mandasını savunan \"Halide Edip, Refik Halit\" gibi aydınların bu fikirden vazgeçmesini sağlayan gelişme nedir?",
+          "options": [
+            "ABD'nin mandayı kabul etmemesi",
+            "İngiltere'nin baskısı",
+            "Sivas Kongresi'nde mandanın kesin reddedilmesi ve Mustafa Kemal'in kararlı tutumu",
+            "İstanbul Hükümeti'nin uyarısı",
+            "Rusya'nın yardımı"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal, Erzurum Kongresi'nden sonra Sivas'a giderken İttihatçıların eski valisi (Deli Halit Paşa gibi) komutanlarla bir araya gelerek \"Sivas Komutanlar Toplantısı\"nı yapmıştır. Bu toplantının ana gündemi nedir?",
+          "options": [
+            "Yeni bir devlet kurmak",
+            "Düzenli orduya geçmek",
+            "Mebusan Meclisi'ne katılacak adayları ve izlenecek stratejiyi belirlemek",
+            "Saltanatı kaldırmak",
+            "Padişahı tahttan indirmek"
+          ],
+          "correctOption": "E",
+          "solution": ""
+        },
+        {
+          "text": "Misak-ı Milli kararlarında \"Arap Toprakları\" için öngörülen çözüm yöntemi nedir?",
+          "options": [
+            "Osmanlı'ya bağlanması",
+            "Bağımsız olması",
+            "İngiliz mandasına girmesi",
+            "Halk oylaması (Referandum) yapılması",
+            "Hilafete bağlı kalması"
+          ],
+          "correctOption": "D",
+          "solution": "Halkın çoğunluğu Müslüman olduğu için kendi kaderlerini tayin etmeleri istenmiştir."
+        },
+        {
+          "text": "Aşağıdaki şehirlerden hangisi Misak-ı Milli sınırları içerisinde yer almasına rağmen günümüz Türkiye sınırları dışındadır?",
+          "options": [
+            "Kars",
+            "Edirne",
+            "Batum",
+            "İzmir",
+            "Antalya"
+          ],
+          "correctOption": "C",
+          "solution": "Batum, Musul ve Kerkük Misak-ı Milli sınırları içindeydi, kaybedildi."
+        },
+        {
+          "text": "Amasya Görüşmeleri'nde İstanbul Hükümeti temsilcisi Salih Paşa'nın, Temsil Heyeti'nin isteklerini \"Şahsi olarak kabul ediyorum ama hükümete kabul ettiremeyebilirim\" demesi neyi gösterir?",
+          "options": [
+            "Salih Paşa'nın yetkisiz olduğunu",
+            "İstanbul Hükümeti içinde görüş birliği olmadığını ve Salih Paşa'nın hükümet üzerinde tam otoritesi bulunmadığını",
+            "Temsil Heyeti'nin çok ağır şartlar öne sürdüğünü",
+            "İngilizlerin görüşmelere katıldığını",
+            "Padişahın Milli Mücadele'yi desteklediğini"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Milli Mücadele döneminde \"İstiklal Yolu\" olarak bilinen ve mühimmatın kağnılarla taşındığı güzergah hangi illeri kapsar?",
+          "options": [
+            "İnebolu - Kastamonu - Ilgaz - Çankırı - Ankara",
+            "İzmir - Afyon - Ankara",
+            "Samsun - Amasya - Sivas",
+            "Antalya - Konya - Ankara",
+            "Erzurum - Erzincan - Sivas"
+          ],
+          "correctOption": "A",
+          "solution": "Şerife Bacı'nın donarak şehit olduğu yol."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Milli Mücadele karşıtı olup sonradan \"Yüzellilikler\" listesine alınarak sürgün edilen gazetecilerden biridir?",
+          "options": [
+            "Yunus Nadi",
+            "Falih Rıfkı",
+            "Hasan Tahsin",
+            "Ruşen Eşref",
+            "Ali Kemal"
+          ],
+          "correctOption": "E",
+          "solution": "Peyam-ı Sabah yazarı, Milli Mücadele'ye en sert muhalefet edenlerdendir."
+        },
+        {
+          "text": "Sivas Kongresi'ne katılan delegelerin, kongre salonunda yemin ederek \"Siyasetle uğraşmayacağız ve ...............\" dedikleri konu nedir?",
+          "options": [
+            "Padişaha karşı gelmeyeceğiz",
+            "İttihat ve Terakki'yi yeniden canlandırmayacağız",
+            "Cumhuriyet ilan etmeyeceğiz",
+            "Vergi toplamayacağız",
+            "Ordu kurmayacağız"
+          ],
+          "correctOption": "D",
+          "solution": "Halkın İttihatçılara duyduğu öfke nedeniyle, Milli Mücadele'nin bir İttihatçı hareketi olmadığını kanıtlamak zorunda kalmışlardır."
+        }
+      ]
+    },
+    {
+      "testName": "Mini Test - 4",
+      "preTestNote": "Kronoloji (Hayat Kurtarır):\nSamsun'a Çıkış (19 Mayıs 1919) -> İlk adım.\nHavza Genelgesi -> İlk ulusal bilinç (Miting).\nAmasya Genelgesi -> İhtilal bildirisi (Amaç/Yöntem).\nErzurum Kongresi -> İlk milli sınırlar (Bölgesel toplanış).\nSivas Kongresi -> Tam birleşme (Tüm cemiyetler).\nAmasya Görüşmeleri -> İstanbul'un Ankara'yı tanıması.\nTemsil Heyeti Ankara'da (27 Aralık 1919).\nMisak-ı Milli (Son Osmanlı Mebusan Meclisi).\nİstanbul'un İşgali (16 Mart 1920).\nTBMM'nin Açılışı (23 Nisan 1920).\n\nKritik İsimler:\nŞerif Bey (Sinop Mebusu): En yaşlı üye sıfatıyla TBMM’nin açılış konuşmasını yapmıştır.\nAli Galip: Sivas Kongresi’ni basmaya çalışan hain vali.\nGeneral Milne: Anadolu’da Türk kuvvetleri ile Yunan kuvvetleri arasında tampon bölge (Milne Hattı) çizmeye çalışan İngiliz general. (Türkler bu hattı tanımadı).\nAmiral Bristol: İzmir işgalinin haksızlığını yazan ilk uluslararası rapor.",
+      "questions": [
+        {
+          "text": "Milli Mücadele’nin hazırlık döneminde, İstanbul Hükümeti ile Temsil Heyeti arasında yapılan Amasya Görüşmeleri’nde, Temsil Heyeti adına Mustafa Kemal ve Rauf Orbay katılmıştır. Peki, İstanbul Hükümeti adına görüşmelere katılan Bahriye Nazırı kimdir?",
+          "options": [
+            "Damat Ferit Paşa",
+            "Ali Rıza Paşa",
+            "Salih Paşa",
+            "Tevfik Paşa",
+            "Ahmet İzzet Paşa"
+          ],
+          "correctOption": "C",
+          "solution": ""
+        },
+        {
+          "text": "23 Nisan 1920’de açılan I. TBMM’nin, en yaşlı üye sıfatıyla açılış konuşmasını yapan geçici başkanı kimdir?",
+          "options": [
+            "Mustafa Kemal",
+            "Celal Bayar",
+            "Kazım Karabekir",
+            "Sinop Mebusu Şerif Bey",
+            "Abdurrahman Şeref Bey"
+          ],
+          "correctOption": "D",
+          "solution": ""
+        },
+        {
+          "text": "Kurtuluş Savaşı sırasında Yunan ilerleyişini durdurmak ve zaman kazanmak amacıyla İtilaf Devletleri tarafından önerilen, Türk kuvvetleri ile Yunan kuvvetleri arasında çizilen yapay sınıra ne ad verilir?",
+          "options": [
+            "Milne Hattı",
+            "Mac-Mahon Hattı",
+            "Curzon Hattı",
+            "Yeşil Hat",
+            "Brüksel Hattı"
+          ],
+          "correctOption": "A",
+          "solution": "Türkler bu hattı tanımayarak taarruza geçmiştir."
+        },
+        {
+          "text": "Sivas Kongresi’nde tartışılan en önemli iki konu nedir?",
+          "options": [
+            "Saltanatın kaldırılması - Cumhuriyetin ilanı",
+            "Misak-ı Milli - İstanbul'un işgali",
+            "Manda ve Himaye - Cemiyetlerin birleştirilmesi (veya Kongre Başkanlığı)",
+            "Lozan'a kimin gideceği - Musul sorunu",
+            "Düzenli orduya geçiş - Vergi toplanması"
+          ],
+          "correctOption": "C",
+          "solution": "Özellikle ABD mandası çok tartışılmış ve kesin reddedilmiştir. Başkanlık sorunu da yaşanmıştır."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi I. TBMM’nin çıkardığı ilk kanundur?",
+          "options": [
+            "Hıyanet-i Vataniye Kanunu",
+            "Düzenli Ordu Kanunu",
+            "Teşkilat-ı Esasiye",
+            "Firariler Kanunu",
+            "Ağnam Resmi Kanunu (Verginin artırılması)"
+          ],
+          "correctOption": "E",
+          "solution": "Mali kaynak yaratmak için hayvan vergisini artırmıştır."
+        },
+        {
+          "text": "Mustafa Kemal’in \"Milli sınırları\" (Misak-ı Milli) harita üzerinde çizerek ilk kez dile getirdiği kongre hangisidir?",
+          "options": [
+            "Afyon",
+            "Erzurum",
+            "Amasya",
+            "Pozantı",
+            "Sivas"
+          ],
+          "correctOption": "B",
+          "solution": "Erzurum Kongresi'nde \"Milli sınırlar içinde vatan bir bütündür\" demiştir."
+        },
+        {
+          "text": "İstanbul’un işgali üzerine Mustafa Kemal’in Ankara’da olağanüstü yetkilere sahip bir meclisin toplanacağını duyurduğu genelgeye ne ad verilir?",
+          "options": [
+            "Havza Genelgesi",
+            "Amasya Tamimi",
+            "Tekalif-i Milliye",
+            "Nutuk",
+            "1920 Seçim Genelgesi (Anadolu'ya Beyanname)"
+          ],
+          "correctOption": "B",
+          "solution": "Valiliklere ve komutanlıklara göndererek seçimlerin yapılmasını istemiştir."
+        },
+        {
+          "text": "Son Osmanlı Mebusan Meclisi’nde kabul edilen Misak-ı Milli kararlarında \"Azınlık Hakları\" ile ilgili benimsenen temel ilke nedir?",
+          "options": [
+            "Azınlıklara en geniş haklar verilecektir.",
+            "Azınlıklar sınır dışı edilecektir.",
+            "Azınlıklar askerlikten muaf tutulacaktır.",
+            "Kapitülasyonlar devam edecektir.",
+            "Komşu ülkelerdeki Müslümanlara ne kadar hak veriliyorsa, bizdeki azınlıklara da o kadar hak verilecektir (Mütekabiliyet/Denklik)."
+          ],
+          "correctOption": "E",
+          "solution": "Uluslararası eşitlik ilkesi."
+        },
+        {
+          "text": "Milli Mücadele yanlısı fetva veren Ankara Müftüsü Rıfat Börekçi, Cumhuriyet döneminde hangi göreve getirilmiştir?",
+          "options": [
+            "Milli Eğitim Bakanı",
+            "İlk Diyanet İşleri Başkanı",
+            "Şeyhülislam",
+            "TBMM Başkanı",
+            "Vakıflar Genel Müdürü"
+          ],
+          "correctOption": "A",
+          "solution": ""
+        },
+        {
+          "text": "Aşağıdakilerden hangisi Kuvayi Milliye’nin kaldırılmasının ve Düzenli Ordu’ya geçilmesinin nedenlerinden biri değildir?",
+          "options": [
+            "İşgalleri tamamen durdurmaları",
+            "Disiplinsiz hareket etmeleri ve halktan zorla yardım toplamaları",
+            "Gediz Taarruzu'ndaki başarısızlık",
+            "Kuvayi Milliye'nin düşmanı yurttan atacak güce sahip olmaması (Sadece oyalaması)",
+            "Bazı şeflerin kendi başlarına yargılama yapmaları"
+          ],
+          "correctOption": "A",
+          "solution": "İşgalleri durduramamış, sadece yavaşlatmışlardır."
+        },
+        {
+          "text": "Milli Mücadele’de \"İstiklal Yolu\" üzerinden İnebolu’dan Ankara’ya cephane taşıyan kayıkçılar ve kağnı kollarının fedakarlığı hangi madalya ile ödüllendirilmiştir? (İnebolu halkına).",
+          "options": [
+            "Üstün Cesaret Madalyası",
+            "Cumhuriyet Madalyası",
+            "Şeref Madalyası",
+            "İstiklal Madalyası",
+            "Liyakat Madalyası"
+          ],
+          "correctOption": "D",
+          "solution": "İnebolu, İstiklal Madalyası alan tek ilçedir. Maraş, Antep, Urfa şehirdir."
+        },
+        {
+          "text": "Mustafa Kemal'in 9. Ordu Müfettişi olarak Samsun'a gönderilmesindeki resmi (görünürdeki) görev tanımı içinde aşağıdakilerden hangisi yoktur?",
+          "options": [
+            "Bölgedeki asayişi sağlamak",
+            "Rumlara yönelik saldırıları önlemek",
+            "Milli Mücadele'yi başlatmak ve kongreler düzenlemek",
+            "Türklerin elindeki silahları toplamak",
+            "Mondros hükümlerini uygulamak"
+          ],
+          "correctOption": "C",
+          "solution": "Bu onun gizli amacıdır, resmi görevi değildir."
+        },
+        {
+          "text": "Amasya Genelgesi'nde yer alan \"İstanbul Hükümeti üzerine aldığı sorumluluğu yerine getirememektedir\" maddesi neyin göstergesidir?",
+          "options": [
+            "Mandanın kabul edildiğinin",
+            "Saltanatın kaldırıldığının",
+            "İstanbul ile anlaşıldığının",
+            "İstanbul Hükümeti'ne karşı bir başkaldırı olduğunun ve gerekçe sunulduğunun",
+            "Ordunun terhis edildiğinin"
+          ],
+          "correctOption": "D",
+          "solution": "İhtilalin gerekçesidir."
+        },
+        {
+          "text": "Sivas Kongresi sırasında çıkarılan \"İrade-i Milliye\" gazetesinin adı, TBMM açıldıktan sonra Ankara'da ne olarak değiştirilmiştir?",
+          "options": [
+            "Yenigün",
+            "Tanin",
+            "Tasvir-i Efkar",
+            "Hakimiyet-i Milliye",
+            "Ulus"
+          ],
+          "correctOption": "E",
+          "solution": "Milletin iradesinden Milletin hakimiyetine geçiş."
+        },
+        {
+          "text": "I. TBMM'nin açılmasıyla birlikte \"Temsil Heyeti\"nin durumu ne olmuştur?",
+          "options": [
+            "Askeri bir kuruma dönüşmüştür.",
+            "Hükümet olmuştur.",
+            "Muhalefet partisi olmuştur.",
+            "Görevi sona ermiştir.",
+            "İstanbul'a taşınmıştır."
+          ],
+          "correctOption": "D",
+          "solution": "Meclis açılınca Temsil Heyeti'nin yetkileri meclise devredilmiş ve görevi bitmiştir."
+        },
+        {
+          "text": "I. TBMM'de milletvekilleri arasında \"Partileşme\" olmamasının yerine \"Gruplaşma\" olmasının temel nedeni nedir?",
+          "options": [
+            "Demokrasi kültürünün olmaması",
+            "Milli birliği korumak ve hızlı karar almak (Bölünmeyi önlemek)",
+            "Farklı görüşlerin olmaması",
+            "Padişahın izin vermemesi",
+            "Avrupa'nın baskısı"
+          ],
+          "correctOption": "B",
+          "solution": "Amaç vatanı kurtarmaktır, siyasi rekabet zamanı değildir."
+        },
+        {
+          "text": "Aşağıdakilerden hangisi I. TBMM'deki gruplardan biri değildir?",
+          "options": [
+            "Müdafaa-i Hukuk",
+            "Tesanüt",
+            "Yeşil Ordu",
+            "Islahat",
+            "Felah-ı Vatan"
+          ],
+          "correctOption": "C",
+          "solution": "Felah-ı Vatan grubu Son Osmanlı Mebusan Meclisi'nde kurulan gruptur. TBMM'de yoktur."
+        },
+        {
+          "text": "Milli Mücadele döneminde \"Yeşil Ordu\" ve \"Halk Zümresi\" gibi gruflar hangi siyasi görüşe yakındır?",
+          "options": [
+            "Bolşevik - Sol Görüş",
+            "Türkçü - Turancı",
+            "İslamcı - Ümmetçi",
+            "Batıcı - Liberal",
+            "Saltanatçı"
+          ],
+          "correctOption": "A",
+          "solution": "Çerkez Ethem'in de içinde bulunduğu, Sovyet Rusya'ya yakın gruplardır."
+        },
+        {
+          "text": "Mustafa Kemal'in \"Nutuk\" adlı eseri hangi yılları kapsamaktadır?",
+          "options": [
+            "1919 - 1923",
+            "1920 - 1930",
+            "1881 - 1938",
+            "1914 - 1919",
+            "1919 - 1927"
+          ],
+          "correctOption": "E",
+          "solution": "1919 Samsun'a çıkışla başlar, 1927 Gençliğe Hitabe ile biter."
+        },
+        {
+          "text": "I. TBMM'ye karşı çıkan isyanlardan \"Koçgiri İsyanı\" hangi bölgede ve ne amaçla çıkmıştır?",
+          "options": [
+            "İstanbul - Hilafet",
+            "Konya - Saltanatı korumak",
+            "Yozgat - Çapanoğlu",
+            "Erzincan/Sivas - Kürtçülük/Bölücülük",
+            "Balıkesir - Anzavur"
+          ],
+          "correctOption": "D",
+          "solution": "Etnik kökenli bir isyandır."
+        },
+        {
+          "text": "Temsil Heyeti'nin, Ali Fuat Paşa'yı Batı Cephesi Komutanlığı'na ataması Sivas Kongresi'nde gerçekleşmiştir. Bu atama ile Temsil Heyeti hangi gücünü kullanmıştır?",
+          "options": [
+            "Yasama",
+            "Yürütme",
+            "Yargı",
+            "Denetleme",
+            "Af"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "\"Manda ve himaye kabul edilemez\" kararı ile ABD mandası, \"Hristiyan azınlıklara ayrıcalık verilemez\" kararı ile de hangi ferman reddedilmiştir?",
+          "options": [
+            "Tanzimat",
+            "Sened-i İttifak",
+            "Kanun-i Esasi",
+            "Halepa",
+            "Islahat"
+          ],
+          "correctOption": "E",
+          "solution": "Islahat Fermanı ile verilen haklar, milli egemenliğe aykırı bulunmuştur."
+        },
+        {
+          "text": "I. TBMM'nin kabul ettiği 1921 Anayasası'nda (Teşkilat-ı Esasiye) \"Şer'i hükümlerin yerine getirilmesi TBMM'ye aittir\" maddesi yer almıştır. Bu madde meclisin hangi özelliğini gösterir?",
+          "options": [
+            "Laik olduğunu",
+            "Demokratik olduğunu",
+            "Teokratik (Dini) yetkilere sahip olduğunu",
+            "Cumhuriyetçi olduğunu",
+            "Askeri olduğunu"
+          ],
+          "correctOption": "C",
+          "solution": "Halifelik henüz kaldırılmadığı ve halkın hassasiyeti gözetildiği için bu madde konulmuştur."
+        },
+        {
+          "text": "Sevr Antlaşması'nın \"Kapitülasyonlar en geniş haliyle bütün devletlere verilecektir\" maddesi Osmanlı'nın neyini yok etmeye yöneliktir?",
+          "options": [
+            "Askeri gücünü",
+            "Ekonomik bağımsızlığını",
+            "Sınırlarını",
+            "Saltanatını",
+            "Eğitim sistemini"
+          ],
+          "correctOption": "B",
+          "solution": ""
+        },
+        {
+          "text": "Mustafa Kemal, Nutuk'ta Samsun'a çıktığı günkü genel durumu anlatırken \"Millet yorgun ve fakir, ordunun elinden silahları alınmış...\" diye bahseder. Nutuk'ta \"Milli Sır\" olarak bahsettiği hedef nedir?",
+          "options": [
+            "Cumhuriyeti ilan etmek",
+            "Saltanatı kaldırmak",
+            "İstanbul'a dönmek",
+            "Enver Paşa ile birleşmek",
+            "Halife olmak"
+          ],
+          "correctOption": "A",
+          "solution": "Bu sırrı, zamanı gelene kadar en yakınlarından bile saklamıştır."
+        }
+      ]
+    }
+  ]
+}

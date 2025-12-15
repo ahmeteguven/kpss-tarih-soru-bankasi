@@ -1,0 +1,75 @@
+{
+  "konu_adi": "33- 31 MART OLAYI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "31 MART OLAYI (13 NİSAN 1909)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "💣 İsyanın Ortaya Çıkışı ve Nedenleri"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. İsyanın Niteliği"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Tarih: Miladi takvime göre 13 Nisan 1909'da İstanbul'da gerçekleşmiştir.",
+        "Amaç: İkinci Meşrutiyet'i yıkmayı ve mutlak monarşiye (İstibdat Dönemi'ne) geri dönmeyi amaçlayan, rejime karşı çıkan ilk isyandır.",
+        "İsyancı Gruplar: Avcı Taburları'ndan ayrılan askerler, medrese öğrencileri ve bazı din adamları (gerici subaylar)."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Siyasi Arka Plan"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "İsyancılar, İttihat ve Terakki Cemiyeti'nin (İTC) Batılılaşma politikalarından ve ordudaki modernleşme çabalarından rahatsızdı.",
+        "Meşrutiyet karşıtı yayınlar (Serbestî gazetesi) isyanın fikri zeminini oluşturmuştur."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Hareket Ordusu ve İsyanın Bastırılması"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Hareket Ordusu: İsyana karşı Meşrutiyet'e bağlı kalan ve İttihat ve Terakki Cemiyeti'ne yakın askeri birlikler, Selanik'ten İstanbul'a hareket etmiştir.",
+        "Komuta Heyeti: Ordunun komutanlığını Mahmut Şevket Paşa, Kurmay Başkanlığı görevini ise Mustafa Kemal üstlenmiştir.",
+        "Bastırma: Hareket Ordusu, 11 gün süren operasyonla isyanı kesin olarak bastırmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "👑 İsyanın Sonuçları (Rejim Güçlendi)"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Rejim ve Padişah Değişikliği"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "II. Abdülhamit'in Tahttan İndirilmesi: İsyanı engelleyemediği gerekçesiyle, Meclis kararıyla (Milli İrade) tahttan indirilmiş, yerine V. Mehmet Reşat geçirilmiştir.",
+        "Önem: Padişahın, Milli İrade (Meclis) kararıyla tahttan indirilmesi, Osmanlı tarihinde bir ilktir ve Meşrutiyet rejiminin gücünü kanıtlamıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Kanun-i Esasi ve İTC'nin Yükselişi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Kanun-i Esasi Değişikliği (1909): Padişahın yetkileri daha da kısıtlanmış ve Hükümetin Meclis-i Mebusan'a karşı sorumlu olması ilkesi kesinleşmiştir.",
+        "İttihat ve Terakki'nin Yükselişi: İsyanı bastıran İTC, Meclis üzerindeki etkisini artırarak fiilen ülkenin tek hakimi haline gelmiştir.",
+        "Ordu-Siyaset İlişkisi: Ordu, rejim koruyuculuğu adı altında doğrudan siyasete müdahale etme geleneğini güçlendirmiştir."
+      ]
+    }
+  ]
+}

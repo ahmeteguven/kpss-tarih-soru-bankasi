@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 04",
+  "examCode": "deneme_04",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 04)\n\n**İlk Çağdan Günümüze:** Türklerde ilk teşkilatlı devlet Asya Hun Devleti'dir. Orhun Abideleri, Türk tarihinin ilk yazılı eserleri olup Siyasetname özelliği taşır. Uygurlar, Maniheizm dininin etkisiyle yerleşik hayata geçen ilk Türk devletidir. Gazneli Mahmut, Hindistan'a 17 sefer düzenleyerek İslamiyet'i yaymıştır. Anadolu'da kurulan ilk Türk Beyliği Saltuklular'dır.\n\n**Osmanlı ve Islahatlar:** Fatih Sultan Mehmet, Divan'a Sadrazam'ın başkanlık etmesi kuralını getirerek otoritesini artırmayı amaçlamıştır. Duraklama Dönemi'nde (17. Yüzyıl) çıkan Celali İsyanları'nın temel nedeni ekonomik sıkıntılar ve Tımar sistemindeki bozulmalardır. Padişahın yetkilerini kısıtlayan ilk belge Sened-i İttifak'tır (1808). Tanzimat Fermanı (1839) ile padişah ilk kez kanun üstünlüğünü kabul etmiştir.\n\n**Çağdaş ve Cumhuriyet:** I. Dünya Savaşı'nda Osmanlı'nın taarruz cepheleri Kafkas ve Kanal'dır. Trablusgarp Savaşı'nda İtalya, dünya tarihinde ilk kez savaş uçağı kullanmıştır. Serbest Cumhuriyet Fırkası (1930), 1929 Dünya Ekonomik Buhranı'nın etkilerini azaltmak için kurulmuştur. Kadınlara siyasi hakların verilmesi (Belediye-Muhtar-Vekil) Halkçılık ve Cumhuriyetçilik ilkeleriyle ilgilidir. Hatay'ın anavatana katılması sürecinde Milletler Cemiyeti Sandler Raporu'nu hazırlamıştır.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Avrupa Hunları: Avrupa'da kurulan ilk Türk devletidir. Kurucusu Balamir, en parlak dönemi Attila (Tanrı'nın Kırbacı / Cesur Kavimlerin Efendisi)'dır. Bizans ile Margus ve Anatolius antlaşmaları imzalanmıştır.",
+      "options": [
+        "Avarlar",
+        "Peçenekler",
+        "Asya Hun Devleti",
+        "Hazarlar",
+        "Avrupa Hun Devleti"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türk devletlerinde siyasi suçlara bakan yüksek mahkemeye \"Yargu\" denirdi. Bu mahkemenin başkanlığını kim yapardı?",
+      "options": [
+        "Yargan",
+        "Kağan",
+        "Ayguci",
+        "Şaman",
+        "Tudun"
+      ],
+      "correctOption": "B",
+      "solution": "Yüksek mahkeme olduğu için Kağan başkanlık eder, normal davalara Yargan bakar."
+    },
+    {
+      "id": 3,
+      "text": "Karahanlılar döneminde inşa edilen ve sınır güvenliği ile ticaretin gelişmesine katkı sağlayan, Türk İslam mimarisindeki ilk kervansaray örneklerine ne ad verilir?",
+      "options": [
+        "Külliye",
+        "Bedesten",
+        "Arasta",
+        "İmaret",
+        "Ribat"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Miryokefalon Savaşı'ndan sonra Anadolu'ya batı kaynaklarında hangi isim verilmeye başlanmıştır?",
+      "options": [
+        "Anatolia",
+        "Küçük Asya",
+        "Doğu Roma",
+        "Barbaria",
+        "Turchia (Türkiye)"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti’nin Balkanlardaki gayrimüslim halka uyguladığı \"Hoşgörü ve Gönül Alma\" politikasına ne ad verilir?",
+      "options": [
+        "İskan",
+        "Millet Sistemi",
+        "Pençik",
+        "Dirlik",
+        "İstimalet"
+      ],
+      "correctOption": "E",
+      "solution": "İstimalet: Meylettirme, gönül alma. Bu sayede Fetret Devri'nde Balkanlar kopmadı."
+    },
+    {
+      "id": 6,
+      "text": "Kanuni Sultan Süleyman’ın Hristiyan birliğini parçalamak ve Akdeniz ticaretini canlandırmak amacıyla 1535 yılında kapitülasyon (ticari ayrıcalık) verdiği devlet hangisidir?",
+      "options": [
+        "İngiltere",
+        "Hollanda",
+        "Venedik",
+        "Rusya",
+        "Fransa"
+      ],
+      "correctOption": "E",
+      "solution": "Venedik'e Fatih vermişti, Fransa'ya Kanuni verdi. Fransa kapitülasyonları daha kapsamlı ve politiktir."
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti tarihinde padişahın yetkilerini ilk kez kısıtlayan ve demokratikleşme yolunda atılan ilk adım olarak kabul edilen belge hangisidir?",
+      "options": [
+        "Tanzimat Fermanı",
+        "Islahat Fermanı",
+        "Kanun-i Esasi",
+        "Sened-i İttifak",
+        "Gülhane Hatt-ı Hümayunu"
+      ],
+      "correctOption": "D",
+      "solution": "II. Mahmut - 1808"
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti’nde Tımar sisteminin uygulandığı, vergilerin doğrudan asker beslemek için kullanıldığı ve merkeze yakın olan eyaletlere ne ad verilir?",
+      "options": [
+        "Salyaneli (Yıllıklı) Eyaletler",
+        "Salyanesiz (Yıllıksız) Eyaletler",
+        "İmtiyazlı Eyaletler",
+        "Yurtluk",
+        "Ocaklık"
+      ],
+      "correctOption": "B",
+      "solution": "Salyane \"Yıllık Maaş\" demektir. Salyanesiz demek, memura maaş yok, toprak geliri var demektir."
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti’nde ilk kez \"Rejime (Yönetim Biçimine)\" karşı çıkan isyan hangisidir?",
+      "options": [
+        "Şeyh Bedrettin İsyanı",
+        "Celali İsyanları",
+        "31 Mart Vakası",
+        "Babıali Baskını",
+        "Kabakçı Mustafa İsyanı"
+      ],
+      "correctOption": "C",
+      "solution": "Meşrutiyeti yıkıp Mutlakiyeti geri getirmek istemişlerdir."
+    },
+    {
+      "id": 10,
+      "text": "II. Abdülhamit döneminde Doğu Anadolu’da Ermeni çetelerine karşı bölge halkından (özellikle Kürt aşiretlerinden) oluşturulan askeri birliklere ne ad verilir?",
+      "options": [
+        "Nizam-ı Cedid",
+        "Hamidiye Alayları",
+        "Sekban-ı Cedid",
+        "Eşkinci Ocağı",
+        "Redif Birlikleri"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti’nde ilk resmi gazete olan ve II. Mahmut döneminde yayımlanmaya başlayan gazete hangisidir?",
+      "options": [
+        "Ceride-i Havadis",
+        "Tercüman-ı Ahval",
+        "Tasvir-i Efkar",
+        "İrade-i Milliye",
+        "Takvim-i Vekayi"
+      ],
+      "correctOption": "E",
+      "solution": "1831"
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı’nın başlamasına neden olan (görünürdeki) olay nedir?",
+      "options": [
+        "Almanya’nın Polonya’yı işgali",
+        "Goben ve Breslau gemilerinin Rusya’yı bombalaması",
+        "Rusya’nın Balkanları işgali",
+        "İngiltere’nin Osmanlı’ya savaş ilanı",
+        "Avusturya-Macaristan veliahtının Saraybosna’da bir Sırp milliyetçisi tarafından öldürülmesi"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Çanakkale Savaşı’nın sonuçlarından biri değildir?",
+      "options": [
+        "I. Dünya Savaşı’nın süresi uzamıştır.",
+        "Rusya’ya yardım gidememiş ve Çarlık rejimi yıkılmıştır.",
+        "Bulgaristan İttifak Devletleri yanında savaşa girmiştir.",
+        "Mustafa Kemal ulusal bir kahraman olarak tanınmıştır.",
+        "Osmanlı Devleti savaştan çekilmiştir."
+      ],
+      "correctOption": "E",
+      "solution": "Aksine, zafer kazandığı için savaşa moralli devam etmiştir."
+    },
+    {
+      "id": 14,
+      "text": "Mustafa Kemal’in Samsun’a çıktıktan sonra İstanbul Hükümeti’ne gönderdiği ve \"İzmir’in işgalinin haksız olduğunu, Rumların değil Türklerin mağdur olduğunu\" belirttiği ilk resmi belge hangisidir?",
+      "options": [
+        "Minber Gazetesi Yazıları",
+        "Amasya Genelgesi",
+        "Samsun Raporu",
+        "Amasya Görüşmeleri",
+        "Havza Genelgesi"
+      ],
+      "correctOption": "C",
+      "solution": "İstanbul ile ilk görüş ayrılığı burada başlamıştır."
+    },
+    {
+      "id": 15,
+      "text": "Temsil Heyeti’nin, Mebusan Meclisi çalışmalarını yakından takip etmek ve Batı Cephesi’ne yakın olmak amacıyla merkez olarak Ankara’yı seçmesinin nedenleri arasında hangisi yer almaz?",
+      "options": [
+        "İşgal edilmemiş güvenli bir bölge olması",
+        "Halkın Milli Mücadele’ye destek vermesi",
+        "Ulaşım ve haberleşme imkanlarının iyi olması",
+        "Batı cephesine yakın olması",
+        "Başkent ilan edilmek istenmesi"
+      ],
+      "correctOption": "E",
+      "solution": "O tarihte başkent olma fikri henüz yoktur, stratejik merkezdir. Başkent oluşu 1923'tedir."
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı’nda TBMM’nin kurduğu düzenli ordunun Batı Cephesi’nde kazandığı ilk askeri zafer hangisidir?",
+      "options": [
+        "Sakarya Meydan Muharebesi",
+        "II. İnönü Savaşı",
+        "Büyük Taarruz",
+        "I. İnönü Savaşı",
+        "Başkomutanlık Meydan Muharebesi"
+      ],
+      "correctOption": "D",
+      "solution": "Yunanlıların ilerleyişi durdurulmuştur."
+    },
+    {
+      "id": 17,
+      "text": "Kurtuluş Savaşı’nda çok sayıda subayın şehit olması nedeniyle \"Subaylar Savaşı\" olarak da bilinen savaş hangisidir?",
+      "options": [
+        "I. İnönü",
+        "Kütahya-Eskişehir",
+        "Büyük Taarruz",
+        "Sakarya Meydan Muharebesi",
+        "Başkomutanlık Meydan Muharebesi"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Osmanlı Devleti’nin başkenti İstanbul’un ve Boğazların yönetiminin TBMM’ye bırakılmasıyla Osmanlı Devleti’nin hukuken sona erdiği antlaşma hangisidir?",
+      "options": [
+        "Lozan Barış Antlaşması",
+        "Ankara Antlaşması",
+        "Mondros Ateşkes Antlaşması",
+        "Moskova Antlaşması",
+        "Mudanya Ateşkes Antlaşması"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Cumhuriyetin ilanıyla birlikte \"Meclis Hükümeti\" sistemi terk edilerek hangi hükümet modeline geçilmiştir?",
+      "options": [
+        "Kabine Sistemi",
+        "Başkanlık Sistemi",
+        "Federatif Sistem",
+        "Mutlakiyet",
+        "Karma Sistem"
+      ],
+      "correctOption": "A",
+      "solution": "Hükümet kurmak kolaylaşmıştır."
+    },
+    {
+      "id": 20,
+      "text": "Türkçeyi yabancı dillerin boyunduruğundan kurtarmak, Türkçenin zenginliğini ortaya koymak ve bir bilim dili haline getirmek amacıyla 1932 yılında kurulan kurum hangisidir?",
+      "options": [
+        "Türkiyat Enstitüsü",
+        "Millet Mektepleri",
+        "Maarif Vekaleti",
+        "Türk Tarih Kurumu",
+        "Türk Dil Kurumu (TDK)"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Atatürk’ün \"Halk içinde muteber bir nesne yok devlet gibi, olmaya devlet cihanda bir nefes sıhhat gibi\" (Kanuni'nin sözü) anlayışıyla kurdurduğu, aşı ve serum üretimi yapan sağlık kurumu hangisidir?",
+      "options": [
+        "Numune Hastaneleri",
+        "Kızılay",
+        "Yeşilay",
+        "Refik Saydam Hıfzıssıhha Enstitüsü",
+        "Sanatoryum"
+      ],
+      "correctOption": "D",
+      "solution": "O dönemde Çin'e aşı ihraç edecek seviyeye gelinmiştir."
+    },
+    {
+      "id": 22,
+      "text": "Şeyh Said İsyanı'nın çıkmasında etkili olan dış devlet ve bu devletin çözmek istediği sorun hangisidir?",
+      "options": [
+        "Yunanistan - Nüfus Mübadelesi",
+        "Sovyet Rusya - Boğazlar",
+        "İtalya - Antalya",
+        "İngiltere - Musul",
+        "Fransa - Hatay"
+      ],
+      "correctOption": "D",
+      "solution": "Türkiye'nin Musul'a askeri harekat yapmasını engellemek istemiştir."
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin Bozkurt-Lotus davasını kazanması, Türk hukuk sistemi ve kapitülasyonlar açısından neyi kanıtlamıştır?",
+      "options": [
+        "Kapitülasyonların devam ettiğini",
+        "Denizcilikte geri kaldığımızı",
+        "Fransa'nın haklı olduğunu",
+        "Milletler Cemiyeti'nin taraflı olduğunu",
+        "Türk hukukunun ve yargısının bağımsızlığını, kapitülasyonların tamamen kalktığını"
+      ],
+      "correctOption": "E",
+      "solution": "Lahey Adalet Divanı Türkiye'yi haklı bulmuştur."
+    },
+    {
+      "id": 24,
+      "text": "Hatay sorunu konusunda Milletler Cemiyeti tarafından görevlendirilen İsveçli diplomat Sandler'in hazırladığı Sandler Raporu'nun içeriği nedir?",
+      "options": [
+        "Hatay'ın Türkiye'ye tazminat ödemesi gerektiği",
+        "Hatay'ın Suriye'ye ait olduğu",
+        "Hatay'ın Fransa'da kalması gerektiği",
+        "Hatay'ın İngiliz mandasına girmesi gerektiği",
+        "Hatay'da Türk nüfusunun çoğunlukta olduğu ve Hatay'ın bağımsız olması gerektiği"
+      ],
+      "correctOption": "E",
+      "solution": "Bu rapor, Hatay'ın bağımsızlığına ve sonra Türkiye'ye katılmasına giden yolu açmıştır."
+    },
+    {
+      "id": 25,
+      "text": "1929 Dünya Ekonomik Krizi'ni anlatan ve John Steinbeck tarafından yazılan dünyaca ünlü roman hangisidir?",
+      "options": [
+        "Sefiller",
+        "Gazap Üzümleri",
+        "Çanlar Kimin İçin Çalıyor",
+        "Savaş ve Barış",
+        "Silahlara Veda"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "I. Dünya Savaşı'ndan sonra imzalanan San Remo Konferansı kararlarına göre, Suriye ve Lübnan hangi ülkenin mandası (himayesi) altına girmiştir?",
+      "options": [
+        "Rusya",
+        "ABD",
+        "İtalya",
+        "Fransa",
+        "İngiltere"
+      ],
+      "correctOption": "D",
+      "solution": "Irak, Filistin ve Ürdün ise İngiltere mandası olmuştur."
+    },
+    {
+      "id": 27,
+      "text": "Kuzey Afrika cephesinde, Alman Mareşali Rommel'in (Çöl Tilkisi) İngilizlere yenilerek Afrika'daki üstünlüğünü kaybettiği savaş hangisidir?",
+      "options": [
+        "Süveyş",
+        "Tobruk",
+        "Tunus",
+        "El-Alameyn Savaşı",
+        "Sicilya"
+      ],
+      "correctOption": "D",
+      "solution": "Mısır'da yapılan bu savaş Afrika cephesinin dönüm noktasıdır."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "konu_adi": "22- 17’NCİ YÜZYIL İSYANLARI",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "17’NCİ YÜZYIL İSYANLARI"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🔥 İsyanların Ortak Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Merkezi Otoritenin Zayıflığı: Küçük yaşta tahta geçen tecrübesiz padişahlar ve Kadınlar Saltanatı nedeniyle otorite boşluğu.",
+        "Ekonomik Bozulma: Hazinenin boşalması, enflasyon ve vergi yükünün artması.",
+        "Tımar Sistemi'nin Bozulması: Tımar topraklarının hak etmeyen kişilere verilmesi.",
+        "Adalet ve Eğitimin Bozulması: Rüşvet ve iltimasın yaygınlaşması, medreselerde liyakat sisteminin terk edilmesi."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ İsyanların Türleri ve Önemli Olaylar"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Merkez İsyanları (Yeniçeri İsyanları)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Merkez: Başkent İstanbul'da, esas olarak Kapıkulu Ocakları (Yeniçeriler) tarafından çıkarılmıştır.",
+        "Neden: Maaşların (Ulufe) eksik veya geç ödenmesi ve Padişahların Ocak üzerinde düzenleme girişimleri.",
+        {
+          "madde_tipi": "tanim",
+          "metin": "Vaka-i Vakvakiye (Çınar Vak'ası) (1656): Yeniçerilerin 30'a yakın devlet adamını çınar ağacına asması. Yeniçerilerin otorite üzerindeki gücünü göstermiştir."
+        },
+        {
+          "madde_tipi": "tanim",
+          "metin": "Genç Osman'ın Öldürülmesi (1622): Bir padişahın bizzat Yeniçeriler tarafından öldürülmesinin ilk örneğidir."
+        }
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Taşra İsyanları (Celali İsyanları)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Merkez: Anadolu'nun çeşitli bölgelerinde çıkmıştır.",
+        "Neden: Ağır vergiler, Tımar sisteminin bozulması ve işsiz kalan Tımarlı Sipahilerin isyanlara katılması.",
+        "İsmin Kaynağı: Yavuz döneminde isyan eden Celali adlı sipahiden adını almıştır.",
+        {
+          "madde_tipi": "tanim",
+          "metin": "Büyük Kaçgun: Celali isyanlarının yarattığı güvensizlik nedeniyle köylülerin topraklarını terk ederek şehirlere sığınması olayıdır."
+        },
+        "Bastırılması: Kuyucu Murat Paşa ve Köprülü Mehmet Paşa gibi güçlü devlet adamları tarafından sert önlemlerle bastırılmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "3. Eyalet İsyanları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Merkez: Osmanlı'ya bağlı Eyaletlerde (Yemen, Kırım, Erdel) çıkan isyanlardır.",
+        "Neden: Yerel yöneticilerin bağımsızlık elde etme arzusu ve merkezi otoritenin zayıflaması."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 İsyanların Ortak Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Merkezi Otorite Zedelendi: Padişah otoritesi ciddi şekilde zarar görmüştür.",
+        "Ekonomik Yıkım: Anadolu'da üretim durmuş, tarım alanları boş kalmıştır.",
+        "Nüfus Hareketliliği: Büyük Kaçgun olayı ile Anadolu'da ciddi nüfus hareketliliği yaşanmıştır.",
+        "Islahatlar: Kalıcı çözüm yerine, genellikle isyancıları cezalandırmaya yönelik yüzeysel önlemler alınmıştır."
+      ]
+    }
+  ]
+}

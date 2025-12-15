@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 29",
+  "examCode": "deneme_29",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 29)\n\n**İlk Çağdan Günümüze:** Türklerde Göçebe yaşam tarzı, sınıfsal ayrımı (kölelik) engellemiştir. Orhun Abideleri'nin yazarı Yollug Tigin'dir. Türk-İslam devletlerinde Karahanlılar, Türkçeyi resmî dil kabul eden ilk devlettir. Anadolu Selçuklu Devleti'nde Ahilik teşkilatının kurucusu Ahi Evran'dır. Büyük Selçuklu Devleti'nde Atabeyler, Meliklerin (şehzadelerin) eğitiminden sorumlu idi.\n\n**Osmanlı Yükseliş ve Dağılma:** Osman Bey döneminde ilk bakır para (Mangır) bastırılmıştır. Fatih döneminde Divan'a Sadrazam başkanlık etmeye başlamış, padişah 'Kasr-ı Adl'den izlemiştir. Lale Devri'nde matbaa, itfaiye ve geçici elçilikler açılmıştır. II. Mahmut döneminde Yeniçeri Ocağı kaldırılmış (Vaka-i Hayriye), yerine Asakir-i Mansure-i Muhammediye kurulmuştur. Tanzimat Fermanı (1839) ile padişah Kanun Üstünlüğünü kabul etmiştir.\n\n**Milli Mücadele ve Cumhuriyet:** Kuva-yi Milliye, düşmanı yurttan atmakta yetersiz kalmıştır. Amasya Genelgesi, 'Milletin azim ve kararı' maddesiyle milli egemenliği vurgulayan ilk belgedir. I. İnönü Savaşı sonucunda Teşkilat-ı Esasiye (1921 Anayasası) kabul edilmiştir. Medeni Kanun, Laiklik ve Halkçılık ilkeleriyle doğrudan ilgilidir. Montrö Boğazlar Sözleşmesi (1936), Türkiye'nin diplomatik zaferidir.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk tarihinin bilinen ilk teşkilatlı devleti olan Asya Hunları'nda ordunun temelini atan ve 'Onlu Sistemi' kuran hükümdar kimdir?",
+      "options": [
+        "Mete Han",
+        "Teoman",
+        "Balamir",
+        "Attila",
+        "Çi-çi"
+      ],
+      "correctOption": "A",
+      "solution": "Mete Han MÖ 209'da Onlu Sistemi kurmuştur."
+    },
+    {
+      "id": 2,
+      "text": "İslamiyet öncesi Türklerde hapis cezalarının kısa süreli (genellikle 10 günü geçmeyen) olmasının temel nedeni nedir?",
+      "options": [
+        "Hukukun çok sert olması",
+        "Geniş topraklara yayılma",
+        "Konar-göçer yaşam tarzı ve göç sırasında mahkumu taşıma zorluğu",
+        "Din adamlarının siyasi yetkileri",
+        "Ordu-Millet anlayışı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Türk tarihinde 'Doğu'nun ve Batı'nın Sultanı' (Sultan-ül Mağrib ve Meşrık) unvanını Abbasi Halifesi'nden alan Büyük Selçuklu hükümdarı kimdir?",
+      "options": [
+        "Sultan Sencer",
+        "Tuğrul Bey",
+        "Alparslan",
+        "Melikşah",
+        "Çağrı Bey"
+      ],
+      "correctOption": "B",
+      "solution": "Tuğrul Bey, Abbasi Halifesini Şii Büveyhoğulları baskısından kurtardığı için bu unvanı almıştır."
+    },
+    {
+      "id": 4,
+      "text": "Anadolu Selçuklu Devleti'nde ticareti geliştirmek amacıyla dünyada ilk kez uygulanan 'Devlet Sigortası Sistemi'nin' amacı nedir?",
+      "options": [
+        "Vergi gelirlerini artırmak",
+        "Yabancı tüccarları çekmek ve ticaret yollarında mal güvenliğini sağlamak",
+        "Yerli üretimi korumak",
+        "Kapitülasyonları kaldırmak",
+        "Deniz ticaretini yasaklamak"
+      ],
+      "correctOption": "B",
+      "solution": "Zarar gören tüccarın malını devlet karşılamıştır."
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde ilk altın parayı (Sultani) bastıran ve Kanunname-i Âli Osman'ı çıkaran padişah kimdir?",
+      "options": [
+        "Osman Bey",
+        "Orhan Bey",
+        "I. Murat",
+        "Yavuz Sultan Selim",
+        "Fatih Sultan Mehmet"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde \"Ekber ve Erşed\" sistemine (Hanedanın en yaşlı ve akıllı üyesinin tahta geçmesi) geçilmesinin temel amacı nedir?",
+      "options": [
+        "Mutlak monarşiyi kurmak",
+        "Merkezi otoriteyi zayıflatmak",
+        "Taht kavgalarını hukuken sona erdirmek",
+        "Yeniçeri Ocağı'nı kaldırmak",
+        "Veraset sistemini eski Türk geleneğine döndürmek"
+      ],
+      "correctOption": "C",
+      "solution": "Bu sistem I. Ahmet döneminde getirilmiş ve Sancak Sistemi'ni kaldırmıştır."
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nde Divan-ı Hümayun'da, fethedilen toprakların kaydını tutan ve fermanlara Padişahın tuğrasını çeken Divan üyesi kimdir?",
+      "options": [
+        "Sadrazam",
+        "Kazasker",
+        "Defterdar",
+        "Nişancı",
+        "Reisülküttab"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde ilk kez 'Müsadere' (Devletin mala el koyması) sistemini kaldıran ve özel mülkiyet hakkını güvence altına alan padişah kimdir?",
+      "options": [
+        "Fatih Sultan Mehmet",
+        "Yavuz Sultan Selim",
+        "II. Mahmut",
+        "Sultan Abdülmecit",
+        "II. Abdülhamit"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nin Rusya ile imzaladığı ve Kırım'ın Rusya'ya ait olduğunu kabul ettiği antlaşma hangisidir?",
+      "options": [
+        "Küçük Kaynarca",
+        "Prut",
+        "Yaş",
+        "Bükreş",
+        "Edirne"
+      ],
+      "correctOption": "C",
+      "solution": "1792 - Bu antlaşma ile Dağılma dönemi başlamıştır."
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde, Tanzimat ve Islahat Fermanları'nın ilanında etkili olan ve gayrimüslimleri devlete bağlamayı amaçlayan fikir akımı hangisidir?",
+      "options": [
+        "Türkçülük",
+        "İslamcılık",
+        "Batıcılık",
+        "Osmanlıcılık",
+        "Adem-i Merkeziyetçilik"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde ilk kağıt para (Kaime) hangi padişah döneminde bastırılmıştır?",
+      "options": [
+        "II. Mahmut",
+        "Sultan Abdülmecit",
+        "Sultan Abdülaziz",
+        "V. Mehmet Reşat",
+        "II. Abdülhamit"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Balkan Savaşı'nda Osmanlı Devleti'nin Midye-Enez hattına kadar çekilmesine neden olan ve yenilgide en büyük rolü oynayan gelişme nedir?",
+      "options": [
+        "Balkan devletlerinin aşırı askeri gücü",
+        "Rusya'nın savaşa girmesi",
+        "Ordu içindeki İttihatçı-Hürriyetçi siyasi çekişmeler",
+        "Trablusgarp Savaşı'nın devam etmesi",
+        "İngiltere'nin Yunanistan'ı desteklemesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması'ndan sonra 'Kuva-yi Milliye' hareketinin ortaya çıkmasının temel nedeni nedir?",
+      "options": [
+        "Osmanlı'nın savaşı kazanması",
+        "İstanbul Hükümeti'nin işgallere karşı sessiz kalması ve halkın kendi kaderini koruma içgüdüsü",
+        "Yunanistan'ın Batı Trakya'yı işgali",
+        "ABD'nin manda ve himayeyi kabul etmesi",
+        "TBMM'nin kurulması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Erzurum Kongresi'nin toplanış amacının bölgesel olmasına rağmen, aldığı 'Milli sınırlar içinde vatan bir bütündür, parçalanamaz' gibi kararların niteliği nedir?",
+      "options": [
+        "Ekümenik",
+        "Uluslararası",
+        "Bölgesel",
+        "Ulusal",
+        "Mahalli"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Amasya Görüşmeleri ile İstanbul Hükümeti'nin Temsil Heyeti'ni ve Milli Mücadele'yi resmen tanıması üzerine, Temsil Heyeti hangi alanda ilk siyasi başarısını kazanmıştır?",
+      "options": [
+        "Askeri alanda",
+        "Diplomatik alanda",
+        "Hukuki alanda",
+        "Ekonomik alanda",
+        "Yürütme alanında"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı'nda 'Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır' emri hangi meydan muharebesinde verilmiştir?",
+      "options": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Kütahya-Eskişehir Savaşları",
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "Mudanya Ateşkes Antlaşması ile TBMM'ye savaş yapılmadan bırakılan topraklar hangileridir?",
+      "options": [
+        "İzmir ve Aydın",
+        "Doğu Trakya, İstanbul ve Boğazlar",
+        "Hatay ve Musul",
+        "Kars ve Ardahan",
+        "Batı Trakya"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Lozan Barış Antlaşması'nın en önemli kazanımı olan ve Türkiye'nin ekonomik bağımsızlığını sağlayan gelişme nedir?",
+      "options": [
+        "Dış borçların silinmesi",
+        "Savaş tazminatı alınması",
+        "Kapitülasyonların tamamen kaldırılması",
+        "Boğazlar Komisyonu'nun kurulması",
+        "Musul'un Türkiye'ye verilmesi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Soyadı Kanunu (1934) ile 'Ağa, Bey, Paşa, Hacı, Hafız' gibi unvanların yasaklanması, aşağıdaki Atatürk ilkelerinden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Laiklik",
+        "Devletçilik",
+        "Cumhuriyetçilik",
+        "Milliyetçilik",
+        "Halkçılık"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Türkiye Cumhuriyeti'nde kadınlara seçme ve seçilme hakkının verilmesi (Belediye-Muhtar-Vekil), aşağıdaki hangi iki ilkenin doğal sonucudur?",
+      "options": [
+        "Devletçilik ve Laiklik",
+        "Milliyetçilik ve İnkılapçılık",
+        "Halkçılık ve Cumhuriyetçilik",
+        "Laiklik ve Devrimcilik",
+        "Devletçilik ve Halkçılık"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "Atatürk dönemi inkılaplarından Medeni Kanun'un (1926) kabulü, Osmanlı'dan kalan hangi hukuki metni tamamen yürürlükten kaldırmıştır?",
+      "options": [
+        "Kanunname-i Âli Osman",
+        "Mecelle",
+        "Kanun-i Esasi",
+        "Islahat Fermanı",
+        "Tanzimat Fermanı"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Türk kadınına siyasi hakların verilmesi (Seçme ve Seçilme) hangi sırayla gerçekleşmiştir? (Kod: BMW)",
+      "options": [
+        "Vekil - Belediye - Muhtar",
+        "Belediye - Muhtar - Vekil (Milletvekili)",
+        "Muhtar - Belediye - Vekil",
+        "Vekil - Muhtar - Belediye",
+        "Belediye - Vekil - Muhtar"
+      ],
+      "correctOption": "B",
+      "solution": "1930 Belediye, 1933 Muhtar, 1934 Vekil."
+    },
+    {
+      "id": 23,
+      "text": "Şeyh Said İsyanı'nın çıkmasında ve büyümesinde etkili olan dış güç hangisidir?",
+      "options": [
+        "Yunanistan",
+        "Sovyet Rusya",
+        "Fransa",
+        "İngiltere",
+        "İtalya"
+      ],
+      "correctOption": "D",
+      "solution": "Musul sorununu kendi lehine çözmek için isyanı kışkırtmıştır."
+    },
+    {
+      "id": 24,
+      "text": "Sadabat Paktı (1937) hangi devletin Doğu'ya yönelme tehdidine karşı Doğu sınırlarımızı güvence altına almayı amaçlamıştır?",
+      "options": [
+        "Yunanistan",
+        "Fransa",
+        "İtalya (Mussolini'nin Habeşistan'ı işgali)",
+        "İngiltere",
+        "Suriye"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sonrasında ABD'nin, Türkiye'ye askeri ve ekonomik yardımda bulunmasıyla başlayan ve Soğuk Savaş'ın başlangıcı sayılan gelişme hangisidir?",
+      "options": [
+        "Marshall Planı",
+        "Truman Doktrini",
+        "NATO'ya üyelik",
+        "Kore Savaşı'na asker gönderme",
+        "Eisenhower Doktrini"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1948 yılında Filistin topraklarında kurulan İsrail Devleti'ni tanıyan ilk iki büyük devlet hangisidir?",
+      "options": [
+        "İngiltere ve Fransa",
+        "ABD ve SSCB",
+        "Türkiye ve Mısır",
+        "Almanya ve İtalya",
+        "Çin ve Hindistan"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "1962 Küba Füze Krizi'nde, SSCB'nin Küba'daki füzeleri sökme kararına karşılık, ABD'nin Türkiye'deki hangi füzeleri sökmesi kararlaştırılmıştır?",
+      "options": [
+        "Patriot Füzeleri",
+        "S-400 Hava Savunma Sistemleri",
+        "Jüpiter Füzeleri",
+        "Hawk Füzeleri",
+        "Stinger Füzeleri"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

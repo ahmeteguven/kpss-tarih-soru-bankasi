@@ -1,0 +1,358 @@
+{
+  "examName": "Deneme - 41",
+  "examCode": "deneme_41",
+  "preExamNote": "📌 KPSS Tarih Tekrar Bilgileri (Deneme - 39)\n\n**İlk Çağdan Günümüze:** Uygurlara ait 'Göç Destanı', yerleşik hayata geçişi ve Maniheizm'in kabulünü anlatır. Türklerde devlet yönetimi yetkisinin Gök Tanrı'dan geldiği inancına 'Kut' denir. Büyük Selçuklu'da ferman ve beratları düzenleyen Divan-ı Tuğra (İnşa)'dır. Anadolu'da ilk medrese (Yağıbasan) Danişmentliler'e aittir.\n\n**Osmanlı ve Islahatlar:** Kapıkulu asker alımı 'Devşirme' sistemiyle yapılırdı. Sadrazam'ın Divan'a başkanlık etmesiyle Divan 'Danışma Organı' haline gelmiştir. Tüm Osmanlı vatandaşlarını eşit kabul eden fikir akımı 'Osmanlıcılık'tır. Tımar sistemiyle ordunun beslenmesi ve tarımsal süreklilik sağlanmıştır. Islahat Fermanı, sadece gayrimüslimlere yöneliktir. İlk kez Batı tarzı askeri ıslahat yapan padişah I. Mahmut'tur. II. Abdülhamit döneminde Mülkiye (Siyasal Bilgiler) okulu kurulmuştur.\n\n**Milli Mücadele ve Cumhuriyet:** Osmanlı'nın taarruz cephesi (Kanal), Mısır'ı geri almak amacıyla açılmıştır. Mondros'un 7. maddesi işgallere hukuki dayanak oluşturur. Amasya Genelgesi milli egemenliği vurgulayan ilk belgedir. Sivas Kongresi'nde ulusal mücadele ulusallaştırılmıştır. Kurtuluş Savaşı'nın ilk zaferi I. İnönü'dür. Takrir-i Sükun Kanunu (1925) rejim karşıtı faaliyetleri önlemek amacıyla çıkarılmıştır. Aşar vergisi 'Halkçılık' ilkesinin gereği kaldırılmıştır.\n\n**Çağdaş Dünya:** NATO, 1949'da Batı Bloğu'nun askeri kanadını oluşturmuştur. Truman Doktrini, ABD'nin SSCB tehdidi altındaki ülkelere yardım etme taahhüdüdür. COMECON, SSCB'nin Marshall Planı'na karşı kurduğu ekonomik örgüttür.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Türk destanları arasında yer alan ve Uygurların yerleşik hayata geçişini, Maniheizm dininin kabulünü ve Türklerin Çinlilere karşı verdiği mücadeleyi anlatan destan hangisidir?",
+      "options": [
+        "Ergenekon Destanı",
+        "Oğuz Kağan Destanı",
+        "Türeyiş Destanı",
+        "Göç Destanı",
+        "Yaratılış Destanı"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 2,
+      "text": "Türklerde devlet yönetimi yetkisinin Kağan'a Gök Tanrı tarafından verildiği inancına ne ad verilir?",
+      "options": [
+        "Töre",
+        "Ülüş",
+        "Kut",
+        "Yarlıg",
+        "Kün"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 3,
+      "text": "Büyük Selçuklu Devleti'nde, Sultan adına devletin iç yazışmalarını yürüten, ferman ve beratları düzenleyen Divan hangisidir?",
+      "options": [
+        "Divan-ı Arz",
+        "Divan-ı İşraf",
+        "Divan-ı Tuğra (İnşa)",
+        "Divan-ı İstifa",
+        "Divan-ı Mezalim"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 4,
+      "text": "Anadolu'da kurulan ilk Türk beyliklerinden olan, Sivas ve civarında kurulan ve Tokat'taki Yağıbasan Medresesi'ni (Anadolu'daki ilk medrese) inşa eden beylik hangisidir?",
+      "options": [
+        "Saltuklular",
+        "Mengücekliler",
+        "Danişmentliler",
+        "Artuklular",
+        "Çaka Beyliği"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 5,
+      "text": "Osmanlı Devleti'nde Kapıkulu Ocağı'na asker yetiştirmek amacıyla, yeni fethedilen topraklardaki Hristiyan ailelerden alınan çocukların toplanıp eğitilmesi sistemine ne ad verilir?",
+      "options": [
+        "Pençik",
+        "İltizam",
+        "Müsadere",
+        "Devşirme",
+        "Gulam"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 6,
+      "text": "Osmanlı Devleti'nde, Fatih Sultan Mehmet döneminde Divan-ı Hümayun'da sadrazamın başkanlık etmesiyle Divan'ın değişen temel rolü nedir?",
+      "options": [
+        "Yargı yetkisinin güçlenmesi",
+        "Karar organı olmaktan çıkıp Danışma organı haline gelmesi",
+        "Merkezi otoritenin zayıflaması",
+        "Yasama gücünün halka devredilmesi",
+        "Padişahın yetkilerinin kısıtlanması"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 7,
+      "text": "Osmanlı Devleti'nin dağılmasını önlemek amacıyla ortaya çıkan fikir akımlarından hangisi, dil, din ve ırk farkı gözetmeksizin tüm Osmanlı vatandaşlarını eşit kabul etmeyi amaçlamıştır?",
+      "options": [
+        "Türkçülük (Turancılık)",
+        "İslamcılık (Ümmetçilik)",
+        "Batıcılık",
+        "Osmanlıcılık",
+        "Adem-i Merkeziyetçilik"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 8,
+      "text": "Osmanlı Devleti'nde tımarlı sipahilerin (eyalet askerleri) yetiştirildiği, tarımsal üretimin devamlılığını sağlayan ve devlet hazinesinden para çıkmadan ordu besleyen sistem hangisidir?",
+      "options": [
+        "İltizam Sistemi",
+        "İskan Sistemi",
+        "Tımar Sistemi",
+        "Devşirme Sistemi",
+        "Vakıf Sistemi"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 9,
+      "text": "Osmanlı Devleti'nde ilk kez Batı tarzında askeri ıslahat yapan (Hendesehane'yi kuran) ve Avrupa'dan uzman getiren (Humbaracı Ahmet Paşa) padişah kimdir?",
+      "options": [
+        "III. Ahmet",
+        "I. Mahmut",
+        "III. Selim",
+        "II. Mahmut",
+        "Sultan Abdülaziz"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 10,
+      "text": "Osmanlı Devleti'nde 1856'da ilan edilen Islahat Fermanı'nın hedef kitlesi kimlerdir?",
+      "options": [
+        "Sadece Müslüman halk",
+        "Sadece azınlıklar (gayrimüslimler)",
+        "Yalnızca yabancı tüccarlar",
+        "Tüm Osmanlı halkı",
+        "Yalnızca yönetici sınıf (askerîler)"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 11,
+      "text": "Osmanlı Devleti'nde, 19. yüzyılda memur yetiştirmek amacıyla kurulan ve bugünkü Siyasal Bilgiler Fakültesi'nin (Mülkiye) temelini oluşturan okul hangisidir?",
+      "options": [
+        "Mekteb-i Harbiye",
+        "Mekteb-i Mülkiye",
+        "Hendesehane",
+        "Darülfünun",
+        "Darülmaarif"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 12,
+      "text": "I. Dünya Savaşı'nda Osmanlı Devleti'nin, İngilizlerin sömürge yollarını keserek Mısır'ı geri almak amacıyla açtığı taarruz cephesi hangisidir?",
+      "options": [
+        "Kafkas Cephesi",
+        "Kanal Cephesi",
+        "Irak Cephesi",
+        "Hicaz-Yemen Cephesi",
+        "Çanakkale Cephesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 13,
+      "text": "Mondros Ateşkes Antlaşması'na göre 'İtilaf Devletleri, güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal edebilecektir' maddesinin numarası kaçtır?",
+      "options": [
+        "3. Madde",
+        "7. Madde",
+        "10. Madde",
+        "12. Madde",
+        "24. Madde"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 14,
+      "text": "Kurtuluş Savaşı'nda, Milli Mücadele'nin gerekçesini, amacı ve yöntemini belirleyen, 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır' maddesiyle ulusal egemenliğe ilk kez vurgu yapılan belge hangisidir?",
+      "options": [
+        "Havza Genelgesi",
+        "Amasya Genelgesi",
+        "Erzurum Kongresi",
+        "Sivas Kongresi",
+        "Misak-ı Milli"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 15,
+      "text": "Amasya Genelgesi'nde yer alan 'Sivas'ta ulusal bir kongre toplanacaktır' kararının temel amacı nedir?",
+      "options": [
+        "İstanbul Hükümeti'ni resmen tanımak",
+        "TBMM'yi kurmak",
+        "Milli mücadeleyi bölgesellikten çıkarıp ulusallaştırmak",
+        "Manda ve himayeyi kabul etmek",
+        "Azınlıkların haklarını korumak"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 16,
+      "text": "Kurtuluş Savaşı'nda, Yunan ordusuna karşı Batı Cephesi'nde alınan ilk zafer hangisidir?",
+      "options": [
+        "II. İnönü Savaşı",
+        "I. İnönü Savaşı",
+        "Sakarya Meydan Muharebesi",
+        "Kütahya-Eskişehir Savaşları",
+        "Başkomutanlık Meydan Muharebesi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 17,
+      "text": "I. İnönü Savaşı'ndan sonra toplanan ve TBMM'nin ilk kez uluslararası alanda temsil edildiği konferans hangisidir?",
+      "options": [
+        "Paris Barış Konferansı",
+        "San Remo Konferansı",
+        "Londra Konferansı",
+        "Kars Konferansı",
+        "Haliç Konferansı"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 18,
+      "text": "Başkomutanlık Meydan Muharebesi'nin (Büyük Taarruz) kazanılmasından sonra, TBMM tarafından Mareşal rütbesi verilen komutan kimdir?",
+      "options": [
+        "Mustafa Kemal Paşa",
+        "İsmet İnönü",
+        "Kazım Karabekir",
+        "Fevzi Çakmak",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 19,
+      "text": "Aşar Vergisinin (Öşür) kaldırılması (1925), aşağıdaki Atatürk ilkelerinden hangisiyle doğrudan ilişkilidir?",
+      "options": [
+        "Laiklik",
+        "Devletçilik",
+        "Milliyetçilik",
+        "Cumhuriyetçilik",
+        "Halkçılık"
+      ],
+      "correctOption": "E",
+      "solution": ""
+    },
+    {
+      "id": 20,
+      "text": "Türk Medeni Kanunu'nun (1926) İsviçre'den alınmasının temel nedeni nedir?",
+      "options": [
+        "Laik, pratik ve çağdaş olması",
+        "Türk kültürüne en uygun olması",
+        "Avrupa'daki tek örnek olması",
+        "İsviçre'nin Osmanlı'ya yakın olması",
+        "Tamamen dini esaslara dayanması"
+      ],
+      "correctOption": "A",
+      "solution": ""
+    },
+    {
+      "id": 21,
+      "text": "1925 yılında çıkarılan ve rejim karşıtı faaliyetlerin önlenmesi amacıyla hükümete olağanüstü yetkiler veren kanun hangisidir?",
+      "options": [
+        "Hıyanet-i Vataniye Kanunu",
+        "Firariler Kanunu",
+        "Takrir-i Sükun Kanunu",
+        "Menemen Kanunu",
+        "Milli Korunma Kanunu"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 22,
+      "text": "Cumhuriyetin ilk yıllarında ortaya çıkan ve rejim karşıtı ilk büyük isyan olan Şeyh Said İsyanı'nın çıktığı yıl hangisidir?",
+      "options": [
+        "1923",
+        "1924",
+        "1925",
+        "1926",
+        "1930"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 23,
+      "text": "Türkiye'nin dış politikada 'Yurtta Sulh, Cihanda Sulh' ilkesini benimsemesi, Türkiye'nin hangi karaktere sahip olmadığını gösterir?",
+      "options": [
+        "Bağımsız",
+        "Barışçı",
+        "Gerçekçi",
+        "Yayılmacı (İrredantist)",
+        "Statükocu"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 24,
+      "text": "Montrö Boğazlar Sözleşmesi'nin (1936) imzalanmasında, uluslararası ortamda Türkiye'nin lehine olan temel gelişme nedir?",
+      "options": [
+        "Sovyet Rusya'nın Montrö'ye karşı çıkması",
+        "İngiltere'nin, Türkiye'nin tezini desteklemesi",
+        "Yunanistan ile Nüfus Mübadelesi sorununun çözülmesi",
+        "Almanya ve İtalya'nın yayılmacı politikalarının dünya barışını tehdit etmesi",
+        "Sadabat Paktı'nın kurulması"
+      ],
+      "correctOption": "D",
+      "solution": ""
+    },
+    {
+      "id": 25,
+      "text": "II. Dünya Savaşı sonrasında ABD'nin, Sovyet tehdidi altındaki ülkelere (özellikle Türkiye ve Yunanistan'a) askeri ve ekonomik yardım yapmayı taahhüt ettiği doktrin hangisidir?",
+      "options": [
+        "Marshall Planı",
+        "Truman Doktrini",
+        "Eisenhower Doktrini",
+        "Monroe Doktrini",
+        "Atlantik Bildirisi"
+      ],
+      "correctOption": "B",
+      "solution": ""
+    },
+    {
+      "id": 26,
+      "text": "1949'da ABD öncülüğünde kurulan ve Batı Bloğu'nun askerî kanadını oluşturan uluslararası savunma örgütü hangisidir?",
+      "options": [
+        "Varşova Paktı",
+        "COMECON",
+        "NATO",
+        "Bağlantısızlar Hareketi",
+        "SEATO"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    },
+    {
+      "id": 27,
+      "text": "Sovyet Rusya'da Stalin döneminde uygulanan, köylülerin küçük topraklarının zorla birleştirilerek devlet çiftliklerine dönüştürülmesi (Kollektifleştirme) politikasına ne ad verilir?",
+      "options": [
+        "Glasnost",
+        "Perestroika",
+        "Kolkhoz",
+        "NEP (Yeni Ekonomi Politikası)",
+        "Büyük Temizlik"
+      ],
+      "correctOption": "C",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "konu_adi": "26- OSMANLI RUS SAVAŞI (1877-1878) (93 HARBİ)",
+  "bolumler": [
+    {
+      "tip": "baslik_1",
+      "metin": "OSMANLI RUS SAVAŞI (1877-1878) (93 HARBİ)"
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "🇷🇺 Savaşın Nedenleri ve Başlangıcı"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Savaşın Temel Nedenleri"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Panslavizm: Rusya'nın Balkanlar'daki Slav azınlıkları Osmanlı'ya karşı kışkırtması.",
+        "Sıcak Denizlere İnme: Rusya'nın İstanbul ve Çanakkale Boğazları'nı ele geçirme politikası.",
+        "Balkan İsyanları: Bosna-Hersek'te başlayan ve Sırbistan ile Karadağ'a yayılan ayaklanmalar.",
+        "Tersane Konferansı (1876): Osmanlı'nın Avrupa devletlerinin Balkan reformu taleplerini reddetmesi.",
+        "Meşrutiyet'in İlanı: Osmanlı, konferans kararlarını etkisizleştirmek için I. Meşrutiyet'i ilan etmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "⚔️ Savaşın Cepheleri ve Önemli Olaylar"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Doğu (Kafkas) Cephesi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Rus İlerleyişi: Ruslar, Kars, Ardahan ve Batum (Elviye-i Selase) gibi stratejik kaleleri ele geçirmiştir.",
+        "Kahramanlar: Gazi Ahmet Muhtar Paşa ve Erzurum savunmasında simgeleşen Nene Hatun."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Batı (Balkan) Cephesi"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Plevne Savunması: Gazi Osman Paşa, Rus ordusuna karşı Plevne'yi 5 ay boyunca kahramanca savunmuştur.",
+        "Rusların İlerlemesi: Plevne'nin düşmesiyle Ruslar, İstanbul yakınlarındaki Yeşilköy'e (Ayastefanos) kadar ulaşmıştır.",
+        "Rejim Değişikliği: II. Abdülhamit, Rus tehdidi nedeniyle I. Meşrutiyet'i kapatmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Antlaşmalar ve Ağır Sonuçlar"
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "1. Ayastefanos (Yeşilköy) Antlaşması (1878) (Geçersiz)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Şartlar: Çok ağır şartlar içeren bir antlaşmadır. Ege Denizi'ne çıkışı olan bir Büyük Bulgaristan Prensliği kurulması öngörülmüştür.",
+        "Geçersizlik: İngiltere ve Avusturya'nın itirazı üzerine yürürlüğe girmemiş, yerine Berlin Kongresi toplanmıştır."
+      ]
+    },
+    {
+      "tip": "baslik_3_kirmizi",
+      "metin": "2. Berlin Antlaşması (1878)"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Bağımsız Olanlar: Sırbistan, Karadağ ve Romanya tamamen bağımsız olmuştur.",
+        "Toprak Kaybı: Kars, Ardahan ve Batum (Elviye-i Selase) Rusya'ya bırakılmıştır.",
+        "Bulgaristan: Büyük Bulgaristan fikri dağıtılmış, Bulgaristan üçe ayrılmıştır.",
+        "Kıbrıs: İngiltere, Osmanlı'yı koruma bahanesiyle Kıbrıs'ı geçici olarak işgal etmiştir.",
+        "Ermeni Sorunu: Antlaşma'nın 61. Maddesi ile, Ermeni Sorunu uluslararası bir sorun haline gelmiştir."
+      ]
+    },
+    {
+      "tip": "baslik_2",
+      "metin": "📜 Savaşın Türk Tarihi Açısından Sonuçları"
+    },
+    {
+      "tip": "liste",
+      "maddeler": [
+        "Toprak Kaybı: Balkanlar'da büyük ölçüde toprak kaybedilmiş, çok sayıda Müslüman Türk (muhacir) Anadolu'ya göç etmek zorunda kalmıştır.",
+        "Uluslararası Sorunlar: Ermeni Sorunu'nun ortaya çıkması ve Kıbrıs'ın İngiltere tarafından işgali.",
+        "Rejim Değişikliği: II. Abdülhamit, savaşı bahane ederek I. Meşrutiyet'i kapatmış ve İstibdat (Baskı) Dönemi başlamıştır."
+      ]
+    }
+  ]
+}

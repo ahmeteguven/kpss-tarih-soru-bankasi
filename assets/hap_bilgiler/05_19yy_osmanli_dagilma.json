@@ -1,0 +1,505 @@
+{
+  "categoryName": "19.YY DA OSMANLI DEVLETİ",
+  "facts": [
+    {
+      "id": 1,
+      "question": "Osmanlı Devleti’nin 19. yüzyılda izlediği, büyük devletlerin çıkar çatışmalarından yararlanarak varlığını sürdürme politikasına ne ad verilir?",
+      "answer": "Denge Politikası"
+    },
+    {
+      "id": 2,
+      "question": "Osmanlı Devleti’ne karşı ilk ayaklanan azınlık millet hangisidir?",
+      "answer": "Sırplar"
+    },
+    {
+      "id": 3,
+      "question": "Sırplara ilk ayrıcalık verilen antlaşma hangisidir?",
+      "answer": "Bükreş Antlaşması (1812)"
+    },
+    {
+      "id": 4,
+      "question": "Sırplara özerklik verilen antlaşma hangisidir?",
+      "answer": "Edirne Antlaşması (1829)"
+    },
+    {
+      "id": 5,
+      "question": "Osmanlı Devleti’nden ayrılarak bağımsızlığını kazanan ilk azınlık millet hangisidir?",
+      "answer": "Yunanlılar (Rumlar)"
+    },
+    {
+      "id": 6,
+      "question": "Yunanistan’ın bağımsızlığını kazandığı antlaşma hangisidir?",
+      "answer": "Edirne Antlaşması (1829)"
+    },
+    {
+      "id": 7,
+      "question": "Yunan isyanını desteklemek amacıyla İngiltere, Fransa ve Rusya’nın Osmanlı donanmasını yaktığı olay hangisidir?",
+      "answer": "Navarin Olayı (1827)"
+    },
+    {
+      "id": 8,
+      "question": "Mısır Valisi Kavalalı Mehmet Ali Paşa’nın isyan etmesiyle \"iç sorun iken dış sorun haline gelen\" olay nedir?",
+      "answer": "Mısır Sorunu"
+    },
+    {
+      "id": 9,
+      "question": "Kavalalı Mehmet Ali Paşa’nın Osmanlı ordusunu yendiği ve Kütahya’ya kadar ilerlediği savaşın sonucunda imzalanan antlaşma hangisidir?",
+      "answer": "Kütahya Antlaşması (1833)"
+    },
+    {
+      "id": 10,
+      "question": "II. Mahmut’un \"Denize düşen yılana sarılır\" diyerek Rusya ile imzaladığı, Rus donanmasının Boğazlara inmesine neden olan antlaşma hangisidir?",
+      "answer": "Hünkar İskelesi Antlaşması (1833)"
+    },
+    {
+      "id": 11,
+      "question": "Boğazlar Sorunu’nun ortaya çıkmasına neden olan antlaşma hangisidir?",
+      "answer": "Hünkar İskelesi Antlaşması"
+    },
+    {
+      "id": 12,
+      "question": "Osmanlı ekonomisini çökerten, İngiltere’ye geniş ticari ayrıcalıklar veren ve Osmanlı’yı \"Avrupa’nın açık pazarı\" haline getiren antlaşma hangisidir?",
+      "answer": "Balta Limanı Ticaret Antlaşması (1838)"
+    },
+    {
+      "id": 13,
+      "question": "Mısır Sorunu’nu kesin olarak çözen uluslararası konferans hangisidir?",
+      "answer": "Londra Konferansı (1840)"
+    },
+    {
+      "id": 14,
+      "question": "Boğazların uluslararası bir statü kazandığı ve Osmanlı’nın boğazlar üzerindeki mutlak egemenliğinin sona erdiği sözleşme hangisidir?",
+      "answer": "Londra Boğazlar Sözleşmesi (1841)"
+    },
+    {
+      "id": 15,
+      "question": "II. Mahmut döneminde Yeniçeri Ocağı’nın kaldırılması olayına ne ad verilir?",
+      "answer": "Vaka-i Hayriye (Hayırlı Olay - 1826)"
+    },
+    {
+      "id": 16,
+      "question": "Yeniçeri Ocağı’nın yerine kurulan ordunun adı nedir?",
+      "answer": "Asakir-i Mansure-i Muhammediye"
+    },
+    {
+      "id": 17,
+      "question": "Osmanlı tarihinde padişahın kendi yetkilerini kanun gücüyle kısıtladığı ilk belge hangisidir?",
+      "answer": "Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu - 1839)"
+    },
+    {
+      "id": 18,
+      "question": "Tanzimat Fermanı’nı hazırlayan ve okuyan devlet adamı kimdir?",
+      "answer": "Mustafa Reşit Paşa"
+    },
+    {
+      "id": 19,
+      "question": "Tanzimat Fermanı hangi padişah döneminde ilan edilmiştir?",
+      "answer": "Sultan Abdülmecit"
+    },
+    {
+      "id": 20,
+      "question": "Osmanlı’da \"Anayasacılığa geçişin ilk aşaması\" sayılan belge hangisidir?",
+      "answer": "Tanzimat Fermanı"
+    },
+    {
+      "id": 21,
+      "question": "Tanzimat Fermanı’nın ilan edilmesindeki temel amaç nedir?",
+      "answer": "Azınlık isyanlarını önlemek ve devleti dağılmaktan kurtarmak"
+    },
+    {
+      "id": 22,
+      "question": "Osmanlıcılık fikir akımının yönetimde etkili olmaya başladığı ilk gelişme nedir?",
+      "answer": "Tanzimat Fermanı"
+    },
+    {
+      "id": 23,
+      "question": "Gayrimüslimlere siyasi ve sosyal alanda en geniş hakların verildiği, Müslüman-Gayrimüslim eşitliğini (kağıt üzerinde) tam sağlayan belge hangisidir?",
+      "answer": "Islahat Fermanı (1856)"
+    },
+    {
+      "id": 24,
+      "question": "Islahat Fermanı hangi padişah döneminde ilan edilmiştir?",
+      "answer": "Sultan Abdülmecit"
+    },
+    {
+      "id": 25,
+      "question": "Islahat Fermanı’nda yer alan \"Gayrimüslimlere küçük düşürücü sözler (Gavur vb.) söylenmeyecek\" maddesi neyi amaçlar?",
+      "answer": "Toplumsal kaynaşmayı ve eşitliği"
+    },
+    {
+      "id": 26,
+      "question": "Kırım Savaşı (1853-1856) hangi devletler arasında yapılmıştır?",
+      "answer": "Osmanlı (ve müttefikleri İngiltere, Fransa) - Rusya"
+    },
+    {
+      "id": 27,
+      "question": "Modern hemşireliğin kurucusu sayılan ve Kırım Savaşı’nda İstanbul’da (Selimiye Kışlası) yaralı askerleri tedavi eden \"Lambalı Kadın\" kimdir?",
+      "answer": "Florence Nightingale"
+    },
+    {
+      "id": 28,
+      "question": "Osmanlı Devleti’nin ilk kez dış borç aldığı savaş hangisidir?",
+      "answer": "Kırım Savaşı"
+    },
+    {
+      "id": 29,
+      "question": "Kırım Savaşı’nı bitiren ve Osmanlı’nın \"Avrupalı Devlet\" sayıldığı antlaşma hangisidir?",
+      "answer": "Paris Antlaşması (1856)"
+    },
+    {
+      "id": 30,
+      "question": "Paris Antlaşması’nda Osmanlı Devleti’nin galip devlet sayılmasına rağmen yenik muamelesi gördüğünün kanıtı olan madde nedir?",
+      "answer": "\"Osmanlı ve Rusya Karadeniz’de donanma bulunduramayacak.\""
+    },
+    {
+      "id": 31,
+      "question": "Rusya’nın sıcak denizlere inme politikasını (Panslavizm) gerçekleştirmek için 1877-1878’de Osmanlı’ya açtığı savaşın halk arasındaki adı nedir?",
+      "answer": "93 Harbi"
+    },
+    {
+      "id": 32,
+      "question": "93 Harbi’nde Erzurum’da Aziziye Tabyaları’nda destanlaşan kadın kahramanımız kimdir?",
+      "answer": "Nene Hatun"
+    },
+    {
+      "id": 33,
+      "question": "93 Harbi’nde Plevne’yi 145 gün savunarak \"Plevne Kahramanı\" unvanını alan komutan kimdir?",
+      "answer": "Gazi Osman Paşa"
+    },
+    {
+      "id": 34,
+      "question": "93 Harbi sonunda imzalanan ancak Avrupalı devletlerin çıkarlarına ters düştüğü için yürürlüğe girmeyen \"Ölü doğmuş\" antlaşma hangisidir?",
+      "answer": "Ayastefanos (Yeşilköy) Antlaşması"
+    },
+    {
+      "id": 35,
+      "question": "Ayastefanos Antlaşması’nın yerine imzalanan antlaşma hangisidir?",
+      "answer": "Berlin Antlaşması (1878)"
+    },
+    {
+      "id": 36,
+      "question": "Sırbistan, Karadağ ve Romanya’nın bağımsız olduğu antlaşma hangisidir?",
+      "answer": "Berlin Antlaşması"
+    },
+    {
+      "id": 37,
+      "question": "Ermeni Sorunu’nun uluslararası bir sorun olarak ilk kez gündeme geldiği antlaşma hangisidir?",
+      "answer": "Berlin Antlaşması"
+    },
+    {
+      "id": 38,
+      "question": "İngiltere’nin Osmanlı toprak bütünlüğünü korumaktan vazgeçtiği antlaşma hangisidir?",
+      "answer": "Berlin Antlaşması"
+    },
+    {
+      "id": 39,
+      "question": "Kıbrıs’ın yönetimi, Berlin Konferansı’nda destek olması karşılığında geçici olarak hangi ülkeye bırakılmıştır?",
+      "answer": "İngiltere (1878)"
+    },
+    {
+      "id": 40,
+      "question": "Osmanlı’da ilk kez \"Rejim (Yönetim biçimi)\" değişikliği hangi olayla gerçekleşmiştir?",
+      "answer": "I. Meşrutiyet’in ilanı (1876)"
+    },
+    {
+      "id": 41,
+      "question": "I. Meşrutiyet’i ilan eden padişah kimdir?",
+      "answer": "II. Abdülhamit"
+    },
+    {
+      "id": 42,
+      "question": "I. Meşrutiyet’in ilanında etkili olan aydın grubuna ne ad verilir?",
+      "answer": "Jön Türkler (Genç Osmanlılar)"
+    },
+    {
+      "id": 43,
+      "question": "Türk tarihinin ilk yazılı anayasası hangisidir?",
+      "answer": "Kanun-i Esasi (1876)"
+    },
+    {
+      "id": 44,
+      "question": "Kanun-i Esasi’yi hazırlayan komisyonun başkanı kimdir?",
+      "answer": "Mithat Paşa"
+    },
+    {
+      "id": 45,
+      "question": "Osmanlı’da halkın ilk kez kısıtlı da olsa yönetime katılması hangi olayla olmuştur?",
+      "answer": "I. Meşrutiyet"
+    },
+    {
+      "id": 46,
+      "question": "Meşrutiyet döneminde açılan meclisin adı nedir?",
+      "answer": "Meclis-i Mebusan (ve Meclis-i Ayan)"
+    },
+    {
+      "id": 47,
+      "question": "II. Abdülhamit’in Meclis-i Mebusan’ı kapatarak başlattığı 30 yıllık baskı dönemine ne ad verilir?",
+      "answer": "İstibdat Dönemi"
+    },
+    {
+      "id": 48,
+      "question": "Osmanlı Devleti’nin iflas ettiğini açıkladığı kararname hangisidir?",
+      "answer": "Ramazan Kararnamesi (1875 - Abdülaziz Dönemi)"
+    },
+    {
+      "id": 49,
+      "question": "Osmanlı’nın dış borçlarını ödeyememesi üzerine alacaklı devletlerin kurduğu \"Genel Borçlar İdaresi\"nin adı nedir?",
+      "answer": "Duyun-u Umumiye (1881)"
+    },
+    {
+      "id": 50,
+      "question": "II. Meşrutiyet’in ilan edilmesinde etkili olan gizli cemiyet (sonradan parti) hangisidir?",
+      "answer": "İttihat ve Terakki Cemiyeti"
+    },
+    {
+      "id": 51,
+      "question": "II. Meşrutiyet’in ilanını hızlandıran, İngiltere ve Rusya’nın Osmanlı topraklarını paylaştığı görüşme hangisidir?",
+      "answer": "Reval Görüşmeleri (1908)"
+    },
+    {
+      "id": 52,
+      "question": "Türk siyasi tarihinde ilk kez \"Çok partili hayat\" hangi dönemde başlamıştır?",
+      "answer": "II. Meşrutiyet Dönemi"
+    },
+    {
+      "id": 53,
+      "question": "İttihat ve Terakki’ye karşı olanların çıkardığı, Osmanlı tarihinde rejime karşı çıkan ilk isyan hangisidir?",
+      "answer": "31 Mart Vakası (1909)"
+    },
+    {
+      "id": 54,
+      "question": "31 Mart İsyanı’nı bastıran ordunun adı nedir?",
+      "answer": "Hareket Ordusu"
+    },
+    {
+      "id": 55,
+      "question": "Hareket Ordusu’nun komutanı kimdir?",
+      "answer": "Mahmut Şevket Paşa"
+    },
+    {
+      "id": 56,
+      "question": "Mustafa Kemal’in tarih sahnesine çıktığı ilk olay hangisidir?",
+      "answer": "31 Mart Vakası (Hareket Ordusu Kurmay Başkanı olarak)"
+    },
+    {
+      "id": 57,
+      "question": "Meclis kararıyla tahttan indirilen ilk Osmanlı padişahı kimdir?",
+      "answer": "II. Abdülhamit"
+    },
+    {
+      "id": 58,
+      "question": "II. Abdülhamit’in yerine tahta çıkarılan padişah kimdir?",
+      "answer": "V. Mehmet Reşat"
+    },
+    {
+      "id": 59,
+      "question": "II. Meşrutiyet’in ilanı sırasında (1908) yaşanan karışıklıktan yararlanarak bağımsızlığını ilan eden devlet hangisidir?",
+      "answer": "Bulgaristan"
+    },
+    {
+      "id": 60,
+      "question": "II. Meşrutiyet sırasında Avusturya-Macaristan İmparatorluğu’nun ilhak ettiği yer neresidir?",
+      "answer": "Bosna-Hersek"
+    },
+    {
+      "id": 61,
+      "question": "II. Meşrutiyet sırasında Girit Meclisi’nin aldığı karar nedir?",
+      "answer": "Yunanistan’a katılma kararı"
+    },
+    {
+      "id": 62,
+      "question": "II. Mahmut döneminde \"Muhtarlık\" teşkilatı neden kurulmuştur?",
+      "answer": "Merkezi otoriteyi köylere ve mahallelere kadar taşımak için"
+    },
+    {
+      "id": 63,
+      "question": "II. Mahmut döneminde memurlara pantolon ve fes giyme zorunluluğu getirilmesi hangi alandaki ıslahattır?",
+      "answer": "Sosyal / Kılık-Kıyafet"
+    },
+    {
+      "id": 64,
+      "question": "İlk Osmanlı resmi gazetesi hangisidir?",
+      "answer": "Takvim-i Vekayi (II. Mahmut)"
+    },
+    {
+      "id": 65,
+      "question": "Tımar sisteminin kaldırılmasıyla memurlara ne bağlanmıştır?",
+      "answer": "Maaş"
+    },
+    {
+      "id": 66,
+      "question": "Tımar sisteminin kaldırılmasıyla eyaletlerde güvenliği sağlamak için kurulan birlikler hangisidir?",
+      "answer": "Redif Birlikleri"
+    },
+    {
+      "id": 67,
+      "question": "İlk nüfus sayımını yaptıran padişah kimdir ve amacı nedir?",
+      "answer": "II. Mahmut - Askeri potansiyeli belirlemek (Sadece erkekler sayıldı)"
+    },
+    {
+      "id": 68,
+      "question": "Müsadere (Mallara el koyma) sistemini kaldıran padişah kimdir?",
+      "answer": "II. Mahmut"
+    },
+    {
+      "id": 69,
+      "question": "\"Padişahım çok yaşa\" yerine \"Millet çok yaşa\" sloganlarının atıldığı dönem hangisidir?",
+      "answer": "Meşrutiyet Dönemi"
+    },
+    {
+      "id": 70,
+      "question": "Osmanlı Devleti’nde Batılı anlamda ilk mahkemeler (Nizamiye) hangi dönemde kurulmuştur?",
+      "answer": "Tanzimat Dönemi"
+    },
+    {
+      "id": 71,
+      "question": "Osmanlı’nın ilk bankası olan Bank-ı Dersaadet hangi dönemde kuruldu?",
+      "answer": "Tanzimat (Abdülmecit)"
+    },
+    {
+      "id": 72,
+      "question": "Para basma yetkisine sahip olan İngiliz sermayeli banka hangisidir?",
+      "answer": "Bank-ı Osmani (Osmanlı Bankası)"
+    },
+    {
+      "id": 73,
+      "question": "Ziraat Bankası’nın temelini oluşturan \"Memleket Sandıkları\"nı kim kurmuştur?",
+      "answer": "Mithat Paşa"
+    },
+    {
+      "id": 74,
+      "question": "Osmanlı’da ilk demiryolu hattı (Anadolu dışında) nereye yapılmıştır?",
+      "answer": "İskenderiye-Kahire (Mısır)"
+    },
+    {
+      "id": 75,
+      "question": "Anadolu’da yapılan ilk demiryolu hattı hangisidir?",
+      "answer": "İzmir-Aydın"
+    },
+    {
+      "id": 76,
+      "question": "Osmanlı Devleti’nde ilk telgraf hattı hangi savaş sırasında çekilmiştir?",
+      "answer": "Kırım Savaşı (İstanbul-Edirne-Şumnu)"
+    },
+    {
+      "id": 77,
+      "question": "Osmanlı’da kız rüştiyelerinin (Ortaokul) ve Darülmuallimat’ın (Kız Öğretmen Okulu) açıldığı dönem hangisidir?",
+      "answer": "Tanzimat Dönemi"
+    },
+    {
+      "id": 78,
+      "question": "Mecelle’yi (Osmanlı Medeni Kanunu) hazırlayan komisyonun başkanı kimdir?",
+      "answer": "Ahmet Cevdet Paşa"
+    },
+    {
+      "id": 79,
+      "question": "Osmanlı’nın ilk üniversitesi olan \"Darülfünun\" hangi padişah döneminde (kesintisiz olarak) faaliyete geçmiştir?",
+      "answer": "Sultan Abdülaziz (İlk denemeler Abdülmecit)"
+    },
+    {
+      "id": 80,
+      "question": "Dünyanın en büyük üçüncü donanmasını kuran Osmanlı padişahı kimdir?",
+      "answer": "Sultan Abdülaziz"
+    },
+    {
+      "id": 81,
+      "question": "Yurt dışına gezi amaçlı çıkan ilk ve tek Osmanlı padişahı kimdir?",
+      "answer": "Sultan Abdülaziz"
+    },
+    {
+      "id": 82,
+      "question": "\"Çırağan\" ve \"Beylerbeyi\" saraylarını yaptıran padişah kimdir?",
+      "answer": "Sultan Abdülaziz"
+    },
+    {
+      "id": 83,
+      "question": "\"Dolmabahçe Sarayı\"nı yaptıran padişah kimdir?",
+      "answer": "Sultan Abdülmecit"
+    },
+    {
+      "id": 84,
+      "question": "\"Yıldız Sarayı\"nı devletin yönetim merkezi haline getiren padişah kimdir?",
+      "answer": "II. Abdülhamit"
+    },
+    {
+      "id": 85,
+      "question": "Sanayi-i Nefise Mektebi’ni (Güzel Sanatlar Akademisi) kuran ünlü ressam ve müzeci kimdir?",
+      "answer": "Osman Hamdi Bey"
+    },
+    {
+      "id": 86,
+      "question": "\"Vatan Şairi\" olarak bilinen ve Tanzimat edebiyatının önemli ismi kimdir?",
+      "answer": "Namık Kemal"
+    },
+    {
+      "id": 87,
+      "question": "İlk yerli tiyatro eseri \"Şair Evlenmesi\"ni yazan kimdir?",
+      "answer": "Şinasi"
+    },
+    {
+      "id": 88,
+      "question": "Osmanlı’da \"Hürriyet Kahramanı\" olarak bilinen ve İttihatçı subaylardan biri olan kişi kimdir?",
+      "answer": "Enver Paşa (veya Resneli Niyazi)"
+    },
+    {
+      "id": 89,
+      "question": "II. Abdülhamit’in İslamcılık (Ümmetçilik) politikasını desteklemek için yaptırdığı demiryolu projesi hangisidir?",
+      "answer": "Hicaz Demiryolu"
+    },
+    {
+      "id": 90,
+      "question": "Osmanlı Devleti’nde Ermenilerin çıkardığı ilk isyan hangisidir?",
+      "answer": "Erzurum İsyanı (1890)"
+    },
+    {
+      "id": 91,
+      "question": "II. Abdülhamit döneminde Ermeni isyanlarına karşı kurulan yerel askeri birliklerin adı nedir?",
+      "answer": "Hamidiye Alayları"
+    },
+    {
+      "id": 92,
+      "question": "Duyun-u Umumiye İdaresi’nin kurulmasına neden olan kararname hangisidir?",
+      "answer": "Muharrem Kararnamesi"
+    },
+    {
+      "id": 93,
+      "question": "Osmanlı Devleti’nde ilk arkeoloji müzesini kuran kişi kimdir?",
+      "answer": "Osman Hamdi Bey"
+    },
+    {
+      "id": 94,
+      "question": "Darülaceze (Düşkünler Evi) hangi padişah tarafından kurulmuştur?",
+      "answer": "II. Abdülhamit"
+    },
+    {
+      "id": 95,
+      "question": "Ertuğrul Fırkateyni hangi ülkeye dostluk ziyareti için gönderilmiştir?",
+      "answer": "Japonya"
+    },
+    {
+      "id": 96,
+      "question": "Halepa Fermanı (1878) ile hangi bölgeye özerklik verilmiştir?",
+      "answer": "Girit"
+    },
+    {
+      "id": 97,
+      "question": "Dömeke Meydan Savaşı (1897) hangi devletle yapılmıştır ve Mustafa Kemal bu savaş için ne demiştir?",
+      "answer": "Yunanistan - \"Gençlik hayatımın en heyecanlı günleriydi, katılmayı çok istedim.\""
+    },
+    {
+      "id": 98,
+      "question": "Nene Hatun’un efsaneleştiği \"Aziziye Tabyaları\" hangi ilimizdedir?",
+      "answer": "Erzurum"
+    },
+    {
+      "id": 99,
+      "question": "\"Hasta Adam\" tabirini Osmanlı Devleti için ilk kez kullanan devlet hangisidir?",
+      "answer": "Rusya (Çar I. Nikolay)"
+    },
+    {
+      "id": 100,
+      "question": "19. yüzyılda Osmanlı’da en çok borçlanılan ülke hangisidir?",
+      "answer": "Fransa"
+    }
+  ]
+}
