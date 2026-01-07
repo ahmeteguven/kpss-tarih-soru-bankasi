@@ -1,44 +1,51 @@
-# Gizlilik Politikası
+Son Güncelleme: 7 Ocak 2026
 
-**Son Güncelleme:** 15 Aralık 2025
+Bu gizlilik politikası, KPSS Tarih Soru Bankası ("Uygulama") için geçerlidir. Uygulamayı indirerek veya kullanarak bu şartları kabul etmiş olursunuz.
 
-Bu gizlilik politikası, **KPSS Tarih Soru Bankası** ("Uygulama") için geçerlidir. Uygulamayı indirerek veya kullanarak bu şartları kabul etmiş olursunuz.
+1. Toplanan Bilgiler
+Uygulamamız, kullanıcı deneyimini iyileştirmek, veri güvenliğini sağlamak ve hizmet kalitesini artırmak amacıyla aşağıdaki bilgileri toplamaktadır:
 
-## 1. Toplanan Bilgiler
+A. Kişisel Bilgiler
+Kimlik Bilgileri: Google ile Giriş yapmayı tercih etmeniz durumunda, Google hesabınızla ilişkili olan Ad-Soyad ve E-posta adresi bilgileri, hesabınızı doğrulamak ve verilerinizi senkronize etmek amacıyla toplanır.
 
-Uygulamamız, hizmet kalitesini artırmak ve hataları gidermek amacıyla üçüncü taraf hizmet sağlayıcılarını kullanmaktadır. Bu sağlayıcılar, kimliğinizi doğrudan belirlemeyen ancak cihazınıza özgü bazı bilgileri toplayabilir (Örn: Cihaz Modeli, İşletim Sistemi Sürümü, Reklam Kimliği - AD_ID).
+Profil Bilgileri: Uygulama içerisinde belirlediğiniz kullanıcı adı, Türkiye geneli sıralama sisteminde diğer kullanıcılara gösterilmek üzere kaydedilir.
 
-### Kullanılan Üçüncü Taraf Hizmetleri:
+B. Kullanım Verileri ve İstatistikler
+Sınav Başarımı: Çözdüğünüz testlerin sonuçları (doğru, yanlış, boş sayıları), harcanan süreler ve toplam puanınız, ilerlemenizi kaydetmek ve sıralama sistemini oluşturmak amacıyla bulut veritabanımızda saklanır.
 
-- **Google AdMob:** Uygulama içerisinde reklam gösterimi sağlamak için kullanılır. Size ilgi alanlarınıza uygun reklamlar sunmak için cihazınızın reklam kimliğini kullanabilir.
-- **Google Firebase (Analytics & Crashlytics):** Uygulamanın kullanım istatistiklerini (hangi ekranların daha çok kullanıldığı vb.) ve çökme raporlarını analiz etmek için kullanılır.
-- **RevenueCat:** Uygulama içi satın alma (Premium üyelik) süreçlerini yönetmek için kullanılır. Satın alma geçmişiniz bu servis üzerinden güvenli bir şekilde doğrulanır.
+Cihaz Bilgileri: Hizmet kalitesini artırmak ve hataları gidermek amacıyla cihaz modeli, işletim sistemi sürümü ve reklam kimliği (AD_ID) gibi bilgiler toplanabilir.
 
-## 2. Verilerin Kullanımı
+1.1 Kullanılan Üçüncü Taraf Hizmetleri
+Uygulama, veri işleme ve sunma süreçlerinde aşağıdaki güvenilir servis sağlayıcılarını kullanır:
 
+Google Firebase (Auth & Firestore): Kullanıcı oturumlarının yönetimi ve verilerin (puanlar, çözülen test detayları) bulut üzerinde güvenli bir şekilde senkronize edilmesi için kullanılır.
+
+Google Firebase Cloud Messaging (FCM): Önemli güncellemeler ve hatırlatmalar için bildirim gönderimi sağlar.
+
+Google AdMob: Uygulama içerisinde ilgi alanlarınıza uygun reklam gösterimi sağlamak amacıyla kullanılır.
+
+Google Play In-App Purchase: Uygulama içi satın alma ve Premium üyelik süreçlerinin güvenli yönetimini sağlar.
+
+2. Verilerin Kullanımı
 Toplanan veriler şu amaçlarla kullanılır:
 
-- Uygulamanın işlevselliğini sağlamak (Premium kontrolü vb.).
-- Hataları tespit edip düzeltmek.
-- Reklam hizmetlerini yönetmek.
+Senkronizasyon: Cihaz değişikliği durumunda verilerinizin korunmasını sağlamak.
 
-## 3. Güvenlik
+Sıralama: Türkiye geneli başarı sıralamasında yerinizi belirlemek.
 
-Kişisel verilerinizin güvenliğine önem veriyoruz. Ancak internet üzerinden yapılan hiçbir iletim yönteminin %100 güvenli olmadığını hatırlatırız. Uygulamamızda toplanan veriler şifreli kanallar (HTTPS) üzerinden iletilir.
+Analiz: Uygulama performansını takip etmek ve hataları gidermek.
 
-## 4. İletişim
+Kişiselleştirme: İlgi alanlarınıza uygun içerik ve reklam sunmak.
 
-Gizlilik politikamızla ilgili sorularınız için bizimle iletişime geçebilirsiniz:
-E-posta: [yaziimvehayatN@gmail.com]
+3. Güvenlik
+Verilerinizin güvenliği bizim için önceliklidir. Uygulamamızda toplanan tüm veriler şifreli kanallar (HTTPS) üzerinden iletilir ve Google Firebase'in güvenli sunucularında muhafaza edilir.
 
-## 5. Hesap ve Veri Silme Talebi
+4. Hesap ve Veri Silme Hakları
+Kullanıcılar, kişisel verileri üzerinde tam kontrol sahibidir:
 
-**KPSS Tarih Soru Bankası** kullanıcıları, hesaplarının tamamen silinmesini talep etme hakkına sahiptir.
+Uygulama İçi Silme: "Ayarlar" sekmesi altında bulunan "Hesabımı ve Verilerimi Kalıcı Olarak Sil" butonu ile bulut üzerindeki tüm istatistiklerinizi, puanlarınızı ve hesap bilgilerinizi anında ve kalıcı olarak silebilirsiniz.
 
-**Silme Talebi Adımları:**
+Manuel Talep: Hesabınızın silinmesi için [yaziimvehayatN@gmail.com] adresine e-posta göndererek de talepte bulunabilirsiniz. Talebiniz üzerine tüm verileriniz 7 iş günü içinde kalıcı olarak silinir.
 
-1.  Kullanıcının, uygulamada kayıtlı olan **e-posta adresi** ile ([SENİN_GMAIL_ADRESİN@gmail.com]) adresine bir e-posta göndermesi gerekir.
-2.  E-postanın konusu **"Hesap Silme Talebi"** olmalıdır.
-3.  Talebiniz alındıktan sonra 7-14 iş günü içinde hesabınız ve tüm ilişkili verileriniz (Kullanıcı ID'si, e-posta adresi, çözülen test istatistikleri, Premium üyelik geçmişi) sunucularımızdan kalıcı olarak silinir.
-
-**Silinen/Saklanan Veriler:** Silme talebi üzerine tüm kullanıcı kimlikleri, Premium üyelik verileri ve test istatistikleri kalıcı olarak silinir. Yasal gereklilikler veya muhasebe amaçları (örneğin, vergi denetimleri) için gerekli olan anonimleştirilmiş finansal kayıtlar (Ödeme kimliği değil, sadece işlem tutarı ve tarihi gibi) ek bir saklama süresi boyunca tutulabilir.
+5. İletişim
+Sorularınız veya geri bildirimleriniz için: E-posta: [yaziimvehayatN@gmail.com]
