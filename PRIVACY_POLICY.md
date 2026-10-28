@@ -1,4 +1,4 @@
-Son Güncelleme: 7 Ocak 2026
+Son Güncelleme: 28 Ekim 2026
 
 Bu gizlilik politikası, KPSS Tarih Soru Bankası ("Uygulama") için geçerlidir. Uygulamayı indirerek veya kullanarak bu şartları kabul etmiş olursunuz.
 
@@ -45,7 +45,7 @@ Kullanıcılar, kişisel verileri üzerinde tam kontrol sahibidir:
 
 Uygulama İçi Silme: "Ayarlar" sekmesi altında bulunan "Hesabımı ve Verilerimi Kalıcı Olarak Sil" butonu ile bulut üzerindeki tüm istatistiklerinizi, puanlarınızı ve hesap bilgilerinizi anında ve kalıcı olarak silebilirsiniz.
 
-Manuel Talep: Hesabınızın silinmesi için [yaziimvehayatN@gmail.com] adresine e-posta göndererek de talepte bulunabilirsiniz. Talebiniz üzerine tüm verileriniz 7 iş günü içinde kalıcı olarak silinir.
+Manuel Talep: Hesabınızın silinmesi için [yaziimvehayat@gmail.com] adresine e-posta göndererek de talepte bulunabilirsiniz. Talebiniz üzerine tüm verileriniz 7 iş günü içinde kalıcı olarak silinir.
 
 5. İletişim
-Sorularınız veya geri bildirimleriniz için: E-posta: [yaziimvehayatN@gmail.com]
+Sorularınız veya geri bildirimleriniz için: E-posta: [yaziimvehayat@gmail.com]
